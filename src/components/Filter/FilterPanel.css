@@ -1,0 +1,129 @@
+.filter-panel {
+  position: absolute;
+  top: 52px;
+  right: 12px;
+  width: 320px;
+  max-height: calc(100vh - 72px);
+  overflow-y: auto;
+  border-radius: var(--radius-lg);
+  padding: 16px;
+  z-index: 90;
+  box-shadow: var(--shadow-lg);
+}
+
+.filter-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.filter-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.filter-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.filter-count {
+  font-size: 0.72rem;
+  color: var(--text-tertiary);
+}
+
+.filter-reset {
+  font-size: 0.72rem;
+  color: var(--accent-secondary);
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: var(--radius-sm);
+  transition: background var(--transition-fast);
+}
+
+.filter-reset:hover {
+  background: rgba(255, 107, 107, 0.1);
+}
+
+.filter-close {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: var(--radius-sm);
+  color: var(--text-tertiary);
+  transition: background var(--transition-fast);
+}
+
+.filter-close:hover {
+  background: var(--bg-tertiary);
+}
+
+.filter-section {
+  margin-bottom: 14px;
+}
+
+.filter-label {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 6px;
+}
+
+.filter-toggles {
+  display: flex;
+  gap: 4px;
+  background: var(--bg-tertiary);
+  padding: 3px;
+  border-radius: var(--radius-md);
+}
+
+.filter-toggle {
+  flex: 1;
+  padding: 5px 8px;
+  border-radius: calc(var(--radius-md) - 2px);
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  transition: all var(--transition-fast);
+}
+
+.filter-toggle.active {
+  background: var(--accent-primary);
+  color: white;
+  box-shadow: var(--shadow-sm);
+}
+
+.filter-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.filter-chip {
+  padding: 4px 10px;
+  border-radius: var(--radius-lg);
+  font-size: 0.74rem;
+  font-weight: 500;
+  border: 1px solid var(--border-strong);
+  color: var(--text-secondary);
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+
+.filter-chip:hover {
+  border-color: var(--accent-primary);
+  color: var(--accent-primary);
+}
+
+.filter-chip.active {
+  background: var(--accent-primary);
+  border-color: var(--accent-primary);
+  color: white;
+}

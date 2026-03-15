@@ -1,0 +1,6577 @@
+[
+  {
+    "id": "event_gojoseon",
+    "type": "event",
+    "date": {
+      "start": "-2333-01-01",
+      "end": "-2333-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "평양",
+        "en": "Pyongyang"
+      },
+      "coordinates": {
+        "lat": 39.02,
+        "lng": 125.75
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "고조선 건국",
+      "en": "Founding of Gojoseon"
+    },
+    "description": {
+      "ko": "단군왕검이 아사달에 고조선을 세운 한국 역사의 시작",
+      "en": "Dangun founded Gojoseon, the first Korean kingdom"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "고조선",
+      "en": "Gojoseon"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_three_kingdoms_kr",
+    "type": "event",
+    "date": {
+      "start": "-0037-01-01",
+      "end": "0668-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "한반도",
+        "en": "Korean Peninsula"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "삼국시대",
+      "en": "Three Kingdoms of Korea"
+    },
+    "description": {
+      "ko": "고구려·백제·신라가 한반도를 나누어 다스린 시대",
+      "en": "Goguryeo, Baekje, and Silla ruled the Korean Peninsula"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "삼국시대",
+      "en": "Three_Kingdoms_of_Korea"
+    },
+    "icon": "🏛️",
+    "importance": 4
+  },
+  {
+    "id": "event_gwanggaeto",
+    "type": "event",
+    "date": {
+      "start": "0391-01-01",
+      "end": "0413-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "만주",
+        "en": "Manchuria"
+      },
+      "coordinates": {
+        "lat": 41,
+        "lng": 126
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "광개토대왕 정복",
+      "en": "Conquests of Gwanggaeto the Great"
+    },
+    "description": {
+      "ko": "고구려의 최대 영토 확장기. 만주와 한반도 북부를 석권",
+      "en": "Greatest territorial expansion of Goguryeo"
+    },
+    "category": "battle",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "광개토왕",
+      "en": "Gwanggaeto_the_Great"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_silla_unification",
+    "type": "event",
+    "date": {
+      "start": "0676-01-01",
+      "end": "0676-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "경주",
+        "en": "Gyeongju"
+      },
+      "coordinates": {
+        "lat": 35.86,
+        "lng": 129.22
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "삼국통일",
+      "en": "Unification of Three Kingdoms"
+    },
+    "description": {
+      "ko": "신라가 당나라와 연합하여 백제와 고구려를 멸망시키고 삼국을 통일",
+      "en": "Silla unified the Three Kingdoms of Korea"
+    },
+    "category": "battle",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "삼국_통일",
+      "en": "Later_Silla"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_goryeo",
+    "type": "event",
+    "date": {
+      "start": "0918-01-01",
+      "end": "0918-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "개성",
+        "en": "Kaesong"
+      },
+      "coordinates": {
+        "lat": 37.97,
+        "lng": 126.55
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "고려 건국",
+      "en": "Founding of Goryeo"
+    },
+    "description": {
+      "ko": "왕건이 고려를 건국. 한국(Korea)이라는 이름의 기원",
+      "en": "Wang Geon founded Goryeo, origin of the name 'Korea'"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "고려",
+      "en": "Goryeo"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_tripitaka",
+    "type": "event",
+    "date": {
+      "start": "1251-01-01",
+      "end": "1251-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "합천 해인사",
+        "en": "Haeinsa, Hapcheon"
+      },
+      "coordinates": {
+        "lat": 35.8,
+        "lng": 128.1
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "팔만대장경 완성",
+      "en": "Tripitaka Koreana Completed"
+    },
+    "description": {
+      "ko": "몽골 침입에 대항하여 부처의 힘으로 나라를 보호하고자 제작한 세계 최대의 목판 대장경",
+      "en": "World's most comprehensive Buddhist scripture on woodblocks"
+    },
+    "category": "culture",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "팔만대장경",
+      "en": "Tripitaka_Koreana"
+    },
+    "icon": "🎭",
+    "importance": 5
+  },
+  {
+    "id": "event_joseon_founding",
+    "type": "event",
+    "date": {
+      "start": "1392-07-17",
+      "end": "1392-07-17"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "개성",
+        "en": "Kaesong"
+      },
+      "coordinates": {
+        "lat": 37.97,
+        "lng": 126.55
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "조선 건국",
+      "en": "Founding of Joseon Dynasty"
+    },
+    "description": {
+      "ko": "이성계가 고려를 무너뜨리고 조선을 건국. 유교 국가의 시작",
+      "en": "Yi Seong-gye founded the Joseon Dynasty"
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_taejo"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "조선",
+      "en": "Joseon"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_hangeul",
+    "type": "event",
+    "date": {
+      "start": "1443-01-01",
+      "end": "1446-10-09"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "훈민정음 창제",
+      "en": "Creation of Hangul"
+    },
+    "description": {
+      "ko": "세종대왕이 백성을 위해 한글을 창제. 세계에서 가장 과학적인 문자 체계 중 하나",
+      "en": "King Sejong created the Korean alphabet Hangul"
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_sejong"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "훈민정음",
+      "en": "Hangul"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "event_imjin",
+    "type": "event",
+    "date": {
+      "start": "1592-04-13",
+      "end": "1598-12-16"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "한반도",
+        "en": "Korean Peninsula"
+      },
+      "coordinates": {
+        "lat": 35.17,
+        "lng": 128.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "임진왜란",
+      "en": "Japanese Invasions of Korea"
+    },
+    "description": {
+      "ko": "도요토미 히데요시의 조선 침략. 이순신 장군의 해전으로 유명",
+      "en": "Toyotomi Hideyoshi's invasion of Korea. Famous for Admiral Yi's naval victories"
+    },
+    "category": "battle",
+    "relatedPeople": [
+      "person_yi_sun_sin"
+    ],
+    "relatedEvents": [
+      "event_hansando",
+      "event_myeongnyang"
+    ],
+    "relatedMedia": [
+      "media_movie_roaring_currents",
+      "media_movie_hansan",
+      "media_novel_nanjungilgi"
+    ],
+    "wikipedia": {
+      "ko": "임진왜란",
+      "en": "Japanese_invasions_of_Korea_(1592–1598)"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_hansando",
+    "type": "event",
+    "date": {
+      "start": "1592-08-14",
+      "end": "1592-08-14"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "한산도",
+        "en": "Hansan Island"
+      },
+      "coordinates": {
+        "lat": 34.78,
+        "lng": 128.5
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "한산도 대첩",
+      "en": "Battle of Hansan Island"
+    },
+    "description": {
+      "ko": "이순신 장군의 학익진 전법으로 일본 수군 대파",
+      "en": "Admiral Yi Sun-sin's crane wing formation defeated the Japanese navy"
+    },
+    "category": "battle",
+    "relatedPeople": [
+      "person_yi_sun_sin"
+    ],
+    "relatedEvents": [
+      "event_imjin"
+    ],
+    "relatedMedia": [
+      "media_movie_hansan"
+    ],
+    "wikipedia": {
+      "ko": "한산도_대첩",
+      "en": "Battle_of_Hansan_Island"
+    },
+    "icon": "⚔️",
+    "importance": 4
+  },
+  {
+    "id": "event_myeongnyang",
+    "type": "event",
+    "date": {
+      "start": "1597-10-26",
+      "end": "1597-10-26"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "명량해협",
+        "en": "Myeongnyang Strait"
+      },
+      "coordinates": {
+        "lat": 34.57,
+        "lng": 126.31
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "명량 해전",
+      "en": "Battle of Myeongnyang"
+    },
+    "description": {
+      "ko": "이순신 장군이 12척의 배로 330척의 일본 수군을 물리친 전설적 해전",
+      "en": "Admiral Yi defeated 330 Japanese ships with only 12"
+    },
+    "category": "battle",
+    "relatedPeople": [
+      "person_yi_sun_sin"
+    ],
+    "relatedEvents": [
+      "event_imjin"
+    ],
+    "relatedMedia": [
+      "media_movie_roaring_currents",
+      "media_novel_nanjungilgi"
+    ],
+    "wikipedia": {
+      "ko": "명량_해전",
+      "en": "Battle_of_Myeongnyang"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_byeongjahoran",
+    "type": "event",
+    "date": {
+      "start": "1636-12-09",
+      "end": "1637-01-30"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "남한산성",
+        "en": "Namhansanseong"
+      },
+      "coordinates": {
+        "lat": 37.48,
+        "lng": 127.18
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "병자호란",
+      "en": "Manchu Invasion of Korea"
+    },
+    "description": {
+      "ko": "청나라의 조선 침략. 인조가 남한산성에서 항전 후 항복",
+      "en": "Qing dynasty invaded Joseon. King Injo surrendered at Namhansanseong"
+    },
+    "category": "battle",
+    "relatedPeople": [
+      "person_injo"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_namhansanseong"
+    ],
+    "wikipedia": {
+      "ko": "병자호란",
+      "en": "Qing_invasion_of_Joseon"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_gyujanggak",
+    "type": "event",
+    "date": {
+      "start": "1776-03-01",
+      "end": "1776-03-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "규장각 설치",
+      "en": "Establishment of Gyujanggak"
+    },
+    "description": {
+      "ko": "정조가 학문 진흥과 개혁을 위해 왕립 도서관 규장각을 설립",
+      "en": "King Jeongjo established the Royal Library Gyujanggak"
+    },
+    "category": "culture",
+    "relatedPeople": [
+      "person_jeongjo"
+    ],
+    "relatedEvents": [
+      "event_hwaseong"
+    ],
+    "relatedMedia": [
+      "media_movie_yeokrin"
+    ],
+    "wikipedia": {
+      "ko": "규장각",
+      "en": "Gyujanggak"
+    },
+    "icon": "🎭",
+    "importance": 4
+  },
+  {
+    "id": "event_hwaseong",
+    "type": "event",
+    "date": {
+      "start": "1794-01-01",
+      "end": "1796-09-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "수원",
+        "en": "Suwon"
+      },
+      "coordinates": {
+        "lat": 37.29,
+        "lng": 127.01
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "수원 화성 축조",
+      "en": "Construction of Hwaseong Fortress"
+    },
+    "description": {
+      "ko": "정조가 아버지 사도세자의 묘를 수원으로 옮기며 축조한 성곽. 유네스코 세계유산",
+      "en": "King Jeongjo built Hwaseong Fortress in Suwon. UNESCO World Heritage Site"
+    },
+    "category": "culture",
+    "relatedPeople": [
+      "person_jeongjo"
+    ],
+    "relatedEvents": [
+      "event_gyujanggak"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "화성_(성곽)",
+      "en": "Hwaseong_Fortress"
+    },
+    "icon": "🎭",
+    "importance": 4
+  },
+  {
+    "id": "event_sado",
+    "type": "event",
+    "date": {
+      "start": "1762-07-04",
+      "end": "1762-07-12"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "사도세자 비극",
+      "en": "Tragedy of Crown Prince Sado"
+    },
+    "description": {
+      "ko": "영조가 아들 사도세자를 뒤주에 가두어 죽게 한 비극적 사건",
+      "en": "King Yeongjo confined Crown Prince Sado in a rice chest, leading to his death"
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_yeongjo"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_sado"
+    ],
+    "wikipedia": {
+      "ko": "사도세자",
+      "en": "Crown_Prince_Sado"
+    },
+    "icon": "🏛️",
+    "importance": 4
+  },
+  {
+    "id": "event_donghak",
+    "type": "event",
+    "date": {
+      "start": "1894-01-01",
+      "end": "1894-12-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "전라도",
+        "en": "Jeolla Province"
+      },
+      "coordinates": {
+        "lat": 35.82,
+        "lng": 127.11
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "동학농민운동",
+      "en": "Donghak Peasant Revolution"
+    },
+    "description": {
+      "ko": "전봉준을 중심으로 한 농민들의 반봉건·반외세 운동",
+      "en": "Anti-feudal and anti-foreign peasant uprising led by Jeon Bong-jun"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "동학_농민_운동",
+      "en": "Donghak_Peasant_Revolution"
+    },
+    "icon": "🏛️",
+    "importance": 4
+  },
+  {
+    "id": "event_korean_empire",
+    "type": "event",
+    "date": {
+      "start": "1897-10-12",
+      "end": "1897-10-12"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Seoul"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "대한제국 선포",
+      "en": "Proclamation of Korean Empire"
+    },
+    "description": {
+      "ko": "고종이 황제 즉위식을 거행하고 대한제국을 선포",
+      "en": "King Gojong declared the Korean Empire"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "대한제국",
+      "en": "Korean_Empire"
+    },
+    "icon": "🏛️",
+    "importance": 4
+  },
+  {
+    "id": "event_march_first",
+    "type": "event",
+    "date": {
+      "start": "1919-03-01",
+      "end": "1919-03-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "서울 탑골공원",
+        "en": "Seoul, Tapgol Park"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.99
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "3·1 운동",
+      "en": "March 1st Movement"
+    },
+    "description": {
+      "ko": "일제 강점기 최대 규모의 독립운동. 전국적으로 만세 시위 전개",
+      "en": "Largest independence movement against Japanese colonial rule"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "3·1_운동",
+      "en": "March_1st_Movement"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_provisional_govt",
+    "type": "event",
+    "date": {
+      "start": "1919-04-11",
+      "end": "1919-04-11"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "상하이",
+        "en": "Shanghai"
+      },
+      "coordinates": {
+        "lat": 31.23,
+        "lng": 121.47
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "대한민국 임시정부 수립",
+      "en": "Korean Provisional Government"
+    },
+    "description": {
+      "ko": "상하이에서 대한민국 임시정부 수립. 대한민국의 법통 계승",
+      "en": "Korean Provisional Government established in Shanghai"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [
+      "event_march_first"
+    ],
+    "relatedMedia": [
+      "media_movie_assassination"
+    ],
+    "wikipedia": {
+      "ko": "대한민국_임시_정부",
+      "en": "Provisional_Government_of_the_Republic_of_Korea"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_liberation",
+    "type": "event",
+    "date": {
+      "start": "1945-08-15",
+      "end": "1945-08-15"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "서울",
+        "en": "Seoul"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "광복",
+      "en": "Liberation of Korea"
+    },
+    "description": {
+      "ko": "일본의 무조건 항복으로 35년간의 식민통치에서 해방",
+      "en": "Korea liberated from 35 years of Japanese colonial rule"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "광복절",
+      "en": "National_Liberation_Day_of_Korea"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_korean_war",
+    "type": "event",
+    "date": {
+      "start": "1950-06-25",
+      "end": "1953-07-27"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "한반도",
+        "en": "Korean Peninsula"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "한국전쟁",
+      "en": "Korean War"
+    },
+    "description": {
+      "ko": "북한의 남침으로 시작된 전쟁. 유엔군 참전. 휴전으로 종결",
+      "en": "War between North and South Korea, ended with an armistice"
+    },
+    "category": "battle",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "한국_전쟁",
+      "en": "Korean_War"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_518",
+    "type": "event",
+    "date": {
+      "start": "1980-05-18",
+      "end": "1980-05-27"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "광주",
+        "en": "Gwangju"
+      },
+      "coordinates": {
+        "lat": 35.16,
+        "lng": 126.85
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "5·18 민주화운동",
+      "en": "Gwangju Democratization Movement"
+    },
+    "description": {
+      "ko": "전두환 신군부의 계엄 확대에 항거한 광주 시민들의 민주화 운동",
+      "en": "Citizens of Gwangju protested against martial law"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_taxi_driver"
+    ],
+    "wikipedia": {
+      "ko": "5·18_광주_민주화_운동",
+      "en": "Gwangju_Uprising"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_june_struggle",
+    "type": "event",
+    "date": {
+      "start": "1987-06-10",
+      "end": "1987-06-29"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "서울",
+        "en": "Seoul"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "6월 항쟁",
+      "en": "June Democratic Struggle"
+    },
+    "description": {
+      "ko": "군사독재에 항거한 전국적 민주화 운동. 직선제 개헌 쟁취",
+      "en": "National democratic movement that achieved direct presidential elections"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_1987"
+    ],
+    "wikipedia": {
+      "ko": "6월_민주_항쟁",
+      "en": "June_Struggle"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_rome_founding",
+    "type": "event",
+    "date": {
+      "start": "-0753-04-21",
+      "end": "-0753-04-21"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "로마",
+        "en": "Rome"
+      },
+      "coordinates": {
+        "lat": 41.9,
+        "lng": 12.5
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "로마 건국",
+      "en": "Founding of Rome"
+    },
+    "description": {
+      "ko": "전설에 따르면 로물루스와 레무스가 로마를 건국",
+      "en": "According to legend, Romulus and Remus founded Rome"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_gladiator"
+    ],
+    "wikipedia": {
+      "ko": "로마의_건국",
+      "en": "Founding_of_Rome"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_alexander",
+    "type": "event",
+    "date": {
+      "start": "-0334-01-01",
+      "end": "-0323-06-10"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "마케도니아",
+        "en": "Macedonia"
+      },
+      "coordinates": {
+        "lat": 40.62,
+        "lng": 22.95
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "알렉산더 원정",
+      "en": "Conquests of Alexander the Great"
+    },
+    "description": {
+      "ko": "알렉산더 대왕의 페르시아 및 인도 원정. 헬레니즘 시대 개막",
+      "en": "Alexander's campaigns creating one of history's largest empires"
+    },
+    "category": "battle",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "알렉산드로스_3세",
+      "en": "Alexander_the_Great"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_fall_of_rome",
+    "type": "event",
+    "date": {
+      "start": "0476-09-04",
+      "end": "0476-09-04"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "로마",
+        "en": "Rome"
+      },
+      "coordinates": {
+        "lat": 41.9,
+        "lng": 12.5
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "서로마 멸망",
+      "en": "Fall of Western Rome"
+    },
+    "description": {
+      "ko": "게르만 용병대장 오도아케르에 의해 서로마 제국 멸망",
+      "en": "Odoacer deposed the last Western Roman Emperor"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "서로마_제국의_멸망",
+      "en": "Fall_of_the_Western_Roman_Empire"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_crusades",
+    "type": "event",
+    "date": {
+      "start": "1096-01-01",
+      "end": "1291-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "예루살렘",
+        "en": "Jerusalem"
+      },
+      "coordinates": {
+        "lat": 31.77,
+        "lng": 35.23
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "십자군 전쟁",
+      "en": "The Crusades"
+    },
+    "description": {
+      "ko": "기독교 유럽이 성지 예루살렘 탈환을 위해 벌인 원정",
+      "en": "Christian Europe's military campaigns to reclaim the Holy Land"
+    },
+    "category": "battle",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_kingdom_heaven"
+    ],
+    "wikipedia": {
+      "ko": "십자군",
+      "en": "Crusades"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_mongol_empire",
+    "type": "event",
+    "date": {
+      "start": "1206-01-01",
+      "end": "1368-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "몽골",
+        "en": "Mongolia"
+      },
+      "coordinates": {
+        "lat": 47.92,
+        "lng": 106.91
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "몽골 제국",
+      "en": "Mongol Empire"
+    },
+    "description": {
+      "ko": "칭기즈 칸이 세운 역사상 최대 규모의 연속 육상 제국",
+      "en": "The largest contiguous land empire in history, founded by Genghis Khan"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "몽골_제국",
+      "en": "Mongol_Empire"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_black_death",
+    "type": "event",
+    "date": {
+      "start": "1347-01-01",
+      "end": "1353-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "유럽",
+        "en": "Europe"
+      },
+      "coordinates": {
+        "lat": 48.86,
+        "lng": 2.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "흑사병",
+      "en": "The Black Death"
+    },
+    "description": {
+      "ko": "유럽 인구의 약 1/3을 사망시킨 대규모 페스트 유행",
+      "en": "Pandemic that killed approximately one-third of Europe's population"
+    },
+    "category": "culture",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "흑사병",
+      "en": "Black_Death"
+    },
+    "icon": "🎭",
+    "importance": 5
+  },
+  {
+    "id": "event_columbus",
+    "type": "event",
+    "date": {
+      "start": "1492-10-12",
+      "end": "1492-10-12"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "바하마",
+        "en": "Bahamas"
+      },
+      "coordinates": {
+        "lat": 24,
+        "lng": -76
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "콜럼버스 신대륙 도달",
+      "en": "Columbus Reaches the Americas"
+    },
+    "description": {
+      "ko": "크리스토퍼 콜럼버스가 아메리카 대륙에 도달. 대항해시대 시작",
+      "en": "Christopher Columbus reached the Americas, beginning the Age of Exploration"
+    },
+    "category": "discovery",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "크리스토퍼_콜럼버스",
+      "en": "Christopher_Columbus"
+    },
+    "icon": "🧭",
+    "importance": 5
+  },
+  {
+    "id": "event_reformation",
+    "type": "event",
+    "date": {
+      "start": "1517-10-31",
+      "end": "1517-10-31"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "비텐베르크",
+        "en": "Wittenberg"
+      },
+      "coordinates": {
+        "lat": 51.87,
+        "lng": 12.65
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "종교개혁",
+      "en": "Protestant Reformation"
+    },
+    "description": {
+      "ko": "마르틴 루터의 95개조 반박문으로 촉발된 종교개혁",
+      "en": "Martin Luther's 95 Theses sparked the Protestant Reformation"
+    },
+    "category": "culture",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "종교_개혁",
+      "en": "Reformation"
+    },
+    "icon": "🎭",
+    "importance": 5
+  },
+  {
+    "id": "event_french_revolution",
+    "type": "event",
+    "date": {
+      "start": "1789-07-14",
+      "end": "1799-11-09"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "파리",
+        "en": "Paris"
+      },
+      "coordinates": {
+        "lat": 48.86,
+        "lng": 2.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "프랑스 혁명",
+      "en": "French Revolution"
+    },
+    "description": {
+      "ko": "자유·평등·박애를 표방한 시민혁명. 근대 민주주의의 기원",
+      "en": "Revolution that overthrew the monarchy and established republican ideals"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_novel_les_miserables",
+      "media_music_marseillaise"
+    ],
+    "wikipedia": {
+      "ko": "프랑스_혁명",
+      "en": "French_Revolution"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_industrial_revolution",
+    "type": "event",
+    "date": {
+      "start": "1760-01-01",
+      "end": "1840-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "영국",
+        "en": "United Kingdom"
+      },
+      "coordinates": {
+        "lat": 53.48,
+        "lng": -2.24
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "산업 혁명",
+      "en": "Industrial Revolution"
+    },
+    "description": {
+      "ko": "수공업에서 기계 생산으로의 전환. 근대 자본주의 경제체제의 시작",
+      "en": "Transition from hand production to machine manufacturing"
+    },
+    "category": "invention",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "산업_혁명",
+      "en": "Industrial_Revolution"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "event_napoleon",
+    "type": "event",
+    "date": {
+      "start": "1803-05-18",
+      "end": "1815-06-18"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "유럽",
+        "en": "Europe"
+      },
+      "coordinates": {
+        "lat": 48.86,
+        "lng": 2.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "나폴레옹 전쟁",
+      "en": "Napoleonic Wars"
+    },
+    "description": {
+      "ko": "나폴레옹 보나파르트가 유럽 전역에서 벌인 전쟁",
+      "en": "Series of wars fought by Napoleon's French Empire"
+    },
+    "category": "battle",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_napoleon",
+      "media_novel_war_peace",
+      "media_music_eroica",
+      "media_music_1812"
+    ],
+    "wikipedia": {
+      "ko": "나폴레옹_전쟁",
+      "en": "Napoleonic_Wars"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_meiji",
+    "type": "event",
+    "date": {
+      "start": "1868-01-03",
+      "end": "1868-01-03"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "도쿄",
+        "en": "Tokyo"
+      },
+      "coordinates": {
+        "lat": 35.68,
+        "lng": 139.69
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "메이지 유신",
+      "en": "Meiji Restoration"
+    },
+    "description": {
+      "ko": "일본의 근대화 혁명. 봉건 체제에서 중앙집권 국가로 전환",
+      "en": "Japan's transition from feudal system to modern state"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "메이지_유신",
+      "en": "Meiji_Restoration"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_ww1",
+    "type": "event",
+    "date": {
+      "start": "1914-07-28",
+      "end": "1918-11-11"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "유럽",
+        "en": "Europe"
+      },
+      "coordinates": {
+        "lat": 49,
+        "lng": 2.5
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "제1차 세계대전",
+      "en": "World War I"
+    },
+    "description": {
+      "ko": "유럽 열강 간 벌어진 최초의 세계 규모 전쟁",
+      "en": "First global-scale conflict among European powers"
+    },
+    "category": "battle",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_novel_all_quiet"
+    ],
+    "wikipedia": {
+      "ko": "제1차_세계_대전",
+      "en": "World_War_I"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_ww2",
+    "type": "event",
+    "date": {
+      "start": "1939-09-01",
+      "end": "1945-09-02"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "전 세계",
+        "en": "Worldwide"
+      },
+      "coordinates": {
+        "lat": 48.86,
+        "lng": 2.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "제2차 세계대전",
+      "en": "World War II"
+    },
+    "description": {
+      "ko": "인류 역사상 가장 거대한 전쟁. 약 7천만 명 사망",
+      "en": "Deadliest conflict in human history, approximately 70 million casualties"
+    },
+    "category": "battle",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_schindler",
+      "media_novel_diary_anne"
+    ],
+    "wikipedia": {
+      "ko": "제2차_세계_대전",
+      "en": "World_War_II"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_un",
+    "type": "event",
+    "date": {
+      "start": "1945-10-24",
+      "end": "1945-10-24"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "뉴욕",
+        "en": "New York"
+      },
+      "coordinates": {
+        "lat": 40.75,
+        "lng": -73.97
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "유엔 창설",
+      "en": "Founding of United Nations"
+    },
+    "description": {
+      "ko": "제2차 세계대전 이후 국제 평화 유지를 위해 국제연합 설립",
+      "en": "United Nations established to maintain international peace"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [
+      "event_ww2"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "국제_연합",
+      "en": "United_Nations"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_moon_landing",
+    "type": "event",
+    "date": {
+      "start": "1969-07-20",
+      "end": "1969-07-20"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "달",
+        "en": "Moon"
+      },
+      "coordinates": {
+        "lat": 28.57,
+        "lng": -80.65
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "달 착륙",
+      "en": "Moon Landing"
+    },
+    "description": {
+      "ko": "아폴로 11호의 닐 암스트롱이 인류 최초로 달에 발을 디딤",
+      "en": "Neil Armstrong became the first human to walk on the Moon"
+    },
+    "category": "discovery",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아폴로_11호",
+      "en": "Apollo_11"
+    },
+    "icon": "🧭",
+    "importance": 5
+  },
+  {
+    "id": "event_berlin_wall",
+    "type": "event",
+    "date": {
+      "start": "1989-11-09",
+      "end": "1989-11-09"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "베를린",
+        "en": "Berlin"
+      },
+      "coordinates": {
+        "lat": 52.52,
+        "lng": 13.41
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "베를린 장벽 붕괴",
+      "en": "Fall of the Berlin Wall"
+    },
+    "description": {
+      "ko": "냉전의 상징이었던 베를린 장벽 붕괴. 독일 통일의 시작",
+      "en": "Fall of the Cold War symbol, leading to German reunification"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "베를린_장벽_붕괴",
+      "en": "Fall_of_the_Berlin_Wall"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_seoul_olympics",
+    "type": "event",
+    "date": {
+      "start": "1988-09-17",
+      "end": "1988-10-02"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "서울",
+        "en": "Seoul"
+      },
+      "coordinates": {
+        "lat": 37.52,
+        "lng": 127.07
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "서울 올림픽",
+      "en": "Seoul Olympics"
+    },
+    "description": {
+      "ko": "대한민국의 경제 성장과 민주화를 세계에 알린 제24회 하계 올림픽",
+      "en": "24th Summer Olympics showcasing Korea's economic growth"
+    },
+    "category": "culture",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "1988년_하계_올림픽",
+      "en": "1988_Summer_Olympics"
+    },
+    "icon": "🎭",
+    "importance": 4
+  },
+  {
+    "id": "event_gyeongguk",
+    "type": "event",
+    "date": {
+      "start": "1485-01-01",
+      "end": "1485-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "경국대전 완성",
+      "en": "Completion of Gyeongguk Daejeon"
+    },
+    "description": {
+      "ko": "조선 통치 체제의 기초가 된 최고의 법전 완성. 성종 시기",
+      "en": "The basic code of laws for the Joseon Dynasty was completed"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "경국대전",
+      "en": "Gyeongguk_Daejeon"
+    },
+    "icon": "📜",
+    "importance": 5
+  },
+  {
+    "id": "event_muo_sahwa",
+    "type": "event",
+    "date": {
+      "start": "1498-01-01",
+      "end": "1498-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "무오사화",
+      "en": "Muo Sahwa"
+    },
+    "description": {
+      "ko": "김종직의 '조의제문' 문제로 사림 세력이 처음으로 탄압받은 사건",
+      "en": "First purge of scholars during the Joseon Dynasty"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "무오사화",
+      "en": "First_literati_purge"
+    },
+    "icon": "🩸",
+    "importance": 4
+  },
+  {
+    "id": "event_gimyo_sahwa",
+    "type": "event",
+    "date": {
+      "start": "1519-01-01",
+      "end": "1519-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "기묘사화",
+      "en": "Gimyo Sahwa"
+    },
+    "description": {
+      "ko": "조광조의 급진적 개혁 정치에 반발한 훈구 세력이 사림을 숙청한 사건",
+      "en": "Purge of Jo Gwang-jo and his followers"
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_jo_gwang_jo"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "기묘사화",
+      "en": "Third_literati_purge"
+    },
+    "icon": "🩸",
+    "importance": 5
+  },
+  {
+    "id": "event_daedong",
+    "type": "event",
+    "date": {
+      "start": "1608-01-01",
+      "end": "1608-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "대동법 시행",
+      "en": "Daedong Law Enacted"
+    },
+    "description": {
+      "ko": "특산물 대신 쌀로 세금을 내게 하여 농민의 부담을 줄인 조세 개혁",
+      "en": "Tax reform allowing payment in rice instead of local specialties"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "대동법",
+      "en": "Daedong_Law"
+    },
+    "icon": "🌾",
+    "importance": 5
+  },
+  {
+    "id": "event_tangpyeong",
+    "type": "event",
+    "date": {
+      "start": "1724-08-30",
+      "end": "1724-08-30"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "탕평책 실시",
+      "en": "Tangpyeong Policy"
+    },
+    "description": {
+      "ko": "붕당 간의 대립을 완화하기 위해 인재를 고르게 등용하려 한 영조의 정책",
+      "en": "Policy to balance political factions led by King Yeongjo"
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_yeongjo"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "탕평책",
+      "en": "Tangpyeong"
+    },
+    "icon": "⚖️",
+    "importance": 5
+  },
+  {
+    "id": "event_silhak",
+    "type": "event",
+    "date": {
+      "start": "1750-01-01",
+      "end": "1850-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "한반도",
+        "en": "Korean Peninsula"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "실학의 발달",
+      "en": "Rise of Silhak"
+    },
+    "description": {
+      "ko": "실생활과 국가 경영에 도움이 되는 학문을 연구한 유학의 새로운 경향",
+      "en": "Practical learning school focused on social and economic reform"
+    },
+    "category": "thinker",
+    "relatedPeople": [
+      "person_jeong_yak_yong",
+      "person_park_ji_won"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_novel_yeolha"
+    ],
+    "wikipedia": {
+      "ko": "실학",
+      "en": "Silhak"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "event_sedo",
+    "type": "event",
+    "date": {
+      "start": "1801-01-01",
+      "end": "1863-12-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "세도정치",
+      "en": "Sedo Politics"
+    },
+    "description": {
+      "ko": "특정 외척 가문이 권력을 독점하여 국정을 좌우한 시기",
+      "en": "Period of rule by powerful in-law families"
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [
+      "event_hong_gyeong_rae",
+      "event_imsul_uprising"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "세도_정치",
+      "en": "Sedo_Politics"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_hong_gyeong_rae",
+    "type": "event",
+    "date": {
+      "start": "1811-12-18",
+      "end": "1812-04-19"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "평안도 가산",
+        "en": "Gasan, Pyongan"
+      },
+      "coordinates": {
+        "lat": 39.5,
+        "lng": 125.5
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "홍경래의 난",
+      "en": "Hong Gyeong-rae Rebellion"
+    },
+    "description": {
+      "ko": "평안도 지역에 대한 차별과 세도정치의 수탈에 저항한 봉기",
+      "en": "Uprising against regional discrimination and corruption"
+    },
+    "category": "battle",
+    "relatedPeople": [],
+    "relatedEvents": [
+      "event_sedo"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "홍경래의_난",
+      "en": "Hong_Gyeong-rae_Rebellion"
+    },
+    "icon": "⚔️",
+    "importance": 4
+  },
+  {
+    "id": "event_imsul_uprising",
+    "type": "event",
+    "date": {
+      "start": "1862-02-14",
+      "end": "1862-06-30"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "진주",
+        "en": "Jinju"
+      },
+      "coordinates": {
+        "lat": 35.18,
+        "lng": 128.08
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "임술농민봉기",
+      "en": "Imsul Peasant Uprising"
+    },
+    "description": {
+      "ko": "삼정의 문란과 관리들의 수탈에 저항하여 전국적으로 번진 농민 봉기",
+      "en": "Nationwide peasant uprising against corruption"
+    },
+    "category": "battle",
+    "relatedPeople": [],
+    "relatedEvents": [
+      "event_sedo"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "임술_민란",
+      "en": "Imsul_Peasant_Uprising"
+    },
+    "icon": "⚔️",
+    "importance": 4
+  },
+  {
+    "id": "event_april_19",
+    "type": "event",
+    "date": {
+      "start": "1960-04-19",
+      "end": "1960-04-26"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "서울",
+        "en": "Seoul"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "4·19 혁명",
+      "en": "April 19 Revolution"
+    },
+    "description": {
+      "ko": "3·15 부정선거에 항거하여 일어난 학생과 시민 중심의 민주주의 혁명. 이승만 대통령이 하야함.",
+      "en": "Pro-democracy protest against the fraudulent March 15 election."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_syngman_rhee"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_barbershop"
+    ],
+    "wikipedia": {
+      "ko": "4·19_혁명",
+      "en": "April_19_Revolution"
+    },
+    "icon": "🏛️",
+    "importance": 5
+  },
+  {
+    "id": "event_may_16",
+    "type": "event",
+    "date": {
+      "start": "1961-05-16",
+      "end": "1961-05-16"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "서울",
+        "en": "Seoul"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "5·16 군사정변",
+      "en": "May 16 Coup"
+    },
+    "description": {
+      "ko": "박정희를 중심으로 한 군부 세력이 제2공화국을 무너뜨리고 정권을 장악한 사건.",
+      "en": "Military coup led by Park Chung-hee."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_park_chung_hee"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_barbershop"
+    ],
+    "wikipedia": {
+      "ko": "5·16_군사_정변",
+      "en": "May_16_coup"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_yushin",
+    "type": "event",
+    "date": {
+      "start": "1972-10-17",
+      "end": "1972-10-17"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "서울",
+        "en": "Seoul"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "10월 유신 선포",
+      "en": "October Yushin"
+    },
+    "description": {
+      "ko": "박정희 대통령이 장기 집권을 위해 헌법을 개정하고 유신 체제를 선포한 사건.",
+      "en": "Constitutional amendment for Park's extended rule."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_park_chung_hee"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "10월_유신",
+      "en": "Yushin_Constitution"
+    },
+    "icon": "📜",
+    "importance": 5
+  },
+  {
+    "id": "event_oct_26",
+    "type": "event",
+    "date": {
+      "start": "1979-10-26",
+      "end": "1979-10-26"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "서울 궁정동",
+        "en": "Gungjeong-dong, Seoul"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.97
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "10·26 사태",
+      "en": "Assassination of Park Chung-hee"
+    },
+    "description": {
+      "ko": "중앙정보부장 김재규가 박정희 대통령을 피격하여 서거하게 한 사건.",
+      "en": "Assassination of President Park Chung-hee."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_park_chung_hee"
+    ],
+    "relatedEvents": [
+      "event_dec_12"
+    ],
+    "relatedMedia": [
+      "media_movie_standing_next"
+    ],
+    "wikipedia": {
+      "ko": "10·26_사태",
+      "en": "Assassination_of_Park_Chung-hee"
+    },
+    "icon": "🩸",
+    "importance": 5
+  },
+  {
+    "id": "event_dec_12",
+    "type": "event",
+    "date": {
+      "start": "1979-12-12",
+      "end": "1979-12-13"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "서울",
+        "en": "Seoul"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "12·12 군사반란",
+      "en": "December 12 Coup"
+    },
+    "description": {
+      "ko": "전두환 등 신군부 세력이 하극상을 통해 군권을 장악한 사건.",
+      "en": "Military coup led by Chun Doo-hwan."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_chun_doo_hwan"
+    ],
+    "relatedEvents": [
+      "event_oct_26",
+      "event_518"
+    ],
+    "relatedMedia": [
+      "media_movie_spring_seoul"
+    ],
+    "wikipedia": {
+      "ko": "12·12_군사_반란",
+      "en": "December_12_Coup"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_imf_crisis",
+    "type": "event",
+    "date": {
+      "start": "1997-11-21",
+      "end": "2001-08-23"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "대한민국",
+        "en": "South Korea"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "IMF 외환위기",
+      "en": "IMF Crisis"
+    },
+    "description": {
+      "ko": "국가 외환 보유고 부족으로 인해 IMF 구제금융을 받았던 경제 위기 상황.",
+      "en": "Economic crisis leading to the IMF bailout."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_kim_young_sam",
+      "person_kim_dae_jung"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_default_day"
+    ],
+    "wikipedia": {
+      "ko": "1997년_아시아_금융_위기",
+      "en": "1997_Asian_financial_crisis"
+    },
+    "icon": "📉",
+    "importance": 5
+  },
+  {
+    "id": "event_2002_worldcup",
+    "type": "event",
+    "date": {
+      "start": "2002-05-31",
+      "end": "2002-06-30"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "대한민국·일본",
+        "en": "Korea & Japan"
+      },
+      "coordinates": {
+        "lat": 37.56,
+        "lng": 126.89
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "2002 월드컵",
+      "en": "2002 FIFA World Cup"
+    },
+    "description": {
+      "ko": "한일 공동 개최 월드컵에서 대한민국 축구 국가대표팀이 4강 신화를 달성함.",
+      "en": "First World Cup hosted in Asia, Korea reached the semi-finals."
+    },
+    "category": "culture",
+    "relatedPeople": [
+      "person_kim_dae_jung"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "2002년_FIFA_월드컵",
+      "en": "2002_FIFA_World_Cup"
+    },
+    "icon": "⚽",
+    "importance": 5
+  },
+  {
+    "id": "event_sewol_ferry",
+    "type": "event",
+    "date": {
+      "start": "2014-04-16",
+      "end": "2014-04-16"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "진도 인근 해상",
+        "en": "Off Jindo"
+      },
+      "coordinates": {
+        "lat": 34.22,
+        "lng": 125.95
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "세월호 침몰 사고",
+      "en": "Sinking of MV Sewol"
+    },
+    "description": {
+      "ko": "진도 앞바다에서 여객선 세월호가 침몰하여 많은 사상자가 발생한 비극적 사건.",
+      "en": "Tragic sinking of the Sewol ferry."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_park_geun_hye"
+    ],
+    "relatedEvents": [
+      "event_candlelight_rev"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "세월호_침몰_사고",
+      "en": "Sinking_of_MV_Sewol"
+    },
+    "icon": "🎗️",
+    "importance": 5
+  },
+  {
+    "id": "event_candlelight_rev",
+    "type": "event",
+    "date": {
+      "start": "2016-10-29",
+      "end": "2017-03-10"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "서울 광화문",
+        "en": "Gwanghwamun, Seoul"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.97
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "촛불 혁명",
+      "en": "Candlelight Revolution"
+    },
+    "description": {
+      "ko": "박근혜 대통령 퇴진을 요구하며 일어난 대규모 평화 시위. 이후 대통령 탄핵이 결정됨.",
+      "en": "Massive peaceful protests leading to the impeachment of Park Geun-hye."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_park_geun_hye"
+    ],
+    "relatedEvents": [
+      "event_sewol_ferry"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "박근혜_대통령_퇴진_운동",
+      "en": "2016–2017_South_Korean_protests"
+    },
+    "icon": "🕯️",
+    "importance": 5
+  },
+  {
+    "id": "event_qin_unification",
+    "type": "event",
+    "date": {
+      "start": "-0221-01-01",
+      "end": "-0221-12-31"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "함양",
+        "en": "Xianyang"
+      },
+      "coordinates": {
+        "lat": 34.33,
+        "lng": 108.71
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "진의 중국 통일",
+      "en": "Qin's Unification of China"
+    },
+    "description": {
+      "ko": "진왕 정이 전국 시대를 종식시키고 중국 역사상 최초의 통일 제국을 수립한 사건.",
+      "en": "The end of Warring States period and creation of the first unified empire."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_qin_shi_huang"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_hero"
+    ],
+    "wikipedia": {
+      "ko": "진의_중국_통일",
+      "en": "Qin's_wars_of_unification"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "event_opium_war",
+    "type": "event",
+    "date": {
+      "start": "1839-09-04",
+      "end": "1842-08-29"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "광저우",
+        "en": "Guangzhou"
+      },
+      "coordinates": {
+        "lat": 23.13,
+        "lng": 113.26
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "제1차 아편 전쟁",
+      "en": "First Opium War"
+    },
+    "description": {
+      "ko": "청나라와 영국 사이에 발생한 전쟁. 이 결과로 청의 굴욕적인 난징 조약이 체결됨.",
+      "en": "War between Qing and UK, leading to the Treaty of Nanking."
+    },
+    "category": "battle",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제1차_아편_전쟁",
+      "en": "First_Opium_War"
+    },
+    "icon": "⚓",
+    "importance": 5
+  },
+  {
+    "id": "event_xinhai_rev",
+    "type": "event",
+    "date": {
+      "start": "1911-10-10",
+      "end": "1912-02-12"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "우창",
+        "en": "Wuchang"
+      },
+      "coordinates": {
+        "lat": 30.55,
+        "lng": 114.3
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "신해혁명",
+      "en": "Xinhai Revolution"
+    },
+    "description": {
+      "ko": "청나라를 무너뜨리고 중화민국의 탄생을 이끈 공화주의 혁명.",
+      "en": "Revolution that ended the Qing Dynasty and established the ROC."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_sun_yat_sen"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_last_emperor"
+    ],
+    "wikipedia": {
+      "ko": "신해혁명",
+      "en": "Xinhai_Revolution"
+    },
+    "icon": "🚩",
+    "importance": 5
+  },
+  {
+    "id": "event_prc_founding",
+    "type": "event",
+    "date": {
+      "start": "1949-10-01",
+      "end": "1949-10-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "베이징 천안문",
+        "en": "Tiananmen, Beijing"
+      },
+      "coordinates": {
+        "lat": 39.9,
+        "lng": 116.39
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "중화인민공화국 선포",
+      "en": "Proclamation of the PRC"
+    },
+    "description": {
+      "ko": "마오쩌둥이 베이징 천안문 광장에서 중화인민공화국의 수립을 공식 선포함.",
+      "en": "Official proclamation of the PRC by Mao Zedong."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_mao_zedong"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "중화인민공화국",
+      "en": "Proclamation_of_the_People's_Republic_of_China"
+    },
+    "icon": "⭐️",
+    "importance": 5
+  },
+  {
+    "id": "event_cultural_rev",
+    "type": "event",
+    "date": {
+      "start": "1966-05-16",
+      "end": "1976-10-06"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "중국 전역",
+        "en": "China"
+      },
+      "coordinates": {
+        "lat": 39.9,
+        "lng": 116.4
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "문화대혁명",
+      "en": "Cultural Revolution"
+    },
+    "description": {
+      "ko": "마오쩌둥에 의해 주도된 하향식 사회정치 운동으로, 기존 문화를 파괴하고 극단적 이데올로기를 강요함.",
+      "en": "Socio-political movement led by Mao to preserve Communist ideology."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_mao_zedong"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_farewell_concubine"
+    ],
+    "wikipedia": {
+      "ko": "문화대혁명",
+      "en": "Cultural_Revolution"
+    },
+    "icon": "📕",
+    "importance": 5
+  },
+  {
+    "id": "event_reform_opening",
+    "type": "event",
+    "date": {
+      "start": "1978-12-18",
+      "end": "1978-12-22"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "베이징",
+        "en": "Beijing"
+      },
+      "coordinates": {
+        "lat": 39.9,
+        "lng": 116.4
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "개혁개방 선언",
+      "en": "Reform and Opening-up"
+    },
+    "description": {
+      "ko": "덩샤오핑 주도로 시장 경제 체제를 도입하고 외부 대외 개방을 시작한 전환점.",
+      "en": "Turning point introducing market economy led by Deng Xiaoping."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_deng_xiaoping"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "개혁개방",
+      "en": "Chinese_economic_reform"
+    },
+    "icon": "🏗️",
+    "importance": 5
+  },
+  {
+    "id": "event_hk_handover",
+    "type": "event",
+    "date": {
+      "start": "1997-07-01",
+      "end": "1997-07-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "홍콩",
+        "en": "Hong Kong"
+      },
+      "coordinates": {
+        "lat": 22.31,
+        "lng": 114.17
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "홍콩 반환",
+      "en": "Handover of Hong Kong"
+    },
+    "description": {
+      "ko": "영국의 식민지였던 홍콩이 중국으로 반환되어 특별행정구로 지정된 사건.",
+      "en": "Transfer of sovereignty over Hong Kong from UK to China."
+    },
+    "category": "politics",
+    "relatedPeople": [
+      "person_jiang_zemin"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "홍콩_반환",
+      "en": "Handover_of_Hong_Kong"
+    },
+    "icon": "🇭🇰",
+    "importance": 5
+  },
+  {
+    "id": "event_beijing_olympics",
+    "type": "event",
+    "date": {
+      "start": "2008-08-08",
+      "end": "2008-08-24"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "베이징",
+        "en": "Beijing"
+      },
+      "coordinates": {
+        "lat": 39.94,
+        "lng": 116.39
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "2008 베이징 올림픽",
+      "en": "2008 Beijing Olympics"
+    },
+    "description": {
+      "ko": "중국 베이징에서 개최된 제29회 하계 올림픽. 중국의 국력을 전 세계에 상징적으로 보여줌.",
+      "en": "29th Summer Olympic Games held in Beijing."
+    },
+    "category": "culture",
+    "relatedPeople": [
+      "person_hu_jintao"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "2008년_하계_올림픽",
+      "en": "2008_Summer_Olympics"
+    },
+    "icon": "🏅",
+    "importance": 5
+  },
+  {
+    "id": "event_heliocentrism",
+    "type": "event",
+    "date": {
+      "start": "1543-05-24",
+      "end": "1543-05-24"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "뉘른베르크",
+        "en": "Nuremberg"
+      },
+      "coordinates": {
+        "lat": 49.45,
+        "lng": 11.07
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "지동설 제창",
+      "en": "Heliocentrism Publication"
+    },
+    "description": {
+      "ko": "니콜라우스 코페르니쿠스가 《천구의 회전에 관하여》를 출판하며 태양 중심설 모델을 제시한 과학 혁명의 시작점.",
+      "en": "Copernicus published 'De revolutionibus', proposing a heliocentric model of the universe."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_copernicus"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "천체_회전에_관하여",
+      "en": "De_revolutionibus_orbium_coelestium"
+    },
+    "icon": "🧭",
+    "importance": 5
+  },
+  {
+    "id": "event_principia",
+    "type": "event",
+    "date": {
+      "start": "1687-07-05",
+      "end": "1687-07-05"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "프린키피아 출판",
+      "en": "Publication of Principia"
+    },
+    "description": {
+      "ko": "아이작 뉴턴이 만유인력의 법칙과 뉴턴 운동 법칙이 담긴 《자연철학의 수학적 원리》를 출간함.",
+      "en": "Isaac Newton published his 'Principia Mathematica' laying the foundations of classical mechanics."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_isaac_newton"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "자연철학의_수학적_원리",
+      "en": "Philosophiæ_Naturalis_Principia_Mathematica"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "event_origin_of_species",
+    "type": "event",
+    "date": {
+      "start": "1859-11-24",
+      "end": "1859-11-24"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "종의 기원 출판",
+      "en": "Publication of On the Origin of Species"
+    },
+    "description": {
+      "ko": "찰스 다윈이 자연선택에 의한 생물 진화론을 담은 저서 《종의 기원》을 출판하여 과학과 사회에 엄청난 충격을 줌.",
+      "en": "Charles Darwin published his theory of evolution by natural selection."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_charles_darwin"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "종의_기원",
+      "en": "On_the_Origin_of_Species"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "event_special_relativity",
+    "type": "event",
+    "date": {
+      "start": "1905-09-26",
+      "end": "1905-09-26"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "베른",
+        "en": "Bern"
+      },
+      "coordinates": {
+        "lat": 46.94,
+        "lng": 7.44
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "특수 상대성 이론 발표",
+      "en": "Special Relativity"
+    },
+    "description": {
+      "ko": "알베르트 아인슈타인이 시간과 공간의 절대성을 부정한 특수 상대성 이론 및 E=mc²의 질량-에너지 등가원리를 기적의 해에 발표함.",
+      "en": "Einstein published his theory of special relativity in his Annus Mirabilis papers."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_albert_einstein"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_oppenheimer"
+    ],
+    "wikipedia": {
+      "ko": "특수_상대성_이론",
+      "en": "Special_relativity"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "event_penicillin",
+    "type": "event",
+    "date": {
+      "start": "1928-09-28",
+      "end": "1928-09-28"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.51,
+        "lng": -0.17
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "페니실린 발견",
+      "en": "Discovery of Penicillin"
+    },
+    "description": {
+      "ko": "알렉산더 플레밍이 푸른곰팡이에서 최초의 항생제 성분인 페니실린을 우연히 발견하여 수억 명의 생명을 구함.",
+      "en": "Alexander Fleming serendipitously discovered penicillin, the first true antibiotic."
+    },
+    "category": "discovery",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "페니실린",
+      "en": "Penicillin"
+    },
+    "icon": "🧭",
+    "importance": 5
+  },
+  {
+    "id": "event_dna_structure",
+    "type": "event",
+    "date": {
+      "start": "1953-04-25",
+      "end": "1953-04-25"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "케임브리지",
+        "en": "Cambridge"
+      },
+      "coordinates": {
+        "lat": 52.2,
+        "lng": 0.11
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "DNA 구조 규명",
+      "en": "Discovery of DNA Structure"
+    },
+    "description": {
+      "ko": "제임스 왓슨과 프랜시스 크릭이 로잘린드 프랭클린의 X선 회절 데이터를 바탕으로 DNA 이중 나선 구조 논문을 네이처지에 게재.",
+      "en": "Watson and Crick published the double-helix structure of DNA in Nature."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_rosalind_franklin"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "DNA",
+      "en": "DNA"
+    },
+    "icon": "🧭",
+    "importance": 5
+  },
+  {
+    "id": "event_www",
+    "type": "event",
+    "date": {
+      "start": "1991-08-06",
+      "end": "1991-08-06"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "제네바 (CERN)",
+        "en": "Geneva (CERN)"
+      },
+      "coordinates": {
+        "lat": 46.23,
+        "lng": 6.05
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "최초의 웹사이트 공개 (WWW)",
+      "en": "First Website Online (WWW)"
+    },
+    "description": {
+      "ko": "팀 버너스리가 개발한 월드 와이드 웹(WWW) 프로젝트의 첫 웹사이트가 전 세계에 공개됨. 인터넷 대중화의 시작.",
+      "en": "Tim Berners-Lee published the first-ever website, making the World Wide Web publicly available."
+    },
+    "category": "invention",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "월드_와이드_웹",
+      "en": "World_Wide_Web"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "event_human_genome",
+    "type": "event",
+    "date": {
+      "start": "2003-04-14",
+      "end": "2003-04-14"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "전 세계 (국제 협력)",
+        "en": "International"
+      },
+      "coordinates": {
+        "lat": 38.99,
+        "lng": -77.09
+      },
+      "region": "etc"
+    },
+    "title": {
+      "ko": "인간 게놈 프로젝트 완성",
+      "en": "Human Genome Project Completed"
+    },
+    "description": {
+      "ko": "인간의 DNA 염기 서열을 99% 해독하여 맞춤형 의학과 유전학 연구의 새 시대를 엶.",
+      "en": "International scientific research project successfully mapped the human genome."
+    },
+    "category": "discovery",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "인간_게놈_프로젝트",
+      "en": "Human_Genome_Project"
+    },
+    "icon": "🔬",
+    "importance": 5
+  },
+  {
+    "id": "event_gravitational_waves",
+    "type": "event",
+    "date": {
+      "start": "2015-09-14",
+      "end": "2015-09-14"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "캘리포니아 (LIGO)",
+        "en": "California (LIGO)"
+      },
+      "coordinates": {
+        "lat": 46.45,
+        "lng": -119.4
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "중력파 최초 관측",
+      "en": "First Observation of Gravitational Waves"
+    },
+    "description": {
+      "ko": "LIGO 연구진이 두 블랙홀의 충돌로 발생한 중력파를 최초로 직접 관측하여 아인슈타인의 예측을 100년 만에 증명함.",
+      "en": "LIGO scientifically observed ripples in spacetime, confirming Einstein’s prediction."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_albert_einstein"
+    ],
+    "relatedEvents": [
+      "event_general_relativity"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "중력파의_최초_관측",
+      "en": "First_observation_of_gravitational_waves"
+    },
+    "icon": "🔭",
+    "importance": 5
+  },
+  {
+    "id": "event_pythagorean_theorem",
+    "type": "event",
+    "date": {
+      "start": "-0500-01-01",
+      "end": "-0500-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "크로톤",
+        "en": "Croton"
+      },
+      "coordinates": {
+        "lat": 39.08,
+        "lng": 17.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "피타고라스 정리",
+      "en": "Pythagorean Theorem Formulation"
+    },
+    "description": {
+      "ko": "직각삼각형의 빗변 제곱은 다른 두 변의 제곱의 합과 같다는 기하학의 근본적인 정리가 기원전에 정립됨.",
+      "en": "Fundamental relation in Euclidean geometry among the three sides of a right triangle."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_pythagoras"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "피타고라스_정리",
+      "en": "Pythagorean_theorem"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "event_archimedes_principle",
+    "type": "event",
+    "date": {
+      "start": "-0250-01-01",
+      "end": "-0250-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "시라쿠사",
+        "en": "Syracuse"
+      },
+      "coordinates": {
+        "lat": 37.07,
+        "lng": 15.28
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "아르키메데스의 원리 발견",
+      "en": "Discovery of Buoyancy Principle"
+    },
+    "description": {
+      "ko": "왕관의 순도를 확인하기 위해 목욕탕에서 부력의 원리를 깨닫고 '유레카!'를 외치며 거리가 뛰쳐나왔다는 전설의 부력의 원리 규명.",
+      "en": "The law of buoyancy was formulated by Archimedes of Syracuse."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_archimedes"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아르키메데스의_원리",
+      "en": "Archimedes'_principle"
+    },
+    "icon": "🧭",
+    "importance": 5
+  },
+  {
+    "id": "event_euclid_elements",
+    "type": "event",
+    "date": {
+      "start": "-0300-01-01",
+      "end": "-0300-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "알렉산드리아",
+        "en": "Alexandria"
+      },
+      "coordinates": {
+        "lat": 31.2,
+        "lng": 29.91
+      },
+      "region": "africa"
+    },
+    "title": {
+      "ko": "기하학 원론 출판",
+      "en": "Publication of Euclid's Elements"
+    },
+    "description": {
+      "ko": "서양 수학 역사상 가장 큰 영향을 끼친 유클리드의 수학 및 기하학 저서가 발간됨.",
+      "en": "A mathematical and geometric treatise consisting of 13 books written by the ancient Greek mathematician Euclid."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_euclid"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "에우클레이데스의_원론",
+      "en": "Euclid's_Elements"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "event_almagest",
+    "type": "event",
+    "date": {
+      "start": "0150-01-01",
+      "end": "0150-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "알렉산드리아",
+        "en": "Alexandria"
+      },
+      "coordinates": {
+        "lat": 31.2,
+        "lng": 29.91
+      },
+      "region": "africa"
+    },
+    "title": {
+      "ko": "알마게스트 출판",
+      "en": "Publication of Almagest"
+    },
+    "description": {
+      "ko": "수학, 자전과 공전을 기반으로 복잡한 주전원을 사용하여 우주의 구조를 지구 중심으로 설명한 프톨레마이오스의 대작.",
+      "en": "A 2nd-century mathematical and astronomical treatise on the apparent motions of the stars and planetary paths."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_ptolemy"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "알마게스트",
+      "en": "Almagest"
+    },
+    "icon": "📖",
+    "importance": 4
+  },
+  {
+    "id": "event_clepsydra",
+    "type": "event",
+    "date": {
+      "start": "1434-01-01",
+      "end": "1434-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "자격루의 완성",
+      "en": "Completion of Jagyeongnu"
+    },
+    "description": {
+      "ko": "세종대왕의 명으로 장영실이 스스로 시각을 알리는 물시계 ‘자격루’를 완성함.",
+      "en": "Jang Yeong-sil invented the self-striking water clock under the patronage of King Sejong."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_jang_yeong_sil",
+      "person_sejong"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_forbidden_dream"
+    ],
+    "wikipedia": {
+      "ko": "자격루",
+      "en": "Jagyeongnu"
+    },
+    "icon": "💡",
+    "importance": 4
+  },
+  {
+    "id": "event_algebra",
+    "type": "event",
+    "date": {
+      "start": "0820-01-01",
+      "end": "0820-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "바그다드",
+        "en": "Baghdad"
+      },
+      "coordinates": {
+        "lat": 33.32,
+        "lng": 44.42
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "대수학 정립 (알자브르)",
+      "en": "Foundations of Algebra"
+    },
+    "description": {
+      "ko": "알 콰리즈미가 대수학 방정식의 해법을 다룬 서적 «알자브르»를 출간, 서구 수학의 체계를 재편성함.",
+      "en": "Al-Khwarizmi published 'The Compendious Book on Calculation by Completion and Balancing'."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_al_khwarizmi"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "대수학",
+      "en": "The_Compendious_Book_on_Calculation_by_Completion_and_Balancing"
+    },
+    "icon": "🧮",
+    "importance": 4
+  },
+  {
+    "id": "event_canon_medicine",
+    "type": "event",
+    "date": {
+      "start": "1025-01-01",
+      "end": "1025-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "페르시아",
+        "en": "Persia"
+      },
+      "coordinates": {
+        "lat": 32.42,
+        "lng": 53.68
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "의학정전 편찬",
+      "en": "The Canon of Medicine"
+    },
+    "description": {
+      "ko": "아비센나(이븐 시나)가 철학과 당대 의학을 집대성하여 출판. 수 세기 동안 중동과 유럽 전역에서 표준화된 교재로 사용됨.",
+      "en": "Avicenna compiled an encyclopedia of medicine which became a standard medical text in Europe and the Islamic world."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_ibn_sina"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "의학정전",
+      "en": "The_Canon_of_Medicine"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "event_vitruvian_man",
+    "type": "event",
+    "date": {
+      "start": "1490-01-01",
+      "end": "1490-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "밀라노",
+        "en": "Milan"
+      },
+      "coordinates": {
+        "lat": 45.46,
+        "lng": 9.19
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "비트루비우스적 인간",
+      "en": "Vitruvian Man"
+    },
+    "description": {
+      "ko": "인체의 황금 비율을 기하학적으로 그려낸 레오나르도 다 빈치의 대표적인 드로잉. 과학과 예술의 궁극적 조화.",
+      "en": "Drawing by Leonardo da Vinci describing the ideal human proportions with geometry."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_da_vinci"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "비트루비우스적_인간",
+      "en": "Vitruvian_Man"
+    },
+    "icon": "🧭",
+    "importance": 4
+  },
+  {
+    "id": "event_galileo_telescope",
+    "type": "event",
+    "date": {
+      "start": "1610-01-07",
+      "end": "1610-01-07"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "파도바",
+        "en": "Padua"
+      },
+      "coordinates": {
+        "lat": 45.41,
+        "lng": 11.87
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "목성의 네 위성 발견",
+      "en": "Discovery of Galilean Moons"
+    },
+    "description": {
+      "ko": "갈릴레이가 자신이 개량한 망원경을 사용하여 목성 주변을 도는 위성 4개를 발견. 천동설을 정면으로 반박하는 관측 증거 제시.",
+      "en": "Galileo Galilei observed four objects surrounding Jupiter that behaved unlike stars, proving they orbital bodies."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_galileo"
+    ],
+    "relatedEvents": [
+      "event_heliocentrism"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "갈릴레이_위성",
+      "en": "Galilean_moons"
+    },
+    "icon": "🔭",
+    "importance": 5
+  },
+  {
+    "id": "event_kepler_laws",
+    "type": "event",
+    "date": {
+      "start": "1609-01-01",
+      "end": "1619-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "프라하",
+        "en": "Prague"
+      },
+      "coordinates": {
+        "lat": 50.07,
+        "lng": 14.43
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "행성 운동의 3법칙",
+      "en": "Kepler's Laws of Planetary Motion"
+    },
+    "description": {
+      "ko": "요하네스 케플러가 타원 궤도의 법칙, 면적 속도 일정의 법칙, 조화의 법칙을 대외에 발표함.",
+      "en": "Kepler published his three laws describing the motion of planets around the Sun."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_kepler"
+    ],
+    "relatedEvents": [
+      "event_principia"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "케플러의_행성_운동_법칙",
+      "en": "Kepler's_laws_of_planetary_motion"
+    },
+    "icon": "🧭",
+    "importance": 5
+  },
+  {
+    "id": "event_blood_circulation",
+    "type": "event",
+    "date": {
+      "start": "1628-01-01",
+      "end": "1628-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "프랑크푸르트",
+        "en": "Frankfurt"
+      },
+      "coordinates": {
+        "lat": 50.11,
+        "lng": 8.68
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "혈액 순환론 발표",
+      "en": "Publication of De Motu Cordis"
+    },
+    "description": {
+      "ko": "윌리엄 하비가 심장의 펌프 작용을 통해 혈액이 순환한다는 사실을 해부학 논문으로 증명함.",
+      "en": "William Harvey published 'De Motu Cordis' proving the circulation of blood."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_william_harvey"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "혈액순환",
+      "en": "Circulatory_system"
+    },
+    "icon": "🔬",
+    "importance": 5
+  },
+  {
+    "id": "event_cartesian_system",
+    "type": "event",
+    "date": {
+      "start": "1637-01-01",
+      "end": "1637-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "레이던",
+        "en": "Leiden"
+      },
+      "coordinates": {
+        "lat": 52.16,
+        "lng": 4.49
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "좌표계의 확립 (방법서설 출판)",
+      "en": "Cartesian Coordinate System"
+    },
+    "description": {
+      "ko": "르네 데카르트가 책 «방법서설»의 부록으로 직교 좌표계(해석 기하학)를 도입하여 기하학과 대수학을 통합함.",
+      "en": "Descartes introduced Cartesian coordinates in 'La Géométrie', bridging algebra and geometry."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_descartes"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "데카르트_좌표계",
+      "en": "Cartesian_coordinate_system"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "event_wave_theory",
+    "type": "event",
+    "date": {
+      "start": "1690-01-01",
+      "end": "1690-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "파리",
+        "en": "Paris"
+      },
+      "coordinates": {
+        "lat": 48.86,
+        "lng": 2.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "빛의 파동설 정립",
+      "en": "Treatise on Light"
+    },
+    "description": {
+      "ko": "크리스티안 하위헌스가 빛이 파동 형태의 성질을 가진다고 주장하는 역사적인 이론을 발표함(뉴턴의 입자설과 대립).",
+      "en": "Huygens published the 'Treatise on Light' formulating his wave theory of light."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_huygens"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "하위헌스-프레넬_원리",
+      "en": "Huygens–Fresnel_principle"
+    },
+    "icon": "💡",
+    "importance": 4
+  },
+  {
+    "id": "event_printing_press",
+    "type": "event",
+    "date": {
+      "start": "1440-01-01",
+      "end": "1440-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "마인츠",
+        "en": "Mainz"
+      },
+      "coordinates": {
+        "lat": 49.99,
+        "lng": 8.27
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "금속 활자 인쇄기 발명",
+      "en": "Invention of Printing Press"
+    },
+    "description": {
+      "ko": "서양 최초로 요하네스 구텐베르크가 실용적 금속 활자 인쇄기를 발명하여 지식 전파의 민주화를 불러옴 (인쇄 혁명).",
+      "en": "Johannes Gutenberg invented the moving type printing press, starting the Printing Revolution."
+    },
+    "category": "invention",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "인쇄기",
+      "en": "Printing_press"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "event_fabrica",
+    "type": "event",
+    "date": {
+      "start": "1543-06-01",
+      "end": "1543-06-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "바젤",
+        "en": "Basel"
+      },
+      "coordinates": {
+        "lat": 47.55,
+        "lng": 7.59
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "인체의 구조에 대하여 (파브리카)",
+      "en": "De humani corporis fabrica"
+    },
+    "description": {
+      "ko": "안드레아스 베살리우스가 갈레노스의 잘못된 구시대 해부학을 시정하고 인체 해부학을 체계화한 혁명적인 명저 출판.",
+      "en": "Andreas Vesalius published a set of books on human anatomy, Revolutionizing medical science."
+    },
+    "category": "publication",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "인체의_구조에_대하여",
+      "en": "De_humani_corporis_fabrica"
+    },
+    "icon": "⚕️",
+    "importance": 5
+  },
+  {
+    "id": "event_lightning_rod",
+    "type": "event",
+    "date": {
+      "start": "1752-06-15",
+      "end": "1752-06-15"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "필라델피아",
+        "en": "Philadelphia"
+      },
+      "coordinates": {
+        "lat": 39.95,
+        "lng": -75.16
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "프랭클린 연날리기 실험 / 피뢰침 발명",
+      "en": "Franklin's Kite Experiment"
+    },
+    "description": {
+      "ko": "번개가 전기의 일종이라는 것을 증명하기 위해 연을 띄웠고, 이를 응용해 피뢰침을 발명함.",
+      "en": "Benjamin Franklin conducted his kite experiment drawing electricity from lightning, leading to the invention of the lightning rod."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_benjamin_franklin"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "벤저민_프랭클린#연_실험",
+      "en": "Kite_experiment"
+    },
+    "icon": "⚡",
+    "importance": 4
+  },
+  {
+    "id": "event_conservation_mass",
+    "type": "event",
+    "date": {
+      "start": "1789-01-01",
+      "end": "1789-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "파리",
+        "en": "Paris"
+      },
+      "coordinates": {
+        "lat": 48.85,
+        "lng": 2.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "질량 보존의 법칙 및 현대 화학의 시작",
+      "en": "Law of Conservation of Mass"
+    },
+    "description": {
+      "ko": "앙투안 라부아지에가 화학 반응 전후 질량이 보존됨을 밝히는 «화학 원론»을 출판함.",
+      "en": "Lavoisier published the foundational law of chemistry stating that mass is conserved in a chemical reaction."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_lavoisier"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "질량_보존의_법칙",
+      "en": "Conservation_of_mass"
+    },
+    "icon": "🔬",
+    "importance": 5
+  },
+  {
+    "id": "event_smallpox_vaccine",
+    "type": "event",
+    "date": {
+      "start": "1796-05-14",
+      "end": "1796-05-14"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "버클리",
+        "en": "Berkeley"
+      },
+      "coordinates": {
+        "lat": 51.69,
+        "lng": -2.45
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "천연두 백신(종두법) 최초 접종",
+      "en": "First Smallpox Vaccine"
+    },
+    "description": {
+      "ko": "에드워드 제너가 8살 소년에게 최초로 우두 백신을 접종하여 예방 면역학의 시대를 엶.",
+      "en": "Edward Jenner successfully inoculated a young boy against smallpox using cowpox material."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_edward_jenner"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "종두",
+      "en": "Smallpox_vaccine"
+    },
+    "icon": "⚕️",
+    "importance": 5
+  },
+  {
+    "id": "event_atomic_theory",
+    "type": "event",
+    "date": {
+      "start": "1803-10-21",
+      "end": "1803-10-21"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "맨체스터",
+        "en": "Manchester"
+      },
+      "coordinates": {
+        "lat": 53.48,
+        "lng": -2.24
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "돌턴의 원자설 발표",
+      "en": "Dalton's Atomic Theory"
+    },
+    "description": {
+      "ko": "존 돌턴이 물질이 더 이상 쪼개지지 않는 원자로 구성되어 있다는 근대적 원자설을 제안함.",
+      "en": "John Dalton proposed that all matter was composed of atoms, indivisible and indestructible building blocks."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_john_dalton"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "원자_이론",
+      "en": "Atomic_theory"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "event_electromagnetic_induction",
+    "type": "event",
+    "date": {
+      "start": "1831-08-29",
+      "end": "1831-08-29"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "전자기 유도 현상 발견",
+      "en": "Electromagnetic Induction"
+    },
+    "description": {
+      "ko": "마이클 패러데이가 자석의 운동이 전기를 만들어낼 수 있다는 전자기 유도 현상을 증명. 발전기 원리의 바탕.",
+      "en": "Michael Faraday discovered electromagnetic induction, the operating principle of electric generators."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_faraday"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "전자기_유도",
+      "en": "Electromagnetic_induction"
+    },
+    "icon": "⚡",
+    "importance": 5
+  },
+  {
+    "id": "event_analytical_engine",
+    "type": "event",
+    "date": {
+      "start": "1837-01-01",
+      "end": "1837-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "해석기관 설계안 제시",
+      "en": "Analytical Engine Proposed"
+    },
+    "description": {
+      "ko": "찰스 배비지가 현대식 컴퓨터의 기본 구조(산술장치, 제어흐름, 기억장치)를 모두 포함한 기계식 계산기 설계도를 작성함.",
+      "en": "Charles Babbage proposed the Analytical Engine, the first design for a modern general-purpose computer."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_babbage",
+      "person_ada_lovelace"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "해석기관",
+      "en": "Analytical_Engine"
+    },
+    "icon": "🧮",
+    "importance": 4
+  },
+  {
+    "id": "event_mendelian_inheritance",
+    "type": "event",
+    "date": {
+      "start": "1865-02-08",
+      "end": "1865-02-08"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "브르노",
+        "en": "Brno"
+      },
+      "coordinates": {
+        "lat": 49.19,
+        "lng": 16.6
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "멘델의 유전 법칙 발표",
+      "en": "Mendelian Inheritance"
+    },
+    "description": {
+      "ko": "그레고어 멘델이 완두콩 교배 실험을 통해 유전 형질이 어떻게 다음 세대로 전달되는지 법칙형태로 발표함.",
+      "en": "Gregor Mendel presented his work on 'Experiments on Plant Hybridization', founding Mendelian genetics."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_mendel"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "멘델의_유전법칙",
+      "en": "Mendelian_inheritance"
+    },
+    "icon": "🌱",
+    "importance": 5
+  },
+  {
+    "id": "event_maxwell_equations",
+    "type": "event",
+    "date": {
+      "start": "1865-01-01",
+      "end": "1865-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "맥스웰 방정식 출판",
+      "en": "Maxwell's Equations"
+    },
+    "description": {
+      "ko": "제임스 클러크 맥스웰이 전자기학의 기초가 되는 4개의 방정식을 통해 빛도 전자기파임을 증명함.",
+      "en": "Maxwell published 'A Dynamical Theory of the Electromagnetic Field', unifying electromagnetism."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_maxwell"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "맥스웰_방정식",
+      "en": "Maxwell's_equations"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "event_swan_neck",
+    "type": "event",
+    "date": {
+      "start": "1862-01-01",
+      "end": "1862-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "파리",
+        "en": "Paris"
+      },
+      "coordinates": {
+        "lat": 48.85,
+        "lng": 2.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "자연발생설 완전 논파 (백조목 플라스크)",
+      "en": "Refutation of Spontaneous Generation"
+    },
+    "description": {
+      "ko": "루이 파스퇴르가 백조목 플라스크 실험을 통해 공기 중의 미생물 없이 생명이 스스로 발생하지 않음을 증명.",
+      "en": "Louis Pasteur refuted spontaneous generation definitively with his swan-neck flask experiments."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_pasteur"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "자연발생설",
+      "en": "Spontaneous_generation"
+    },
+    "icon": "🔬",
+    "importance": 4
+  },
+  {
+    "id": "event_pasteurization",
+    "type": "event",
+    "date": {
+      "start": "1864-01-01",
+      "end": "1864-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "아르부아",
+        "en": "Arbois"
+      },
+      "coordinates": {
+        "lat": 46.9,
+        "lng": 5.77
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "저온 살균법 발명",
+      "en": "Invention of Pasteurization"
+    },
+    "description": {
+      "ko": "파스퇴르가 와인과 우유가 부패하는 것을 막기 위해 미생물을 열로 억제하는 저온 살균법을 개발함.",
+      "en": "Pasteur patented the process of pasteurization for preserving food and beverages."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_pasteur"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "저온_살균법",
+      "en": "Pasteurization"
+    },
+    "icon": "💡",
+    "importance": 4
+  },
+  {
+    "id": "event_periodic_table",
+    "type": "event",
+    "date": {
+      "start": "1869-03-06",
+      "end": "1869-03-06"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "상트페테르부르크",
+        "en": "St. Petersburg"
+      },
+      "coordinates": {
+        "lat": 59.93,
+        "lng": 30.33
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "원소 주기율표 창안",
+      "en": "Creation of Periodic Table"
+    },
+    "description": {
+      "ko": "드미트리 멘델레예프가 당시 알려진 원소들을 화학적 특성에 따라 배열한 최초의 주기율표를 러시아 화학회에 제시함.",
+      "en": "Dmitri Mendeleev presented the first recognizable periodic table to the Russian Chemical Society."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_mendeleev"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "주기율표",
+      "en": "Periodic_table"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "event_tuberculosis",
+    "type": "event",
+    "date": {
+      "start": "1882-03-24",
+      "end": "1882-03-24"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "베를린",
+        "en": "Berlin"
+      },
+      "coordinates": {
+        "lat": 52.52,
+        "lng": 13.4
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "결핵균 발견",
+      "en": "Discovery of Tuberculosis Bacillus"
+    },
+    "description": {
+      "ko": "로베르트 코흐가 당대 최고 치사율의 질병이던 결핵의 원인균을 분리하고 증명하여 전 세계적 파장을 일으킴.",
+      "en": "Robert Koch announced the discovery of Mycobacterium tuberculosis, the bacteria that cause tuberculosis."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_koch"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "결핵",
+      "en": "History_of_tuberculosis"
+    },
+    "icon": "🔬",
+    "importance": 5
+  },
+  {
+    "id": "event_ac_motor",
+    "type": "event",
+    "date": {
+      "start": "1887-01-01",
+      "end": "1887-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "뉴욕",
+        "en": "New York"
+      },
+      "coordinates": {
+        "lat": 40.71,
+        "lng": -74
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "교류(AC) 유도 모터 개발",
+      "en": "Development of AC Motor"
+    },
+    "description": {
+      "ko": "니콜라 테슬라가 교류 전력을 이용한 유도 모터를 개발하였고, 장거리 송전에 유리한 AC 시스템이 사실상 전력의 표준이 됨.",
+      "en": "Nikola Tesla developed the first practical alternating current (AC) motor."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_tesla"
+    ],
+    "relatedEvents": [
+      "event_incandescent_bulb"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "유도전동기",
+      "en": "Induction_motor"
+    },
+    "icon": "⚡",
+    "importance": 5
+  },
+  {
+    "id": "event_quantum_hypothesis",
+    "type": "event",
+    "date": {
+      "start": "1900-12-14",
+      "end": "1900-12-14"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "베를린",
+        "en": "Berlin"
+      },
+      "coordinates": {
+        "lat": 52.52,
+        "lng": 13.4
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "양자 가설 발표",
+      "en": "Planck's Quantum Hypothesis"
+    },
+    "description": {
+      "ko": "막스 플랑크가 흑체 복사 문제를 해결하기 위해 에너지가 연속적이지 않고 불연속적인 덩어리(양자)로 방출된다는 가설을 제출. 양자역학의 태동.",
+      "en": "Max Planck formulated his quantum theory explaining black-body radiation, marking the birth of quantum mechanics."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_planck"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "플랑크_법칙",
+      "en": "Planck's_law"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "event_incandescent_bulb",
+    "type": "event",
+    "date": {
+      "start": "1879-10-22",
+      "end": "1879-10-22"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "멘로파크",
+        "en": "Menlo Park"
+      },
+      "coordinates": {
+        "lat": 40.56,
+        "lng": -74.34
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "실용적 백열전구 발명",
+      "en": "Invention of Incandescent Light Bulb"
+    },
+    "description": {
+      "ko": "토머스 에디슨이 탄소 필라멘트를 이용한 성공적인 백열전구를 발명, 상용화에 성공하여 인류를 어둠에서 해방시킴.",
+      "en": "Thomas Edison completed a successful 13.5-hour test of a carbon-filament incandescent light bulb."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_edison"
+    ],
+    "relatedEvents": [
+      "event_ac_motor"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "백열전구",
+      "en": "Incandescent_light_bulb"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "event_electron_discovery",
+    "type": "event",
+    "date": {
+      "start": "1897-04-30",
+      "end": "1897-04-30"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "케임브리지 (캐번디시 연구소)",
+        "en": "Cambridge"
+      },
+      "coordinates": {
+        "lat": 52.2,
+        "lng": 0.11
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "전자의 발견",
+      "en": "Discovery of the Electron"
+    },
+    "description": {
+      "ko": "J.J. 톰슨이 음극선 실험을 통해 원자보다 작은 질량을 가진 입자인 전자를 최초로 발견함.",
+      "en": "J. J. Thomson discovered the electron through experiments with cathode ray tubes."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_jj_thomson"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "전자",
+      "en": "Electron"
+    },
+    "icon": "🔬",
+    "importance": 5
+  },
+  {
+    "id": "event_atomic_nucleus",
+    "type": "event",
+    "date": {
+      "start": "1911-03-07",
+      "end": "1911-03-07"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "맨체스터",
+        "en": "Manchester"
+      },
+      "coordinates": {
+        "lat": 53.48,
+        "lng": -2.24
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "원자핵의 발견 (알파 산란 실험)",
+      "en": "Discovery of the Atomic Nucleus"
+    },
+    "description": {
+      "ko": "어니스트 러더퍼드가 금박 알파 입자 산란 실험 결과를 바탕으로 원자의 질량이 뭉쳐있는 작은 중심, 원자핵의 존재를 알아냄.",
+      "en": "Rutherford discovered the atomic nucleus following the Geiger–Marsden gold foil experiment."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_rutherford"
+    ],
+    "relatedEvents": [
+      "event_electron_discovery"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "원자핵",
+      "en": "Atomic_nucleus"
+    },
+    "icon": "🔭",
+    "importance": 5
+  },
+  {
+    "id": "event_bohr_model",
+    "type": "event",
+    "date": {
+      "start": "1913-07-01",
+      "end": "1913-07-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "코펜하겐",
+        "en": "Copenhagen"
+      },
+      "coordinates": {
+        "lat": 55.67,
+        "lng": 12.56
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "보어의 원자 모형 발표",
+      "en": "Bohr Model Proposed"
+    },
+    "description": {
+      "ko": "닐스 보어가 전자가 정해진 궤도에서만 불연속적인 에너지를 가지며 회전한다는 양자역학적 원자 모형을 제시함.",
+      "en": "Niels Bohr proposed the Bohr model of the atom, introducing quantum theory to atomic structure."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_bohr"
+    ],
+    "relatedEvents": [
+      "event_atomic_nucleus"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "보어_모형",
+      "en": "Bohr_model"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "event_uncertainty_principle",
+    "type": "event",
+    "date": {
+      "start": "1927-03-23",
+      "end": "1927-03-23"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "코펜하겐",
+        "en": "Copenhagen"
+      },
+      "coordinates": {
+        "lat": 55.67,
+        "lng": 12.56
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "불확정성 원리 발표",
+      "en": "Uncertainty Principle Formulated"
+    },
+    "description": {
+      "ko": "베르너 하이젠베르크가 입자의 위치와 운동량을 동시에 정확하게 측정할 수 없다는 양자역학의 핵심 원리를 발표함.",
+      "en": "Werner Heisenberg stated the uncertainty principle, fundamentally changing quantum mechanics."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_heisenberg"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "불확정성_원리",
+      "en": "Uncertainty_principle"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "event_schrodinger_equation",
+    "type": "event",
+    "date": {
+      "start": "1926-01-27",
+      "end": "1926-01-27"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "취리히",
+        "en": "Zurich"
+      },
+      "coordinates": {
+        "lat": 47.37,
+        "lng": 8.54
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "슈뢰딩거 파동 방정식 제안",
+      "en": "Schrödinger Equation Published"
+    },
+    "description": {
+      "ko": "에르빈 슈뢰딩거가 전자의 상태를 입자가 아닌 확률적 '파동함수'로 표현한 파동 역학 방정식을 출판함.",
+      "en": "Erwin Schrödinger published his paper detailing the Schrödinger equation, formulating wave mechanics."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_schrodinger"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "슈뢰딩거_방정식",
+      "en": "Schrödinger_equation"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "event_antimatter",
+    "type": "event",
+    "date": {
+      "start": "1932-08-02",
+      "end": "1932-08-02"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "패서디나 (Caltech)",
+        "en": "Pasadena"
+      },
+      "coordinates": {
+        "lat": 34.14,
+        "lng": -118.14
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "최초의 반물질(양전자) 관측",
+      "en": "Discovery of the Positron"
+    },
+    "description": {
+      "ko": "칼 앤더슨이 우주선 관측을 통해 디랙의 방정식이 예언했던 양전자(반입자)를 실제로 발견함.",
+      "en": "Carl David Anderson discovered the positron, confirming Paul Dirac's theoretical prediction of antimatter."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_dirac"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "양전자",
+      "en": "Positron"
+    },
+    "icon": "🔭",
+    "importance": 5
+  },
+  {
+    "id": "event_chicago_pile",
+    "type": "event",
+    "date": {
+      "start": "1942-12-02",
+      "end": "1942-12-02"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "시카고",
+        "en": "Chicago"
+      },
+      "coordinates": {
+        "lat": 41.87,
+        "lng": -87.62
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "최초의 핵 제어 연쇄반응 (시카고 파일-1)",
+      "en": "First Controlled Nuclear Chain Reaction"
+    },
+    "description": {
+      "ko": "엔리코 페르미와 그의 팀이 시카고 대학교 운동장 지하에서 세계 최초의 원자로를 가동하여 스스로 지속되는 핵 연쇄반응에 성공함.",
+      "en": "Enrico Fermi's team achieved the first artificial self-sustaining nuclear chain reaction at Chicago Pile-1."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_fermi"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_oppenheimer"
+    ],
+    "wikipedia": {
+      "ko": "시카고_파일-1",
+      "en": "Chicago_Pile-1"
+    },
+    "icon": "🔥",
+    "importance": 5
+  },
+  {
+    "id": "event_trinity_test",
+    "type": "event",
+    "date": {
+      "start": "1945-07-16",
+      "end": "1945-07-16"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "뉴멕시코 앨러머고도",
+        "en": "Alamogordo"
+      },
+      "coordinates": {
+        "lat": 32.89,
+        "lng": -105.96
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "트리니티 핵실험 (맨해튼 프로젝트)",
+      "en": "Trinity Nuclear Test"
+    },
+    "description": {
+      "ko": "J. 로버트 오펜하이머가 주도한 맨해튼 프로젝트의 일환으로 인류 역사상 최초의 플루토늄 폭발식 핵무기 실험이 성공함.",
+      "en": "The first detonation of a nuclear weapon, conducted by the United States Army as part of the Manhattan Project."
+    },
+    "category": "experiment",
+    "relatedPeople": [
+      "person_oppenheimer"
+    ],
+    "relatedEvents": [
+      "event_chicago_pile"
+    ],
+    "relatedMedia": [
+      "media_movie_oppenheimer"
+    ],
+    "wikipedia": {
+      "ko": "트리니티_(핵실험)",
+      "en": "Trinity_(nuclear_test)"
+    },
+    "icon": "🔥",
+    "importance": 5
+  },
+  {
+    "id": "event_hubble_law",
+    "type": "event",
+    "date": {
+      "start": "1929-01-17",
+      "end": "1929-01-17"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "윌슨 산 천문대",
+        "en": "Mount Wilson Observatory"
+      },
+      "coordinates": {
+        "lat": 34.22,
+        "lng": -118.06
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "허블-르메트르 법칙 발표",
+      "en": "Publication of Hubble's Law"
+    },
+    "description": {
+      "ko": "에드윈 허블이 은하의 후퇴 속도가 거리에 비례한다는 관측 사실을 발표하여 우주 팽창을 확정 증명함.",
+      "en": "Edwin Hubble showed that the recessional velocity of a galaxy increases with its distance from the Earth, implying an expanding universe."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_hubble"
+    ],
+    "relatedEvents": [
+      "event_big_bang_theory"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "허블의_법칙",
+      "en": "Hubble's_law"
+    },
+    "icon": "🔭",
+    "importance": 5
+  },
+  {
+    "id": "event_big_bang_theory",
+    "type": "event",
+    "date": {
+      "start": "1927-04-20",
+      "end": "1927-04-20"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "브뤼셀",
+        "en": "Brussels"
+      },
+      "coordinates": {
+        "lat": 50.85,
+        "lng": 4.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "빅뱅 이론 최초 제안 (원시 원자 가설)",
+      "en": "Proposal of the Big Bang Theory"
+    },
+    "description": {
+      "ko": "천문학자이자 성직자 조르주 르메트르가 우주가 초기의 무한히 작은 상태에서 폭발적으로 팽창하기 시작했다는 빅뱅 이론을 제시함.",
+      "en": "Georges Lemaître first noted that an expanding universe can be traced back in time to an originating single point, the 'Primeval Atom'."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_lemaitre"
+    ],
+    "relatedEvents": [
+      "event_general_relativity"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "대폭발",
+      "en": "Big_Bang"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "event_information_theory",
+    "type": "event",
+    "date": {
+      "start": "1948-07-01",
+      "end": "1948-07-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "뉴저지 (벨 연구소)",
+        "en": "Bell Labs, NJ"
+      },
+      "coordinates": {
+        "lat": 40.68,
+        "lng": -74.39
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "통신의 수학적 이론 발표 (정보 이론)",
+      "en": "Mathematical Theory of Communication"
+    },
+    "description": {
+      "ko": "클로드 섀넌이 정보의 양을 '비트(Bit)'로 정의하는 기념비적인 논문을 출판하여 디지털 정보 이론의 기반을 세움.",
+      "en": "Claude Shannon published 'A Mathematical Theory of Communication', founding the field of information theory."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_shannon"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "정보_이론",
+      "en": "Information_theory"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "event_von_neumann_architecture",
+    "type": "event",
+    "date": {
+      "start": "1945-06-30",
+      "end": "1945-06-30"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "뉴저지 (어드밴스드 스터디)",
+        "en": "Princeton"
+      },
+      "coordinates": {
+        "lat": 40.34,
+        "lng": -74.65
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "폰 노이만 구조 (EDVAC 보고서)",
+      "en": "First Draft of a Report on the EDVAC"
+    },
+    "description": {
+      "ko": "존 폰 노이만이 프로그램 내장 방식의 컴퓨터 구조(CPU, 메모리 분리)를 명시한 보고서를 발표하여 사실상 모든 현대 컴퓨터의 기반이 됨.",
+      "en": "John von Neumann described a computer architecture with stored-program concept, which is used in almost all modern computers."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_von_neumann",
+      "person_alan_turing"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "폰_노이만_구조",
+      "en": "Von_Neumann_architecture"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "event_polio_vaccine",
+    "type": "event",
+    "date": {
+      "start": "1955-04-12",
+      "end": "1955-04-12"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "앤아버 (미시간 대)",
+        "en": "Ann Arbor"
+      },
+      "coordinates": {
+        "lat": 42.28,
+        "lng": -83.74
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "소아마비 백신 성공 발표",
+      "en": "Polio Vaccine Success"
+    },
+    "description": {
+      "ko": "대규모 임상 시험을 거쳐 조너스 소크가 개발한 소아마비 백신의 안전성과 효과가 입증 및 공식 발표되어 환호성에 휩싸임.",
+      "en": "Results of the polio vaccine trial showed the Salk vaccine to be 80-90% effective, a watershed moment in public health."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_jonas_salk"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "소아마비_백신",
+      "en": "Polio_vaccine"
+    },
+    "icon": "⚕️",
+    "importance": 5
+  },
+  {
+    "id": "event_transposon",
+    "type": "event",
+    "date": {
+      "start": "1950-01-01",
+      "end": "1950-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "콜드스프링하버",
+        "en": "Cold Spring Harbor"
+      },
+      "coordinates": {
+        "lat": 40.86,
+        "lng": -73.47
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "트랜스포존(도약 유전자) 발견",
+      "en": "Discovery of Transposons"
+    },
+    "description": {
+      "ko": "바버라 매클린톡이 옥수수의 유전 형질 분석을 통해 유전자가 체계 내에서 이동할 수 있다는 놀라운 사실을 발표함.",
+      "en": "Barbara McClintock discovered transposable elements (jumping genes) that can change position within a genome."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_mcclintock"
+    ],
+    "relatedEvents": [
+      "event_dna_structure"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "트랜스포존",
+      "en": "Transposable_element"
+    },
+    "icon": "🌱",
+    "importance": 4
+  },
+  {
+    "id": "event_archaea",
+    "type": "event",
+    "date": {
+      "start": "1977-11-03",
+      "end": "1977-11-03"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "어배너 (일리노이 대)",
+        "en": "Urbana, Illinois"
+      },
+      "coordinates": {
+        "lat": 40.11,
+        "lng": -88.2
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "고세균(Archaea) 발견 및 제3역 제안",
+      "en": "Discovery of Archaea"
+    },
+    "description": {
+      "ko": "칼 우즈와 조지 폭스가 리보솜 RNA 서열 분석이라는 혁신적인 방법을 통해 메탄 생성균이 기존 세균과 다른 완전히 새로운 계통군(고세균)임을 밝혀냄.",
+      "en": "Carl Woese defined Archaea as a new domain of life, completely distinct from bacteria, based on ribosomal RNA phylogenetic analysis."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_woese"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "고세균",
+      "en": "Archaea"
+    },
+    "icon": "🔬",
+    "importance": 4
+  },
+  {
+    "id": "event_liquid_rocket",
+    "type": "event",
+    "date": {
+      "start": "1926-03-16",
+      "end": "1926-03-16"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "오번",
+        "en": "Auburn, Massachusetts"
+      },
+      "coordinates": {
+        "lat": 42.19,
+        "lng": -71.83
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "최초의 액체 연료 로켓 발사",
+      "en": "First Liquid-Fueled Rocket Launch"
+    },
+    "description": {
+      "ko": "로버트 고다드가 매사추세츠주 오번의 농장에서 세계 최초의 액체 로켓 '넬'을 12미터 상공으로 쏘아 올림.",
+      "en": "Robert Goddard launched the first liquid-fueled rocket, establishing the basis for modern rocketry."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_goddard"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "로버트_고다드#첫_비행",
+      "en": "Robert_H._Goddard#First_flight"
+    },
+    "icon": "🚀",
+    "importance": 5
+  },
+  {
+    "id": "event_sputnik",
+    "type": "event",
+    "date": {
+      "start": "1957-10-04",
+      "end": "1957-10-04"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "바이코누르 우주기지",
+        "en": "Baikonur Cosmodrome"
+      },
+      "coordinates": {
+        "lat": 45.96,
+        "lng": 63.3
+      },
+      "region": "asia"
+    },
+    "title": {
+      "ko": "스푸트니크 1호 발사 (우주 시대 개막)",
+      "en": "Sputnik 1 Launched"
+    },
+    "description": {
+      "ko": "소련이 인류 최초의 인공위성 스푸트니크 1호를 성공적으로 발사하여 미국과 소련 간 우주 경쟁의 서막을 엶.",
+      "en": "The Soviet Union launched the first artificial Earth satellite into an elliptical low Earth orbit."
+    },
+    "category": "experiment",
+    "relatedPeople": [],
+    "relatedEvents": [
+      "event_apollo_11"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "스푸트니크_1호",
+      "en": "Sputnik_1"
+    },
+    "icon": "🛰️",
+    "importance": 5
+  },
+  {
+    "id": "event_first_human_spaceflight",
+    "type": "event",
+    "date": {
+      "start": "1961-04-12",
+      "end": "1961-04-12"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "우주",
+        "en": "Space (Earth Orbit)"
+      },
+      "coordinates": {
+        "lat": 45.96,
+        "lng": 63.3
+      },
+      "region": "asia"
+    },
+    "title": {
+      "ko": "최초의 유인 우주 비행",
+      "en": "First Human Spaceflight"
+    },
+    "description": {
+      "ko": "유리 가가린을 태운 보스토크 1호가 우주로 발사되어 108분간 지구를 돌고 무사히 귀환함.",
+      "en": "Yuri Gagarin became the first human to journey into outer space, traveling aboard the Vostok 1 spacecraft."
+    },
+    "category": "experiment",
+    "relatedPeople": [
+      "person_gagarin"
+    ],
+    "relatedEvents": [
+      "event_sputnik"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "보스토크_1호",
+      "en": "Vostok_1"
+    },
+    "icon": "👨‍🚀",
+    "importance": 5
+  },
+  {
+    "id": "event_voyager_1",
+    "type": "event",
+    "date": {
+      "start": "1977-09-05",
+      "end": "1977-09-05"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "케이프 커내버럴",
+        "en": "Cape Canaveral"
+      },
+      "coordinates": {
+        "lat": 28.39,
+        "lng": -80.6
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "보이저 1호 발사",
+      "en": "Launch of Voyager 1"
+    },
+    "description": {
+      "ko": "목성과 토성을 탐사하기 위해 발사된 무인 우주 탐사선. 현재 태양계를 벗어나 성간 공간을 비행하며 가장 멀리 간 인공 구조물이 됨.",
+      "en": "NASA launched Voyager 1 to study the outer Solar System. It is the most distant human-made object from Earth."
+    },
+    "category": "experiment",
+    "relatedPeople": [
+      "person_carl_sagan"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "보이저_1호",
+      "en": "Voyager_1"
+    },
+    "icon": "🚀",
+    "importance": 5
+  },
+  {
+    "id": "event_hubble_telescope",
+    "type": "event",
+    "date": {
+      "start": "1990-04-24",
+      "end": "1990-04-24"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "지구 저궤도",
+        "en": "Low Earth Orbit"
+      },
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "region": "etc"
+    },
+    "title": {
+      "ko": "허블 우주 망원경 발사",
+      "en": "Hubble Space Telescope Launch"
+    },
+    "description": {
+      "ko": "대기권의 방해 없이 우주를 선명하게 관측할 수 있는 허블 우주 망원경이 우주 왕복선 디스커버리호에 실려 지구 궤도에 올려짐.",
+      "en": "The Hubble Space Telescope was launched into low Earth orbit, revolutionizing astronomy."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_hubble"
+    ],
+    "relatedEvents": [
+      "event_jwst"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "허블_우주_망원경",
+      "en": "Hubble_Space_Telescope"
+    },
+    "icon": "🔭",
+    "importance": 5
+  },
+  {
+    "id": "event_jwst",
+    "type": "event",
+    "date": {
+      "start": "2021-12-25",
+      "end": "2021-12-25"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "기아나 우주 센터",
+        "en": "Guiana Space Centre"
+      },
+      "coordinates": {
+        "lat": 5.23,
+        "lng": -52.76
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "제임스 웹 우주 망원경(JWST) 발사",
+      "en": "James Webb Space Telescope Launch"
+    },
+    "description": {
+      "ko": "인류 역사상 가장 거대하고 성능이 뛰어난 적외선 우주 망원경이 크리스마스에 발사되어 빅뱅 직후의 은하들을 관찰하기 시작함.",
+      "en": "The James Webb Space Telescope was successfully launched to conduct infrared astronomy."
+    },
+    "category": "invention",
+    "relatedPeople": [],
+    "relatedEvents": [
+      "event_hubble_telescope"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제임스_웹_우주_망원경",
+      "en": "James_Webb_Space_Telescope"
+    },
+    "icon": "🔭",
+    "importance": 5
+  },
+  {
+    "id": "event_hawking_radiation",
+    "type": "event",
+    "date": {
+      "start": "1974-03-01",
+      "end": "1974-03-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "케임브리지",
+        "en": "Cambridge"
+      },
+      "coordinates": {
+        "lat": 52.2,
+        "lng": 0.11
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "호킹 복사 이론 발표",
+      "en": "Hawking Radiation Proposed"
+    },
+    "description": {
+      "ko": "스티븐 호킹이 양자역학을 적용하여 블랙홀도 에너지를 방출하며 결국 증발하여 사라질 수 있다는 혁명적 이론을 제출함.",
+      "en": "Stephen Hawking showed theoretically that black holes strongly emit thermal radiation."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_hawking"
+    ],
+    "relatedEvents": [
+      "event_m87_blackhole"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "호킹_복사",
+      "en": "Hawking_radiation"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "event_m87_blackhole",
+    "type": "event",
+    "date": {
+      "start": "2019-04-10",
+      "end": "2019-04-10"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "전 세계 (EHT)",
+        "en": "Global (EHT Project)"
+      },
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "region": "etc"
+    },
+    "title": {
+      "ko": "인류 최초 블랙홀 사진 촬영",
+      "en": "First Image of a Black Hole"
+    },
+    "description": {
+      "ko": "이벤트 호라이즌 망원경(EHT) 연구진이 지구 크기의 가상 망원경을 모아 처녀자리 은하단 중심에 있는 M87 블랙홀의 그림자를 최초로 포착함.",
+      "en": "The Event Horizon Telescope collaboration released the first ever direct image of a black hole (M87*)."
+    },
+    "category": "discovery",
+    "relatedPeople": [],
+    "relatedEvents": [
+      "event_hawking_radiation"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이벤트_호라이즌_망원경#M87",
+      "en": "Event_Horizon_Telescope#Messier_87"
+    },
+    "icon": "🔭",
+    "importance": 5
+  },
+  {
+    "id": "event_first_compiler",
+    "type": "event",
+    "date": {
+      "start": "1952-01-01",
+      "end": "1952-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "미국",
+        "en": "United States"
+      },
+      "coordinates": {
+        "lat": 38.9,
+        "lng": -77.03
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "최초의 컴파일러 발명 (A-0)",
+      "en": "Invention of the First Compiler (A-0)"
+    },
+    "description": {
+      "ko": "그레이스 호퍼가 기계어 대신 사람이 이해하기 쉬운 코드로 프로그램을 작성하고 변환하는 컴파일러를 세계 최초로 개발함.",
+      "en": "Grace Hopper completed the A-0 system, which is considered the first compiler for an electronic computer."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_grace_hopper"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "컴파일러",
+      "en": "Compiler"
+    },
+    "icon": "💻",
+    "importance": 4
+  },
+  {
+    "id": "event_transistor",
+    "type": "event",
+    "date": {
+      "start": "1947-12-16",
+      "end": "1947-12-16"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "뉴저지 머리힐 (벨 연구소)",
+        "en": "Murray Hill, NJ (Bell Labs)"
+      },
+      "coordinates": {
+        "lat": 40.69,
+        "lng": -74.4
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "트랜지스터의 발명",
+      "en": "Invention of the Transistor"
+    },
+    "description": {
+      "ko": "벨 연구소의 과학자들이 최초의 점접촉 트랜지스터를 만들어내어, 거대한 진공관을 대체하고 전자 기기의 소형화를 가능케 함.",
+      "en": "John Bardeen and Walter Brattain demonstrated the first working point-contact transistor at Bell Labs."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_john_bardeen",
+      "person_william_shockley"
+    ],
+    "relatedEvents": [
+      "event_integrated_circuit"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "트랜지스터",
+      "en": "Transistor"
+    },
+    "icon": "⚡",
+    "importance": 5
+  },
+  {
+    "id": "event_integrated_circuit",
+    "type": "event",
+    "date": {
+      "start": "1958-09-12",
+      "end": "1958-09-12"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "댈러스 (텍사스 인스트루먼트)",
+        "en": "Dallas"
+      },
+      "coordinates": {
+        "lat": 32.77,
+        "lng": -96.79
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "집적 회로(마이크로칩)의 탄생",
+      "en": "Invention of Integrated Circuit"
+    },
+    "description": {
+      "ko": "잭 킬비와 로버트 노이스가 수많은 트랜지스터를 하나의 실리콘 칩으로 통합하는 집적 회로를 발명하여 컴퓨터 혁명을 주도함.",
+      "en": "Jack Kilby demonstrated the first working integrated circuit, revolutionizing electronics and computing."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_jack_kilby"
+    ],
+    "relatedEvents": [
+      "event_transistor"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "집적_회로",
+      "en": "Integrated_circuit"
+    },
+    "icon": "💻",
+    "importance": 5
+  },
+  {
+    "id": "event_linux_release",
+    "type": "event",
+    "date": {
+      "start": "1991-09-17",
+      "end": "1991-09-17"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "헬싱키",
+        "en": "Helsinki"
+      },
+      "coordinates": {
+        "lat": 60.16,
+        "lng": 24.93
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "리눅스 커널 첫 공개",
+      "en": "Linux Kernel Released"
+    },
+    "description": {
+      "ko": "대학생이던 리누스 토르발스가 무료 오픈 소스 운영 체제 '리눅스'의 첫 번째 버전을 인터넷 구루들에게 공개함. 오픈 소스 운동의 최고 승리작.",
+      "en": "Linus Torvalds released the first version of the Linux kernel to the internet."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_linus_torvalds"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "리눅스_커널",
+      "en": "Linux_kernel"
+    },
+    "icon": "💻",
+    "importance": 4
+  },
+  {
+    "id": "event_dartmouth_ai",
+    "type": "event",
+    "date": {
+      "start": "1956-06-18",
+      "end": "1956-08-17"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "해노버 (다트머스 대학)",
+        "en": "Hanover (Dartmouth)"
+      },
+      "coordinates": {
+        "lat": 43.7,
+        "lng": -72.28
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "다트머스 회의 (인공지능의 탄생)",
+      "en": "Dartmouth Workshop on AI"
+    },
+    "description": {
+      "ko": "존 매카시, 마빈 민스키 등의 연구자가 모인 여름 워크숍에서 '인공지능(Artificial Intelligence)'이라는 용어가 최초로 사용되며 공식 학문으로 닻을 올림.",
+      "en": "A summer research project at Dartmouth College is widely considered to be the founding event of Artificial Intelligence."
+    },
+    "category": "experiment",
+    "relatedPeople": [],
+    "relatedEvents": [
+      "event_alphago"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "다트머스_회의",
+      "en": "Dartmouth_workshop"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "event_alphago",
+    "type": "event",
+    "date": {
+      "start": "2016-03-09",
+      "end": "2016-03-15"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "서울",
+        "en": "Seoul"
+      },
+      "coordinates": {
+        "lat": 37.56,
+        "lng": 126.97
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "알파고 vs 이세돌 대국",
+      "en": "AlphaGo versus Lee Sedol"
+    },
+    "description": {
+      "ko": "구글 딥마인드의 인공지능 알파고가 최난해한 보드게임인 바둑에서 인간 최고수 이세돌 9단을 침몰시키며 전 세계에 AI 시대의 충격을 안겨줌.",
+      "en": "DeepMind's AlphaGo AI beat the world champion Go player Lee Sedol in a five-game match."
+    },
+    "category": "experiment",
+    "relatedPeople": [],
+    "relatedEvents": [
+      "event_dartmouth_ai"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "알파고_대_이세돌",
+      "en": "AlphaGo_versus_Lee_Sedol"
+    },
+    "icon": "💻",
+    "importance": 5
+  },
+  {
+    "id": "event_incompleteness_theorem",
+    "type": "event",
+    "date": {
+      "start": "1931-01-01",
+      "end": "1931-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "빈",
+        "en": "Vienna"
+      },
+      "coordinates": {
+        "lat": 48.2,
+        "lng": 16.37
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "괴델의 불완전성 정리",
+      "en": "Incompleteness Theorems Published"
+    },
+    "description": {
+      "ko": "쿠르트 괴델이 충분히 복잡한 수학 체계는 모순이 없음을 그 체계 안에서 증명할 수 없다는 정리를 발표하여 수학의 한계를 증명함.",
+      "en": "Kurt Gödel published his two incompleteness theorems, which are fundamental in mathematical logic."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_godel"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "괴델의_불완전성_정리",
+      "en": "Gödel's_incompleteness_theorems"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "event_continental_drift",
+    "type": "event",
+    "date": {
+      "start": "1912-01-06",
+      "end": "1912-01-06"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "프랑크푸르트",
+        "en": "Frankfurt"
+      },
+      "coordinates": {
+        "lat": 50.11,
+        "lng": 8.68
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "대륙 이동설 제안",
+      "en": "Proposal of Continental Drift"
+    },
+    "description": {
+      "ko": "알프레트 베게너가 과거 하나로 뭉쳐있던 판게아 대륙이 쪼개지고 서서히 벌어져 현재의 지도가 되었다는 대륙 이동설을 발표함.",
+      "en": "Alfred Wegener proposed the scientific theory that continents act like giant puzzles and drift over time."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_alfred_wegener"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "대륙_이동설",
+      "en": "Continental_drift"
+    },
+    "icon": "🌍",
+    "importance": 5
+  },
+  {
+    "id": "event_ichthyosaur_discovery",
+    "type": "event",
+    "date": {
+      "start": "1811-01-01",
+      "end": "1811-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "쥐라기 해안 (영국)",
+        "en": "Jurassic Coast"
+      },
+      "coordinates": {
+        "lat": 50.72,
+        "lng": -2.93
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "최초의 이크티오사우루스 화석 발견",
+      "en": "Discovery of the First Ichthyosaur"
+    },
+    "description": {
+      "ko": "당시 겨우 12살이던 메리 애닝이 발굴한 완벽한 쥐라기 화석으로 인해 인류의 고생물학과 생물 멸종에 관한 인식이 완전히 뒤바뀜.",
+      "en": "Mary Anning discovered the first complete Ichthyosaur skeleton, changing paleontology."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_mary_anning"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_ammonite"
+    ],
+    "wikipedia": {
+      "ko": "어룡",
+      "en": "Ichthyosaur"
+    },
+    "icon": "🦖",
+    "importance": 4
+  },
+  {
+    "id": "event_silent_spring",
+    "type": "event",
+    "date": {
+      "start": "1962-09-27",
+      "end": "1962-09-27"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "뉴욕",
+        "en": "New York"
+      },
+      "coordinates": {
+        "lat": 40.71,
+        "lng": -74
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "«침묵의 봄» 출판",
+      "en": "Publication of Silent Spring"
+    },
+    "description": {
+      "ko": "레이첼 카슨이 DDT 같은 무분별한 화학 농약이 생태계를 파괴함을 고발하여 서구 사회에 큰 충격을 줌. 글로벌 환경 운동의 바이블.",
+      "en": "Rachel Carson published 'Silent Spring', bringing environmental concerns to the American public."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_rachel_carson"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "침묵의_봄",
+      "en": "Silent_Spring"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "event_chemical_bond",
+    "type": "event",
+    "date": {
+      "start": "1939-01-01",
+      "end": "1939-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "이타카 (코넬 출판부)",
+        "en": "Ithaca"
+      },
+      "coordinates": {
+        "lat": 42.44,
+        "lng": -76.5
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "«화학 결합의 본성» 출판",
+      "en": "The Nature of the Chemical Bond"
+    },
+    "description": {
+      "ko": "라이너스 폴링이 양자 역학을 이용해 분자와 화합물이 결합하는 원리를 체계화한 화학 분야의 최고의 명저를 출판.",
+      "en": "Linus Pauling published his defining work which became one of the most influential chemistry books ever."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_linus_pauling"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "라이너스_폴링#주요_업적",
+      "en": "The_Nature_of_the_Chemical_Bond"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "event_haber_process",
+    "type": "event",
+    "date": {
+      "start": "1909-07-02",
+      "end": "1909-07-02"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "카를스루에",
+        "en": "Karlsruhe"
+      },
+      "coordinates": {
+        "lat": 49,
+        "lng": 8.4
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "하버-보슈법 성공 (암모니아 합성)",
+      "en": "Haber-Bosch Process"
+    },
+    "description": {
+      "ko": "프리츠 하버가 공기 중의 질소에서 직접 암모니아를 합성하는 공정을 만들어내어 식량 위기를 막고 인구 폭발을 주도함.",
+      "en": "Fritz Haber successfully demonstrated a process to synthesize ammonia from nitrogen and hydrogen gases."
+    },
+    "category": "invention",
+    "relatedPeople": [
+      "person_fritz_haber"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "하버법",
+      "en": "Haber_process"
+    },
+    "icon": "🔬",
+    "importance": 5
+  },
+  {
+    "id": "event_b12_structure",
+    "type": "event",
+    "date": {
+      "start": "1955-08-01",
+      "end": "1955-08-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "옥스퍼드",
+        "en": "Oxford"
+      },
+      "coordinates": {
+        "lat": 51.75,
+        "lng": -1.25
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "비타민 B12의 3차원 구조 규명",
+      "en": "Structure of Vitamin B12"
+    },
+    "description": {
+      "ko": "도로시 호지킨이 복잡하고 무거운 비타민 B12의 분자 구조를 X선 회절 결정학만으로 완전하게 풀어내어 의학계를 놀라게 함.",
+      "en": "Dorothy Hodgkin solved the exceptionally complex crystal structure of vitamin B12."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_dorothy_hodgkin"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "비타민_B12",
+      "en": "Vitamin_B12"
+    },
+    "icon": "🔬",
+    "importance": 4
+  },
+  {
+    "id": "event_cosmos_humboldt",
+    "type": "event",
+    "date": {
+      "start": "1845-01-01",
+      "end": "1862-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "베를린",
+        "en": "Berlin"
+      },
+      "coordinates": {
+        "lat": 52.52,
+        "lng": 13.4
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "«코스모스»(훔볼트) 출판",
+      "en": "Publication of Kosmos"
+    },
+    "description": {
+      "ko": "훔볼트가 우주, 지구, 자연 그리고 식생 등 지구상의 모든 현상들이 촘촘히 연결되어 있다는 자연 생태관계를 집대성하여 출판함.",
+      "en": "Alexander von Humboldt published Kosmos, an influential treatise on science and nature."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_humboldt"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "알렉산더_폰_훔볼트#주요_저서",
+      "en": "Kosmos_(Humboldt)"
+    },
+    "icon": "📖",
+    "importance": 4
+  },
+  {
+    "id": "event_comparative_anatomy",
+    "type": "event",
+    "date": {
+      "start": "1817-01-01",
+      "end": "1817-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "파리",
+        "en": "Paris"
+      },
+      "coordinates": {
+        "lat": 48.85,
+        "lng": 2.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "«동물의 왕국» (비교 해부학의 완성)",
+      "en": "Le Règne Animal"
+    },
+    "description": {
+      "ko": "조르주 퀴비에가 화석 동물과 현생 동물의 해부학적 구조를 비교 분석하여 멸종이라는 새로운 개념을 과학적으로 입증함.",
+      "en": "Georges Cuvier published his definitive work 'Le Règne Animal', establishing paleontology."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_cuvier"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "조르주_퀴비에#비교_해부학과_고생물학",
+      "en": "Le_Règne_Animal"
+    },
+    "icon": "🦴",
+    "importance": 4
+  },
+  {
+    "id": "event_principles_geology",
+    "type": "event",
+    "date": {
+      "start": "1830-01-01",
+      "end": "1833-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "«지질학 원리» 출판 (동일과정설)",
+      "en": "Principles of Geology"
+    },
+    "description": {
+      "ko": "찰스 라이엘의 저서. '현재는 과거의 열쇠다'라며 지구의 변화는 느리고 점진적으로 일어남을 대중화하여 찰스 다윈에게 거대한 영감을 줌.",
+      "en": "Charles Lyell published Principles of Geology, which popularized the doctrine of uniformitarianism."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_lyell"
+    ],
+    "relatedEvents": [
+      "event_origin_of_species"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "지질학의_원리",
+      "en": "Principles_of_Geology"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "event_theory_of_earth",
+    "type": "event",
+    "date": {
+      "start": "1788-03-07",
+      "end": "1788-03-07"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "에든버러",
+        "en": "Edinburgh"
+      },
+      "coordinates": {
+        "lat": 55.95,
+        "lng": -3.18
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "«지구 이론» 발표",
+      "en": "Theory of the Earth"
+    },
+    "description": {
+      "ko": "제임스 허턴이 지구가 끝없이 순환하며 그 나이가 추정할 수 없을 만큼 깊다는 사실을 제시하여 성서 중심의 천지창조 연대를 뒤집음.",
+      "en": "James Hutton read his 'Theory of the Earth' to the Royal Society of Edinburgh."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_hutton"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제임스_허턴",
+      "en": "Theory_of_the_Earth"
+    },
+    "icon": "🌍",
+    "importance": 4
+  },
+  {
+    "id": "event_ria",
+    "type": "event",
+    "date": {
+      "start": "1959-01-01",
+      "end": "1959-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "브롱크스",
+        "en": "Bronx, NY"
+      },
+      "coordinates": {
+        "lat": 40.84,
+        "lng": -73.87
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "방사성면역측정법(RIA) 개발",
+      "en": "Development of RIA"
+    },
+    "description": {
+      "ko": "로잘린 얠로 팀이 방사성 동위원소를 이용하여 혈액 내 각종 극미량 호르몬을 검출하는 획기적인 임상 의학의 토대를 만듦.",
+      "en": "Rosalyn Yalow and Solomon Berson developed the radioimmunoassay technique."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_yalow"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "방사면역측정법",
+      "en": "Radioimmunoassay"
+    },
+    "icon": "⚕️",
+    "importance": 4
+  },
+  {
+    "id": "event_artemisinin",
+    "type": "event",
+    "date": {
+      "start": "1971-10-01",
+      "end": "1971-10-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "베이징",
+        "en": "Beijing"
+      },
+      "coordinates": {
+        "lat": 39.9,
+        "lng": 116.4
+      },
+      "region": "asia"
+    },
+    "title": {
+      "ko": "아르테미시닌 발견 (말라리아 치료)",
+      "en": "Discovery of Artemisinin"
+    },
+    "description": {
+      "ko": "프로젝트 523 소속의 투유유가 개똥쑥에서 유효 성분을 낮은 온도로 축출해내어 기적의 항말라리아 치료제 아르테미시닌을 손에 넣음.",
+      "en": "Tu Youyou discovered Artemisinin, a breakthrough anti-malarial drug extracted from sweet wormwood."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_tu_youyou"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아르테미시닌",
+      "en": "Artemisinin"
+    },
+    "icon": "🌿",
+    "importance": 5
+  },
+  {
+    "id": "event_parity_violation",
+    "type": "event",
+    "date": {
+      "start": "1956-12-01",
+      "end": "1956-12-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "워싱턴 D.C. (NBS)",
+        "en": "Washington, D.C."
+      },
+      "coordinates": {
+        "lat": 38.89,
+        "lng": -77.03
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "우 실험 (패리티 비보존 법칙 증명)",
+      "en": "Wu Experiment"
+    },
+    "description": {
+      "ko": "우첸슝이 초저온에서 코발트-60의 베타 붕괴를 관찰하여 입자물리학의 약력에서 좌우 대칭(패리티)이 깨짐을 완벽하게 증명해냄.",
+      "en": "The Wu experiment established that parity is not conserved in weak nuclear interactions."
+    },
+    "category": "experiment",
+    "relatedPeople": [
+      "person_wu"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "우_실험",
+      "en": "Wu_experiment"
+    },
+    "icon": "🔬",
+    "importance": 5
+  },
+  {
+    "id": "event_nuclear_fission",
+    "type": "event",
+    "date": {
+      "start": "1939-02-11",
+      "end": "1939-02-11"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "스톡홀름",
+        "en": "Stockholm"
+      },
+      "coordinates": {
+        "lat": 59.32,
+        "lng": 18.06
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "우라늄 핵분열 메커니즘 해석",
+      "en": "Explanation of Nuclear Fission"
+    },
+    "description": {
+      "ko": "망명 중이던 리제 마이트너가 우라늄에 중성자를 쏘아 생긴 바륨의 원인을 '원자핵 쪼개짐(핵분열)' 현상으로 명쾌히 설명하고 질량 감손 에너지(E=mc²)를 확인.",
+      "en": "Lise Meitner and Otto Frisch published the theoretical explanation for the process of nuclear fission."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_meitner"
+    ],
+    "relatedEvents": [
+      "event_trinity_test"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "원자핵분열",
+      "en": "Nuclear_fission"
+    },
+    "icon": "🔥",
+    "importance": 5
+  },
+  {
+    "id": "event_chimp_tools",
+    "type": "event",
+    "date": {
+      "start": "1960-11-04",
+      "end": "1960-11-04"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "곰베 계곡 (탄자니아)",
+        "en": "Gombe Stream"
+      },
+      "coordinates": {
+        "lat": -4.66,
+        "lng": 29.62
+      },
+      "region": "africa"
+    },
+    "title": {
+      "ko": "침팬지의 도구 사용 발견",
+      "en": "Observation of Chimp Tool Use"
+    },
+    "description": {
+      "ko": "제인 구달이 침팬지가 풀줄기를 다듬어 개미를 사냥하는 모습을 목격. 인류만의 특권이라 여겨졌던 '도구의 제작과 사용'의 정의를 뒤흔듦.",
+      "en": "Jane Goodall observed a chimpanzee using objects as tools to fish for termites."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_jane_goodall"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제인_구달#업적",
+      "en": "Jane_Goodall#Research_and_discoveries"
+    },
+    "icon": "🐒",
+    "importance": 5
+  },
+  {
+    "id": "event_first_microbe",
+    "type": "event",
+    "date": {
+      "start": "1674-01-01",
+      "end": "1674-01-01"
+    },
+    "era": "premodern",
+    "location": {
+      "name": {
+        "ko": "델프트",
+        "en": "Delft"
+      },
+      "coordinates": {
+        "lat": 52.01,
+        "lng": 4.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "미생물의 최초 관찰",
+      "en": "First Observation of Microorganisms"
+    },
+    "description": {
+      "ko": "안토니 판 레이우엔훅이 성능 좋은 단일 렌즈 현미경으로 호숫물을 치여다보고 눈에 보이지 않는 수많은 극미동물들을 세상에 처음 보고함.",
+      "en": "Antonie van Leeuwenhoek provides the first description of bacteria and other microorganisms."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_leeuwenhoek"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "현미경",
+      "en": "Microorganism#Discovery"
+    },
+    "icon": "🦠",
+    "importance": 5
+  },
+  {
+    "id": "event_micrographia",
+    "type": "event",
+    "date": {
+      "start": "1665-01-01",
+      "end": "1665-01-01"
+    },
+    "era": "premodern",
+    "location": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "«마이크로그라피아» 출판 ('세포' 명명)",
+      "en": "Publication of Micrographia"
+    },
+    "description": {
+      "ko": "로버트 훅이 다양한 곤충과 식물의 접사 관찰화를 실은 책을 발간. 코르크의 단면을 보며 '세포(Cell)'라는 용어를 사상 최초로 사용함.",
+      "en": "Robert Hooke published Micrographia, coining the term 'cell' for the basic unit of life."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_robert_hooke"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "마이크로그라피아",
+      "en": "Micrographia"
+    },
+    "icon": "📖",
+    "importance": 4
+  },
+  {
+    "id": "event_fabric_of_human",
+    "type": "event",
+    "date": {
+      "start": "1543-01-01",
+      "end": "1543-01-01"
+    },
+    "era": "premodern",
+    "location": {
+      "name": {
+        "ko": "바젤",
+        "en": "Basel"
+      },
+      "coordinates": {
+        "lat": 47.55,
+        "lng": 7.59
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "«인체의 구조에 관하여» 출간",
+      "en": "De humani corporis fabrica Published"
+    },
+    "description": {
+      "ko": "안드레아스 베살리우스가 갈레노스의 잘못된 동물 해부 지식을 비판하고 실제 인체 해부를 바탕으로 한 현대 해부학의 기념비를 세움. 다수의 서적과 같은 해 발행.",
+      "en": "Andreas Vesalius published his foundational work on human anatomy, changing medicine forever."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_vesalius"
+    ],
+    "relatedEvents": [
+      "event_scientific_revolution_start"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "데_휴마니_코포리스_파스리카",
+      "en": "De_humani_corporis_fabrica"
+    },
+    "icon": "🦴",
+    "importance": 5
+  },
+  {
+    "id": "event_rose_diagram",
+    "type": "event",
+    "date": {
+      "start": "1858-01-01",
+      "end": "1858-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "사망률 통계 분석 (장미 도표) 발표",
+      "en": "Publication of Coxcomb Diagram"
+    },
+    "description": {
+      "ko": "플로렌스 나이팅게일이 크림 전쟁 중 영국 군인의 폐사 원인을 조사하여, 전투 부상보다 감염 예방 미흡으로 더 많이 죽었음을 한눈에 알 수 있는 장미 도표(극좌표 그래프)를 발표.",
+      "en": "Florence Nightingale created the 'Coxcomb' diagram to show causes of mortality in the army, pioneering data visualization."
+    },
+    "category": "publication",
+    "relatedPeople": [
+      "person_nightingale"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "플로렌스_나이팅게일#통계학과_위생",
+      "en": "Florence_Nightingale#Statistics_and_sanitary_reform"
+    },
+    "icon": "📊",
+    "importance": 5
+  },
+  {
+    "id": "event_vaccine",
+    "type": "event",
+    "date": {
+      "start": "1796-05-14",
+      "end": "1796-05-14"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "버클리",
+        "en": "Berkeley, Gloucestershire"
+      },
+      "coordinates": {
+        "lat": 51.69,
+        "lng": -2.45
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "천연두 백신(종두법) 발명",
+      "en": "Invention of the Smallpox Vaccine"
+    },
+    "description": {
+      "ko": "에드워드 제너가 우두고름을 8세 소년 제임스 핍스에게 접종한 뒤 천연두 병원균을 투여, 소년이 병에 걸리지 않는 것을 증명하여 면역학의 새 장을 염.",
+      "en": "Edward Jenner tested his hypothesis that infection with cowpox could protect a person from smallpox infection."
+    },
+    "category": "experiment",
+    "relatedPeople": [
+      "person_edward_jenner"
+    ],
+    "relatedEvents": [
+      "event_polio_vaccine"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "종두법",
+      "en": "Smallpox_vaccine"
+    },
+    "icon": "💉",
+    "importance": 5
+  },
+  {
+    "id": "event_blood_groups",
+    "type": "event",
+    "date": {
+      "start": "1900-01-01",
+      "end": "1901-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "빈",
+        "en": "Vienna"
+      },
+      "coordinates": {
+        "lat": 48.2,
+        "lng": 16.37
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "ABO식 혈액형 발견",
+      "en": "Discovery of ABO Blood Groups"
+    },
+    "description": {
+      "ko": "카를 란트슈타이너가 혈액 응집 반응이 무작위가 아니라 A, B, C(후의 O) 세 가지 유형의 상호작용 때문이라는 사실을 밝혀, 치명적인 수혈 부작용을 원천 차단함.",
+      "en": "Karl Landsteiner discovered the ABO blood group system, paving the way for safe blood transfusions."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_karl_landsteiner"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "ABO_혈액형",
+      "en": "ABO_blood_group_system"
+    },
+    "icon": "🩸",
+    "importance": 5
+  },
+  {
+    "id": "event_salvarsan",
+    "type": "event",
+    "date": {
+      "start": "1909-08-31",
+      "end": "1909-08-31"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "프랑크푸르트",
+        "en": "Frankfurt"
+      },
+      "coordinates": {
+        "lat": 50.11,
+        "lng": 8.68
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "살바르산(606호)의 합성 (마법의 탄환)",
+      "en": "Discovery of Salvarsan"
+    },
+    "description": {
+      "ko": "파울 에를리히 팀이 수백 번의 실패 끝에 매독균만을 정확히 조준하여 폭격하는 치료제인 화합물 606호를 발견하여 항균 화학요법의 여명을 밝힘.",
+      "en": "Paul Ehrlich and Sahachiro Hata discovered Salvarsan (compound 606), the first effective treatment for syphilis."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_paul_ehrlich"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "파울_에를리히#주요_업적",
+      "en": "Arsphenamine"
+    },
+    "icon": "💊",
+    "importance": 5
+  },
+  {
+    "id": "event_ghost_map",
+    "type": "event",
+    "date": {
+      "start": "1854-09-07",
+      "end": "1854-09-07"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "런던 (브로드 스트리트)",
+        "en": "London (Broad Street)"
+      },
+      "coordinates": {
+        "lat": 51.51,
+        "lng": -0.13
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "런던 콜레라 역학 조사",
+      "en": "Broad Street Cholera Outbreak"
+    },
+    "description": {
+      "ko": "의사 존 스노가 콜레라의 대유행 원인이 '나쁜 공기(장기설)'가 아니며 오염된 식수임을 증명한 소호 지역 사망 지도를 그려 펌프 손잡이를 제거함.",
+      "en": "Dr. John Snow traced the source of a cholera outbreak to a contaminated public water pump in Soho, establishing modern epidemiology."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_john_snow"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "존_스노_(의사)",
+      "en": "1854_Broad_Street_cholera_outbreak"
+    },
+    "icon": "🗺️",
+    "importance": 5
+  },
+  {
+    "id": "event_hand_washing",
+    "type": "event",
+    "date": {
+      "start": "1847-05-15",
+      "end": "1847-05-15"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "빈 (오스트리아)",
+        "en": "Vienna"
+      },
+      "coordinates": {
+        "lat": 48.2,
+        "lng": 16.37
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "산욕열 감염 예방을 위한 손 씻기 도입",
+      "en": "Implementation of Hand-washing"
+    },
+    "description": {
+      "ko": "이그나츠 제멜바이스가 분만실에서 의사가 시체 해부 후 손을 염소액으로 소독하도록 강제하여 임산부 사망률을 드라마틱하게 낮추었으나, 당시 주류 의학계로부터 멸시를 당함.",
+      "en": "Ignaz Semmelweis introduced mandatory hand washing with chlorinated lime solutions for doctors, dramatically reducing puerperal fever mortality."
+    },
+    "category": "experiment",
+    "relatedPeople": [
+      "person_semmelweis"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "산욕열",
+      "en": "Ignaz_Semmelweis"
+    },
+    "icon": "🧼",
+    "importance": 4
+  },
+  {
+    "id": "event_kt_extinction",
+    "type": "event",
+    "date": {
+      "start": "1980-06-06",
+      "end": "1980-06-06"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "미국 (버클리)",
+        "en": "Berkeley, CA"
+      },
+      "coordinates": {
+        "lat": 37.87,
+        "lng": -122.25
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "백악기 대멸종 운석 충돌 가설 발표",
+      "en": "Alvarez Hypothesis Proposed"
+    },
+    "description": {
+      "ko": "앨버레즈 부자가 이탈리아 구비오의 K-Pg 경계층 점토에서 비정상적으로 높은 농도의 이리듐을 발견하고 6500만 년 전 칙술루브 소행성 충돌이 공룡을 쓸어버렸다고 주장.",
+      "en": "Luis and Walter Alvarez published their claim that a large asteroid impact caused the Cretaceous-Paleogene extinction."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_luis_alvarez"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "K-Pg_멸종",
+      "en": "Alvarez_hypothesis"
+    },
+    "icon": "☄️",
+    "importance": 5
+  },
+  {
+    "id": "event_fields_medal_female",
+    "type": "event",
+    "date": {
+      "start": "2014-08-13",
+      "end": "2014-08-13"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "서울",
+        "en": "Seoul"
+      },
+      "coordinates": {
+        "lat": 37.56,
+        "lng": 126.97
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "여성 최초 필즈상 수상 (마리암 미르자하니)",
+      "en": "First Woman Awarded the Fields Medal"
+    },
+    "description": {
+      "ko": "서울에서 열린 세계수학자대회(ICM)에서 마리암 미르자하니가 기하학과 동역학 분야의 뛰어난 성과를 인정받아 여성 수학자로서 역사상 처음으로 필즈상을 거머쥠.",
+      "en": "Maryam Mirzakhani became the first woman to win the Fields Medal at the ICM in Seoul."
+    },
+    "category": "experiment",
+    "relatedPeople": [
+      "person_maryam_mirzakhani"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "마리암_미르자하니",
+      "en": "Fields_Medal"
+    },
+    "icon": "📐",
+    "importance": 4
+  },
+  {
+    "id": "event_ips_cells",
+    "type": "event",
+    "date": {
+      "start": "2006-08-25",
+      "end": "2006-08-25"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "교토",
+        "en": "Kyoto"
+      },
+      "coordinates": {
+        "lat": 35.01,
+        "lng": 135.76
+      },
+      "region": "asia"
+    },
+    "title": {
+      "ko": "유도 만능 줄기세포(iPS 세포) 확립",
+      "en": "Creation of iPS Cells"
+    },
+    "description": {
+      "ko": "야마나카 신야가 분화가 끝난 쥐의 체세포에 단 4개의 특정 유전자(야마나카 인자)를 주입해, 배아줄기세포처럼 어떤 세포로든 분화가 가능한 iPS 세포를 만들어냄.",
+      "en": "Shinya Yamanaka's team published the generation of induced pluripotent stem cells from adult mouse fibroblasts."
+    },
+    "category": "discovery",
+    "relatedPeople": [
+      "person_shinya_yamanaka"
+    ],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "유도만능줄기세포",
+      "en": "Induced_pluripotent_stem_cell"
+    },
+    "icon": "🧬",
+    "importance": 5
+  }
+]

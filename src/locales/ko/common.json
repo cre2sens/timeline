@@ -1,0 +1,103 @@
+{
+  "app": {
+    "title": "Chronos 연대기",
+    "subtitle": "역사와 지리의 시간여행"
+  },
+  "header": {
+    "search": "검색...",
+    "filter": "필터"
+  },
+  "filter": {
+    "era": "시대",
+    "region": "지역",
+    "category": "카테고리",
+    "type": "유형",
+    "importance": "중요도",
+    "mediaType": "미디어 유형",
+    "all": "전체",
+    "event": "사건",
+    "person": "인물",
+    "reset": "필터 초기화",
+    "results": "{{count}}건"
+  },
+  "era": {
+    "ancient": "고대",
+    "medieval": "중세",
+    "earlyModern": "근세",
+    "modern": "근대",
+    "contemporary": "현대",
+    "unknown": "미지"
+  },
+  "region": {
+    "eastAsia": "동아시아",
+    "europe": "유럽",
+    "middleEast": "중동",
+    "americas": "아메리카",
+    "africa": "아프리카",
+    "southAsia": "남아시아",
+    "korea": "한국",
+    "unknown": "기타"
+  },
+  "category": {
+    "politics": "정치",
+    "battle": "전쟁·군사",
+    "culture": "문화·예술",
+    "invention": "과학·기술",
+    "discovery": "탐험·지리",
+    "thought": "철학·사상",
+    "science": "과학",
+    "other": "기타"
+  },
+  "filters": {
+    "categories": {
+      "politics": "정치",
+      "battle": "전쟁·군사",
+      "culture": "문화·예술",
+      "invention": "과학·기술",
+      "discovery": "탐험·지리",
+      "thought": "철학·사상",
+      "science": "과학",
+      "other": "기타"
+    }
+  },
+  "common": {
+    "events": "사건",
+    "people": "인물",
+    "media": "미디어"
+  },
+  "stats": {
+    "title": "데이터 통계 분석",
+    "count": "개수",
+    "total": "합계",
+    "eraDistribution": "시대별 데이터 분포",
+    "categoryShare": "분야별 비중",
+    "regionShare": "지역별 비중",
+    "contentTypes": "데이터 유형별 분포",
+    "lastUpdated": "최종 업데이트: 2026-03-14"
+  },
+  "detail": {
+    "wiki": "위키",
+    "media": "미디어",
+    "noSelection": "타임라인이나 지구본에서 항목을 선택하세요",
+    "noWikiData": "위키피디아 정보를 찾을 수 없습니다",
+    "noMedia": "관련 미디어가 없습니다",
+    "loading": "로딩 중...",
+    "viewOnWiki": "위키피디아에서 보기",
+    "viewOnImdb": "IMDb에서 보기",
+    "relatedEvents": "관련 사건",
+    "relatedPeople": "관련 인물",
+    "period": "기간",
+    "location": "장소"
+  },
+  "media": {
+    "movie": "영화·드라마",
+    "novel": "소설·문학",
+    "music": "음악·오페라"
+  },
+  "globe": {
+    "title": "3D 지구본"
+  },
+  "timeline": {
+    "title": "타임라인"
+  }
+}

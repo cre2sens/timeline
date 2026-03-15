@@ -1,0 +1,6238 @@
+[
+  {
+    "id": "person_taejo",
+    "type": "person",
+    "date": {
+      "start": "1335-10-27",
+      "end": "1408-06-18"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "태조 (이성계)",
+      "en": "King Taejo (Yi Seong-gye)"
+    },
+    "description": {
+      "ko": "조선 제1대 왕(재위 1392-1398). 조선 건국 시조. 위화도 회군으로 권력을 잡고 한양을 도읍으로 정함.",
+      "en": "1st King of Joseon. Founder of the Dynasty who moved the capital to Seoul."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "함흥",
+        "en": "Hamheung"
+      },
+      "coordinates": {
+        "lat": 39.92,
+        "lng": 127.54
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_joseon_founding"
+    ],
+    "relatedMedia": [
+      "media_drama_jeongdojeon",
+      "media_drama_teajong_ibangwon"
+    ],
+    "wikipedia": {
+      "ko": "조선_태조",
+      "en": "Taejo_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_jeongjong",
+    "type": "person",
+    "date": {
+      "start": "1357-07-18",
+      "end": "1419-10-15"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "정종 (이방과)",
+      "en": "King Jeongjong (Yi Bang-gwa)"
+    },
+    "description": {
+      "ko": "조선 제2대 왕(재위 1398-1400). 태조의 둘째 아들로, 왕자의 난 이후 즉위함.",
+      "en": "2nd King of Joseon. Second son of Taejo."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "함흥",
+        "en": "Hamheung"
+      },
+      "coordinates": {
+        "lat": 39.92,
+        "lng": 127.54
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_drama_teajong_ibangwon"
+    ],
+    "wikipedia": {
+      "ko": "조선_정종",
+      "en": "Jeongjong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_taejong",
+    "type": "person",
+    "date": {
+      "start": "1367-06-13",
+      "end": "1422-05-30"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "태종 (이방원)",
+      "en": "King Taejong (Yi Bang-won)"
+    },
+    "description": {
+      "ko": "조선 제3대 왕(재위 1400-1418). 왕권 강화의 틀을 다진 군주. 호패법 실시 및 중앙 집권 구축.",
+      "en": "3rd King of Joseon. Strengthened royal authority and established centralized governance."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "함흥",
+        "en": "Hamheung"
+      },
+      "coordinates": {
+        "lat": 39.92,
+        "lng": 127.54
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_drama_teajong_ibangwon",
+      "media_drama_six_dragons"
+    ],
+    "wikipedia": {
+      "ko": "조선_태종",
+      "en": "Taejong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_sejong",
+    "type": "person",
+    "date": {
+      "start": "1397-05-07",
+      "end": "1450-03-30"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "세종대왕 (이도)",
+      "en": "King Sejong the Great (Yi Do)"
+    },
+    "description": {
+      "ko": "조선 제4대 왕(재위 1418-1450). 훈민정음 창제 및 과학, 문화, 군사의 황금기를 이끈 성군.",
+      "en": "4th King of Joseon. Created Hangul and led a golden age of science and culture."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_hangeul"
+    ],
+    "relatedMedia": [
+      "media_drama_deep_rooted_tree",
+      "media_movie_astronomy",
+      "media_drama_king_sejong"
+    ],
+    "wikipedia": {
+      "ko": "세종대왕",
+      "en": "Sejong_the_Great"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_munjong",
+    "type": "person",
+    "date": {
+      "start": "1414-11-15",
+      "end": "1452-06-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "문종 (이향)",
+      "en": "King Munjong (Yi Hyang)"
+    },
+    "description": {
+      "ko": "조선 제5대 왕(재위 1450-1452). 세종의 맏아들로 군사 기술 발전에 기여함.",
+      "en": "5th King of Joseon. Eldest son of Sejong."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_drama_king_and_queen"
+    ],
+    "wikipedia": {
+      "ko": "조선_문종",
+      "en": "Munjong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_danjong",
+    "type": "person",
+    "date": {
+      "start": "1441-07-23",
+      "end": "1457-11-07"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "단종 (이홍위)",
+      "en": "King Danjong (Yi Hong-wi)"
+    },
+    "description": {
+      "ko": "조선 제6대 왕(재위 1452-1455). 비운의 어린 왕. 숙부 세조에 의해 폐위됨.",
+      "en": "6th King of Joseon. Deposed by his uncle Sejo."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_danjong_deposed"
+    ],
+    "relatedMedia": [
+      "media_movie_face_reader",
+      "media_novel_danjong_aesa",
+      "media_movie_king_and_boy"
+    ],
+    "wikipedia": {
+      "ko": "조선_단종",
+      "en": "Danjong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_sejo",
+    "type": "person",
+    "date": {
+      "start": "1417-11-02",
+      "end": "1468-09-23"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "세조 (이유)",
+      "en": "King Sejo (Yi Yu)"
+    },
+    "description": {
+      "ko": "조선 제7대 왕(재위 1455-1468). 계유정난으로 집권. 왕권 강화와 경국대전 편찬 착수.",
+      "en": "7th King of Joseon. Seized power through a coup."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_gye_yu_jeong_nan"
+    ],
+    "relatedMedia": [
+      "media_movie_face_reader",
+      "media_drama_princess_man",
+      "media_drama_king_and_queen"
+    ],
+    "wikipedia": {
+      "ko": "조선_세조",
+      "en": "Sejo_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_yejong",
+    "type": "person",
+    "date": {
+      "start": "1450-01-14",
+      "end": "1469-12-31"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "예종 (이황)",
+      "en": "King Yejong (Yi Hwang)"
+    },
+    "description": {
+      "ko": "조선 제8대 왕(재위 1468-1469). 짧은 재위 기간 동안 남이의 옥 등을 겪음.",
+      "en": "8th King of Joseon."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_king_case_files"
+    ],
+    "wikipedia": {
+      "ko": "조선_예종",
+      "en": "Yejong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_seongjong",
+    "type": "person",
+    "date": {
+      "start": "1457-08-19",
+      "end": "1495-01-20"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "성종 (이혈)",
+      "en": "King Seongjong (Yi Hyeol)"
+    },
+    "description": {
+      "ko": "조선 제9대 왕(재위 1469-1494). 경국대전을 완성하여 법전 체제를 완성한 군주.",
+      "en": "9th King of Joseon. Completed the Gyeongguk Daejeon code of laws."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_gyeongguk_completion"
+    ],
+    "relatedMedia": [
+      "media_drama_king_and_i"
+    ],
+    "wikipedia": {
+      "ko": "조선_성종",
+      "en": "Seongjong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_yeonsangun",
+    "type": "person",
+    "date": {
+      "start": "1476-11-23",
+      "end": "1506-11-20"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "연산군 (이융)",
+      "en": "Yeonsangun (Yi Yung)"
+    },
+    "description": {
+      "ko": "조선 제10대 왕(재위 1494-1506). 두 차례의 사화를 일으키고 폭정을 일삼다 중종반정으로 폐위됨.",
+      "en": "10th King of Joseon. Infamous for purges and tyranny."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_muo_sahwa",
+      "event_gapja_sahwa"
+    ],
+    "relatedMedia": [
+      "media_movie_treacherous",
+      "media_movie_king_and_clown",
+      "media_drama_rebel"
+    ],
+    "wikipedia": {
+      "ko": "연산군",
+      "en": "Yeonsangun_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_jungjong",
+    "type": "person",
+    "date": {
+      "start": "1488-04-16",
+      "end": "1544-11-29"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "중종 (이역)",
+      "en": "King Jungjong (Yi Yeok)"
+    },
+    "description": {
+      "ko": "조선 제11대 왕(재위 1506-1544). 중종반정으로 즉위. 조광조를 등용하여 개혁을 시도함.",
+      "en": "11th King of Joseon. Led reforms with Jo Gwang-jo."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_gimyo_sahwa"
+    ],
+    "relatedMedia": [
+      "media_drama_daejanggeum",
+      "media_drama_ladies_palace",
+      "media_drama_queen_for_seven_days"
+    ],
+    "wikipedia": {
+      "ko": "조선_중종",
+      "en": "Jungjong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_injong",
+    "type": "person",
+    "date": {
+      "start": "1515-03-10",
+      "end": "1545-08-07"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "인종 (이호)",
+      "en": "King Injong (Yi Ho)"
+    },
+    "description": {
+      "ko": "조선 제12대 왕(재위 1544-1545). 효심이 깊었으나 9개월 만에 승하함.",
+      "en": "12th King of Joseon. Reigned for only 9 months."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "조선_인종",
+      "en": "Injong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_myeongjong",
+    "type": "person",
+    "date": {
+      "start": "1534-07-03",
+      "end": "1567-08-02"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "명종 (이환)",
+      "en": "King Myeongjong (Yi Hwan)"
+    },
+    "description": {
+      "ko": "조선 제13대 왕(재위 1545-1567). 을사사화와 문정왕후의 섭정이 있었던 시기.",
+      "en": "13th King of Joseon."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_eulsa_sahwa"
+    ],
+    "relatedMedia": [
+      "media_drama_flower_in_prison"
+    ],
+    "wikipedia": {
+      "ko": "조선_명종",
+      "en": "Myeongjong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_seonjo",
+    "type": "person",
+    "date": {
+      "start": "1552-11-26",
+      "end": "1608-03-16"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "선조 (이연)",
+      "en": "King Seonjo (Yi Yeon)"
+    },
+    "description": {
+      "ko": "조선 제14대 왕(재위 1567-1608). 임진왜란 당시 국왕. 붕당 정치의 시작과 전란 극복.",
+      "en": "14th King of Joseon during the Imjin War."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_imjin"
+    ],
+    "relatedMedia": [
+      "media_drama_heojun",
+      "media_drama_jingbirok",
+      "media_movie_warriors_dawn"
+    ],
+    "wikipedia": {
+      "ko": "조선_선조",
+      "en": "Seonjo_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_gwanghaegun",
+    "type": "person",
+    "date": {
+      "start": "1575-06-04",
+      "end": "1641-08-07"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "광해군 (이혼)",
+      "en": "Gwanghaegun (Yi Hon)"
+    },
+    "description": {
+      "ko": "조선 제15대 왕(재위 1608-1623). 중립 외교와 대동법 시행 등으로 실리를 추구했으나 인조반정으로 폐위됨.",
+      "en": "15th King of Joseon. Known for neutral diplomacy and Daedong Law."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_daedong_law"
+    ],
+    "relatedMedia": [
+      "media_movie_gwanghae",
+      "media_drama_masquerade",
+      "media_drama_hwajung"
+    ],
+    "wikipedia": {
+      "ko": "광해군",
+      "en": "Gwanghaegun_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_injo",
+    "type": "person",
+    "date": {
+      "start": "1595-12-07",
+      "end": "1649-06-17"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "인조 (이종)",
+      "en": "King Injo (Yi Jong)"
+    },
+    "description": {
+      "ko": "조선 제16대 왕(재위 1623-1649). 정묘호란과 병자호란의 시련을 겪은 군주.",
+      "en": "16th King of Joseon. Reigned during Manchu invasions."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_byeongjahoran"
+    ],
+    "relatedMedia": [
+      "media_movie_namhansanseong",
+      "media_drama_iljimae",
+      "media_movie_the_owl"
+    ],
+    "wikipedia": {
+      "ko": "조선_인조",
+      "en": "Injo_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_hyojong",
+    "type": "person",
+    "date": {
+      "start": "1619-07-03",
+      "end": "1659-06-23"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "효종 (이호)",
+      "en": "King Hyojong (Yi Ho)"
+    },
+    "description": {
+      "ko": "조선 제17대 왕(재위 1649-1659). 북벌 계획을 추진하고 국방력을 강화함.",
+      "en": "17th King of Joseon. Promoted Northern Expedition policy."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "조선_효종",
+      "en": "Hyojong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_hyeonjong",
+    "type": "person",
+    "date": {
+      "start": "1641-03-14",
+      "end": "1674-09-17"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "현종 (이연)",
+      "en": "King Hyeonjong (Yi Yeon)"
+    },
+    "description": {
+      "ko": "조선 제18대 왕(재위 1659-1674). 예송 논쟁으로 당쟁이 치열했던 시기.",
+      "en": "18th King of Joseon."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_drama_horse_doctor"
+    ],
+    "wikipedia": {
+      "ko": "조선_현종",
+      "en": "Hyeonjong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_sukjong",
+    "type": "person",
+    "date": {
+      "start": "1661-10-07",
+      "end": "1720-07-12"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "숙종 (이순)",
+      "en": "King Sukjong (Yi Sun)"
+    },
+    "description": {
+      "ko": "조선 제19대 왕(재위 1674-1720). 환국 정치로 국방과 경제 기틀을 다짐. 장희빈과 인현왕후의 갈등으로 유명.",
+      "en": "19th King of Joseon. Known for his powerful kingship and the story of Jang Hui-bin."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_drama_dongyi",
+      "media_drama_jangokjeong",
+      "media_drama_queen_inhyuns_man"
+    ],
+    "wikipedia": {
+      "ko": "조선_숙종",
+      "en": "Sukjong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_gyeongjong",
+    "type": "person",
+    "date": {
+      "start": "1688-11-20",
+      "end": "1724-10-11"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "경종 (이윤)",
+      "en": "King Gyeongjong (Yi Yun)"
+    },
+    "description": {
+      "ko": "조선 제20대 왕(재위 1720-1724). 장희빈의 아들로 병약하여 짧은 재위 후 승하함.",
+      "en": "20th King of Joseon. Son of Jang Hui-bin."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_drama_haechi"
+    ],
+    "wikipedia": {
+      "ko": "조선_경종",
+      "en": "Gyeongjong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_yeongjo",
+    "type": "person",
+    "date": {
+      "start": "1694-10-31",
+      "end": "1776-04-22"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "영조 (이금)",
+      "en": "King Yeongjo (Yi Geum)"
+    },
+    "description": {
+      "ko": "조선 제21대 왕(재위 1724-1776). 탕평책으로 당쟁을 완화하고 민생을 보살핀 군주.",
+      "en": "21st King of Joseon. Promoted policy of impartiality (Tangpyeong)."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_sado"
+    ],
+    "relatedMedia": [
+      "media_movie_sado",
+      "media_drama_secret_door",
+      "media_drama_the_red_sleeve"
+    ],
+    "wikipedia": {
+      "ko": "조선_영조",
+      "en": "Yeongjo_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_jeongjo",
+    "type": "person",
+    "date": {
+      "start": "1752-10-28",
+      "end": "1800-08-18"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "정조 (이산)",
+      "en": "King Jeongjo (Yi San)"
+    },
+    "description": {
+      "ko": "조선 제22대 왕(재위 1776-1800). 조선 후기 문예부흥기를 이끌며 규장각과 화성을 건설함.",
+      "en": "22nd King of Joseon. Led a cultural renaissance."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_gyujanggak",
+      "event_hwaseong"
+    ],
+    "relatedMedia": [
+      "media_drama_isan",
+      "media_movie_yeokrin",
+      "media_drama_the_red_sleeve",
+      "media_movie_painter_of_wind"
+    ],
+    "wikipedia": {
+      "ko": "조선_정조",
+      "en": "Jeongjo_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_sunjo",
+    "type": "person",
+    "date": {
+      "start": "1790-07-29",
+      "end": "1834-12-13"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "순조 (이공)",
+      "en": "King Sunjo (Yi Gong)"
+    },
+    "description": {
+      "ko": "조선 제23대 왕(재위 1800-1834). 세도정치가 시작되고 홍경래의 난을 겪은 시기.",
+      "en": "23rd King of Joseon."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_hong_gyeong_rae"
+    ],
+    "relatedMedia": [
+      "media_drama_love_in_the_moonlight"
+    ],
+    "wikipedia": {
+      "ko": "조선_순조",
+      "en": "Sunjo_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_heonjong",
+    "type": "person",
+    "date": {
+      "start": "1827-09-08",
+      "end": "1849-07-25"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "헌종 (이환)",
+      "en": "King Heonjong (Yi Hwan)"
+    },
+    "description": {
+      "ko": "조선 제24대 왕(재위 1834-1849). 어린 나이에 즉위하여 외척들의 세도정치가 지속됨.",
+      "en": "24th King of Joseon."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_prophecy_of_royal_tomb"
+    ],
+    "wikipedia": {
+      "ko": "조선_헌종",
+      "en": "Heonjong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_cheoljong",
+    "type": "person",
+    "date": {
+      "start": "1831-07-25",
+      "end": "1864-01-16"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "철종 (이변)",
+      "en": "King Cheoljong (Yi Byeon)"
+    },
+    "description": {
+      "ko": "조선 제25대 왕(재위 1849-1863). '강화도령'으로 불리며 세도정치의 희생양이 되었던 왕.",
+      "en": "25th King of Joseon."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_imsul_uprising"
+    ],
+    "relatedMedia": [
+      "media_drama_mr_queen",
+      "media_movie_fengshui"
+    ],
+    "wikipedia": {
+      "ko": "조선_철종",
+      "en": "Cheoljong_of_Joseon"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_gojong",
+    "type": "person",
+    "date": {
+      "start": "1852-09-08",
+      "end": "1919-01-21"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "고종 (이형)",
+      "en": "Emperor Gojong (Yi Hyeong)"
+    },
+    "description": {
+      "ko": "조선 제26대 왕이자 대한제국 초대 황제(재위 1863-1907). 격동의 개항기와 제국주의 침탈에 맞선 군주.",
+      "en": "26th King of Joseon and 1st Emperor of Korea."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양",
+        "en": "Hanyang"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_geunhyeondae"
+    ],
+    "relatedMedia": [
+      "media_drama_mr_sunshine",
+      "media_drama_empress_myeongseong",
+      "media_movie_the_last_princess"
+    ],
+    "wikipedia": {
+      "ko": "고종_(대한제국)",
+      "en": "Gojong_of_Korea"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_sunjong",
+    "type": "person",
+    "date": {
+      "start": "1874-03-25",
+      "end": "1926-04-25"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "순종 (이척)",
+      "en": "Emperor Sunjong (Yi Cheok)"
+    },
+    "description": {
+      "ko": "조선 제27대 왕이자 대한제국 마지막 황제(재위 1907-1910). 국권을 상실한 비운의 군주.",
+      "en": "Final Emperor of Korea."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "창덕궁",
+        "en": "Changdeok_Palace"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.99
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_the_last_princess"
+    ],
+    "wikipedia": {
+      "ko": "순종_(대한제국)",
+      "en": "Sunjong_of_Korea"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_yi_sun_sin",
+    "type": "person",
+    "date": {
+      "start": "1545-04-28",
+      "end": "1598-12-16"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "이순신",
+      "en": "Admiral Yi Sun-sin"
+    },
+    "description": {
+      "ko": "조선의 명장. 임진왜란에서 거북선을 이끌고 연전연승. 23전 23승의 불패 기록",
+      "en": "Legendary admiral who never lost a battle. Famous for turtle ship innovations"
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_imjin",
+      "event_hansando",
+      "event_myeongnyang"
+    ],
+    "relatedMedia": [
+      "media_movie_roaring_currents",
+      "media_movie_hansan",
+      "media_novel_nanjungilgi"
+    ],
+    "wikipedia": {
+      "ko": "이순신",
+      "en": "Yi_Sun-sin"
+    },
+    "icon": "⚔️",
+    "importance": 5
+  },
+  {
+    "id": "person_jeong_yagyong",
+    "type": "person",
+    "date": {
+      "start": "1762-08-05",
+      "end": "1836-04-07"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "정약용 (다산)",
+      "en": "Jeong Yak-yong (Dasan)"
+    },
+    "description": {
+      "ko": "조선 후기 실학의 집대성자. 목민심서, 경세유표 등 500여 권의 저서",
+      "en": "Great scholar of Joseon's Silhak movement, author of over 500 works"
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "경기도 광주",
+        "en": "Gwangju, Gyeonggi"
+      },
+      "coordinates": {
+        "lat": 37.41,
+        "lng": 127.26
+      },
+      "region": "korea"
+    },
+    "category": "thinker",
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_novel_mongminsimse"
+    ],
+    "wikipedia": {
+      "ko": "정약용",
+      "en": "Jeong_Yak-yong"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "person_jeong_do_jeon",
+    "type": "person",
+    "date": {
+      "start": "1342-01-01",
+      "end": "1398-10-06"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "정도전",
+      "en": "Jeong Do-jeon"
+    },
+    "description": {
+      "ko": "조선 건국의 일등 공신. 유교적 통치 규범을 확립하고 한양 도성을 설계함",
+      "en": "Chief architect of the Joseon Dynasty's political structure"
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "봉화",
+        "en": "Bonghwa"
+      },
+      "coordinates": {
+        "lat": 36.89,
+        "lng": 128.73
+      },
+      "region": "korea"
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_joseon_founding"
+    ],
+    "relatedMedia": [
+      "media_drama_jeongdojeon"
+    ],
+    "wikipedia": {
+      "ko": "정도전",
+      "en": "Jeong_Do-jeon"
+    },
+    "icon": "📜",
+    "importance": 5
+  },
+  {
+    "id": "person_jo_gwang_jo",
+    "type": "person",
+    "date": {
+      "start": "1482-01-01",
+      "end": "1519-12-20"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "조광조",
+      "en": "Jo Gwang-jo"
+    },
+    "description": {
+      "ko": "조선 중기 도학 정치를 주장한 개혁가. 기묘사화로 사약을 받고 마침",
+      "en": "Neo-Confucian reformer who led radical changes during King Jungjong's reign"
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_gimyo_sahwa"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "조광조",
+      "en": "Jo_Gwang-jo"
+    },
+    "icon": "📜",
+    "importance": 5
+  },
+  {
+    "id": "person_park_ji_won",
+    "type": "person",
+    "date": {
+      "start": "1737-01-01",
+      "end": "1805-12-15"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "박지원 (연암)",
+      "en": "Park Ji-won (Yeonam)"
+    },
+    "description": {
+      "ko": "조선 후기 북학파 실학자이자 소설가. 청나라 기행문 '열하일기' 저술",
+      "en": "Silhak scholar and novelist who advocated for Qing's advanced technology"
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_silhak"
+    ],
+    "relatedMedia": [
+      "media_novel_yeolha"
+    ],
+    "wikipedia": {
+      "ko": "박지원_(1737년)",
+      "en": "Park_Ji-won"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "person_daewongun",
+    "type": "person",
+    "date": {
+      "start": "1820-12-21",
+      "end": "1898-02-22"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "흥선대원군",
+      "en": "Heungseon Daewongun"
+    },
+    "description": {
+      "ko": "고종의 아버지로 섭정하며 왕권 강화와 쇄국 정책을 단행함",
+      "en": "Father of King Gojong and regent who pursued isolationism"
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "한양(서울)",
+        "en": "Hanyang (Seoul)"
+      },
+      "coordinates": {
+        "lat": 37.58,
+        "lng": 126.98
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "흥선대원군",
+      "en": "Heungseon_Daewongun"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_syngman_rhee",
+    "type": "person",
+    "date": {
+      "start": "1948-07-24",
+      "end": "1960-04-26"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "이승만",
+      "en": "Syngman Rhee"
+    },
+    "description": {
+      "ko": "대한민국 제1·2·3대 대통령. 대한민국 정부 수립을 주도하였으나 4·19 혁명으로 하야함.",
+      "en": "1st, 2nd, and 3rd President of South Korea. Led the establishment of the government."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "황해도 평산",
+        "en": "Pyongsan, Hwanghae"
+      },
+      "coordinates": {
+        "lat": 38.33,
+        "lng": 126.35
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_liberation",
+      "event_korean_war",
+      "event_april_19"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이승만",
+      "en": "Syngman_Rhee"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_park_chung_hee",
+    "type": "person",
+    "date": {
+      "start": "1963-12-17",
+      "end": "1979-10-26"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "박정희",
+      "en": "Park Chung-hee"
+    },
+    "description": {
+      "ko": "대한민국 제5·6·7·8·9대 대통령. 경제 개발 5개년 계획을 통해 고속 성장을 이끌었으나 유신 체제로 장기 집권함.",
+      "en": "5th-9th President. Led rapid economic growth but ruled under the Yushin System."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "경상북도 선산",
+        "en": "Seonsan, Gyeongbuk"
+      },
+      "coordinates": {
+        "lat": 36.12,
+        "lng": 128.31
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_may_16",
+      "event_yushin",
+      "event_oct_26"
+    ],
+    "relatedMedia": [
+      "media_movie_standing_next",
+      "media_movie_barbershop"
+    ],
+    "wikipedia": {
+      "ko": "박정희",
+      "en": "Park_Chung-hee"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_chun_doo_hwan",
+    "type": "person",
+    "date": {
+      "start": "1980-09-01",
+      "end": "1988-02-24"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "전두환",
+      "en": "Chun Doo-hwan"
+    },
+    "description": {
+      "ko": "대한민국 제11·12대 대통령. 12·12 군사반란으로 집권하였으며 5·18 민주화운동을 강압적으로 진압함.",
+      "en": "11th and 12th President. Seized power through a military coup."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "경상남도 합천",
+        "en": "Hapcheon, Gyeongnam"
+      },
+      "coordinates": {
+        "lat": 35.56,
+        "lng": 128.16
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_dec_12",
+      "event_518",
+      "event_seoul_olympics"
+    ],
+    "relatedMedia": [
+      "media_movie_spring_seoul",
+      "media_movie_taxi_driver"
+    ],
+    "wikipedia": {
+      "ko": "전두환",
+      "en": "Chun_Doo-hwan"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_roh_tae_woo",
+    "type": "person",
+    "date": {
+      "start": "1988-02-25",
+      "end": "1993-02-24"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "노태우",
+      "en": "Roh Tae-woo"
+    },
+    "description": {
+      "ko": "대한민국 제13대 대통령. 6·29 선언을 통해 직선제 개헌을 수용하였으며 북방외교를 추진함.",
+      "en": "13th President. Accepted direct presidential elections through the June 29 Declaration."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "경상북도 달성",
+        "en": "Dalseong, Gyeongbuk"
+      },
+      "coordinates": {
+        "lat": 35.77,
+        "lng": 128.43
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_june_struggle",
+      "event_seoul_olympics"
+    ],
+    "relatedMedia": [
+      "media_movie_1987"
+    ],
+    "wikipedia": {
+      "ko": "노태우",
+      "en": "Roh_Tae-woo"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_kim_young_sam",
+    "type": "person",
+    "date": {
+      "start": "1993-02-25",
+      "end": "1998-02-24"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "김영삼",
+      "en": "Kim Young-sam"
+    },
+    "description": {
+      "ko": "대한민국 제14대 대통령. 금융실명제 실시 및 하나회 해체 등 개혁을 단행하였으나 임기 말 외환위기를 겪음.",
+      "en": "14th President. Implemented the real-name financial system and disbanded Hanahoe."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "경상남도 거제",
+        "en": "Geoje, Gyeongnam"
+      },
+      "coordinates": {
+        "lat": 34.88,
+        "lng": 128.62
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_imf_crisis"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "김영삼",
+      "en": "Kim_Young-sam"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_kim_dae_jung",
+    "type": "person",
+    "date": {
+      "start": "1998-02-25",
+      "end": "2003-02-24"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "김대중",
+      "en": "Kim Dae-jung"
+    },
+    "description": {
+      "ko": "대한민국 제15대 대통령. 외환위기를 극복하고 남북정상회담을 개최하였으며 한국인 최초로 노벨 평화상을 수상함.",
+      "en": "15th President. Overcame the IMF crisis and held the first inter-Korean summit."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "전라남도 신안",
+        "en": "Sinan, Jeonnam"
+      },
+      "coordinates": {
+        "lat": 34.82,
+        "lng": 126.35
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_imf_crisis",
+      "event_2002_worldcup"
+    ],
+    "relatedMedia": [
+      "media_movie_kingmaker"
+    ],
+    "wikipedia": {
+      "ko": "김대중",
+      "en": "Kim_Dae-jung"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_roh_moo_hyun",
+    "type": "person",
+    "date": {
+      "start": "2003-02-25",
+      "end": "2008-02-24"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "노무현",
+      "en": "Roh Moo-hyun"
+    },
+    "description": {
+      "ko": "대한민국 제16대 대통령. 권위주의 타파와 국민 참여 정치를 지향하였으며 지역 균형 발전을 추진함.",
+      "en": "16th President. Aimed for the abolition of authoritarianism and participatory politics."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "경상남도 김해",
+        "en": "Gimhae, Gyeongnam"
+      },
+      "coordinates": {
+        "lat": 35.23,
+        "lng": 128.88
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [
+      "media_movie_attorney"
+    ],
+    "wikipedia": {
+      "ko": "노무현",
+      "en": "Roh_Moo-hyun"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_lee_myung_bak",
+    "type": "person",
+    "date": {
+      "start": "2008-02-25",
+      "end": "2013-02-24"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "이명박",
+      "en": "Lee Myung-bak"
+    },
+    "description": {
+      "ko": "대한민국 제17대 대통령. 실용주의를 강조하며 4대강 사업을 추진하고 G20 정상회의를 서울에서 개최함.",
+      "en": "17th President. Focused on pragmatism and hosted the G20 Seoul summit."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "일본 오사카",
+        "en": "Osaka, Japan"
+      },
+      "coordinates": {
+        "lat": 34.69,
+        "lng": 135.5
+      },
+      "region": "eastAsia"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이명박",
+      "en": "Lee_Myung-bak"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_park_geun_hye",
+    "type": "person",
+    "date": {
+      "start": "2013-02-25",
+      "end": "2017-03-10"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "박근혜",
+      "en": "Park Geun-hye"
+    },
+    "description": {
+      "ko": "대한민국 제18대 대통령. 최초의 여성 대통령이었으나 촛불 혁명과 탄핵 소추로 인해 파면됨.",
+      "en": "18th President. First female president, later removed from office by impeachment."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "경상북도 대구",
+        "en": "Daegu, Gyeongbuk"
+      },
+      "coordinates": {
+        "lat": 35.87,
+        "lng": 128.6
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_sewol_ferry",
+      "event_candlelight_rev"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "박근혜",
+      "en": "Park_Geun-hye"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_moon_jae_in",
+    "type": "person",
+    "date": {
+      "start": "2017-05-10",
+      "end": "2022-05-09"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "문재인",
+      "en": "Moon Jae-in"
+    },
+    "description": {
+      "ko": "대한민국 제19대 대통령. '나라다운 나라'를 표방하며 세 차례의 남북정상회담을 개최함.",
+      "en": "19th President. Hosted three inter-Korean summits."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "경상남도 거제",
+        "en": "Geoje, Gyeongnam"
+      },
+      "coordinates": {
+        "lat": 34.88,
+        "lng": 128.62
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_inter_korean_summit"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "문재인",
+      "en": "Moon_Jae-in"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_yoon_suk_yeol",
+    "type": "person",
+    "date": {
+      "start": "2022-05-10",
+      "end": null
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "윤석열",
+      "en": "Yoon Suk-yeol"
+    },
+    "description": {
+      "ko": "대한민국 제20대 대통령. 검찰총장 출신으로 자유와 법치를 강조하며 정권 교체를 이룸.",
+      "en": "20th President. Former Prosecutor General emphasizing freedom and the rule of law."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "서울특별시 서대문구",
+        "en": "Seodaemun, Seoul"
+      },
+      "coordinates": {
+        "lat": 37.56,
+        "lng": 126.94
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "윤석열",
+      "en": "Yoon_Suk-yeol"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_lee_jae_myung",
+    "type": "person",
+    "date": {
+      "start": "2025-05-10",
+      "end": null
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "이재명",
+      "en": "Lee Jae-myung"
+    },
+    "description": {
+      "ko": "대한민국 제21대 대통령(재임 2025~). 성남시장 및 경기도지사를 거쳐 제21대 대통령으로 취임함.",
+      "en": "21st President of South Korea. Served as Mayor of Seongnam and Governor of Gyeonggi before inauguration."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "경상북도 안동",
+        "en": "Andong, Gyeongbuk"
+      },
+      "coordinates": {
+        "lat": 36.56,
+        "lng": 128.72
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이재명",
+      "en": "Lee_Jae-myung"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_yun_bo_seon",
+    "type": "person",
+    "date": {
+      "start": "1960-08-13",
+      "end": "1962-03-24"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "윤보선",
+      "en": "Yun Bo-seon"
+    },
+    "description": {
+      "ko": "대한민국 제4대 대통령. 4·19 혁명 이후 창설된 제2공화국의 대통령으로 재임하였으나 5·16 군사정변으로 물러남.",
+      "en": "4th President. Served during the Second Republic after the April 19 Revolution."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "충청남도 아산",
+        "en": "Asan, Chungnam"
+      },
+      "coordinates": {
+        "lat": 36.78,
+        "lng": 127
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_april_19",
+      "event_may_16"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "윤보선",
+      "en": "Yun_Bo-seon"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_choi_kyu_hah",
+    "type": "person",
+    "date": {
+      "start": "1979-12-06",
+      "end": "1980-08-16"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "최규하",
+      "en": "Choi Kyu-hah"
+    },
+    "description": {
+      "ko": "대한민국 제10대 대통령. 박정희 대통령 서거 이후 취임하였으나 신군부의 압박으로 퇴임함.",
+      "en": "10th President. Took office after Park's assassination but resigned under military pressure."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "강원도 원주",
+        "en": "Wonju, Gangwon"
+      },
+      "coordinates": {
+        "lat": 37.34,
+        "lng": 127.92
+      },
+      "region": "korea"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_oct_26",
+      "event_dec_12",
+      "event_518"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "최규하",
+      "en": "Choi_Kyu-hah"
+    },
+    "icon": "👑",
+    "importance": 4
+  },
+  {
+    "id": "person_qin_shi_huang",
+    "type": "person",
+    "date": {
+      "start": "-0221-01-01",
+      "end": "-0210-09-10"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "진시황",
+      "en": "Qin Shi Huang"
+    },
+    "description": {
+      "ko": "진나라의 초대 황제. 중국을 최초로 통일하였으며 만리장성 축조, 도량형 통일 등을 단행함.",
+      "en": "First Emperor of China. Unified China and built the Great Wall."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "함양",
+        "en": "Xianyang"
+      },
+      "coordinates": {
+        "lat": 34.33,
+        "lng": 108.71
+      },
+      "region": "eastAsia"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_qin_unification"
+    ],
+    "relatedMedia": [
+      "media_movie_hero"
+    ],
+    "wikipedia": {
+      "ko": "진_시황제",
+      "en": "Qin_Shi_Huang"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_tang_taizong",
+    "type": "person",
+    "date": {
+      "start": "0626-09-04",
+      "end": "0649-07-10"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "당 태종 이세민",
+      "en": "Emperor Taizong of Tang"
+    },
+    "description": {
+      "ko": "당나라 제2대 황제. '정관의 치'라 불리는 평화로운 성세를 이끌었으며 당의 기틀을 확립함.",
+      "en": "Second emperor of Tang Dynasty. Known for the Reign of Zhenguan."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "장안",
+        "en": "Chang'an"
+      },
+      "coordinates": {
+        "lat": 34.27,
+        "lng": 108.95
+      },
+      "region": "eastAsia"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "당_태종",
+      "en": "Emperor_Taizong_of_Tang"
+    },
+    "icon": "👑",
+    "importance": 5
+  },
+  {
+    "id": "person_genghis_khan",
+    "type": "person",
+    "date": {
+      "start": "1206-01-01",
+      "end": "1227-08-25"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "칭기즈 칸",
+      "en": "Genghis Khan"
+    },
+    "description": {
+      "ko": "몽골 제국의 건국자. 역사상 가장 거대한 단일 제국을 건설하여 동서 교류 활성화에 기여함.",
+      "en": "Founder of the Mongol Empire. Created the largest contiguous empire."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "몽골 헨티",
+        "en": "Khentii, Mongolia"
+      },
+      "coordinates": {
+        "lat": 48.45,
+        "lng": 110.53
+      },
+      "region": "eastAsia"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "칭기즈_칸",
+      "en": "Genghis_Khan"
+    },
+    "icon": "🐎",
+    "importance": 5
+  },
+  {
+    "id": "person_sun_yat_sen",
+    "type": "person",
+    "date": {
+      "start": "1912-01-01",
+      "end": "1912-04-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "쑨원",
+      "en": "Sun Yat-sen"
+    },
+    "description": {
+      "ko": "중국민국의 건국자이자 신해혁명을 이끈 혁명가. 중국 근대화의 아버지로 불림.",
+      "en": "Founding father of the Republic of China and leader of Xinhai Revolution."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "광둥성 중산",
+        "en": "Zhongshan, Guangdong"
+      },
+      "coordinates": {
+        "lat": 22.52,
+        "lng": 113.39
+      },
+      "region": "eastAsia"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_xinhai_rev"
+    ],
+    "relatedMedia": [
+      "media_movie_last_emperor"
+    ],
+    "wikipedia": {
+      "ko": "쑨원",
+      "en": "Sun_Yat-sen"
+    },
+    "icon": "🗳️",
+    "importance": 5
+  },
+  {
+    "id": "person_mao_zedong",
+    "type": "person",
+    "date": {
+      "start": "1949-10-01",
+      "end": "1976-09-09"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "마오쩌둥",
+      "en": "Mao Zedong"
+    },
+    "description": {
+      "ko": "중화인민공화국의 건국자이자 초대 주석. 대약진 운동과 문화대혁명을 주도함.",
+      "en": "Founder of the PRC. Led the Great Leap Forward and Cultural Revolution."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "후난성 샤오산",
+        "en": "Shaoshan, Hunan"
+      },
+      "coordinates": {
+        "lat": 27.91,
+        "lng": 112.49
+      },
+      "region": "eastAsia"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_prc_founding",
+      "event_cultural_rev"
+    ],
+    "relatedMedia": [
+      "media_movie_farewell_concubine"
+    ],
+    "wikipedia": {
+      "ko": "마오쩌둥",
+      "en": "Mao_Zedong"
+    },
+    "icon": "⭐️",
+    "importance": 5
+  },
+  {
+    "id": "person_deng_xiaoping",
+    "type": "person",
+    "date": {
+      "start": "1978-12-18",
+      "end": "1989-11-09"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "덩샤오핑",
+      "en": "Deng Xiaoping"
+    },
+    "description": {
+      "ko": "중국의 개혁개방을 주도한 지도자. '흑묘백묘론'을 바탕으로 중국 경제 성장의 기틀을 마련함.",
+      "en": "Led Reform and Opening-up. Established the basis for China's growth."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "쓰촨성 광안",
+        "en": "Guang'an, Sichuan"
+      },
+      "coordinates": {
+        "lat": 30.47,
+        "lng": 106.63
+      },
+      "region": "eastAsia"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_reform_opening"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "덩샤오핑",
+      "en": "Deng_Xiaoping"
+    },
+    "icon": "🏗️",
+    "importance": 5
+  },
+  {
+    "id": "person_jiang_zemin",
+    "type": "person",
+    "date": {
+      "start": "1989-11-09",
+      "end": "2002-11-15"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "장쩌민",
+      "en": "Jiang Zemin"
+    },
+    "description": {
+      "ko": "중국 제3세대 최고지도자. 홍콩 반환과 WTO 가입을 이끌며 중국의 국제적 지위를 강화함.",
+      "en": "3rd generation leader. Managed the HK handover and WTO accession."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "장쑤성 양저우",
+        "en": "Yangzhou, Jiangsu"
+      },
+      "coordinates": {
+        "lat": 32.39,
+        "lng": 119.42
+      },
+      "region": "eastAsia"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_hk_handover"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "장쩌민",
+      "en": "Jiang_Zemin"
+    },
+    "icon": "👓",
+    "importance": 4
+  },
+  {
+    "id": "person_hu_jintao",
+    "type": "person",
+    "date": {
+      "start": "2002-11-15",
+      "end": "2012-11-15"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "후진타오",
+      "en": "Hu Jintao"
+    },
+    "description": {
+      "ko": "중국 제4세대 최고지도자. '과학적 발전관'을 제시하고 베이징 올림픽을 성공적으로 개최함.",
+      "en": "4th generation leader. Hosted the 2008 Beijing Olympics."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "안후이성 지시",
+        "en": "Jixi, Anhui"
+      },
+      "coordinates": {
+        "lat": 30.06,
+        "lng": 118.59
+      },
+      "region": "eastAsia"
+    },
+    "category": "ruler",
+    "relatedEvents": [
+      "event_beijing_olympics"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "후진타오",
+      "en": "Hu_Jintao"
+    },
+    "icon": "📈",
+    "importance": 4
+  },
+  {
+    "id": "person_xi_jinping",
+    "type": "person",
+    "date": {
+      "start": "2012-11-15",
+      "end": null
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "시진핑",
+      "en": "Xi Jinping"
+    },
+    "description": {
+      "ko": "중국 제5세대 최고지도자. '중국몽'을 내세우며 국가의 중앙집권적 권력을 강화함.",
+      "en": "5th generation leader. Emphasizing the Chinese Dream."
+    },
+    "birthPlace": {
+      "name": {
+        "ko": "베이징",
+        "en": "Beijing"
+      },
+      "coordinates": {
+        "lat": 39.9,
+        "lng": 116.4
+      },
+      "region": "eastAsia"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "시진핑",
+      "en": "Xi_Jinping"
+    },
+    "icon": "🐲",
+    "importance": 4
+  },
+  {
+    "id": "person_aristotle",
+    "type": "person",
+    "date": {
+      "birth": "-0384-01-01",
+      "death": "-0322-01-01"
+    },
+    "era": "ancient",
+    "birthPlace": {
+      "name": {
+        "ko": "스타게이라",
+        "en": "Stagira"
+      },
+      "coordinates": {
+        "lat": 40.58,
+        "lng": 23.75
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "아리스토텔레스",
+      "en": "Aristotle"
+    },
+    "description": {
+      "ko": "고대 그리스 철학자이자 자연과학의 선구자. 고전 역학과 생물학의 기초를 다짐.",
+      "en": "Ancient Greek philosopher and polymath, pioneer of natural sciences."
+    },
+    "category": "scientist",
+    "relatedEvents": [],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아리스토텔레스",
+      "en": "Aristotle"
+    },
+    "icon": "📖",
+    "image": "",
+    "importance": 5
+  },
+  {
+    "id": "person_copernicus",
+    "type": "person",
+    "date": {
+      "birth": "1473-02-19",
+      "death": "1543-05-24"
+    },
+    "era": "earlyModern",
+    "birthPlace": {
+      "name": {
+        "ko": "투룬",
+        "en": "Toruń"
+      },
+      "coordinates": {
+        "lat": 53.01,
+        "lng": 18.6
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "니콜라우스 코페르니쿠스",
+      "en": "Nicolaus Copernicus"
+    },
+    "description": {
+      "ko": "지동설(태양 중심설)을 제창하여 과학 혁명의 기초를 마련한 폴란드의 천문학자.",
+      "en": "Polish astronomer who formulated a model of the universe that placed the Sun rather than Earth at the center."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_heliocentrism"
+    ],
+    "relatedPeople": [
+      "person_galileo"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "니콜라우스_코페르니쿠스",
+      "en": "Nicolaus_Copernicus"
+    },
+    "icon": "🔭",
+    "image": "",
+    "importance": 5
+  },
+  {
+    "id": "person_leeuwenhoek",
+    "type": "person",
+    "date": {
+      "birth": "1632-10-24",
+      "death": "1723-08-26"
+    },
+    "era": "earlyModern",
+    "birthPlace": {
+      "name": {
+        "ko": "델프트",
+        "en": "Delft"
+      },
+      "coordinates": {
+        "lat": 52.01,
+        "lng": 4.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "안톤 판 레이우엔훅",
+      "en": "Antonie van Leeuwenhoek"
+    },
+    "description": {
+      "ko": "미생물학의 아버지. 직접 제작한 현미경으로 미생물을 최초로 관찰함.",
+      "en": "The Father of Microbiology, first to observe microorganisms using microscopes of his own design."
+    },
+    "category": "thinker",
+    "relatedEvents": [],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "안톤_판_레이우엔훅",
+      "en": "Antonie_van_Leeuwenhoek"
+    },
+    "icon": "🔬",
+    "image": "",
+    "importance": 4
+  },
+  {
+    "id": "person_isaac_newton",
+    "type": "person",
+    "date": {
+      "birth": "1643-01-04",
+      "death": "1727-03-31"
+    },
+    "era": "earlyModern",
+    "birthPlace": {
+      "name": {
+        "ko": "울즈소프",
+        "en": "Woolsthorpe-by-Colsterworth"
+      },
+      "coordinates": {
+        "lat": 52.81,
+        "lng": -0.63
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "아이작 뉴턴",
+      "en": "Isaac Newton"
+    },
+    "description": {
+      "ko": "고전 역학을 확립하고 만유인력의 법칙, 미적분학의 창시 등 자연과학의 새 지평을 연 영국의 물리학자.",
+      "en": "English mathematician and physicist who formulated the laws of motion and universal gravitation."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_principia"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아이작_뉴턴",
+      "en": "Isaac_Newton"
+    },
+    "icon": "📖",
+    "image": "",
+    "importance": 5
+  },
+  {
+    "id": "person_charles_darwin",
+    "type": "person",
+    "date": {
+      "birth": "1809-02-12",
+      "death": "1882-04-19"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "슈루즈베리",
+        "en": "Shrewsbury"
+      },
+      "coordinates": {
+        "lat": 52.71,
+        "lng": -2.75
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "찰스 다윈",
+      "en": "Charles Darwin"
+    },
+    "description": {
+      "ko": "자연선택을 통한 진화론을 제시하여 생물학에 혁명적 변화를 가져온 영국의 생물학자.",
+      "en": "English naturalist who proposed the scientific theory of evolution by natural selection."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_origin_of_species"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [
+      "media_book_origin_of_species"
+    ],
+    "wikipedia": {
+      "ko": "찰스_다윈",
+      "en": "Charles_Darwin"
+    },
+    "icon": "📖",
+    "image": "",
+    "importance": 5
+  },
+  {
+    "id": "person_marie_curie",
+    "type": "person",
+    "date": {
+      "birth": "1867-11-07",
+      "death": "1934-07-04"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "바르샤바",
+        "en": "Warsaw"
+      },
+      "coordinates": {
+        "lat": 52.22,
+        "lng": 21.01
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "마리 퀴리",
+      "en": "Marie Curie"
+    },
+    "description": {
+      "ko": "방사능 연구의 선구자. 여성 최초의 노벨상 수상자이자 두 가지 과학 분야(물리학, 화학)에서 노벨상을 수상한 최초의 인물.",
+      "en": "Pioneer in radioactivity research, the first woman to win a Nobel Prize, and the first person to win twice in multiple sciences."
+    },
+    "category": "scientist",
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_albert_einstein"
+    ],
+    "relatedMedia": [
+      "media_movie_radioactive"
+    ],
+    "wikipedia": {
+      "ko": "마리_퀴리",
+      "en": "Marie_Curie"
+    },
+    "icon": "🔬",
+    "image": "",
+    "importance": 5
+  },
+  {
+    "id": "person_albert_einstein",
+    "type": "person",
+    "date": {
+      "birth": "1879-03-14",
+      "death": "1955-04-18"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "울름",
+        "en": "Ulm"
+      },
+      "coordinates": {
+        "lat": 48.4,
+        "lng": 9.99
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "알베르트 아인슈타인",
+      "en": "Albert Einstein"
+    },
+    "description": {
+      "ko": "상대성 이론을 발표하여 현대 물리학의 뼈대를 세운 이론물리학자.",
+      "en": "Theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_special_relativity",
+      "event_general_relativity"
+    ],
+    "relatedPeople": [
+      "person_marie_curie",
+      "person_oppenheimer"
+    ],
+    "relatedMedia": [
+      "media_movie_oppenheimer"
+    ],
+    "wikipedia": {
+      "ko": "알베르트_아인슈타인",
+      "en": "Albert_Einstein"
+    },
+    "icon": "📖",
+    "image": "",
+    "importance": 5
+  },
+  {
+    "id": "person_alan_turing",
+    "type": "person",
+    "date": {
+      "birth": "1912-06-23",
+      "death": "1954-06-07"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.52,
+        "lng": -0.18
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "앨런 튜링",
+      "en": "Alan Turing"
+    },
+    "description": {
+      "ko": "튜링 기계 모델을 통해 컴퓨터 과학과 인공지능의 토대를 마련한 영국의 수학자 및 암호학자.",
+      "en": "English mathematician and cryptanalyst, widely considered the father of theoretical computer science and AI."
+    },
+    "category": "scientist",
+    "relatedEvents": [],
+    "relatedPeople": [],
+    "relatedMedia": [
+      "media_movie_imitation_game"
+    ],
+    "wikipedia": {
+      "ko": "앨런_튜링",
+      "en": "Alan_Turing"
+    },
+    "icon": "💡",
+    "image": "",
+    "importance": 5
+  },
+  {
+    "id": "person_rosalind_franklin",
+    "type": "person",
+    "date": {
+      "birth": "1920-07-25",
+      "death": "1958-04-16"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "로잘린드 프랭클린",
+      "en": "Rosalind Franklin"
+    },
+    "description": {
+      "ko": "X선 회절 사진(Photo 51)을 통해 DNA의 이중 나선 구조를 밝히는 데 결정적인 데이터를 제공한 과학자.",
+      "en": "Chemist whose X-ray diffraction images of DNA led to the discovery of the DNA double helix."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_dna_structure"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "로잘린드_프랭클린",
+      "en": "Rosalind_Franklin"
+    },
+    "icon": "🔬",
+    "image": "",
+    "importance": 4
+  },
+  {
+    "id": "person_richard_feynman",
+    "type": "person",
+    "date": {
+      "birth": "1918-05-11",
+      "death": "1988-02-15"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "뉴욕",
+        "en": "New York"
+      },
+      "coordinates": {
+        "lat": 40.71,
+        "lng": -74
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "리처드 파인만",
+      "en": "Richard Feynman"
+    },
+    "description": {
+      "ko": "양자전기역학 분야에서의 공로로 노벨상을 수상한 미국의 이론물리학자이자 탁월한 과학 교육자.",
+      "en": "American theoretical physicist known for his work in the path integral formulation of quantum mechanics."
+    },
+    "category": "scientist",
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_oppenheimer"
+    ],
+    "relatedMedia": [
+      "media_movie_oppenheimer"
+    ],
+    "wikipedia": {
+      "ko": "리처드_파인만",
+      "en": "Richard_Feynman"
+    },
+    "icon": "📖",
+    "image": "",
+    "importance": 4
+  },
+  {
+    "id": "person_thales",
+    "type": "person",
+    "date": {
+      "birth": "-0624-01-01",
+      "death": "-0546-01-01"
+    },
+    "era": "ancient",
+    "birthPlace": {
+      "name": {
+        "ko": "밀레토스",
+        "en": "Miletus"
+      },
+      "coordinates": {
+        "lat": 37.53,
+        "lng": 27.28
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "탈레스",
+      "en": "Thales of Miletus"
+    },
+    "description": {
+      "ko": "만물의 근원을 물로 보았으며, 신화적 해석을 벗어나 합리적이고 과학적인 사고를 최초로 시도한 철학자.",
+      "en": "Recognized as the first philosopher in the Greek tradition, he sought natural explanations for phenomena."
+    },
+    "category": "scientist",
+    "relatedEvents": [],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "탈레스",
+      "en": "Thales_of_Miletus"
+    },
+    "icon": "📖",
+    "importance": 4
+  },
+  {
+    "id": "person_pythagoras",
+    "type": "person",
+    "date": {
+      "birth": "-0570-01-01",
+      "death": "-0495-01-01"
+    },
+    "era": "ancient",
+    "birthPlace": {
+      "name": {
+        "ko": "사모스",
+        "en": "Samos"
+      },
+      "coordinates": {
+        "lat": 37.75,
+        "lng": 26.98
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "피타고라스",
+      "en": "Pythagoras"
+    },
+    "description": {
+      "ko": "만물의 근원을 수(Number)로 보았으며 피타고라스 정리를 증명한 고대 그리스의 수학자이자 철학자.",
+      "en": "Ancient Ionian Greek philosopher and the eponymous founder of Pythagoreanism, known for the Pythagorean theorem."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_pythagorean_theorem"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "피타고라스",
+      "en": "Pythagoras"
+    },
+    "icon": "🧮",
+    "importance": 4
+  },
+  {
+    "id": "person_archimedes",
+    "type": "person",
+    "date": {
+      "birth": "-0287-01-01",
+      "death": "-0212-01-01"
+    },
+    "era": "ancient",
+    "birthPlace": {
+      "name": {
+        "ko": "시라쿠사",
+        "en": "Syracuse"
+      },
+      "coordinates": {
+        "lat": 37.07,
+        "lng": 15.28
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "아르키메데스",
+      "en": "Archimedes"
+    },
+    "description": {
+      "ko": "부력의 원리(유레카)와 지렛대의 원리를 발견한 고대 최고의 수학자이자 공학자.",
+      "en": "Greek mathematician, physicist, engineer, astronomer, and inventor. Famous for the principle of buoyancy."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_archimedes_principle"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아르키메데스",
+      "en": "Archimedes"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "person_euclid",
+    "type": "person",
+    "date": {
+      "birth": "-0325-01-01",
+      "death": "-0265-01-01"
+    },
+    "era": "ancient",
+    "birthPlace": {
+      "name": {
+        "ko": "알렉산드리아",
+        "en": "Alexandria"
+      },
+      "coordinates": {
+        "lat": 31.2,
+        "lng": 29.91
+      },
+      "region": "africa"
+    },
+    "title": {
+      "ko": "에우클레이데스 (유클리드)",
+      "en": "Euclid"
+    },
+    "description": {
+      "ko": "기하학의 아버지로 불리며 «기하학 원론»을 집필하여 2천 년간 수학 교과서의 표준을 세움.",
+      "en": "Greek mathematician, often referred to as the 'founder of geometry', author of the Elements."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_euclid_elements"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "에우클레이데스",
+      "en": "Euclid"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "person_hippocrates",
+    "type": "person",
+    "date": {
+      "birth": "-0460-01-01",
+      "death": "-0370-01-01"
+    },
+    "era": "ancient",
+    "birthPlace": {
+      "name": {
+        "ko": "코스",
+        "en": "Kos"
+      },
+      "coordinates": {
+        "lat": 36.89,
+        "lng": 27.28
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "히포크라테스",
+      "en": "Hippocrates"
+    },
+    "description": {
+      "ko": "의학의 아버지. 질병을 미신이나 신의 저주가 아닌 자연적 원인으로 설명하기 시작함.",
+      "en": "Greek physician of the Age of Pericles, considered one of the most outstanding figures in the history of medicine."
+    },
+    "category": "scientist",
+    "relatedEvents": [],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "히포크라테스",
+      "en": "Hippocrates"
+    },
+    "icon": "⚕️",
+    "importance": 5
+  },
+  {
+    "id": "person_ptolemy",
+    "type": "person",
+    "date": {
+      "birth": "0100-01-01",
+      "death": "0170-01-01"
+    },
+    "era": "ancient",
+    "birthPlace": {
+      "name": {
+        "ko": "알렉산드리아",
+        "en": "Alexandria"
+      },
+      "coordinates": {
+        "lat": 31.2,
+        "lng": 29.91
+      },
+      "region": "africa"
+    },
+    "title": {
+      "ko": "프톨레마이오스",
+      "en": "Ptolemy"
+    },
+    "description": {
+      "ko": "천동설을 체계화한 «알마게스트»를 저술하여 천문학의 절대적 권위자로 수 세기 동안 군림함.",
+      "en": "Mathematician, astronomer, geographer and astrologer who codified the Earth-centric Ptolemaic system."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_almagest"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "클라우디오스_프톨레마이오스",
+      "en": "Ptolemy"
+    },
+    "icon": "🔭",
+    "importance": 4
+  },
+  {
+    "id": "person_jang_yeong_sil",
+    "type": "person",
+    "date": {
+      "birth": "1390-01-01",
+      "death": "1450-01-01"
+    },
+    "era": "earlyModern",
+    "birthPlace": {
+      "name": {
+        "ko": "동래",
+        "en": "Dongnae"
+      },
+      "coordinates": {
+        "lat": 35.2,
+        "lng": 129.08
+      },
+      "region": "korea"
+    },
+    "title": {
+      "ko": "장영실",
+      "en": "Jang Yeong-sil"
+    },
+    "description": {
+      "ko": "조선 전기의 천재 발명가. 자격루(물시계), 측우기 등 당대 최고 수준의 과학 기구를 제작함.",
+      "en": "Prominent Korean engineer, scientist, and inventor during the Joseon Dynasty."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_clepsydra",
+      "event_hangeul"
+    ],
+    "relatedPeople": [
+      "person_sejong"
+    ],
+    "relatedMedia": [
+      "media_movie_forbidden_dream"
+    ],
+    "wikipedia": {
+      "ko": "장영실",
+      "en": "Jang_Yeong-sil"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "person_al_khwarizmi",
+    "type": "person",
+    "date": {
+      "birth": "0780-01-01",
+      "death": "0850-01-01"
+    },
+    "era": "medieval",
+    "birthPlace": {
+      "name": {
+        "ko": "화레즘",
+        "en": "Khwarazm"
+      },
+      "coordinates": {
+        "lat": 42.22,
+        "lng": 59.33
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "알 콰리즈미",
+      "en": "Al-Khwarizmi"
+    },
+    "description": {
+      "ko": "대수학(Algebra)의 아버지. 그의 대수학 저서는 수백 년간 서양 수학의 교재로 사용됨. 알고리즘 어원의 주인공.",
+      "en": "Persian mathematician, astronomer, and geographer. Known as the father of algebra."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_algebra"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "알콰리즈미",
+      "en": "Al-Khwarizmi"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "person_ibn_sina",
+    "type": "person",
+    "date": {
+      "birth": "0980-08-01",
+      "death": "1037-06-21"
+    },
+    "era": "medieval",
+    "birthPlace": {
+      "name": {
+        "ko": "부하라",
+        "en": "Bukhara"
+      },
+      "coordinates": {
+        "lat": 39.77,
+        "lng": 64.42
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "이븐 시나 (아비센나)",
+      "en": "Ibn Sina (Avicenna)"
+    },
+    "description": {
+      "ko": "이슬람 황금기의 최고 의학자. 의학 백과사전 «의학정전»은 유럽에서 17세기까지 표준 교재로 쓰임.",
+      "en": "Persian polymath who is regarded as one of the most significant physicians, astronomers, thinkers and writers of the Islamic Golden Age."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_canon_medicine"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이븐_시나",
+      "en": "Avicenna"
+    },
+    "icon": "⚕️",
+    "importance": 5
+  },
+  {
+    "id": "person_da_vinci",
+    "type": "person",
+    "date": {
+      "birth": "1452-04-15",
+      "death": "1519-05-02"
+    },
+    "era": "earlyModern",
+    "birthPlace": {
+      "name": {
+        "ko": "빈치",
+        "en": "Vinci"
+      },
+      "coordinates": {
+        "lat": 43.78,
+        "lng": 10.92
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "레오나르도 다 빈치",
+      "en": "Leonardo da Vinci"
+    },
+    "description": {
+      "ko": "르네상스 시대를 대표하는 융합형 진정한 메이커. 예술가이자 해부학, 공학, 천문학을 넘나든 르네상스적 천재.",
+      "en": "Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_vitruvian_man"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "레오나르도_다_빈치",
+      "en": "Leonardo_da_Vinci"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "person_galileo",
+    "type": "person",
+    "date": {
+      "birth": "1564-02-15",
+      "death": "1642-01-08"
+    },
+    "era": "earlyModern",
+    "birthPlace": {
+      "name": {
+        "ko": "피사",
+        "en": "Pisa"
+      },
+      "coordinates": {
+        "lat": 43.72,
+        "lng": 10.4
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "갈릴레오 갈릴레이",
+      "en": "Galileo Galilei"
+    },
+    "description": {
+      "ko": "지동설을 옹호하고 현대 관측 천문학의 창시자이자 낙하의 법칙 등 고전 물리학의 아버지.",
+      "en": "Italian astronomer, physicist and engineer, sometimes described as a polymath, from Pisa. Father of observational astronomy."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_galileo_telescope",
+      "event_heliocentrism"
+    ],
+    "relatedPeople": [
+      "person_copernicus",
+      "person_kepler"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "갈릴레오_갈릴레이",
+      "en": "Galileo_Galilei"
+    },
+    "icon": "🔭",
+    "importance": 5
+  },
+  {
+    "id": "person_kepler",
+    "type": "person",
+    "date": {
+      "birth": "1571-12-27",
+      "death": "1630-11-15"
+    },
+    "era": "earlyModern",
+    "birthPlace": {
+      "name": {
+        "ko": "바일데어슈타트",
+        "en": "Weil der Stadt"
+      },
+      "coordinates": {
+        "lat": 48.75,
+        "lng": 8.87
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "요하네스 케플러",
+      "en": "Johannes Kepler"
+    },
+    "description": {
+      "ko": "독일의 천문학자. 행성 운동의 세 가지 법칙을 발견하여 천체 역학의 기초를 확립.",
+      "en": "German astronomer, mathematician, and astrologer. He is a key figure in the 17th-century scientific revolution, best known for his laws of planetary motion."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_kepler_laws"
+    ],
+    "relatedPeople": [
+      "person_galileo"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "요하네스_케플러",
+      "en": "Johannes_Kepler"
+    },
+    "icon": "🔭",
+    "importance": 4
+  },
+  {
+    "id": "person_william_harvey",
+    "type": "person",
+    "date": {
+      "birth": "1578-04-01",
+      "death": "1657-06-03"
+    },
+    "era": "earlyModern",
+    "birthPlace": {
+      "name": {
+        "ko": "포크스턴",
+        "en": "Folkestone"
+      },
+      "coordinates": {
+        "lat": 51.08,
+        "lng": 1.18
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "윌리엄 하비",
+      "en": "William Harvey"
+    },
+    "description": {
+      "ko": "동물의 심장 박동에 의해 혈액이 온몸을 순환한다는 혈액 순환론을 최초로 상세히 규명한 영국의 의학자.",
+      "en": "English physician who made seminal contributions in anatomy and physiology. First known physician to describe completely the systemic circulation."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_blood_circulation"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "윌리엄_하비",
+      "en": "William_Harvey"
+    },
+    "icon": "⚕️",
+    "importance": 4
+  },
+  {
+    "id": "person_descartes",
+    "type": "person",
+    "date": {
+      "birth": "1596-03-31",
+      "death": "1650-02-11"
+    },
+    "era": "earlyModern",
+    "birthPlace": {
+      "name": {
+        "ko": "라 에 앙 투란",
+        "en": "La Haye en Touraine"
+      },
+      "coordinates": {
+        "lat": 46.96,
+        "lng": 0.69
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "르네 데카르트",
+      "en": "René Descartes"
+    },
+    "description": {
+      "ko": "‘나는 생각한다, 고로 존재한다.’ 해석기하학의 창시자이자 근대 철학과 방법론적 회의의 창시자.",
+      "en": "French philosopher, mathematician, and scientist. A prominent figure of the Scientific Revolution."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_cartesian_system"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "르네_데카르트",
+      "en": "René_Descartes"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "person_huygens",
+    "type": "person",
+    "date": {
+      "birth": "1629-04-14",
+      "death": "1695-07-08"
+    },
+    "era": "earlyModern",
+    "birthPlace": {
+      "name": {
+        "ko": "헤이그",
+        "en": "The Hague"
+      },
+      "coordinates": {
+        "lat": 52.07,
+        "lng": 4.3
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "크리스티안 하위헌스",
+      "en": "Christiaan Huygens"
+    },
+    "description": {
+      "ko": "빛의 파동설을 최초로 주장하였고, 진자시계를 발명한 네덜란드의 물리학자 및 천문학자.",
+      "en": "Dutch mathematician, physicist, astronomer and inventor, regarded as one of the greatest scientists of all time."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_wave_theory"
+    ],
+    "relatedPeople": [
+      "person_isaac_newton"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "크리스티안_하위헌스",
+      "en": "Christiaan_Huygens"
+    },
+    "icon": "🔬",
+    "importance": 4
+  },
+  {
+    "id": "person_benjamin_franklin",
+    "type": "person",
+    "date": {
+      "birth": "1706-01-17",
+      "death": "1790-04-17"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "보스턴",
+        "en": "Boston"
+      },
+      "coordinates": {
+        "lat": 42.36,
+        "lng": -71.05
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "벤저민 프랭클린",
+      "en": "Benjamin Franklin"
+    },
+    "description": {
+      "ko": "미국의 건국의 아버지이자 피뢰침을 발명하고 전기의 방전 이론을 정립한 다재다능한 과학자.",
+      "en": "One of the Founding Fathers of the United States, polymath, inventor, scientist, known for his discoveries regarding electricity."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_lightning_rod"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "벤저민_프랭클린",
+      "en": "Benjamin_Franklin"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "person_lavoisier",
+    "type": "person",
+    "date": {
+      "birth": "1743-08-26",
+      "death": "1794-05-08"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "파리",
+        "en": "Paris"
+      },
+      "coordinates": {
+        "lat": 48.85,
+        "lng": 2.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "앙투안 라부아지에",
+      "en": "Antoine Lavoisier"
+    },
+    "description": {
+      "ko": "근대 화학의 아버지. 질량 보존의 법칙을 확립하고 연소의 산소 이론을 세워 연금술의 잔재를 없앰.",
+      "en": "French nobleman and chemist central to the 18th-century chemical revolution, widely considered the father of modern chemistry."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_conservation_mass"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "앙투안_라부아지에",
+      "en": "Antoine_Lavoisier"
+    },
+    "icon": "🔬",
+    "importance": 5
+  },
+  {
+    "id": "person_edward_jenner",
+    "type": "person",
+    "date": {
+      "birth": "1749-05-17",
+      "death": "1823-01-26"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "버클리",
+        "en": "Berkeley"
+      },
+      "coordinates": {
+        "lat": 51.69,
+        "lng": -2.45
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "에드워드 제너",
+      "en": "Edward Jenner"
+    },
+    "description": {
+      "ko": "인류 최초로 천연두 백신(우두법)을 개발하여 수천만 명의 목숨을 구한 면역학의 아버지.",
+      "en": "English physician and scientist who pioneered the concept of vaccines including creating the smallpox vaccine."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_smallpox_vaccine"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "에드워드_제너",
+      "en": "Edward_Jenner"
+    },
+    "icon": "⚕️",
+    "importance": 5
+  },
+  {
+    "id": "person_john_dalton",
+    "type": "person",
+    "date": {
+      "birth": "1766-09-06",
+      "death": "1844-07-27"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "이글스필드",
+        "en": "Eaglesfield"
+      },
+      "coordinates": {
+        "lat": 54.66,
+        "lng": -3.37
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "존 돌턴",
+      "en": "John Dalton"
+    },
+    "description": {
+      "ko": "모든 물질이 '원자'로 이루어져 있다는 현대 원자론을 최초로 제안한 화학자.",
+      "en": "English chemist, physicist, and meteorologist best known for introducing the atomic theory into chemistry."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_atomic_theory"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "존_돌턴",
+      "en": "John_Dalton"
+    },
+    "icon": "🧮",
+    "importance": 4
+  },
+  {
+    "id": "person_faraday",
+    "type": "person",
+    "date": {
+      "birth": "1791-09-22",
+      "death": "1867-08-25"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "뉴잉턴 버츠",
+        "en": "Newington Butts"
+      },
+      "coordinates": {
+        "lat": 51.49,
+        "lng": -0.1
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "마이클 패러데이",
+      "en": "Michael Faraday"
+    },
+    "description": {
+      "ko": "전자기 유도 법칙을 발견하여 전기 시대의 막을 연 최고의 실험물리학자.",
+      "en": "English scientist who contributed to the study of electromagnetism and electrochemistry."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_electromagnetic_induction"
+    ],
+    "relatedPeople": [
+      "person_maxwell"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "마이클_패러데이",
+      "en": "Michael_Faraday"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "person_babbage",
+    "type": "person",
+    "date": {
+      "birth": "1791-12-26",
+      "death": "1871-10-18"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "찰스 배비지",
+      "en": "Charles Babbage"
+    },
+    "description": {
+      "ko": "컴퓨터의 아버지. 최초의 기계식 범용 컴퓨터인 '해석기관'을 설계함.",
+      "en": "English polymath, mathematician, philosopher, inventor and mechanical engineer who originated the concept of a digital programmable computer."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_analytical_engine"
+    ],
+    "relatedPeople": [
+      "person_ada_lovelace"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "찰스_배비지",
+      "en": "Charles_Babbage"
+    },
+    "icon": "🧮",
+    "importance": 4
+  },
+  {
+    "id": "person_ada_lovelace",
+    "type": "person",
+    "date": {
+      "birth": "1815-12-10",
+      "death": "1852-11-27"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "에이다 러브레이스",
+      "en": "Ada Lovelace"
+    },
+    "description": {
+      "ko": "배비지의 해석기관 알고리즘을 최초로 구상한 인류 최초의 컴퓨터 프로그래머.",
+      "en": "English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_analytical_engine"
+    ],
+    "relatedPeople": [
+      "person_babbage"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "에이다_러브레이스",
+      "en": "Ada_Lovelace"
+    },
+    "icon": "🧮",
+    "importance": 4
+  },
+  {
+    "id": "person_mendel",
+    "type": "person",
+    "date": {
+      "birth": "1822-07-20",
+      "death": "1884-01-06"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "하인첸도르프",
+        "en": "Heinzendorf"
+      },
+      "coordinates": {
+        "lat": 49.62,
+        "lng": 17.84
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "그레고어 멘델",
+      "en": "Gregor Mendel"
+    },
+    "description": {
+      "ko": "완두콩 교배 실험을 통해 유전의 법칙(멘델의 법칙)을 발견한 유전학의 창시자.",
+      "en": "Augustinian friar and scientist, posthumously recognized as the founder of the modern science of genetics."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_mendelian_inheritance"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "그레고어_멘델",
+      "en": "Gregor_Mendel"
+    },
+    "icon": "🌱",
+    "importance": 5
+  },
+  {
+    "id": "person_maxwell",
+    "type": "person",
+    "date": {
+      "birth": "1831-06-13",
+      "death": "1879-11-05"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "에든버러",
+        "en": "Edinburgh"
+      },
+      "coordinates": {
+        "lat": 55.95,
+        "lng": -3.18
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "제임스 클러크 맥스웰",
+      "en": "James Clerk Maxwell"
+    },
+    "description": {
+      "ko": "맥스웰 방정식을 통해 전기와 자기를 하나로 통합하는 전자기학의 기초를 완성한 물리학자.",
+      "en": "Scottish scientist responsible for the classical theory of electromagnetic radiation, bringing together electricity, magnetism, and light."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_maxwell_equations"
+    ],
+    "relatedPeople": [
+      "person_faraday"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제임스_클러크_맥스웰",
+      "en": "James_Clerk_Maxwell"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "person_pasteur",
+    "type": "person",
+    "date": {
+      "birth": "1822-12-27",
+      "death": "1895-09-28"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "돌",
+        "en": "Dole"
+      },
+      "coordinates": {
+        "lat": 47.09,
+        "lng": 5.49
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "루이 파스퇴르",
+      "en": "Louis Pasteur"
+    },
+    "description": {
+      "ko": "광견병 백신을 개발하고 저온 살균법을 도입하여 현대 미생물학 및 면역학의 기초를 다짐.",
+      "en": "French chemist and microbiologist renowned for his discoveries of the principles of vaccination, microbial fermentation and pasteurization."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_pasteurization",
+      "event_swan_neck"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "루이_파스퇴르",
+      "en": "Louis_Pasteur"
+    },
+    "icon": "🔬",
+    "importance": 5
+  },
+  {
+    "id": "person_mendeleev",
+    "type": "person",
+    "date": {
+      "birth": "1834-02-08",
+      "death": "1907-02-02"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "토볼스크",
+        "en": "Tobolsk"
+      },
+      "coordinates": {
+        "lat": 58.2,
+        "lng": 68.25
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "드미트리 멘델레예프",
+      "en": "Dmitri Mendeleev"
+    },
+    "description": {
+      "ko": "원소들의 규칙을 밝혀낸 원소 주기율표를 최초로 작성한 러시아의 화학자.",
+      "en": "Russian chemist and inventor who formulated the Periodic Law and created a farsighted version of the periodic table of elements."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_periodic_table"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "드미트리_멘델레예프",
+      "en": "Dmitri_Mendeleev"
+    },
+    "icon": "🔬",
+    "importance": 5
+  },
+  {
+    "id": "person_koch",
+    "type": "person",
+    "date": {
+      "birth": "1843-12-11",
+      "death": "1910-05-27"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "클라우스탈",
+        "en": "Clausthal"
+      },
+      "coordinates": {
+        "lat": 51.81,
+        "lng": 10.33
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "로베르트 코흐",
+      "en": "Robert Koch"
+    },
+    "description": {
+      "ko": "결핵균과 콜레라균을 발견하고 감염병의 병원균을 증명하는 코흐의 원칙을 세운 세균학의 창시자.",
+      "en": "German physician and microbiologist, discovering the specific causative agents of deadly infectious diseases including tuberculosis, cholera, and anthrax."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_tuberculosis"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "로베르트_코흐",
+      "en": "Robert_Koch"
+    },
+    "icon": "🔬",
+    "importance": 4
+  },
+  {
+    "id": "person_tesla",
+    "type": "person",
+    "date": {
+      "birth": "1856-07-10",
+      "death": "1943-01-07"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "스밀랸",
+        "en": "Smiljan"
+      },
+      "coordinates": {
+        "lat": 44.56,
+        "lng": 15.31
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "니콜라 테슬라",
+      "en": "Nikola Tesla"
+    },
+    "description": {
+      "ko": "현대 교류(AC) 전력 시스템을 설계하고 눈부신 무선 통신 발명품을 남긴 천재적인 전기공학자.",
+      "en": "Serbian-American inventor, electrical engineer, mechanical engineer, and futurist best known for his contributions to the design of the modern alternating current (AC) electricity supply system."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_ac_motor"
+    ],
+    "relatedPeople": [
+      "person_edison"
+    ],
+    "relatedMedia": [
+      "media_movie_tesla"
+    ],
+    "wikipedia": {
+      "ko": "니콜라_테슬라",
+      "en": "Nikola_Tesla"
+    },
+    "icon": "⚡",
+    "importance": 5
+  },
+  {
+    "id": "person_planck",
+    "type": "person",
+    "date": {
+      "birth": "1858-04-23",
+      "death": "1947-10-04"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "킬",
+        "en": "Kiel"
+      },
+      "coordinates": {
+        "lat": 54.32,
+        "lng": 10.13
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "막스 플랑크",
+      "en": "Max Planck"
+    },
+    "description": {
+      "ko": "에너지가 덩어리(양자)로 전달된다는 양자 가설을 발표하여 양자역학의 문을 연 물리학자.",
+      "en": "German theoretical physicist whose discovery of energy quanta won him the Nobel Prize in Physics."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_quantum_hypothesis"
+    ],
+    "relatedPeople": [
+      "person_albert_einstein"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "막스_플랑크",
+      "en": "Max_Planck"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "person_edison",
+    "type": "person",
+    "date": {
+      "birth": "1847-02-11",
+      "death": "1931-10-18"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "밀란",
+        "en": "Milan, Ohio"
+      },
+      "coordinates": {
+        "lat": 41.29,
+        "lng": -82.6
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "토머스 에디슨",
+      "en": "Thomas Edison"
+    },
+    "description": {
+      "ko": "백열전구, 축음기 등 셀 수 없는 발명을 통해 현대 밤의 풍경을 바꾼 미국의 위대한 발명가.",
+      "en": "American inventor and businessman who has been described as America's greatest inventor."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_incandescent_bulb"
+    ],
+    "relatedPeople": [
+      "person_tesla"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "토머스_에디슨",
+      "en": "Thomas_Edison"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "person_jj_thomson",
+    "type": "person",
+    "date": {
+      "birth": "1856-12-18",
+      "death": "1940-08-30"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "맨체스터",
+        "en": "Manchester"
+      },
+      "coordinates": {
+        "lat": 53.48,
+        "lng": -2.24
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "조지프 존 톰슨",
+      "en": "J. J. Thomson"
+    },
+    "description": {
+      "ko": "전자를 발견하여 원자가 쪼개질 수 없다는 기존의 학설을 뒤집은 영국의 물리학자.",
+      "en": "English physicist and Nobel Laureate in Physics, credited with the discovery of the electron."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_electron_discovery"
+    ],
+    "relatedPeople": [
+      "person_rutherford"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "J._J._톰슨",
+      "en": "J._J._Thomson"
+    },
+    "icon": "🔬",
+    "importance": 5
+  },
+  {
+    "id": "person_rutherford",
+    "type": "person",
+    "date": {
+      "birth": "1871-08-30",
+      "death": "1937-10-19"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "넬슨",
+        "en": "Nelson"
+      },
+      "coordinates": {
+        "lat": -41.28,
+        "lng": 173.28
+      },
+      "region": "oceania"
+    },
+    "title": {
+      "ko": "어니스트 러더퍼드",
+      "en": "Ernest Rutherford"
+    },
+    "description": {
+      "ko": "원자핵을 발견하고 방사능 붕괴의 법칙을 규명한 핵물리학의 아버지.",
+      "en": "New Zealand physicist who came to be known as the father of nuclear physics."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_atomic_nucleus"
+    ],
+    "relatedPeople": [
+      "person_jj_thomson",
+      "person_bohr"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "어니스트_러더퍼드",
+      "en": "Ernest_Rutherford"
+    },
+    "icon": "🔭",
+    "importance": 5
+  },
+  {
+    "id": "person_bohr",
+    "type": "person",
+    "date": {
+      "birth": "1885-10-07",
+      "death": "1962-11-18"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "코펜하겐",
+        "en": "Copenhagen"
+      },
+      "coordinates": {
+        "lat": 55.67,
+        "lng": 12.56
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "닐스 보어",
+      "en": "Niels Bohr"
+    },
+    "description": {
+      "ko": "양자 가설을 도입한 새로운 원자 모형을 제시하여 양자역학의 발전에 핵심적으로 기여함.",
+      "en": "Danish physicist who made foundational contributions to understanding atomic structure and quantum theory."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_bohr_model"
+    ],
+    "relatedPeople": [
+      "person_rutherford",
+      "person_albert_einstein",
+      "person_heisenberg"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "닐스_보어",
+      "en": "Niels_Bohr"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "person_heisenberg",
+    "type": "person",
+    "date": {
+      "birth": "1901-12-05",
+      "death": "1976-02-01"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "뷔르츠부르크",
+        "en": "Würzburg"
+      },
+      "coordinates": {
+        "lat": 49.79,
+        "lng": 9.95
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "베르너 하이젠베르크",
+      "en": "Werner Heisenberg"
+    },
+    "description": {
+      "ko": "양자역학의 확립에 기여한 불확정성 원리를 창시하여 현대 입자 물리학의 기초를 다짐.",
+      "en": "German theoretical physicist whose contributions were crucial to the creation of quantum mechanics, known for the uncertainty principle."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_uncertainty_principle"
+    ],
+    "relatedPeople": [
+      "person_bohr",
+      "person_schrodinger"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "베르너_하이젠베르크",
+      "en": "Werner_Heisenberg"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "person_schrodinger",
+    "type": "person",
+    "date": {
+      "birth": "1887-08-12",
+      "death": "1961-01-04"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "빈",
+        "en": "Vienna"
+      },
+      "coordinates": {
+        "lat": 48.2,
+        "lng": 16.37
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "에르빈 슈뢰딩거",
+      "en": "Erwin Schrödinger"
+    },
+    "description": {
+      "ko": "양자역학의 파동 방정식을 제안하고 '슈뢰딩거의 고양이' 사고실험으로 유명한 오스트리아의 물리학자.",
+      "en": "Nobel Prize-winning Austrian-Irish physicist who developed a number of fundamental results in quantum theory."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_schrodinger_equation"
+    ],
+    "relatedPeople": [
+      "person_heisenberg",
+      "person_dirac"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "에르빈_슈뢰딩거",
+      "en": "Erwin_Schrödinger"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "person_dirac",
+    "type": "person",
+    "date": {
+      "birth": "1902-08-08",
+      "death": "1984-10-20"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "브리스틀",
+        "en": "Bristol"
+      },
+      "coordinates": {
+        "lat": 51.45,
+        "lng": -2.58
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "폴 디랙",
+      "en": "Paul Dirac"
+    },
+    "description": {
+      "ko": "양자역학과 특수 상대성 이론을 결합한 디랙 방정식을 제안하여 반물질의 존재를 이론적으로 예언함.",
+      "en": "Theoretical physicist who made fundamental contributions to the early development of both quantum mechanics and quantum electrodynamics."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_antimatter"
+    ],
+    "relatedPeople": [
+      "person_schrodinger"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "폴_디랙",
+      "en": "Paul_Dirac"
+    },
+    "icon": "🧮",
+    "importance": 4
+  },
+  {
+    "id": "person_oppenheimer",
+    "type": "person",
+    "date": {
+      "birth": "1904-04-22",
+      "death": "1967-02-18"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "뉴욕",
+        "en": "New York"
+      },
+      "coordinates": {
+        "lat": 40.71,
+        "lng": -74
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "J. 로버트 오펜하이머",
+      "en": "J. Robert Oppenheimer"
+    },
+    "description": {
+      "ko": "맨해튼 프로젝트의 로스앨러모스 연구소장을 맡아 최초의 원자폭탄 개발을 이끈 '원자폭탄의 아버지'.",
+      "en": "American theoretical physicist who was the director of the Los Alamos Laboratory during World War II, often called the 'father of the atomic bomb'."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_trinity_test"
+    ],
+    "relatedPeople": [
+      "person_albert_einstein",
+      "person_fermi",
+      "person_richard_feynman"
+    ],
+    "relatedMedia": [
+      "media_movie_oppenheimer"
+    ],
+    "wikipedia": {
+      "ko": "J._로버트_오펜하이머",
+      "en": "J._Robert_Oppenheimer"
+    },
+    "icon": "🔥",
+    "importance": 5
+  },
+  {
+    "id": "person_fermi",
+    "type": "person",
+    "date": {
+      "birth": "1901-09-29",
+      "death": "1954-11-28"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "로마",
+        "en": "Rome"
+      },
+      "coordinates": {
+        "lat": 41.9,
+        "lng": 12.49
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "엔리코 페르미",
+      "en": "Enrico Fermi"
+    },
+    "description": {
+      "ko": "최초의 원자로인 시카고 파일-1을 건설하고 핵 제어 연쇄반응을 성공시킨 천재 물리학자.",
+      "en": "Italian-American physicist and the creator of the world's first nuclear reactor, the Chicago Pile-1."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_chicago_pile"
+    ],
+    "relatedPeople": [
+      "person_oppenheimer"
+    ],
+    "relatedMedia": [
+      "media_movie_oppenheimer"
+    ],
+    "wikipedia": {
+      "ko": "엔리코_페르미",
+      "en": "Enrico_Fermi"
+    },
+    "icon": "⚡",
+    "importance": 5
+  },
+  {
+    "id": "person_hubble",
+    "type": "person",
+    "date": {
+      "birth": "1889-11-20",
+      "death": "1953-09-28"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "미주리주",
+        "en": "Marshfield, Missouri"
+      },
+      "coordinates": {
+        "lat": 37.33,
+        "lng": -92.9
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "에드윈 허블",
+      "en": "Edwin Hubble"
+    },
+    "description": {
+      "ko": "우주가 팽창하고 있음을 관측으로 증명(허블의 법칙)하여 인간의 우주 관을 영원히 바꿔놓은 천문학자.",
+      "en": "American astronomer who played a crucial role in establishing the fields of extragalactic astronomy and observational cosmology."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_hubble_law"
+    ],
+    "relatedPeople": [
+      "person_lemaitre",
+      "person_albert_einstein"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "에드윈_허블",
+      "en": "Edwin_Hubble"
+    },
+    "icon": "🔭",
+    "importance": 5
+  },
+  {
+    "id": "person_lemaitre",
+    "type": "person",
+    "date": {
+      "birth": "1894-07-17",
+      "death": "1966-06-20"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "샤를루아",
+        "en": "Charleroi"
+      },
+      "coordinates": {
+        "lat": 50.41,
+        "lng": 4.44
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "조르주 르메트르",
+      "en": "Georges Lemaître"
+    },
+    "description": {
+      "ko": "팽창 우주론을 최초로 제안하고 우주의 기원을 하나의 원시 원자(빅뱅 이론)로 설명한 벨기에의 신부이자 천문학자.",
+      "en": "Belgian Catholic priest and astronomer who first theorized that the universe is expanding, and formulated the Big Bang theory."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_big_bang_theory"
+    ],
+    "relatedPeople": [
+      "person_hubble",
+      "person_albert_einstein"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "조르주_르메트르",
+      "en": "Georges_Lemaître"
+    },
+    "icon": "💡",
+    "importance": 4
+  },
+  {
+    "id": "person_jonas_salk",
+    "type": "person",
+    "date": {
+      "birth": "1914-10-28",
+      "death": "1995-06-23"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "뉴욕",
+        "en": "New York"
+      },
+      "coordinates": {
+        "lat": 40.71,
+        "lng": -74
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "조너스 소크",
+      "en": "Jonas Salk"
+    },
+    "description": {
+      "ko": "수많은 아이들에게 소아마비 공포를 끝낸 최초의 안전하고 효과적인 소아마비 백신 개발자.",
+      "en": "American virologist and medical researcher who discovered and developed one of the first successful polio vaccines."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_polio_vaccine"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "조너스_소크",
+      "en": "Jonas_Salk"
+    },
+    "icon": "⚕️",
+    "importance": 4
+  },
+  {
+    "id": "person_mcclintock",
+    "type": "person",
+    "date": {
+      "birth": "1902-06-16",
+      "death": "1992-09-02"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "하트퍼드",
+        "en": "Hartford, Connecticut"
+      },
+      "coordinates": {
+        "lat": 41.76,
+        "lng": -72.67
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "바버라 매클린톡",
+      "en": "Barbara McClintock"
+    },
+    "description": {
+      "ko": "옥수수의 색상 변화를 연구하여 유전자가 한 곳에서 다른 곳으로 이동할 수 있다는 도약 유전자(트랜스포존)를 발견한 유전학자.",
+      "en": "American scientist and cytogeneticist who was awarded the 1983 Nobel Prize in Physiology or Medicine for the discovery of genetic transposition."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_transposon"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "바버라_매클린톡",
+      "en": "Barbara_McClintock"
+    },
+    "icon": "🌱",
+    "importance": 4
+  },
+  {
+    "id": "person_woese",
+    "type": "person",
+    "date": {
+      "birth": "1928-07-15",
+      "death": "2012-12-30"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "시러큐스",
+        "en": "Syracuse, NY"
+      },
+      "coordinates": {
+        "lat": 43.04,
+        "lng": -76.14
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "칼 우즈",
+      "en": "Carl Woese"
+    },
+    "description": {
+      "ko": "리보솜 RNA 분석을 통해 지구 생물계를 진정세균, 고세균, 진핵생물이라는 3역으로 재분류한 미생물학자.",
+      "en": "American microbiologist who defined the Archaea in 1977 by phylogenetic taxonomy of 16S ribosomal RNA, redesigning the tree of life."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_archaea"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "칼_우즈",
+      "en": "Carl_Woese"
+    },
+    "icon": "🔬",
+    "importance": 4
+  },
+  {
+    "id": "person_von_neumann",
+    "type": "person",
+    "date": {
+      "birth": "1903-12-28",
+      "death": "1957-02-08"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "부다페스트",
+        "en": "Budapest"
+      },
+      "coordinates": {
+        "lat": 47.49,
+        "lng": 19.04
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "존 폰 노이만",
+      "en": "John von Neumann"
+    },
+    "description": {
+      "ko": "수학, 컴퓨터 과학, 양자역학, 경제학(게임 이론) 전반에 걸쳐 천재성을 발휘한 20세기 최고의 과학자 중 한 명.",
+      "en": "Hungarian-American mathematician, physicist, computer scientist, polymath. Designed the Von Neumann architecture for computers."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_von_neumann_architecture"
+    ],
+    "relatedPeople": [
+      "person_oppenheimer",
+      "person_alan_turing"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "존_폰_노이만",
+      "en": "John_von_Neumann"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "person_shannon",
+    "type": "person",
+    "date": {
+      "birth": "1916-04-30",
+      "death": "2001-02-24"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "미시간주",
+        "en": "Petoskey, Michigan"
+      },
+      "coordinates": {
+        "lat": 45.37,
+        "lng": -84.95
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "클로드 섀넌",
+      "en": "Claude Shannon"
+    },
+    "description": {
+      "ko": "디지털 회로 이론과 정보 이론의 창시자로 통신 및 컴퓨터 혁명의 근원적인 기반을 설계함.",
+      "en": "American mathematician, electrical engineer, and cryptographer known as the 'father of information theory'."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_information_theory"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "클로드_섀넌",
+      "en": "Claude_Shannon"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "person_tsiolkovsky",
+    "type": "person",
+    "date": {
+      "birth": "1857-09-17",
+      "death": "1935-09-19"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "이젭스코예",
+        "en": "Izhevskoye"
+      },
+      "coordinates": {
+        "lat": 54.54,
+        "lng": 40.85
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "콘스탄틴 치올콥스키",
+      "en": "Konstantin Tsiolkovsky"
+    },
+    "description": {
+      "ko": "우주비행의 진정한 선구자. '지구는 인류의 요람이지만 언제까지 요람에서 치낼 수는 없다'며 다단 로켓과 우주 정거장 개념을 제안한 로켓 공학의 아버지.",
+      "en": "Russian and Soviet rocket scientist and pioneer of the astronautic theory."
+    },
+    "category": "thinker",
+    "relatedEvents": [],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "콘스탄틴_치올콥스키",
+      "en": "Konstantin_Tsiolkovsky"
+    },
+    "icon": "🚀",
+    "importance": 5
+  },
+  {
+    "id": "person_goddard",
+    "type": "person",
+    "date": {
+      "birth": "1882-10-05",
+      "death": "1945-08-10"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "우스터",
+        "en": "Worcester, Massachusetts"
+      },
+      "coordinates": {
+        "lat": 42.26,
+        "lng": -71.8
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "로버트 고다드",
+      "en": "Robert H. Goddard"
+    },
+    "description": {
+      "ko": "세계 최초의 액체 연료 로켓을 발사하여 우주 시대의 문을 연 미국의 로켓 공학자.",
+      "en": "American engineer, professor, physicist, and inventor who is credited with creating and building the world's first liquid-fueled rocket."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_liquid_rocket"
+    ],
+    "relatedPeople": [
+      "person_von_braun"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "로버트_H._고다드",
+      "en": "Robert_H._Goddard"
+    },
+    "icon": "🚀",
+    "importance": 5
+  },
+  {
+    "id": "person_von_braun",
+    "type": "person",
+    "date": {
+      "birth": "1912-03-23",
+      "death": "1977-06-16"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "비지스크",
+        "en": "Wyrzysk"
+      },
+      "coordinates": {
+        "lat": 53.15,
+        "lng": 17.26
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "베르너 폰 브라운",
+      "en": "Wernher von Braun"
+    },
+    "description": {
+      "ko": "독일의 V-2 로켓부터 미국의 아폴로 계획(새턴 V 로켓)까지 현대 우주 개발을 이끈 전설적인 로켓 과학자.",
+      "en": "German-American aerospace engineer and space architect, the chief architect of the Apollo Saturn V rocket."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_apollo_11"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [
+      "media_movie_apollo_11"
+    ],
+    "wikipedia": {
+      "ko": "베르너_폰_브라운",
+      "en": "Wernher_von_Braun"
+    },
+    "icon": "🚀",
+    "importance": 5
+  },
+  {
+    "id": "person_gagarin",
+    "type": "person",
+    "date": {
+      "birth": "1934-03-09",
+      "death": "1968-03-27"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "클루시노",
+        "en": "Klushino"
+      },
+      "coordinates": {
+        "lat": 55.62,
+        "lng": 34.98
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "유리 가가린",
+      "en": "Yuri Gagarin"
+    },
+    "description": {
+      "ko": "보스토크 1호를 타고 우주로 나아가 지구 궤도를 돈 인류 최초의 우주 비행사. '지구는 푸르다'는 말을 남김.",
+      "en": "Soviet pilot and cosmonaut who became the first human to journey into outer space."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_first_human_spaceflight"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "유리_가가린",
+      "en": "Yuri_Gagarin"
+    },
+    "icon": "👨‍🚀",
+    "importance": 5
+  },
+  {
+    "id": "person_neil_armstrong",
+    "type": "person",
+    "date": {
+      "birth": "1930-08-05",
+      "death": "2012-08-25"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "와파코네타",
+        "en": "Wapakoneta, Ohio"
+      },
+      "coordinates": {
+        "lat": 40.56,
+        "lng": -84.19
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "닐 암스트롱",
+      "en": "Neil Armstrong"
+    },
+    "description": {
+      "ko": "아폴로 11호를 타고 달에 착륙하여 다른 천체에 발을 내디딘 인류 최초의 인물.",
+      "en": "American astronaut and aeronautical engineer, and the first person to walk on the Moon."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_moon_landing"
+    ],
+    "relatedPeople": [
+      "person_von_braun"
+    ],
+    "relatedMedia": [
+      "media_movie_apollo_11",
+      "media_movie_first_man"
+    ],
+    "wikipedia": {
+      "ko": "닐_암스트롱",
+      "en": "Neil_Armstrong"
+    },
+    "icon": "👨‍🚀",
+    "importance": 5
+  },
+  {
+    "id": "person_hawking",
+    "type": "person",
+    "date": {
+      "birth": "1942-01-08",
+      "death": "2018-03-14"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "옥스퍼드",
+        "en": "Oxford"
+      },
+      "coordinates": {
+        "lat": 51.75,
+        "lng": -1.25
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "스티븐 호킹",
+      "en": "Stephen Hawking"
+    },
+    "description": {
+      "ko": "루게릭병을 극복하고 블랙홀 복사(호킹 복사) 이론 등을 발표하여 우주론 발전에 크게 기여한 천체물리학자.",
+      "en": "English theoretical physicist, cosmologist, and author who contributed profoundly to knowledge regarding black holes."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_hawking_radiation"
+    ],
+    "relatedPeople": [
+      "person_kip_thorne"
+    ],
+    "relatedMedia": [
+      "media_movie_theory_of_everything",
+      "media_book_brief_history"
+    ],
+    "wikipedia": {
+      "ko": "스티븐_호킹",
+      "en": "Stephen_Hawking"
+    },
+    "icon": "📖",
+    "importance": 5
+  },
+  {
+    "id": "person_carl_sagan",
+    "type": "person",
+    "date": {
+      "birth": "1934-11-09",
+      "death": "1996-12-20"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "브루클린",
+        "en": "Brooklyn, New York"
+      },
+      "coordinates": {
+        "lat": 40.67,
+        "lng": -73.94
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "칼 세이건",
+      "en": "Carl Sagan"
+    },
+    "description": {
+      "ko": "보이저 계획에 참여하고 다큐멘터리 «코스모스»로 전 세계에 천문학의 경이로움을 널리 알린 천문학자 겸 대중 과학 운동가.",
+      "en": "American astronomer, planetary scientist and science communicator who popularized science through his book and series Cosmos."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_voyager_1",
+      "event_cosmos_broadcast"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [
+      "media_book_cosmos",
+      "media_docu_cosmos"
+    ],
+    "wikipedia": {
+      "ko": "칼_세이건",
+      "en": "Carl_Sagan"
+    },
+    "icon": "🔭",
+    "importance": 5
+  },
+  {
+    "id": "person_kip_thorne",
+    "type": "person",
+    "date": {
+      "birth": "1940-06-01",
+      "death": null
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "로건",
+        "en": "Logan, Utah"
+      },
+      "coordinates": {
+        "lat": 41.73,
+        "lng": -111.83
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "킵 손",
+      "en": "Kip Thorne"
+    },
+    "description": {
+      "ko": "상대성 이론과 웜홀 연구의 권위자이자 LIGO(레이저 간섭계 중력파 관측소)를 통해 중력파 발견을 이끈 노벨상 수상자. 영화 '인터스텔라'의 과학 자문.",
+      "en": "American theoretical physicist known for his contributions to gravitational physics and astrophysics. Nobel laureate."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_gravitational_waves"
+    ],
+    "relatedPeople": [
+      "person_hawking"
+    ],
+    "relatedMedia": [
+      "media_movie_interstellar"
+    ],
+    "wikipedia": {
+      "ko": "킵_손",
+      "en": "Kip_Thorne"
+    },
+    "icon": "💡",
+    "importance": 4
+  },
+  {
+    "id": "person_linus_torvalds",
+    "type": "person",
+    "date": {
+      "birth": "1969-12-28",
+      "death": null
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "헬싱키",
+        "en": "Helsinki"
+      },
+      "coordinates": {
+        "lat": 60.16,
+        "lng": 24.93
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "리누스 토르발스",
+      "en": "Linus Torvalds"
+    },
+    "description": {
+      "ko": "무료 오픈 소스 운영 체제 커널인 리눅스(Linux)와 버전 관리 시스템 깃(Git)을 개발하여 전 세계 IT 생태계를 뒤바꾼 전설적인 개발자.",
+      "en": "Finnish-American software engineer who is the creator and principal developer of the Linux kernel and Git."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_linux_release"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "리누스_토르발스",
+      "en": "Linus_Torvalds"
+    },
+    "icon": "💻",
+    "importance": 5
+  },
+  {
+    "id": "person_grace_hopper",
+    "type": "person",
+    "date": {
+      "birth": "1906-12-09",
+      "death": "1992-01-01"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "뉴욕",
+        "en": "New York"
+      },
+      "coordinates": {
+        "lat": 40.71,
+        "lng": -74
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "그레이스 호퍼",
+      "en": "Grace Hopper"
+    },
+    "description": {
+      "ko": "최초의 컴파일러 A-0을 개발하고 코볼(COBOL) 언어의 탄생에 기여하여 프로그램이 영어를 쓰듯 작성될 수 있도록 만든 컴퓨터 과학의 개척자.",
+      "en": "American computer scientist and US Navy rear admiral. Developed the first computer compiler and influenced the creation of COBOL."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_first_compiler"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "그레이스_호퍼",
+      "en": "Grace_Hopper"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "person_john_bardeen",
+    "type": "person",
+    "date": {
+      "birth": "1908-05-23",
+      "death": "1991-01-30"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "매디슨",
+        "en": "Madison, Wisconsin"
+      },
+      "coordinates": {
+        "lat": 43.07,
+        "lng": -89.4
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "존 바딘",
+      "en": "John Bardeen"
+    },
+    "description": {
+      "ko": "트랜지스터 발명과 초전도성(BCS 이론) 연구로 물리학 부문에서 노벨상을 유일하게 두 번 수상한 위대한 물리학자.",
+      "en": "American physicist and electrical engineer, the only person to be awarded the Nobel Prize in Physics twice: for the transistor and for superconductivity."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_transistor"
+    ],
+    "relatedPeople": [
+      "person_william_shockley"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "존_바딘",
+      "en": "John_Bardeen"
+    },
+    "icon": "💡",
+    "importance": 5
+  },
+  {
+    "id": "person_william_shockley",
+    "type": "person",
+    "date": {
+      "birth": "1910-02-13",
+      "death": "1989-08-12"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "윌리엄 쇼클리",
+      "en": "William Shockley"
+    },
+    "description": {
+      "ko": "벨 연구소에서 바딘, 브래튼과 함께 트랜지스터를 공동 발명하여 실리콘 밸리의 정보 통신 시대를 연 장본인 중 하나.",
+      "en": "American physicist and inventor. Co-invented the first working point-contact transistor."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_transistor"
+    ],
+    "relatedPeople": [
+      "person_john_bardeen"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "윌리엄_쇼클리",
+      "en": "William_Shockley"
+    },
+    "icon": "⚡",
+    "importance": 4
+  },
+  {
+    "id": "person_jack_kilby",
+    "type": "person",
+    "date": {
+      "birth": "1923-11-08",
+      "death": "2005-06-20"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "제퍼슨시티",
+        "en": "Jefferson City, Missouri"
+      },
+      "coordinates": {
+        "lat": 38.57,
+        "lng": -92.17
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "잭 킬비",
+      "en": "Jack Kilby"
+    },
+    "description": {
+      "ko": "텍사스 인스트루먼트에서 여러 개의 전자 부품을 하나로 합친 세계 최초의 집적 회로(마이크로칩)를 발명한 일렉트로닉스의 영웅.",
+      "en": "American electrical engineer who took part in the realization of the first integrated circuit."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_integrated_circuit"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "잭_킬비",
+      "en": "Jack_Kilby"
+    },
+    "icon": "💻",
+    "importance": 4
+  },
+  {
+    "id": "person_godel",
+    "type": "person",
+    "date": {
+      "birth": "1906-04-28",
+      "death": "1978-01-14"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "브륀",
+        "en": "Brno"
+      },
+      "coordinates": {
+        "lat": 49.19,
+        "lng": 16.6
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "쿠르트 괴델",
+      "en": "Kurt Gödel"
+    },
+    "description": {
+      "ko": "수학 체계의 완전성을 부정하는 '불완전성 정리'를 증명하여, 20세기 수리논리학에 원자 폭탄급 충격을 던진 수학자.",
+      "en": "Logician, mathematician, and philosopher. Considered one of the most significant logicians in history for his incompleteness theorems."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_incompleteness_theorem"
+    ],
+    "relatedPeople": [
+      "person_albert_einstein",
+      "person_von_neumann"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "쿠르트_괴델",
+      "en": "Kurt_Gödel"
+    },
+    "icon": "🧮",
+    "importance": 5
+  },
+  {
+    "id": "person_ramanujan",
+    "type": "person",
+    "date": {
+      "birth": "1887-12-22",
+      "death": "1920-04-26"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "에로데",
+        "en": "Erode"
+      },
+      "coordinates": {
+        "lat": 11.34,
+        "lng": 77.71
+      },
+      "region": "asia"
+    },
+    "title": {
+      "ko": "스리니바사 라마누잔",
+      "en": "Srinivasa Ramanujan"
+    },
+    "description": {
+      "ko": "정규 수학 교육을 거의 받지 않고도 직관만으로 엄청난 수의 수학 공식과 정리를 발견한 인도의 불세출 천재 수학자.",
+      "en": "Indian mathematician who made substantial contributions to mathematical analysis, number theory, infinite series, and continued fractions."
+    },
+    "category": "thinker",
+    "relatedEvents": [],
+    "relatedPeople": [],
+    "relatedMedia": [
+      "media_movie_man_who_knew_infinity"
+    ],
+    "wikipedia": {
+      "ko": "스리니바사_라마누잔",
+      "en": "Srinivasa_Ramanujan"
+    },
+    "icon": "🧮",
+    "importance": 4
+  },
+  {
+    "id": "person_alfred_wegener",
+    "type": "person",
+    "date": {
+      "birth": "1880-11-01",
+      "death": "1930-11-02"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "베를린",
+        "en": "Berlin"
+      },
+      "coordinates": {
+        "lat": 52.52,
+        "lng": 13.4
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "알프레트 베게너",
+      "en": "Alfred Wegener"
+    },
+    "description": {
+      "ko": "대륙 이동설을 제창하여 현대 판구조론의 기초 모델을 세운 독일의 기상학자이자 지구물리학자.",
+      "en": "German polar researcher, geophysicist and meteorologist, primarily known for his theory of continental drift."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_continental_drift"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "알프레트_베게너",
+      "en": "Alfred_Wegener"
+    },
+    "icon": "🌍",
+    "importance": 5
+  },
+  {
+    "id": "person_mary_anning",
+    "type": "person",
+    "date": {
+      "birth": "1799-05-21",
+      "death": "1847-03-09"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "라임레지스",
+        "en": "Lyme Regis"
+      },
+      "coordinates": {
+        "lat": 50.72,
+        "lng": -2.93
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "메리 애닝",
+      "en": "Mary Anning"
+    },
+    "description": {
+      "ko": "세계 최초로 이크티오사우루스와 플레시오사우루스의 화석을 발견하여 쥐라기 해양 생태계를 세상에 알린 독보적인 고생물학자.",
+      "en": "English fossil collector, dealer, and palaeontologist who became known around the world for important discoveries in Jurassic marine fossil beds."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_ichthyosaur_discovery"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [
+      "media_movie_ammonite"
+    ],
+    "wikipedia": {
+      "ko": "메리_애닝",
+      "en": "Mary_Anning"
+    },
+    "icon": "🦖",
+    "importance": 4
+  },
+  {
+    "id": "person_rachel_carson",
+    "type": "person",
+    "date": {
+      "birth": "1907-05-27",
+      "death": "1964-04-14"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "스프링데일",
+        "en": "Springdale, PA"
+      },
+      "coordinates": {
+        "lat": 40.54,
+        "lng": -79.78
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "레이첼 카슨",
+      "en": "Rachel Carson"
+    },
+    "description": {
+      "ko": "DDT 등 화학 살충제의 위험성을 경고한 명저 '침묵의 봄'을 통해 현대 환경 운동을 촉발시킨 해양 생물학자.",
+      "en": "American marine biologist, author, and conservationist whose book Silent Spring is credited with advancing the global environmental movement."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_silent_spring"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "레이첼_카슨",
+      "en": "Rachel_Carson"
+    },
+    "icon": "🌱",
+    "importance": 5
+  },
+  {
+    "id": "person_linus_pauling",
+    "type": "person",
+    "date": {
+      "birth": "1901-02-28",
+      "death": "1994-08-19"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "포틀랜드",
+        "en": "Portland, Oregon"
+      },
+      "coordinates": {
+        "lat": 45.52,
+        "lng": -122.67
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "라이너스 폴링",
+      "en": "Linus Pauling"
+    },
+    "description": {
+      "ko": "화학 결합의 본질을 밝혀내어 양자 화학을 확립하고, 단백질 구조 연구와 평화 운동으로 단독 노벨상을 두 번이나 수상한 전설적 화학자.",
+      "en": "American chemist, biochemist, peace activist, author, educator. Published The Nature of the Chemical Bond."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_chemical_bond"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "라이너스_폴링",
+      "en": "Linus_Pauling"
+    },
+    "icon": "🔬",
+    "importance": 5
+  },
+  {
+    "id": "person_fritz_haber",
+    "type": "person",
+    "date": {
+      "birth": "1868-12-09",
+      "death": "1934-01-29"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "브레슬라우",
+        "en": "Breslau"
+      },
+      "coordinates": {
+        "lat": 51.1,
+        "lng": 17.03
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "프리츠 하버",
+      "en": "Fritz Haber"
+    },
+    "description": {
+      "ko": "공기 중의 질소로 암모니아를 합성하여 화학 비료를 만들어 인류를 기아에서 구한 동시에 양면적인 독가스를 개발한 화학자.",
+      "en": "German chemist who received the Nobel Prize in Chemistry for his invention of the Haber-Bosch process."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_haber_process"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "프리츠_하버",
+      "en": "Fritz_Haber"
+    },
+    "icon": "⚖️",
+    "importance": 4
+  },
+  {
+    "id": "person_dorothy_hodgkin",
+    "type": "person",
+    "date": {
+      "birth": "1910-05-12",
+      "death": "1994-07-29"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "카이로",
+        "en": "Cairo"
+      },
+      "coordinates": {
+        "lat": 30.04,
+        "lng": 31.23
+      },
+      "region": "africa"
+    },
+    "title": {
+      "ko": "도로시 호지킨",
+      "en": "Dorothy Hodgkin"
+    },
+    "description": {
+      "ko": "X선 결정학을 발전시켜 페니실린, 비타민 B12, 인슐린 등의 3차원 분자 구조를 밝혀낸 위대한 화학자.",
+      "en": "British chemist who developed protein crystallography, won the Nobel Prize for discovering the structure of Vitamin B12 and Penicillin."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_b12_structure"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "도로시_크로풋_호지킨",
+      "en": "Dorothy_Hodgkin"
+    },
+    "icon": "🔬",
+    "importance": 4
+  },
+  {
+    "id": "person_humboldt",
+    "type": "person",
+    "date": {
+      "birth": "1769-09-14",
+      "death": "1859-05-06"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "베를린",
+        "en": "Berlin"
+      },
+      "coordinates": {
+        "lat": 52.52,
+        "lng": 13.4
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "알렉산더 폰 훔볼트",
+      "en": "Alexander von Humboldt"
+    },
+    "description": {
+      "ko": "지구상의 모든 자연현상이 서로 연결되어 있다는 총체적인 훔볼트 자연관을 정립한 근대 지리학과 생물지리학의 1인자.",
+      "en": "Prussian polymath, geographer, naturalist, explorer, and influential proponent of Romantic philosophy and science."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_cosmos_humboldt"
+    ],
+    "relatedPeople": [
+      "person_charles_darwin"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "알렉산더_폰_훔볼트",
+      "en": "Alexander_von_Humboldt"
+    },
+    "icon": "🌍",
+    "importance": 5
+  },
+  {
+    "id": "person_cuvier",
+    "type": "person",
+    "date": {
+      "birth": "1769-08-23",
+      "death": "1832-05-13"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "몽벨리아르",
+        "en": "Montbéliard"
+      },
+      "coordinates": {
+        "lat": 47.5,
+        "lng": 6.79
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "조르주 퀴비에",
+      "en": "Georges Cuvier"
+    },
+    "description": {
+      "ko": "화석 연구를 통해 멸종의 개념을 과학적으로 입증하고 고생물학과 비교 해부학을 창시한 프랑스의 생물학자.",
+      "en": "French naturalist and zoologist, sometimes referred to as the 'founding father of paleontology'."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_comparative_anatomy"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "조르주_퀴비에",
+      "en": "Georges_Cuvier"
+    },
+    "icon": "🦴",
+    "importance": 4
+  },
+  {
+    "id": "person_lyell",
+    "type": "person",
+    "date": {
+      "birth": "1797-11-14",
+      "death": "1875-02-22"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "키나데이",
+        "en": "Kinnordy"
+      },
+      "coordinates": {
+        "lat": 56.68,
+        "lng": -3
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "찰스 라이엘",
+      "en": "Charles Lyell"
+    },
+    "description": {
+      "ko": "과거 지구에서 발생한 일은 현재 관찰되는 지질학적 힘과 동일하다는 '동일과정설'을 대중화시킨 지질학자. 다윈에게 큰 영향을 줌.",
+      "en": "Scottish geologist who demonstrated the power of known natural causes in explaining Earth's history (uniformitarianism)."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_principles_geology"
+    ],
+    "relatedPeople": [
+      "person_charles_darwin",
+      "person_hutton"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "찰스_라이엘",
+      "en": "Charles_Lyell"
+    },
+    "icon": "🌍",
+    "importance": 4
+  },
+  {
+    "id": "person_hutton",
+    "type": "person",
+    "date": {
+      "birth": "1726-06-03",
+      "death": "1797-03-26"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "에든버러",
+        "en": "Edinburgh"
+      },
+      "coordinates": {
+        "lat": 55.95,
+        "lng": -3.18
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "제임스 허턴",
+      "en": "James Hutton"
+    },
+    "description": {
+      "ko": "현대 지질학의 아버지. 지구의 깊은 시간을 인식하고 지각의 형성과 변형 과정의 기초를 세운 스코틀랜드의 과학자.",
+      "en": "Scottish geologist, physician, chemical manufacturer, naturalist, and experimental agriculturalist. Often referred to as the Father of Modern Geology."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_theory_of_earth"
+    ],
+    "relatedPeople": [
+      "person_lyell"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제임스_허턴",
+      "en": "James_Hutton"
+    },
+    "icon": "🌍",
+    "importance": 4
+  },
+  {
+    "id": "person_yalow",
+    "type": "person",
+    "date": {
+      "birth": "1921-07-19",
+      "death": "2011-08-09"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "뉴욕",
+        "en": "New York"
+      },
+      "coordinates": {
+        "lat": 40.71,
+        "lng": -74
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "로잘린 얠로",
+      "en": "Rosalyn Yalow"
+    },
+    "description": {
+      "ko": "피 속에 극히 미량으로 존재하는 호르몬(인슐린 등)을 측정할 수 있는 방사성면역측정법(RIA)을 개발하여 노벨 생리의학상을 수상한 의학 물리학자.",
+      "en": "American medical physicist, and a co-winner of the 1977 Nobel Prize in Physiology or Medicine for development of the radioimmunoassay (RIA) technique."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_ria"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "로잘린_서스먼_얠로",
+      "en": "Rosalyn_Sussman_Yalow"
+    },
+    "icon": "⚕️",
+    "importance": 4
+  },
+  {
+    "id": "person_tu_youyou",
+    "type": "person",
+    "date": {
+      "birth": "1930-12-30",
+      "death": null
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "닝보",
+        "en": "Ningbo"
+      },
+      "coordinates": {
+        "lat": 29.86,
+        "lng": 121.54
+      },
+      "region": "asia"
+    },
+    "title": {
+      "ko": "투유유",
+      "en": "Tu Youyou"
+    },
+    "description": {
+      "ko": "중국 전통 의학 서적을 영감으로 항말라리아 약효 성분인 아르테미시닌을 추출, 개발하여 말라리아로 사망하는 수백만 명을 구한 약학자.",
+      "en": "Chinese pharmaceutical chemist who discovered artemisinin and dihydroartemisinin, used to treat malaria."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_artemisinin"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "투유유",
+      "en": "Tu_Youyou"
+    },
+    "icon": "🌿",
+    "importance": 4
+  },
+  {
+    "id": "person_wu",
+    "type": "person",
+    "date": {
+      "birth": "1912-05-31",
+      "death": "1997-02-16"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "타이창",
+        "en": "Taicang"
+      },
+      "coordinates": {
+        "lat": 31.45,
+        "lng": 121.1
+      },
+      "region": "asia"
+    },
+    "title": {
+      "ko": "우첸슝 (치엔쉬엉 우)",
+      "en": "Chien-Shiung Wu"
+    },
+    "description": {
+      "ko": "놀라운 정확도의 우 실험(Wu experiment)을 통해 자연계의 약력에서 '패리티 비보존 법칙'이 성립함을 증명한 세계 최고의 실험물리학자.",
+      "en": "Chinese-American experimental physicist who made significant contributions in the field of nuclear physics, known for the Wu experiment."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_parity_violation"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "우첸슝",
+      "en": "Chien-Shiung_Wu"
+    },
+    "icon": "🔬",
+    "importance": 4
+  },
+  {
+    "id": "person_meitner",
+    "type": "person",
+    "date": {
+      "birth": "1878-11-07",
+      "death": "1968-10-27"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "빈",
+        "en": "Vienna"
+      },
+      "coordinates": {
+        "lat": 48.2,
+        "lng": 16.37
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "리제 마이트너",
+      "en": "Lise Meitner"
+    },
+    "description": {
+      "ko": "우라늄에 중성자를 충돌시켜 원자핵이 쪼개지는 현상을 인류 최초로 이론적으로 규명하고 '핵분열'이라 명명한 물리학자.",
+      "en": "Austrian-Swedish physicist who was one of those responsible for the discovery of the element protactinium and nuclear fission."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_nuclear_fission"
+    ],
+    "relatedPeople": [
+      "person_oppenheimer",
+      "person_albert_einstein"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "리제_마이트너",
+      "en": "Lise_Meitner"
+    },
+    "icon": "🔥",
+    "importance": 5
+  },
+  {
+    "id": "person_jane_goodall",
+    "type": "person",
+    "date": {
+      "birth": "1934-04-03",
+      "death": null
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "런던",
+        "en": "London"
+      },
+      "coordinates": {
+        "lat": 51.5,
+        "lng": -0.12
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "제인 구달",
+      "en": "Jane Goodall"
+    },
+    "description": {
+      "ko": "탄자니아의 곰베 숲에서 침팬지 무리에 동화되어 야생 침팬지의 도구 사용을 세계 최초로 발견하여 인간의 본질에 대한 질문을 던진 영장류 학자.",
+      "en": "English primatologist and anthropologist, considered the world's foremost expert on chimpanzees."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_chimp_tools"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제인_구달",
+      "en": "Jane_Goodall"
+    },
+    "icon": "🐒",
+    "importance": 4
+  },
+  {
+    "id": "person_robert_hooke",
+    "type": "person",
+    "date": {
+      "birth": "1635-07-28",
+      "death": "1703-03-03"
+    },
+    "era": "premodern",
+    "birthPlace": {
+      "name": {
+        "ko": "아일오브와이트",
+        "en": "Isle of Wight"
+      },
+      "coordinates": {
+        "lat": 50.69,
+        "lng": -1.3
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "로버트 훅",
+      "en": "Robert Hooke"
+    },
+    "description": {
+      "ko": "복합 현미경으로 코르크 단면을 관찰하여 벌집 모양의 작은 방을 '세포(cell)'라 최초로 명명하고 용수철 법칙을 연구한 영국의 만물박사.",
+      "en": "English polymath. He coined the term 'cell' and discovered the law of elasticity known as Hooke's law."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_micrographia"
+    ],
+    "relatedPeople": [
+      "person_leeuwenhoek",
+      "person_isaac_newton"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "로버트_훅",
+      "en": "Robert_Hooke"
+    },
+    "icon": "🔬",
+    "importance": 4
+  },
+  {
+    "id": "person_vesalius",
+    "type": "person",
+    "date": {
+      "birth": "1514-12-31",
+      "death": "1564-10-15"
+    },
+    "era": "premodern",
+    "birthPlace": {
+      "name": {
+        "ko": "브뤼셀",
+        "en": "Brussels"
+      },
+      "coordinates": {
+        "lat": 50.85,
+        "lng": 4.35
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "안드레아스 베살리우스",
+      "en": "Andreas Vesalius"
+    },
+    "description": {
+      "ko": "인체를 직접 해부하여 천여 년간 진리로 믿어지던 갈레노스의 해부학 오류를 바로잡고 근대 인체 해부학의 기초를 닦은 의학자.",
+      "en": "16th-century anatomist, physician, and author of one of the most influential books on human anatomy, 'De humani corporis fabrica'."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_fabric_of_human",
+      "event_scientific_revolution_start"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "안드레아스_베살리우스",
+      "en": "Andreas_Vesalius"
+    },
+    "icon": "🦴",
+    "importance": 5
+  },
+  {
+    "id": "person_nightingale",
+    "type": "person",
+    "date": {
+      "birth": "1820-05-12",
+      "death": "1910-08-13"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "피렌체",
+        "en": "Florence"
+      },
+      "coordinates": {
+        "lat": 43.76,
+        "lng": 11.25
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "플로렌스 나이팅게일",
+      "en": "Florence Nightingale"
+    },
+    "description": {
+      "ko": "크림 전쟁에서 야전 병원의 위생을 개선하고 감염 사망률을 극적으로 낮추었으며, 통계 데이터 시각화를 통해 장미 도표를 고안한 백의의 천사.",
+      "en": "English social reformer and statistician, and the founder of modern nursing."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_rose_diagram"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "플로렌스_나이팅게일",
+      "en": "Florence_Nightingale"
+    },
+    "icon": "⚕️",
+    "importance": 5
+  },
+  {
+    "id": "person_alexander_fleming",
+    "type": "person",
+    "date": {
+      "birth": "1881-08-06",
+      "death": "1955-03-11"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "로크필드",
+        "en": "Lochfield"
+      },
+      "coordinates": {
+        "lat": 55.6,
+        "lng": -4.68
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "알렉산더 플레밍",
+      "en": "Alexander Fleming"
+    },
+    "description": {
+      "ko": "우연히 날아든 푸른곰팡이 주변에서 세균이 자라지 못하는 현상을 관찰하여, 기적의 항생제 '페니실린'을 최초로 발견한 세균학자.",
+      "en": "Scottish physician and microbiologist, best known for discovering the world's first broadly effective antibiotic substance, which he named penicillin."
+    },
+    "category": "scientist",
+    "relatedEvents": [
+      "event_penicillin"
+    ],
+    "relatedPeople": [
+      "person_howard_florey"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "알렉산더_플레밍",
+      "en": "Alexander_Fleming"
+    },
+    "icon": "💊",
+    "importance": 5
+  },
+  {
+    "id": "person_karl_landsteiner",
+    "type": "person",
+    "date": {
+      "birth": "1868-06-14",
+      "death": "1943-06-26"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "빈",
+        "en": "Vienna"
+      },
+      "coordinates": {
+        "lat": 48.2,
+        "lng": 16.37
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "카를 란트슈타이너",
+      "en": "Karl Landsteiner"
+    },
+    "description": {
+      "ko": "인간의 혈액형에 A형, B형, C형(이후 O형)이 존재함을 최초로 발견하여 안전한 수혈을 가능하게 만든 오스트리아의 병리학자.",
+      "en": "Austrian biologist, physician, and immunologist. He distinguished the main blood groups in 1900."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_blood_groups"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "카를_란트슈타이너",
+      "en": "Karl_Landsteiner"
+    },
+    "icon": "🩸",
+    "importance": 5
+  },
+  {
+    "id": "person_paul_ehrlich",
+    "type": "person",
+    "date": {
+      "birth": "1854-03-14",
+      "death": "1915-08-20"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "슈첼린",
+        "en": "Strzelin"
+      },
+      "coordinates": {
+        "lat": 50.78,
+        "lng": 17.06
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "파울 에를리히",
+      "en": "Paul Ehrlich"
+    },
+    "description": {
+      "ko": "인체에는 무해하면서 병원균만을 골라 투입해 죽이는 '마법의 탄환' 개념을 구상, 매독 치료제 살바르산 606호를 개발하여 화학 요법의 시대를 염.",
+      "en": "German Jewish physician and scientist who worked in the fields of hematology, immunology, and antimicrobial chemotherapy."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_salvarsan"
+    ],
+    "relatedPeople": [
+      "person_robert_koch"
+    ],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "파울_에를리히",
+      "en": "Paul_Ehrlich"
+    },
+    "icon": "💊",
+    "importance": 4
+  },
+  {
+    "id": "person_john_snow",
+    "type": "person",
+    "date": {
+      "birth": "1813-03-15",
+      "death": "1858-06-16"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "요크",
+        "en": "York"
+      },
+      "coordinates": {
+        "lat": 53.95,
+        "lng": -1.08
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "존 스노",
+      "en": "John Snow"
+    },
+    "description": {
+      "ko": "1854년 런던 콜레라 대유행 당시 사망자 지도를 그려 오염된 펌프를 차단함으로써 역학이라는 새로운 학문을 개척한 의사.",
+      "en": "English physician and a leader in the development of anesthesia and medical hygiene. Considered one of the founders of modern epidemiology."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_ghost_map"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "존_스노_(의사)",
+      "en": "John_Snow"
+    },
+    "icon": "🗺️",
+    "importance": 5
+  },
+  {
+    "id": "person_semmelweis",
+    "type": "person",
+    "date": {
+      "birth": "1818-07-01",
+      "death": "1865-08-13"
+    },
+    "era": "modern",
+    "birthPlace": {
+      "name": {
+        "ko": "부더",
+        "en": "Buda (Budapest)"
+      },
+      "coordinates": {
+        "lat": 47.49,
+        "lng": 19.04
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "이그나츠 제멜바이스",
+      "en": "Ignaz Semmelweis"
+    },
+    "description": {
+      "ko": "의사의 오염된 손이 임산부에게 산욕열을 옮긴다는 사실을 밝혀내고 염소 소독 손 씻기를 강력히 옹호한 방역의 선구자 (하지만 생전에는 철저히 배척받음).",
+      "en": "Hungarian physician and scientist, known as an early pioneer of antiseptic procedures. Urged hand-washing to prevent puerperal fever."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_hand_washing"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이그나츠_제멜바이스",
+      "en": "Ignaz_Semmelweis"
+    },
+    "icon": "🧼",
+    "importance": 4
+  },
+  {
+    "id": "person_luis_alvarez",
+    "type": "person",
+    "date": {
+      "birth": "1911-06-13",
+      "death": "1988-09-01"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "샌프란시스코",
+        "en": "San Francisco"
+      },
+      "coordinates": {
+        "lat": 37.77,
+        "lng": -122.41
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "루이스 앨버레즈",
+      "en": "Luis Alvarez"
+    },
+    "description": {
+      "ko": "입자 물리학으로 노벨상을 수상하고 아들 월터와 함께 백악기-제3기 경계층의 이리듐을 관측하여 공룡이 운석 충돌로 멸종했다는 가설을 증명한 천재 물리학자.",
+      "en": "American experimental physicist, inventor, and professor who was awarded the Nobel Prize in Physics; proposed the asteroid impact theory of dinosaur extinction."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_kt_extinction"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "루이스_앨버레즈",
+      "en": "Luis_Walter_Alvarez"
+    },
+    "icon": "☄️",
+    "importance": 4
+  },
+  {
+    "id": "person_maryam_mirzakhani",
+    "type": "person",
+    "date": {
+      "birth": "1977-05-12",
+      "death": "2017-07-14"
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "테헤란",
+        "en": "Tehran"
+      },
+      "coordinates": {
+        "lat": 35.68,
+        "lng": 51.38
+      },
+      "region": "asia"
+    },
+    "title": {
+      "ko": "마리암 미르자하니",
+      "en": "Maryam Mirzakhani"
+    },
+    "description": {
+      "ko": "복잡한 곡선의 기하학과 동역학에 관한 독창적인 연구로 수학계 노벨상이라 불리는 필즈상을 여성 최초로 수상한 이란 출신의 천재 수학자.",
+      "en": "Iranian mathematician and a professor of mathematics at Stanford University. She was the first woman to win the Fields Medal."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_fields_medal_female"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "마리암_미르자하니",
+      "en": "Maryam_Mirzakhani"
+    },
+    "icon": "📐",
+    "importance": 4
+  },
+  {
+    "id": "person_shinya_yamanaka",
+    "type": "person",
+    "date": {
+      "birth": "1962-09-04",
+      "death": null
+    },
+    "era": "contemporary",
+    "birthPlace": {
+      "name": {
+        "ko": "히가시오사카",
+        "en": "Higashiosaka"
+      },
+      "coordinates": {
+        "lat": 34.66,
+        "lng": 135.6
+      },
+      "region": "asia"
+    },
+    "title": {
+      "ko": "야마나카 신야",
+      "en": "Shinya Yamanaka"
+    },
+    "description": {
+      "ko": "성숙한 체세포를 조작하여 모든 조직으로 분화할 수 있는 유도 만능 줄기세포(iPS 세포)로 시간을 거스르게 만든 일본의 생물학자(노벨상 수상).",
+      "en": "Japanese stem cell researcher and a Nobel Prize laureate who discovered induced pluripotent stem cells (iPS cells)."
+    },
+    "category": "thinker",
+    "relatedEvents": [
+      "event_ips_cells"
+    ],
+    "relatedPeople": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "야마나카_신야",
+      "en": "Shinya_Yamanaka"
+    },
+    "icon": "🧬",
+    "importance": 5
+  }
+]

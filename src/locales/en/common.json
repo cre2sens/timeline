@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Chronos Timeline",
+    "subtitle": "Journey Through History & Geography"
+  },
+  "header": {
+    "search": "Search...",
+    "filter": "Filter"
+  },
+  "filter": {
+    "era": "Era",
+    "region": "Region",
+    "category": "Category",
+    "type": "Type",
+    "importance": "Importance",
+    "mediaType": "Media Type",
+    "all": "All",
+    "event": "Events",
+    "person": "People",
+    "reset": "Reset Filters",
+    "results": "{{count}} results"
+  },
+  "era": {
+    "ancient": "Ancient",
+    "medieval": "Medieval",
+    "earlyModern": "Early Modern",
+    "modern": "Modern",
+    "contemporary": "Contemporary",
+    "unknown": "Unknown"
+  },
+  "region": {
+    "eastAsia": "East Asia",
+    "europe": "Europe",
+    "middleEast": "Middle East",
+    "americas": "Americas",
+    "africa": "Africa",
+    "southAsia": "South Asia",
+    "korea": "Korea",
+    "unknown": "Other"
+  },
+  "category": {
+    "politics": "Politics",
+    "battle": "Battle & Military",
+    "culture": "Culture & Art",
+    "invention": "Science & Tech",
+    "discovery": "Discovery & Geography",
+    "thinker": "People & Philosophy",
+    "other": "Other"
+  },
+  "common": {
+    "events": "Events",
+    "people": "People",
+    "media": "Media"
+  },
+  "stats": {
+    "title": "Data Analytics",
+    "count": "Count",
+    "total": "Total",
+    "eraDistribution": "Data Distribution by Era",
+    "categoryShare": "Share by Category",
+    "regionShare": "Share by Region",
+    "contentTypes": "Content Type Distribution",
+    "lastUpdated": "Last Updated: 2026-03-14"
+  },
+  "detail": {
+    "wiki": "Wiki",
+    "media": "Media",
+    "noSelection": "Select an item from the timeline or globe",
+    "noWikiData": "No Wikipedia information found",
+    "noMedia": "No related media available",
+    "loading": "Loading...",
+    "viewOnWiki": "View on Wikipedia",
+    "viewOnImdb": "View on IMDb",
+    "relatedEvents": "Related Events",
+    "relatedPeople": "Related People",
+    "period": "Period",
+    "location": "Location"
+  },
+  "media": {
+    "movie": "Movie & Drama",
+    "novel": "Novel & Literature",
+    "music": "Music & Opera"
+  },
+  "globe": {
+    "title": "3D Globe"
+  },
+  "timeline": {
+    "title": "Timeline"
+  }
+}

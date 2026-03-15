@@ -1,0 +1,235 @@
+/* ===== 폰트 임포트 ===== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css');
+
+/* ===== 라이트 테마 ===== */
+:root,
+:root[data-theme="light"] {
+  --bg-primary: #F5F5FA;
+  --bg-secondary: #FFFFFF;
+  --bg-tertiary: #EEEEF5;
+  --bg-glass: rgba(255, 255, 255, 0.72);
+  --bg-glass-border: rgba(255, 255, 255, 0.4);
+  --text-primary: #1A1A2E;
+  --text-secondary: #4A4A68;
+  --text-tertiary: #8888A8;
+  --accent-primary: #6C63FF;
+  --accent-primary-hover: #5B52E0;
+  --accent-secondary: #FF6B6B;
+  --accent-tertiary: #4ECDC4;
+  --accent-gold: #FFD93D;
+  --border: rgba(0, 0, 0, 0.08);
+  --border-strong: rgba(0, 0, 0, 0.15);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.1);
+  --shadow-glow: 0 0 20px rgba(108, 99, 255, 0.15);
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+  --transition-slow: 400ms ease;
+
+  /* 시대별 색상 */
+  --era-ancient: #C9A96E;
+  --era-medieval: #8B5E3C;
+  --era-early-modern: #4A7C59;
+  --era-modern: #4A6FA5;
+  --era-contemporary: #7B73FF;
+
+  /* 미디어 유형 색상 */
+  --media-movie: #E74C3C;
+  --media-novel: #3498DB;
+  --media-music: #9B59B6;
+}
+
+/* ===== 다크 테마 ===== */
+:root[data-theme="dark"] {
+  --bg-primary: #0A0A1A;
+  --bg-secondary: #141428;
+  --bg-tertiary: #1E1E3A;
+  --bg-glass: rgba(18, 18, 42, 0.85);
+  --bg-glass-border: rgba(255, 255, 255, 0.08);
+  --text-primary: #E8E8F0;
+  --text-secondary: #9090B0;
+  --text-tertiary: #606080;
+  --accent-primary: #7B73FF;
+  --accent-primary-hover: #8A83FF;
+  --accent-secondary: #FF7B7B;
+  --accent-tertiary: #5EDDD4;
+  --accent-gold: #FFE066;
+  --border: rgba(255, 255, 255, 0.06);
+  --border-strong: rgba(255, 255, 255, 0.12);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.4);
+  --shadow-glow: 0 0 20px rgba(123, 115, 255, 0.2);
+
+  --era-ancient: #D4B87A;
+  --era-medieval: #A07048;
+  --era-early-modern: #5A9069;
+  --era-modern: #5A80B8;
+  --era-contemporary: #8B83FF;
+
+  --media-movie: #FF6B6B;
+  --media-novel: #5DADE2;
+  --media-music: #BB8FCE;
+}
+
+/* ===== 글로벌 리셋 ===== */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'Pretendard Variable', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.6;
+  overflow: hidden;
+  height: 100vh;
+  transition: background-color var(--transition-normal), color var(--transition-normal);
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: var(--accent-primary);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+a:hover {
+  color: var(--accent-primary-hover);
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-size: inherit;
+  color: inherit;
+}
+
+input, select {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+}
+
+/* ===== 스크롤바 ===== */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--text-tertiary);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-secondary);
+}
+
+/* ===== 유틸리티 ===== */
+.glass {
+  background: var(--bg-glass);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--bg-glass-border);
+}
+
+.card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow var(--transition-fast), transform var(--transition-fast);
+}
+
+.card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-1px);
+}
+
+/* ===== 스켈레톤 애니메이션 ===== */
+@keyframes skeleton-pulse {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.8; }
+}
+
+.skeleton {
+  background: var(--bg-tertiary);
+  border-radius: var(--radius-sm);
+  animation: skeleton-pulse 1.5s ease-in-out infinite;
+}
+
+/* ===== 페이드 인 애니메이션 ===== */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease forwards;
+}
+
+/* ===== vis-timeline 다크모드 오버라이드 ===== */
+:root[data-theme="dark"] .vis-timeline {
+  border-color: var(--border) !important;
+}
+
+:root[data-theme="dark"] .vis-panel.vis-bottom,
+:root[data-theme="dark"] .vis-panel.vis-center,
+:root[data-theme="dark"] .vis-panel.vis-left,
+:root[data-theme="dark"] .vis-panel.vis-right,
+:root[data-theme="dark"] .vis-panel.vis-top {
+  border-color: var(--border) !important;
+}
+
+:root[data-theme="dark"] .vis-time-axis .vis-text {
+  color: var(--text-secondary) !important;
+}
+
+:root[data-theme="dark"] .vis-time-axis .vis-grid.vis-minor {
+  border-color: rgba(255, 255, 255, 0.04) !important;
+}
+
+:root[data-theme="dark"] .vis-time-axis .vis-grid.vis-major {
+  border-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+:root[data-theme="dark"] .vis-labelset .vis-label {
+  color: var(--text-secondary) !important;
+  border-bottom-color: var(--border) !important;
+}
+
+:root[data-theme="dark"] .vis-foreground .vis-group {
+  border-bottom-color: var(--border) !important;
+}
+
+:root[data-theme="dark"] .vis-panel.vis-background {
+  background-color: var(--bg-secondary) !important;
+}

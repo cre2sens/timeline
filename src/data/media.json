@@ -1,0 +1,943 @@
+[
+  {
+    "id": "media_movie_roaring_currents",
+    "type": "movie",
+    "title": {
+      "ko": "명량",
+      "en": "The Admiral: Roaring Currents"
+    },
+    "year": 2014,
+    "creator": {
+      "ko": "김한민 감독",
+      "en": "Dir. Kim Han-min"
+    },
+    "description": {
+      "ko": "이순신 장군의 명량 해전을 그린 역사 대작 영화",
+      "en": "Epic historical film depicting the Battle of Myeongnyang"
+    },
+    "relatedEvents": [
+      "event_myeongnyang",
+      "event_imjin"
+    ],
+    "relatedPeople": [
+      "person_yi_sun_sin"
+    ],
+    "wikipedia": {
+      "ko": "명량_(영화)",
+      "en": "The_Admiral:_Roaring_Currents"
+    },
+    "externalLinks": {
+      "imdb": "tt3541262"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_hansan",
+    "type": "movie",
+    "title": {
+      "ko": "한산: 용의 출현",
+      "en": "Hansan: Rising Dragon"
+    },
+    "year": 2022,
+    "creator": {
+      "ko": "김한민 감독",
+      "en": "Dir. Kim Han-min"
+    },
+    "description": {
+      "ko": "이순신 장군의 한산도 대첩을 그린 영화",
+      "en": "Film about the Battle of Hansan Island"
+    },
+    "relatedEvents": [
+      "event_hansando",
+      "event_imjin"
+    ],
+    "relatedPeople": [
+      "person_yi_sun_sin"
+    ],
+    "wikipedia": {
+      "ko": "한산:_용의_출현",
+      "en": "Hansan:_Rising_Dragon"
+    },
+    "externalLinks": {
+      "imdb": "tt12838766"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_namhansanseong",
+    "type": "movie",
+    "title": {
+      "ko": "남한산성",
+      "en": "The Fortress"
+    },
+    "year": 2017,
+    "creator": {
+      "ko": "황동혁 감독",
+      "en": "Dir. Hwang Dong-hyuk"
+    },
+    "description": {
+      "ko": "병자호란 당시 남한산성에서의 47일간의 항전을 그린 영화",
+      "en": "A film about the 47-day siege during the Manchu invasion"
+    },
+    "relatedEvents": [
+      "event_byeongjahoran"
+    ],
+    "relatedPeople": [
+      "person_injo"
+    ],
+    "wikipedia": {
+      "ko": "남한산성_(영화)",
+      "en": "The_Fortress_(film)"
+    },
+    "externalLinks": {
+      "imdb": "tt7160070"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_sado",
+    "type": "movie",
+    "title": {
+      "ko": "사도",
+      "en": "The Throne"
+    },
+    "year": 2015,
+    "creator": {
+      "ko": "이준익 감독",
+      "en": "Dir. Lee Joon-ik"
+    },
+    "description": {
+      "ko": "영조와 사도세자의 비극적 부자 관계를 그린 영화",
+      "en": "Film about the tragic relationship between King Yeongjo and Crown Prince Sado"
+    },
+    "relatedEvents": [
+      "event_sado"
+    ],
+    "relatedPeople": [
+      "person_yeongjo"
+    ],
+    "wikipedia": {
+      "ko": "사도_(영화)",
+      "en": "The_Throne_(film)"
+    },
+    "externalLinks": {
+      "imdb": "tt4285982"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_yeokrin",
+    "type": "movie",
+    "title": {
+      "ko": "역린",
+      "en": "The Fatal Encounter"
+    },
+    "year": 2014,
+    "creator": {
+      "ko": "이재규 감독",
+      "en": "Dir. Lee Jae-kyoo"
+    },
+    "description": {
+      "ko": "정조의 암살 위협을 그린 사극 스릴러",
+      "en": "Historical thriller about an assassination attempt on King Jeongjo"
+    },
+    "relatedEvents": [
+      "event_gyujanggak",
+      "event_hwaseong"
+    ],
+    "relatedPeople": [
+      "person_jeongjo"
+    ],
+    "wikipedia": {
+      "ko": "역린_(영화)",
+      "en": "The_Fatal_Encounter"
+    },
+    "externalLinks": {
+      "imdb": "tt3608520"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_gwanghae",
+    "type": "movie",
+    "title": {
+      "ko": "광해, 왕이 된 남자",
+      "en": "Masquerade"
+    },
+    "year": 2012,
+    "creator": {
+      "ko": "추창민 감독",
+      "en": "Dir. Choo Chang-min"
+    },
+    "description": {
+      "ko": "광해군을 대신해 왕 노릇을 하게 된 하선의 이야기",
+      "en": "Story of a commoner who became a shadow king for Gwanghaegun."
+    },
+    "relatedEvents": [
+      "event_daedong_law"
+    ],
+    "relatedPeople": [
+      "person_gwanghaegun"
+    ],
+    "wikipedia": {
+      "ko": "광해,_왕이_된_남자",
+      "en": "Masquerade_(2012_film)"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_face_reader",
+    "type": "movie",
+    "title": {
+      "ko": "관상",
+      "en": "The Face Reader"
+    },
+    "year": 2013,
+    "creator": {
+      "ko": "한재림 감독",
+      "en": "Dir. Han Jae-rim"
+    },
+    "description": {
+      "ko": "수양대군의 계유정난을 관상가의 시선으로 그린 영화",
+      "en": "The story of Sejo's coup through the eyes of a face reader."
+    },
+    "relatedEvents": [
+      "event_gye_yu_jeong_nan"
+    ],
+    "relatedPeople": [
+      "person_sejo",
+      "person_munjong",
+      "person_danjong"
+    ],
+    "wikipedia": {
+      "ko": "관상_(영화)",
+      "en": "The_Face_Reader"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_the_owl",
+    "type": "movie",
+    "title": {
+      "ko": "올빼미",
+      "en": "The Night Owl"
+    },
+    "year": 2022,
+    "creator": {
+      "ko": "안태진 감독",
+      "en": "Dir. Ahn Tae-jin"
+    },
+    "description": {
+      "ko": "소현세자의 죽음을 목격한 맹인 침술사의 사투",
+      "en": "A blind acupuncturist witnesses the death of Crown Prince Sohyeon."
+    },
+    "relatedEvents": [
+      "event_byeongjahoran"
+    ],
+    "relatedPeople": [
+      "person_injo"
+    ],
+    "wikipedia": {
+      "ko": "올빼미_(영화)",
+      "en": "The_Night_Owl_(film)"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_king_and_boy",
+    "type": "movie",
+    "title": {
+      "ko": "왕과 사는 남자",
+      "en": "The Man Who Lives with the King"
+    },
+    "year": 2025,
+    "creator": {
+      "ko": "장항준 감독",
+      "en": "Dir. Jang Hang-jun"
+    },
+    "description": {
+      "ko": "단종의 유배 생활을 다룬 신작 영화",
+      "en": "Recent film about King Danjong's exile."
+    },
+    "relatedEvents": [
+      "event_danjong_deposed"
+    ],
+    "relatedPeople": [
+      "person_danjong"
+    ],
+    "wikipedia": {
+      "ko": "왕과_사는_남자",
+      "en": "The_Man_Who_Lives_with_the_King"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_drama_jeongdojeon",
+    "type": "drama",
+    "title": {
+      "ko": "정도전",
+      "en": "Jeong Do-jeon"
+    },
+    "year": 2014,
+    "creator": {
+      "ko": "KBS",
+      "en": "KBS"
+    },
+    "description": {
+      "ko": "조선 건국의 설계자 정도전의 생애를 다룬 정통 사극",
+      "en": "Historical drama about the life of Jeong Do-jeon."
+    },
+    "relatedEvents": [
+      "event_joseon_founding"
+    ],
+    "relatedPeople": [
+      "person_taejo",
+      "person_jeong_do_jeon"
+    ],
+    "wikipedia": {
+      "ko": "정도전_(드라마)",
+      "en": "Jeong_Do-jeon_(TV_series)"
+    },
+    "icon": "📺"
+  },
+  {
+    "id": "media_drama_teajong_ibangwon",
+    "type": "drama",
+    "title": {
+      "ko": "태종 이방원",
+      "en": "The King of Tears, Lee Bang-won"
+    },
+    "year": 2021,
+    "creator": {
+      "ko": "KBS",
+      "en": "KBS"
+    },
+    "description": {
+      "ko": "조선의 기틀을 다진 태종 이방원의 서사",
+      "en": "Epic story of King Taejong."
+    },
+    "relatedEvents": [
+      "event_joseon_founding"
+    ],
+    "relatedPeople": [
+      "person_taejo",
+      "person_jeongjong",
+      "person_taejong"
+    ],
+    "wikipedia": {
+      "ko": "태종_이방원_(드라마)",
+      "en": "The_King_of_Tears,_Lee_Bang-won"
+    },
+    "icon": "📺"
+  },
+  {
+    "id": "media_drama_deep_rooted_tree",
+    "type": "drama",
+    "title": {
+      "ko": "뿌리깊은 나무",
+      "en": "Deep Rooted Tree"
+    },
+    "year": 2011,
+    "creator": {
+      "ko": "SBS",
+      "en": "SBS"
+    },
+    "description": {
+      "ko": "훈민정음 창제를 둘러싼 비밀 결사와의 대결",
+      "en": "Mystery historical drama about Hangul creation."
+    },
+    "relatedEvents": [
+      "event_hangeul"
+    ],
+    "relatedPeople": [
+      "person_sejong"
+    ],
+    "wikipedia": {
+      "ko": "뿌리깊은_나무_(2011년_드라마)",
+      "en": "Deep_Rooted_Tree"
+    },
+    "icon": "📺"
+  },
+  {
+    "id": "media_drama_princess_man",
+    "type": "drama",
+    "title": {
+      "ko": "공주의 남자",
+      "en": "The Princess' Man"
+    },
+    "year": 2011,
+    "creator": {
+      "ko": "KBS",
+      "en": "KBS"
+    },
+    "description": {
+      "ko": "계유정난을 배경으로 한 비극적 로맨스",
+      "en": "Tragic romance set during Sejo's coup."
+    },
+    "relatedEvents": [
+      "event_gye_yu_jeong_nan"
+    ],
+    "relatedPeople": [
+      "person_sejo",
+      "person_danjong"
+    ],
+    "wikipedia": {
+      "ko": "공주의_남자",
+      "en": "The_Princess'_Man"
+    },
+    "icon": "📺"
+  },
+  {
+    "id": "media_drama_jangokjeong",
+    "type": "drama",
+    "title": {
+      "ko": "장옥정, 사랑에 살다",
+      "en": "Jang Ok-jung, Living by Love"
+    },
+    "year": 2013,
+    "creator": {
+      "ko": "SBS",
+      "en": "SBS"
+    },
+    "description": {
+      "ko": "숙종과 장희빈의 사랑을 새로운 시각으로 해석",
+      "en": "The story of Sukjong and Jang Hui-bin from a new perspective."
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_sukjong"
+    ],
+    "wikipedia": {
+      "ko": "장옥정,_사랑에_살다",
+      "en": "Jang_Ok-jung,_Living_by_Love"
+    },
+    "icon": "📺"
+  },
+  {
+    "id": "media_drama_mr_queen",
+    "type": "drama",
+    "title": {
+      "ko": "철인왕후",
+      "en": "Mr. Queen"
+    },
+    "year": 2020,
+    "creator": {
+      "ko": "tvN",
+      "en": "tvN"
+    },
+    "description": {
+      "ko": "철종 시절, 현대 남성의 영혼이 깃든 왕후의 좌충우돌",
+      "en": "Bizarre historical comedy about a queen with a modern man's soul."
+    },
+    "relatedEvents": [
+      "event_imsul_uprising"
+    ],
+    "relatedPeople": [
+      "person_cheoljong"
+    ],
+    "wikipedia": {
+      "ko": "철인왕후_(드라마)",
+      "en": "Mr._Queen"
+    },
+    "icon": "📺"
+  },
+  {
+    "id": "media_drama_mr_sunshine",
+    "type": "drama",
+    "title": {
+      "ko": "미스터 션샤인",
+      "en": "Mr. Sunshine"
+    },
+    "year": 2018,
+    "creator": {
+      "ko": "tvN",
+      "en": "tvN"
+    },
+    "description": {
+      "ko": "구한말 무명의 의병들을 조명한 서사극",
+      "en": "Drama about the nameless righteous army in the late Joseon period."
+    },
+    "relatedEvents": [
+      "event_geunhyeondae"
+    ],
+    "relatedPeople": [
+      "person_gojong"
+    ],
+    "wikipedia": {
+      "ko": "미스터_션샤인",
+      "en": "Mr._Sunshine"
+    },
+    "icon": "📺"
+  },
+  {
+    "id": "media_novel_danjong_aesa",
+    "type": "novel",
+    "title": {
+      "ko": "단종애사",
+      "en": "The Tragedy of Danjong"
+    },
+    "year": 1928,
+    "creator": {
+      "ko": "이광수",
+      "en": "Yi Kwang-su"
+    },
+    "description": {
+      "ko": "단종의 비극적 생애를 다룬 역사 소설",
+      "en": "Historical novel depicting the tragic life of King Danjong."
+    },
+    "relatedEvents": [
+      "event_danjong_deposed"
+    ],
+    "relatedPeople": [
+      "person_danjong"
+    ],
+    "wikipedia": {
+      "ko": "단종애사",
+      "en": "Danjong_Aesa"
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_novel_nanjungilgi",
+    "type": "novel",
+    "title": {
+      "ko": "난중일기",
+      "en": "War Diary of Yi Sun-sin"
+    },
+    "year": 1598,
+    "creator": {
+      "ko": "이순신",
+      "en": "Yi Sun-sin"
+    },
+    "description": {
+      "ko": "이순신 장군이 임진왜란 중 기록한 일기",
+      "en": "Admiral Yi's personal war diary."
+    },
+    "relatedEvents": [
+      "event_imjin"
+    ],
+    "relatedPeople": [
+      "person_yi_sun_sin"
+    ],
+    "wikipedia": {
+      "ko": "난중일기",
+      "en": "War_Diary_of_Admiral_Yi_Sun-sin"
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_novel_yeolha",
+    "type": "novel",
+    "title": {
+      "ko": "열하일기",
+      "en": "Yeolha Ilgi"
+    },
+    "year": 1780,
+    "creator": {
+      "ko": "박지원",
+      "en": "Park Ji-won"
+    },
+    "description": {
+      "ko": "박지원의 청나라 견문기",
+      "en": "Travelogue to Qing China by Park Ji-won."
+    },
+    "relatedEvents": [
+      "event_silhak"
+    ],
+    "relatedPeople": [
+      "person_park_ji_won"
+    ],
+    "wikipedia": {
+      "ko": "열하일기",
+      "en": "Yeolha_Ilgi"
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_novel_mongminsimse",
+    "type": "novel",
+    "title": {
+      "ko": "목민심서",
+      "en": "Admonitions on Governing the People"
+    },
+    "year": 1818,
+    "creator": {
+      "ko": "정약용",
+      "en": "Jeong Yak-yong"
+    },
+    "description": {
+      "ko": "정약용의 목민관 통치 지침서",
+      "en": "Guidebook for local officials by Jeong Yak-yong."
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_jeong_yagyong"
+    ],
+    "wikipedia": {
+      "ko": "목민심서",
+      "en": "Mongmin_simseo"
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_movie_spring_seoul",
+    "type": "movie",
+    "title": {
+      "ko": "서울의 봄",
+      "en": "12.12: The Day"
+    },
+    "year": 2023,
+    "creator": {
+      "ko": "김성수 감독",
+      "en": "Dir. Kim Sung-su"
+    },
+    "description": {
+      "ko": "1979년 12월 12일 발생한 군사반란과 이를 막으려는 세력 간의 긴박한 9시간을 그린 영화.",
+      "en": "Film about the December 12 military coup in 1979."
+    },
+    "relatedEvents": [
+      "event_dec_12",
+      "event_oct_26"
+    ],
+    "relatedPeople": [
+      "person_chun_doo_hwan"
+    ],
+    "wikipedia": {
+      "ko": "서울의_봄_(영화)",
+      "en": "12.12:_The_Day"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_standing_next",
+    "type": "movie",
+    "title": {
+      "ko": "남산의 부장들",
+      "en": "The Man Standing Next"
+    },
+    "year": 2020,
+    "creator": {
+      "ko": "우민호 감독",
+      "en": "Dir. Woo Min-ho"
+    },
+    "description": {
+      "ko": "10·26 사태 발생 전 40일 동안의 중앙정보부 내 권력 갈등과 대통령 암살 사건을 다룬 영화.",
+      "en": "Political drama about the assassination of President Park."
+    },
+    "relatedEvents": [
+      "event_oct_26"
+    ],
+    "relatedPeople": [
+      "person_park_chung_hee"
+    ],
+    "wikipedia": {
+      "ko": "남산의_부장들_(영화)",
+      "en": "The_Man_Standing_Next"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_market",
+    "type": "movie",
+    "title": {
+      "ko": "국제시장",
+      "en": "Ode to My Father"
+    },
+    "year": 2014,
+    "creator": {
+      "ko": "윤제균 감독",
+      "en": "Dir. Yoon Je-kyoon"
+    },
+    "description": {
+      "ko": "한국전쟁부터 파독 광부, 베트남 전쟁, 이산가족 찾기까지 현대사의 질곡을 살아온 아버지의 삶.",
+      "en": "Epic drama chronicling modern Korean history through a father's life."
+    },
+    "relatedEvents": [
+      "event_korean_war"
+    ],
+    "relatedPeople": [],
+    "wikipedia": {
+      "ko": "국제시장_(영화)",
+      "en": "Ode_to_My_Father"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_barbershop",
+    "type": "movie",
+    "title": {
+      "ko": "효자동 이발사",
+      "en": "The President's Barber"
+    },
+    "year": 2004,
+    "creator": {
+      "ko": "임찬상 감독",
+      "en": "Dir. Im Chan-sang"
+    },
+    "description": {
+      "ko": "대통령의 이발사가 된 평범한 남자의 시선으로 본 1960~70년대 격동의 한국 현대사.",
+      "en": "Modern history seen through the eyes of the President's personal barber."
+    },
+    "relatedEvents": [
+      "event_april_19",
+      "event_may_16",
+      "event_yushin",
+      "event_oct_26"
+    ],
+    "relatedPeople": [
+      "person_park_chung_hee",
+      "person_syngman_rhee"
+    ],
+    "wikipedia": {
+      "ko": "효자동_이발사",
+      "en": "The_President's_Barber"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_default_day",
+    "type": "movie",
+    "title": {
+      "ko": "국가부도의 날",
+      "en": "Default"
+    },
+    "year": 2018,
+    "creator": {
+      "ko": "최국희 감독",
+      "en": "Dir. Choi Kook-hee"
+    },
+    "description": {
+      "ko": "1997년 외환위기 당시 국가 부도를 막으려 했던 사람들과 그 이면의 갈등을 다룬 영화.",
+      "en": "Film about the hidden struggles during the 1997 IMF crisis."
+    },
+    "relatedEvents": [
+      "event_imf_crisis"
+    ],
+    "relatedPeople": [
+      "person_kim_young_sam"
+    ],
+    "wikipedia": {
+      "ko": "국가부도의_날",
+      "en": "Default_(film)"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_hero",
+    "type": "movie",
+    "title": {
+      "ko": "영웅",
+      "en": "Hero"
+    },
+    "year": 2002,
+    "creator": {
+      "ko": "장예모 감독",
+      "en": "Dir. Zhang Yimou"
+    },
+    "description": {
+      "ko": "진시황 암살 시도를 소재로 한 무협 대서사시로, 통일 중국의 철학적 가치를 다룸.",
+      "en": "Martial arts epic about the attempted assassination of Qin Shi Huang."
+    },
+    "relatedEvents": [
+      "event_qin_unification"
+    ],
+    "relatedPeople": [
+      "person_qin_shi_huang"
+    ],
+    "wikipedia": {
+      "ko": "영웅_(2002년_영화)",
+      "en": "Hero_(2002_film)"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_last_emperor",
+    "type": "movie",
+    "title": {
+      "ko": "마지막 황제",
+      "en": "The Last Emperor"
+    },
+    "year": 1987,
+    "creator": {
+      "ko": "베르나르도 베르톨루치 감독",
+      "en": "Dir. Bernardo Bertolucci"
+    },
+    "description": {
+      "ko": "청나라의 마지막 황제 푸이의 파란만장한 생애를 통해 중국 현대사의 비극을 조명한 영화.",
+      "en": "Biographical film about Puyi, the last Emperor of China."
+    },
+    "relatedEvents": [
+      "event_xinhai_rev"
+    ],
+    "relatedPeople": [
+      "person_sun_yat_sen"
+    ],
+    "wikipedia": {
+      "ko": "마지막_황제",
+      "en": "The_Last_Emperor"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_farewell_concubine",
+    "type": "movie",
+    "title": {
+      "ko": "패왕별희",
+      "en": "Farewell My Concubine"
+    },
+    "year": 1993,
+    "creator": {
+      "ko": "첸카이거 감독",
+      "en": "Dir. Chen Kaige"
+    },
+    "description": {
+      "ko": "경극 배우들의 삶과 사랑을 통해 중일전쟁부터 문화대혁명까지 이어진 중국 현대사의 질곡을 그림.",
+      "en": "Spanning decades of Chinese history, including the Cultural Revolution."
+    },
+    "relatedEvents": [
+      "event_cultural_rev"
+    ],
+    "relatedPeople": [
+      "person_mao_zedong"
+    ],
+    "wikipedia": {
+      "ko": "패왕별희_(영화)",
+      "en": "Farewell_My_Concubine_(film)"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_secret",
+    "type": "movie",
+    "title": {
+      "ko": "말할 수 없는 비밀",
+      "en": "Secret"
+    },
+    "year": 2007,
+    "creator": {
+      "ko": "주걸륜 감독/주연",
+      "en": "Dir. Jay Chou"
+    },
+    "description": {
+      "ko": "피아노를 매개로 한 시공간 초월 로맨스 영화. 중화권 문화의 감성을 잘 보여줌.",
+      "en": "A romantic fantasy film centered around a musical student."
+    },
+    "relatedEvents": [],
+    "relatedPeople": [],
+    "wikipedia": {
+      "ko": "말할_수_없는_비밀",
+      "en": "Secret_(2007_film)"
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_movie_oppenheimer",
+    "type": "movie",
+    "title": {
+      "ko": "오펜하이머",
+      "en": "Oppenheimer"
+    },
+    "releaseYear": 2023,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": "media_movie_imitation_game",
+    "type": "movie",
+    "title": {
+      "ko": "이미테이션 게임",
+      "en": "The Imitation Game"
+    },
+    "releaseYear": 2014,
+    "director": "Morten Tyldum"
+  },
+  {
+    "id": "media_movie_theory_of_everything",
+    "type": "movie",
+    "title": {
+      "ko": "사랑에 대한 모든 것",
+      "en": "The Theory of Everything"
+    },
+    "releaseYear": 2014,
+    "director": "James Marsh"
+  },
+  {
+    "id": "media_movie_hidden_figures",
+    "type": "movie",
+    "title": {
+      "ko": "히든 피겨스",
+      "en": "Hidden Figures"
+    },
+    "releaseYear": 2016,
+    "director": "Theodore Melfi"
+  },
+  {
+    "id": "media_movie_radioactive",
+    "type": "movie",
+    "title": {
+      "ko": "마리 퀴리",
+      "en": "Radioactive"
+    },
+    "releaseYear": 2019,
+    "director": "Marjane Satrapi"
+  },
+  {
+    "id": "media_movie_tesla",
+    "type": "movie",
+    "title": {
+      "ko": "테슬라",
+      "en": "Tesla"
+    },
+    "releaseYear": 2020,
+    "director": "Michael Almereyda"
+  },
+  {
+    "id": "media_movie_beautiful_mind",
+    "type": "movie",
+    "title": {
+      "ko": "뷰티풀 마인드",
+      "en": "A Beautiful Mind"
+    },
+    "releaseYear": 2001,
+    "director": "Ron Howard"
+  },
+  {
+    "id": "media_docu_cosmos",
+    "type": "movie",
+    "title": {
+      "ko": "코스모스 (다큐멘터리)",
+      "en": "Cosmos: A Spacetime Odyssey"
+    },
+    "releaseYear": 2014,
+    "director": "Brannon Braga"
+  },
+  {
+    "id": "media_book_brief_history",
+    "type": "novel",
+    "title": {
+      "ko": "시간의 역사",
+      "en": "A Brief History of Time"
+    },
+    "releaseYear": 1988,
+    "author": "Stephen Hawking"
+  },
+  {
+    "id": "media_book_selfish_gene",
+    "type": "novel",
+    "title": {
+      "ko": "이기적 유전자",
+      "en": "The Selfish Gene"
+    },
+    "releaseYear": 1976,
+    "author": "Richard Dawkins"
+  },
+  {
+    "id": "media_book_origin_of_species",
+    "type": "novel",
+    "title": {
+      "ko": "종의 기원",
+      "en": "On the Origin of Species"
+    },
+    "releaseYear": 1859,
+    "author": "Charles Darwin"
+  }
+]
