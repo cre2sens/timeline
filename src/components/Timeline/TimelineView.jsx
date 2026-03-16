@@ -1,5 +1,5 @@
-import { useEffect, useRef, useState } from 'react'
-import { Maximize2, Minimize2, ChevronLeft, ChevronRight } from 'lucide-react'
+import { useEffect, useRef, useState, useCallback } from 'react'
+import { Maximize2, Minimize2, ChevronLeft, ChevronRight, ChevronUp, ChevronDown } from 'lucide-react'
 import useStore from '../../store/useStore'
 import { ERAS, getEraColor, getCategoryIcon } from '../../data/categories'
 import { parseHistoricalDate, formatYear } from '../../utils/dateUtils'
@@ -73,27 +73,84 @@ function buildGroups(rawItems, locale) {
     }))
 }
 
+// 그룹 행 하나의 평균 높이 (px) — 스크롤 단위로 사용
+const GROUP_ROW_HEIGHT = 40
+
 export default function TimelineView({ items }) {
-  const containerRef = useRef(null)
+  const containerRef = useRef(null)     // 타임라인 DOM 컨테이너
+  const wrapperRef = useRef(null)       // timeline-wrapper (스크롤바 기준)
   const timelineRef = useRef(null)
   const dataSetRef = useRef(null)
   const groupSetRef = useRef(null)
   const resizeObserverRef = useRef(null)
-  const readyRef = useRef(false) // 타임라인 초기화 완료 여부
+  const readyRef = useRef(false)        // 타임라인 초기화 완료 여부
+
   // locale, items를 ref로 관리하여 effect 재실행 없이 최신값 참조
   const localeRef = useRef(null)
   const itemsRef = useRef(null)
   const [isExpanded, setIsExpanded] = useState(false)
   const { selectedItem, setSelectedItem, locale } = useStore()
 
-  // 시대 순서 배열 (내비게이션용)
+  // 시대 순서 배열 (수평 내비게이션용)
   const ERA_ORDER = ['ancient', 'medieval', 'earlyModern', 'modern', 'contemporary']
+
+  // === 커스텀 세로 스크롤바 관련 ref ===
+  const thumbRef = useRef(null)
+  const trackInnerRef = useRef(null)   // 화살표 버튼 사이 트랙 영역
+  const isDraggingRef = useRef(false)
+  const dragStartYRef = useRef(0)
+  const dragStartScrollRef = useRef(0)
+  const holdTimerRef = useRef(null)    // 버튼 꾹 클릭용 타이머
+  const hotZoneRafRef = useRef(null)   // 핫존 RAF ID
+  const hotZoneDirRef = useRef(0)      // 핫존 스크롤 방향 (-1 위, 1 아래)
 
   // locale, items를 항상 최신 ref로 유지
   localeRef.current = locale
   itemsRef.current = items
 
+  // ─────────────────────────────────────────
+  // 스크롤바 썸 위치 동기화
+  // ─────────────────────────────────────────
+  const syncScrollbar = useCallback(() => {
+    if (!timelineRef.current || !thumbRef.current || !trackInnerRef.current) return
+    try {
+      const scrollTop = timelineRef.current.getScrollTop()
+      const trackH = trackInnerRef.current.clientHeight
+      const thumbH = thumbRef.current.offsetHeight
+
+      // vis-timeline 내부 최대 스크롤 높이 추정
+      // (그룹 수 × 행 높이) - 보이는 영역
+      const contentH = (groupOrder.length + 1) * GROUP_ROW_HEIGHT
+      const visibleH = containerRef.current
+        ? containerRef.current.clientHeight
+        : 200
+      const maxScroll = Math.max(contentH - visibleH, 1)
+
+      const ratio = Math.min(scrollTop / maxScroll, 1)
+      const thumbTop = ratio * (trackH - thumbH)
+      thumbRef.current.style.top = `${thumbTop}px`
+    } catch {
+      // 무시
+    }
+  }, [])
+
+  // ─────────────────────────────────────────
+  // 세로 스크롤 이동 헬퍼
+  // ─────────────────────────────────────────
+  const scrollBy = useCallback((deltaY) => {
+    if (!timelineRef.current) return
+    try {
+      const current = timelineRef.current.getScrollTop()
+      timelineRef.current.setScrollTop(Math.max(0, current + deltaY))
+      syncScrollbar()
+    } catch {
+      // 무시
+    }
+  }, [syncScrollbar])
+
+  // ─────────────────────────────────────────
   // 타임라인 초기화 (마운트 시 한 번만 실행)
+  // ─────────────────────────────────────────
   useEffect(() => {
     let cancelled = false
 
@@ -122,12 +179,12 @@ export default function TimelineView({ items }) {
             orientation: { axis: 'top' },
             stack: true,
             groupOrder: 'order',
-            tooltip: { followMouse: true, overflowMethod: 'cap' },
-            margin: { item: { horizontal: 4, vertical: 6 } },
+            tooltip: { followMouse: true, overflowMethod: 'flip' },
+            margin: { item: { horizontal: 10, vertical: 8 }, axis: 2 },
             verticalScroll: true,
             height: '100%',
-            min: new Date(-3200, 0, 1),
-            max: new Date(2030, 0, 1),
+            min: parseHistoricalDate('-3200-01-01'),
+            max: parseHistoricalDate('2030-01-01'),
           }
         )
 
@@ -142,7 +199,10 @@ export default function TimelineView({ items }) {
           }
         })
 
-        // 초기 뷰: 중세~현대 (데이터 주입 후 window 설정)
+        // 스크롤/렌더 변경 시 스크롤바 동기화
+        timeline.on('changed', syncScrollbar)
+
+        // 초기 뷰: 중세~현대
         timeline.setWindow(new Date(1300, 0, 1), new Date(2020, 0, 1))
 
         // ResizeObserver: 컨테이너 크기 변화 시 redraw
@@ -153,13 +213,14 @@ export default function TimelineView({ items }) {
         })
         resizeObserverRef.current.observe(containerRef.current)
 
-        // 레이아웃 확정 후 강제 redraw (flex 레이아웃 높이 계산 완료 보장)
+        // 레이아웃 확정 후 강제 redraw
         requestAnimationFrame(() => {
           requestAnimationFrame(() => {
             if (timelineRef.current) {
               timelineRef.current.redraw()
             }
-            readyRef.current = true // 초기화 완료 마킹
+            readyRef.current = true
+            syncScrollbar()
           })
         })
       } catch (err) {
@@ -181,7 +242,7 @@ export default function TimelineView({ items }) {
       }
       dataSetRef.current = null
       groupSetRef.current = null
-      readyRef.current = false // 클린업 시 플래그 리셋
+      readyRef.current = false
     }
   // 마운트 시 한 번만 실행
   // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -189,7 +250,6 @@ export default function TimelineView({ items }) {
 
   // items 또는 locale 변경 시 DataSet incremental 업데이트
   useEffect(() => {
-    // 타임라인이 완전히 준비된(readyRef.current) 경우에만 업데이트 수행
     if (!readyRef.current || !dataSetRef.current || !groupSetRef.current || !timelineRef.current) return
 
     const newItems = buildTimelineItems(items || [], locale)
@@ -213,14 +273,25 @@ export default function TimelineView({ items }) {
     }
   }, [selectedItem])
 
-  // 시대 버튼 클릭 (직접 이동)
+  // 전체 화면으로 확장될 때 타임라인 Redraw (높이 재계산)
+  useEffect(() => {
+    if (timelineRef.current) {
+      setTimeout(() => {
+        timelineRef.current.redraw()
+        syncScrollbar()
+      }, 300)
+    }
+  }, [isExpanded, syncScrollbar])
+
+  // ─────────────────────────────────────────
+  // 수평 시대 네비게이션 (기존)
+  // ─────────────────────────────────────────
   const handleEraClick = (eraId) => {
     if (!timelineRef.current) return
     const era = ERAS[eraId]
     const startYearStr = String(era.range.start).padStart(4, '0') + '-01-01'
     const endYearStr = String(era.range.end).padStart(4, '0') + '-12-31'
     
-    // Convert to absolute string passing for BC dates or standard dates
     const start = parseHistoricalDate(era.range.start < 0 ? `${era.range.start}-01-01` : startYearStr)
     const end = parseHistoricalDate(era.range.end < 0 ? `${era.range.end}-12-31` : endYearStr)
 
@@ -229,16 +300,13 @@ export default function TimelineView({ items }) {
     })
   }
 
-  // 앞/뒤 화살표 클릭 (현재 포커스 기준)
   const handlePrevNextEra = (direction) => {
     if (!timelineRef.current) return
     
-    // 현재 보고 있는 타임라인의 중심 연도 계산
     const { start, end } = timelineRef.current.getWindow()
     const centerMs = (start.getTime() + end.getTime()) / 2
     const centerYear = new Date(centerMs).getFullYear()
 
-    // 중심 연도 기준으로 현재 속한 시대 인덱스 찾기
     let currentIndex = 0
     for (let i = 0; i < ERA_ORDER.length; i++) {
       const era = ERAS[ERA_ORDER[i]]
@@ -248,7 +316,6 @@ export default function TimelineView({ items }) {
       }
     }
 
-    // 다음/이전 인덱스
     let nextIndex = currentIndex + direction
     if (nextIndex < 0) nextIndex = 0
     if (nextIndex >= ERA_ORDER.length) nextIndex = ERA_ORDER.length - 1
@@ -258,18 +325,99 @@ export default function TimelineView({ items }) {
     }
   }
 
-  // 전체 화면으로 확장될 때 타임라인 Redraw (높이 재계산)
-  useEffect(() => {
-    if (timelineRef.current) {
-      setTimeout(() => {
-        timelineRef.current.redraw()
-      }, 300) // CSS 트랜지션 시간 후 redraw
-    }
-  }, [isExpanded])
+  // ─────────────────────────────────────────
+  // 세로 스크롤바 — 썸 드래그
+  // ─────────────────────────────────────────
+  const handleThumbMouseDown = useCallback((e) => {
+    e.preventDefault()
+    isDraggingRef.current = true
+    dragStartYRef.current = e.clientY
+    try {
+      dragStartScrollRef.current = timelineRef.current?.getScrollTop() || 0
+    } catch { dragStartScrollRef.current = 0 }
 
+    thumbRef.current?.classList.add('dragging')
+
+    const onMouseMove = (e) => {
+      if (!isDraggingRef.current || !timelineRef.current || !trackInnerRef.current || !thumbRef.current) return
+      const trackH = trackInnerRef.current.clientHeight
+      const thumbH = thumbRef.current.offsetHeight
+      const deltaY = e.clientY - dragStartYRef.current
+
+      const contentH = (groupOrder.length + 1) * GROUP_ROW_HEIGHT
+      const visibleH = containerRef.current?.clientHeight || 200
+      const maxScroll = Math.max(contentH - visibleH, 1)
+
+      const scrollDelta = (deltaY / (trackH - thumbH)) * maxScroll
+      const newScroll = Math.max(0, dragStartScrollRef.current + scrollDelta)
+      try {
+        timelineRef.current.setScrollTop(newScroll)
+        syncScrollbar()
+      } catch { /* 무시 */ }
+    }
+
+    const onMouseUp = () => {
+      isDraggingRef.current = false
+      thumbRef.current?.classList.remove('dragging')
+      document.removeEventListener('mousemove', onMouseMove)
+      document.removeEventListener('mouseup', onMouseUp)
+    }
+
+    document.addEventListener('mousemove', onMouseMove)
+    document.addEventListener('mouseup', onMouseUp)
+  }, [syncScrollbar])
+
+  // ─────────────────────────────────────────
+  // 세로 스크롤바 — 화살표 버튼 (꾹 클릭 연속 스크롤)
+  // ─────────────────────────────────────────
+  const startHold = useCallback((direction) => {
+    scrollBy(direction * GROUP_ROW_HEIGHT)
+    holdTimerRef.current = setInterval(() => {
+      scrollBy(direction * GROUP_ROW_HEIGHT)
+    }, 120)
+  }, [scrollBy])
+
+  const stopHold = useCallback(() => {
+    if (holdTimerRef.current) {
+      clearInterval(holdTimerRef.current)
+      holdTimerRef.current = null
+    }
+  }, [])
+
+  // ─────────────────────────────────────────
+  // 핫존 마우스오버 — RAF 루프 자동 스크롤
+  // ─────────────────────────────────────────
+  const startHotZone = useCallback((direction) => {
+    hotZoneDirRef.current = direction
+
+    const loop = () => {
+      scrollBy(hotZoneDirRef.current * 6) // 한 tick당 6px
+      hotZoneRafRef.current = requestAnimationFrame(loop)
+    }
+    hotZoneRafRef.current = requestAnimationFrame(loop)
+  }, [scrollBy])
+
+  const stopHotZone = useCallback(() => {
+    if (hotZoneRafRef.current) {
+      cancelAnimationFrame(hotZoneRafRef.current)
+      hotZoneRafRef.current = null
+    }
+  }, [])
+
+  // 클린업: 타이머/RAF 해제
+  useEffect(() => {
+    return () => {
+      stopHold()
+      stopHotZone()
+    }
+  }, [stopHold, stopHotZone])
+
+  // ─────────────────────────────────────────
+  // JSX
+  // ─────────────────────────────────────────
   return (
     <div className={`timeline-container ${isExpanded ? 'expanded' : ''}`}>
-      {/* 타임라인 헤더 (토글/내비게이션) */}
+      {/* 타임라인 헤더 (수평 시대 토글/내비게이션) */}
       <div className="timeline-header">
         <div className="timeline-era-nav">
           <button className="nav-arrow" onClick={() => handlePrevNextEra(-1)} title="이전 시대">
@@ -300,13 +448,69 @@ export default function TimelineView({ items }) {
         <button 
           className="expand-btn" 
           onClick={() => setIsExpanded(!isExpanded)}
-          title={isExpanded ? "축소하기" : "전체 화면으로 펼치기"}
+          title={isExpanded ? '축소하기' : '전체 화면으로 펼치기'}
         >
           {isExpanded ? <Minimize2 size={18} /> : <Maximize2 size={18} />}
         </button>
       </div>
 
-      <div ref={containerRef} className="timeline-wrapper" />
+      {/* 타임라인 래퍼 (스크롤바/핫존 공통 기준) */}
+      <div className="timeline-wrapper" ref={wrapperRef}>
+        {/* vis-timeline 컨테이너 */}
+        <div ref={containerRef} className="timeline-vis-container" />
+
+        {/* 커스텀 세로 스크롤바 */}
+        <div className="tl-scrollbar-track">
+          {/* 위 화살표 버튼 */}
+          <button
+            className="tl-scroll-arrow"
+            title="위로 스크롤"
+            onMouseDown={() => startHold(-1)}
+            onMouseUp={stopHold}
+            onMouseLeave={stopHold}
+          >
+            <ChevronUp size={8} />
+          </button>
+
+          {/* 트랙 + 썸 */}
+          <div className="tl-scrollbar-inner" ref={trackInnerRef}>
+            <div
+              className="tl-scrollbar-thumb"
+              ref={thumbRef}
+              onMouseDown={handleThumbMouseDown}
+            />
+          </div>
+
+          {/* 아래 화살표 버튼 */}
+          <button
+            className="tl-scroll-arrow"
+            title="아래로 스크롤"
+            onMouseDown={() => startHold(1)}
+            onMouseUp={stopHold}
+            onMouseLeave={stopHold}
+          >
+            <ChevronDown size={8} />
+          </button>
+        </div>
+
+        {/* 핫존 — 상단 (마우스오버 시 위로 자동 스크롤) */}
+        <div
+          className="tl-hotzone tl-hotzone-top"
+          onMouseEnter={() => startHotZone(-1)}
+          onMouseLeave={stopHotZone}
+        >
+          <ChevronUp size={16} className="hotzone-icon" />
+        </div>
+
+        {/* 핫존 — 하단 (마우스오버 시 아래로 자동 스크롤) */}
+        <div
+          className="tl-hotzone tl-hotzone-bottom"
+          onMouseEnter={() => startHotZone(1)}
+          onMouseLeave={stopHotZone}
+        >
+          <ChevronDown size={16} className="hotzone-icon" />
+        </div>
+      </div>
     </div>
   )
 }

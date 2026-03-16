@@ -31,7 +31,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 8px 16px;
-  background: rgba(15, 20, 25, 0.85); /* 약간 어두운 반투명 처리 */
+  background: rgba(15, 20, 25, 0.85);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
@@ -66,7 +66,7 @@
 .era-pills {
   display: flex;
   gap: 6px;
-  overflow-x: auto; /* 작은 화면 대비 */
+  overflow-x: auto;
   padding-bottom: 2px;
 }
 
@@ -121,23 +121,172 @@
   background: rgba(255, 255, 255, 0.15);
 }
 
+/* ─── timeline-wrapper: vis 컨테이너 + 스크롤바 + 핫존 감싸기 ─── */
 .timeline-wrapper {
   width: 100%;
   flex: 1;
-  min-height: 180px;
+  min-height: 0;
+  position: relative; /* 스크롤바·핫존 absolute 기준 */
+  overflow: hidden;
 }
 
-/* vis-timeline 커스텀 스타일 */
+/* vis-timeline 실제 컨테이너 */
+.timeline-vis-container {
+  width: 100%;
+  height: 100%;
+}
+
+/* ═══════════════════════════════════════════
+   커스텀 세로 스크롤바
+═══════════════════════════════════════════ */
+
+.tl-scrollbar-track {
+  position: absolute;
+  right: 4px;
+  top: 4px;
+  bottom: 4px;
+  width: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  z-index: 50;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+  pointer-events: all;
+}
+
+/* 타임라인 영역에 마우스가 들어오면 스크롤바 표시 */
+.timeline-wrapper:hover .tl-scrollbar-track {
+  opacity: 1;
+}
+
+/* 위/아래 화살표 버튼 */
+.tl-scroll-arrow {
+  flex-shrink: 0;
+  width: 12px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 3px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+  padding: 0;
+  line-height: 1;
+  user-select: none;
+}
+
+.tl-scroll-arrow:hover {
+  background: rgba(255, 255, 255, 0.28);
+  color: var(--text-primary);
+}
+
+.tl-scroll-arrow:active {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+/* 트랙 (화살표 버튼 사이) */
+.tl-scrollbar-inner {
+  flex: 1;
+  width: 6px;
+  position: relative;
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+/* 썸(thumb) */
+.tl-scrollbar-thumb {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 6px;
+  height: 40px;          /* JS에서 비례 계산 후 조정 */
+  min-height: 16px;
+  max-height: 80%;
+  background: rgba(255, 255, 255, 0.28);
+  border-radius: 3px;
+  cursor: grab;
+  transition: background 0.15s;
+  user-select: none;
+}
+
+.tl-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.tl-scrollbar-thumb.dragging {
+  background: rgba(255, 255, 255, 0.65);
+  cursor: grabbing;
+}
+
+/* ═══════════════════════════════════════════
+   마우스오버 핫존 (상단 / 하단)
+═══════════════════════════════════════════ */
+
+.tl-hotzone {
+  position: absolute;
+  left: 0;
+  right: 16px; /* 스크롤바 너비 제외 */
+  height: 44px;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: all;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  cursor: default;
+}
+
+.tl-hotzone:hover {
+  opacity: 1;
+}
+
+.tl-hotzone-top {
+  top: 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.35) 0%, transparent 100%);
+}
+
+.tl-hotzone-bottom {
+  bottom: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.35) 0%, transparent 100%);
+}
+
+.hotzone-icon {
+  color: rgba(255, 255, 255, 0.6);
+  filter: drop-shadow(0 1px 3px rgba(0,0,0,0.5));
+  animation: hotzone-pulse 1.2s ease-in-out infinite;
+}
+
+@keyframes hotzone-pulse {
+  0%, 100% { opacity: 0.5; transform: translateY(0); }
+  50%       { opacity: 1;   transform: translateY(-2px); }
+}
+
+.tl-hotzone-bottom .hotzone-icon {
+  animation-name: hotzone-pulse-down;
+}
+
+@keyframes hotzone-pulse-down {
+  0%, 100% { opacity: 0.5; transform: translateY(0); }
+  50%       { opacity: 1;   transform: translateY(2px); }
+}
+
+/* ═══════════════════════════════════════════
+   vis-timeline 커스텀 스타일
+═══════════════════════════════════════════ */
+
 .vis-item {
   border: none !important;
   background: transparent !important;
   color: var(--text-primary) !important;
   font-family: 'Pretendard Variable', 'Inter', sans-serif !important;
   font-size: 0.8rem !important;
-}
-
-.vis-item .vis-item-overflow {
-  overflow: visible !important;
 }
 
 .vis-item.vis-selected {
@@ -181,9 +330,10 @@
   font-size: 0.75rem;
   font-weight: 500;
   color: var(--text-primary);
-  max-width: 160px;
+  max-width: 120px;
   overflow: hidden;
   text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 /* 그룹 레이블 */
