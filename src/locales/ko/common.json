@@ -24,6 +24,7 @@
     "ancient": "고대",
     "medieval": "중세",
     "earlyModern": "근세",
+    "premodern": "전근대",
     "modern": "근대",
     "contemporary": "현대",
     "unknown": "미지"
@@ -36,28 +37,59 @@
     "africa": "아프리카",
     "southAsia": "남아시아",
     "korea": "한국",
+    "asia": "아시아",
+    "oceania": "오세아니아",
+    "etc": "기타",
     "unknown": "기타"
   },
   "category": {
     "politics": "정치",
     "battle": "전쟁·군사",
     "culture": "문화·예술",
-    "invention": "과학·기술",
-    "discovery": "탐험·지리",
-    "thought": "철학·사상",
-    "science": "과학",
+    "invention": "발명·기술",
+    "discovery": "발견·탐험",
+    "thinker": "사상가·학자",
+    "ruler": "왕·지도자",
+    "scientist": "과학자",
+    "publication": "출판·저술",
+    "experiment": "실험·연구",
     "other": "기타"
   },
   "filters": {
+    "eras": {
+      "ancient": "고대",
+      "medieval": "중세",
+      "earlyModern": "근세",
+      "premodern": "전근대",
+      "modern": "근대",
+      "contemporary": "현대",
+      "unknown": "미지"
+    },
     "categories": {
       "politics": "정치",
       "battle": "전쟁·군사",
       "culture": "문화·예술",
-      "invention": "과학·기술",
-      "discovery": "탐험·지리",
-      "thought": "철학·사상",
-      "science": "과학",
+      "invention": "발명·기술",
+      "discovery": "발견·탐험",
+      "thinker": "사상가·학자",
+      "ruler": "왕·지도자",
+      "scientist": "과학자",
+      "publication": "출판·저술",
+      "experiment": "실험·연구",
       "other": "기타"
+    },
+    "regions": {
+      "korea": "한국",
+      "eastAsia": "동아시아",
+      "europe": "유럽",
+      "middleEast": "중동",
+      "americas": "아메리카",
+      "africa": "아프리카",
+      "southAsia": "남아시아",
+      "asia": "아시아",
+      "oceania": "오세아니아",
+      "etc": "기타",
+      "unknown": "기타"
     }
   },
   "common": {
@@ -76,6 +108,7 @@
     "lastUpdated": "최종 업데이트: 2026-03-14"
   },
   "detail": {
+    "list": "목록",
     "wiki": "위키",
     "media": "미디어",
     "noSelection": "타임라인이나 지구본에서 항목을 선택하세요",

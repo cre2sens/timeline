@@ -127,3 +127,79 @@
   border-color: var(--accent-primary);
   color: white;
 }
+
+/* 중요도 슬라이더 */
+.importance-value {
+  font-size: 0.78rem;
+  color: var(--accent-primary);
+  font-weight: 700;
+  margin-left: 4px;
+}
+
+.importance-slider-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.importance-tick-label {
+  font-size: 0.7rem;
+  color: var(--text-tertiary);
+  flex-shrink: 0;
+  width: 10px;
+  text-align: center;
+}
+
+.importance-slider {
+  flex: 1;
+  height: 4px;
+  appearance: none;
+  background: linear-gradient(
+    to right,
+    var(--accent-primary) 0%,
+    var(--accent-primary) calc((var(--val, 1) - 1) / 4 * 100%),
+    var(--border-strong) calc((var(--val, 1) - 1) / 4 * 100%),
+    var(--border-strong) 100%
+  );
+  border-radius: 2px;
+  outline: none;
+  cursor: pointer;
+}
+
+.importance-slider::-webkit-slider-thumb {
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--accent-primary);
+  border: 2px solid var(--bg-primary);
+  box-shadow: 0 0 0 1px var(--accent-primary);
+  cursor: pointer;
+  transition: transform 0.15s ease;
+}
+
+.importance-slider::-webkit-slider-thumb:hover {
+  transform: scale(1.2);
+}
+
+.importance-stars {
+  display: flex;
+  gap: 4px;
+}
+
+.importance-star {
+  font-size: 1rem;
+  color: var(--border-strong);
+  cursor: pointer;
+  transition: color 0.15s ease, transform 0.1s ease;
+  user-select: none;
+}
+
+.importance-star.active {
+  color: #f59e0b;
+}
+
+.importance-star:hover {
+  transform: scale(1.2);
+}

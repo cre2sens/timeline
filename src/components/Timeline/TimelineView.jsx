@@ -76,7 +76,11 @@ function buildGroups(rawItems, locale) {
 // 그룹 행 하나의 평균 높이 (px) — 스크롤 단위로 사용
 const GROUP_ROW_HEIGHT = 40
 
-export default function TimelineView({ items }) {
+// 로케일별 클러스터 제목 템플릿
+const clusterTitleTemplate = (locale) =>
+  locale === 'ko' ? '{count}개 항목' : '{count} items'
+
+export default function TimelineView({ items, height }) {
   const containerRef = useRef(null)     // 타임라인 DOM 컨테이너
   const wrapperRef = useRef(null)       // timeline-wrapper (스크롤바 기준)
   const timelineRef = useRef(null)
@@ -89,6 +93,7 @@ export default function TimelineView({ items }) {
   const localeRef = useRef(null)
   const itemsRef = useRef(null)
   const [isExpanded, setIsExpanded] = useState(false)
+  const [isReady, setIsReady] = useState(false)
   const { selectedItem, setSelectedItem, locale } = useStore()
 
   // 시대 순서 배열 (수평 내비게이션용)
@@ -180,7 +185,13 @@ export default function TimelineView({ items }) {
             stack: true,
             groupOrder: 'order',
             tooltip: { followMouse: true, overflowMethod: 'flip' },
-            margin: { item: { horizontal: 10, vertical: 8 }, axis: 2 },
+            margin: { item: { horizontal: 10, vertical: 12 }, axis: 2 },
+            cluster: {
+              maxItems: 5,
+              titleTemplate: clusterTitleTemplate(localeRef.current),
+              showStipes: true,
+              fitOnDoubleClick: true,
+            },
             verticalScroll: true,
             height: '100%',
             min: parseHistoricalDate('-3200-01-01'),
@@ -221,6 +232,7 @@ export default function TimelineView({ items }) {
             }
             readyRef.current = true
             syncScrollbar()
+            setIsReady(true)
           })
         })
       } catch (err) {
@@ -255,6 +267,9 @@ export default function TimelineView({ items }) {
     const newItems = buildTimelineItems(items || [], locale)
     const newGroups = buildGroups(items || [], locale)
 
+    timelineRef.current.setOptions({
+      cluster: { titleTemplate: clusterTitleTemplate(locale) },
+    })
     groupSetRef.current.clear()
     groupSetRef.current.add(newGroups)
     dataSetRef.current.clear()
@@ -416,7 +431,10 @@ export default function TimelineView({ items }) {
   // JSX
   // ─────────────────────────────────────────
   return (
-    <div className={`timeline-container ${isExpanded ? 'expanded' : ''}`}>
+    <div
+      className={`timeline-container ${isExpanded ? 'expanded' : ''}`}
+      style={!isExpanded && height ? { height: `${height}px` } : undefined}
+    >
       {/* 타임라인 헤더 (수평 시대 토글/내비게이션) */}
       <div className="timeline-header">
         <div className="timeline-era-nav">
@@ -456,6 +474,11 @@ export default function TimelineView({ items }) {
 
       {/* 타임라인 래퍼 (스크롤바/핫존 공통 기준) */}
       <div className="timeline-wrapper" ref={wrapperRef}>
+        {!isReady && (
+          <div className="timeline-loading">
+            <div className="timeline-spinner" />
+          </div>
+        )}
         {/* vis-timeline 컨테이너 */}
         <div ref={containerRef} className="timeline-vis-container" />
 

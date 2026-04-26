@@ -24,6 +24,7 @@
     "ancient": "Ancient",
     "medieval": "Medieval",
     "earlyModern": "Early Modern",
+    "premodern": "Pre-Modern",
     "modern": "Modern",
     "contemporary": "Contemporary",
     "unknown": "Unknown"
@@ -36,16 +37,60 @@
     "africa": "Africa",
     "southAsia": "South Asia",
     "korea": "Korea",
+    "asia": "Asia",
+    "oceania": "Oceania",
+    "etc": "Other",
     "unknown": "Other"
   },
   "category": {
     "politics": "Politics",
     "battle": "Battle & Military",
     "culture": "Culture & Art",
-    "invention": "Science & Tech",
-    "discovery": "Discovery & Geography",
-    "thinker": "People & Philosophy",
+    "invention": "Invention & Tech",
+    "discovery": "Discovery & Exploration",
+    "thinker": "Thinker & Scholar",
+    "ruler": "Ruler & Leader",
+    "scientist": "Scientist",
+    "publication": "Publication",
+    "experiment": "Experiment & Research",
     "other": "Other"
+  },
+  "filters": {
+    "eras": {
+      "ancient": "Ancient",
+      "medieval": "Medieval",
+      "earlyModern": "Early Modern",
+      "premodern": "Pre-Modern",
+      "modern": "Modern",
+      "contemporary": "Contemporary",
+      "unknown": "Unknown"
+    },
+    "categories": {
+      "politics": "Politics",
+      "battle": "Battle & Military",
+      "culture": "Culture & Art",
+      "invention": "Invention & Tech",
+      "discovery": "Discovery & Exploration",
+      "thinker": "Thinker & Scholar",
+      "ruler": "Ruler & Leader",
+      "scientist": "Scientist",
+      "publication": "Publication",
+      "experiment": "Experiment & Research",
+      "other": "Other"
+    },
+    "regions": {
+      "korea": "Korea",
+      "eastAsia": "East Asia",
+      "europe": "Europe",
+      "middleEast": "Middle East",
+      "americas": "Americas",
+      "africa": "Africa",
+      "southAsia": "South Asia",
+      "asia": "Asia",
+      "oceania": "Oceania",
+      "etc": "Other",
+      "unknown": "Other"
+    }
   },
   "common": {
     "events": "Events",
@@ -63,6 +108,7 @@
     "lastUpdated": "Last Updated: 2026-03-14"
   },
   "detail": {
+    "list": "List",
     "wiki": "Wiki",
     "media": "Media",
     "noSelection": "Select an item from the timeline or globe",

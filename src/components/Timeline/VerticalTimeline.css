@@ -1,0 +1,138 @@
+.vt-container {
+  width: 100%;
+  height: 100%;
+  background: var(--bg-primary);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.vt-header-row {
+  flex-shrink: 0;
+  display: flex;
+  height: 48px;
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border);
+  z-index: 10;
+}
+
+.vt-year-header {
+  width: 100px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--text-tertiary);
+  border-right: 1px solid var(--border);
+}
+
+.vt-swimlane-header {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  border-right: 1px dashed var(--border);
+  min-width: 120px;
+}
+
+.vt-swimlane-header:last-child {
+  border-right: none;
+}
+
+.vt-scroll-area {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  background: var(--bg-primary);
+}
+
+/* 각 연도별 Row */
+.vt-row {
+  display: flex;
+  min-height: 60px;
+  border-bottom: 1px solid var(--border);
+  transition: background var(--transition-fast);
+}
+
+.vt-row:hover {
+  background: var(--bg-glass);
+}
+
+.vt-year-cell {
+  width: 100px;
+  flex-shrink: 0;
+  padding: 16px 12px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--accent-primary);
+  border-right: 1px solid var(--border);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.vt-region-cell {
+  flex: 1;
+  padding: 10px;
+  border-right: 1px dashed var(--border);
+  min-width: 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.vt-region-cell:last-child {
+  border-right: none;
+}
+
+/* 태그형 이벤트 카드 */
+.vt-event-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  font-size: 0.8rem;
+  transition: all var(--transition-fast);
+  box-shadow: var(--shadow-sm);
+}
+
+.vt-event-tag:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--accent-primary);
+  background: var(--bg-primary);
+}
+
+.vt-event-icon {
+  font-size: 1rem;
+}
+
+.vt-event-title {
+  white-space: normal;
+  line-height: 1.3;
+  color: var(--text-primary);
+  word-break: keep-all;
+}
+
+/* Era colors for left border */
+.vt-event-tag.era-ancient { border-left: 3px solid var(--era-ancient); }
+.vt-event-tag.era-medieval { border-left: 3px solid var(--era-medieval); }
+.vt-event-tag.era-earlyModern { border-left: 3px solid var(--era-early-modern); }
+.vt-event-tag.era-modern { border-left: 3px solid var(--era-modern); }
+.vt-event-tag.era-contemporary { border-left: 3px solid var(--era-contemporary); }
+
+.vt-event-tag.tag-major {
+  font-weight: 600;
+  border-width: 1px 1px 1px 3px;
+}

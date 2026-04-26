@@ -95,6 +95,39 @@ export default function FilterPanel({ visible, onClose, resultCount }) {
         </div>
       </div>
 
+      {/* 중요도 */}
+      <div className="filter-section">
+        <label className="filter-label">
+          {t('filter.importance')}
+          <span className="importance-value"> {filters.importance}+</span>
+        </label>
+        <div className="importance-slider-row">
+          <span className="importance-tick-label">1</span>
+          <input
+            type="range"
+            min="1"
+            max="5"
+            step="1"
+            value={filters.importance}
+            onChange={(e) => setFilter('importance', Number(e.target.value))}
+            className="importance-slider"
+          />
+          <span className="importance-tick-label">5</span>
+        </div>
+        <div className="importance-stars">
+          {[1, 2, 3, 4, 5].map((v) => (
+            <span
+              key={v}
+              className={`importance-star ${v <= filters.importance ? 'active' : ''}`}
+              onClick={() => setFilter('importance', v)}
+              title={`${v}+`}
+            >
+              ★
+            </span>
+          ))}
+        </div>
+      </div>
+
       {/* 미디어 유형 */}
       <div className="filter-section">
         <label className="filter-label">{t('filter.mediaType')}</label>

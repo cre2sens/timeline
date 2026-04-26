@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import { useMemo } from 'react';
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -13,9 +13,6 @@ import {
   RadialLinearScale,
 } from 'chart.js';
 import { Bar, Pie, Doughnut, PolarArea } from 'react-chartjs-2';
-import eventsData from '../../data/events.json';
-import peopleData from '../../data/people.json';
-import mediaData from '../../data/media.json';
 import { useTranslation } from 'react-i18next';
 import './StatsDashboard.css';
 
@@ -32,12 +29,10 @@ ChartJS.register(
   Legend
 );
 
-const StatsDashboard = ({ onClose }) => {
-  const { t, i18n } = useTranslation();
-  const lang = i18n.language;
+const StatsDashboard = ({ onClose, eventsData, peopleData, mediaData }) => {
+  const { t } = useTranslation();
 
   const stats = useMemo(() => {
-    const allData = [...eventsData, ...peopleData, ...mediaData];
 
     // 1. Era distribution (for events & people)
     const eraCounts = {};
@@ -116,6 +111,10 @@ const StatsDashboard = ({ onClose }) => {
         'rgba(245, 158, 11, 0.7)',
         'rgba(139, 92, 246, 0.7)',
         'rgba(236, 72, 153, 0.7)',
+        'rgba(14, 165, 233, 0.7)',
+        'rgba(34, 197, 94, 0.7)',
+        'rgba(251, 146, 60, 0.7)',
+        'rgba(168, 162, 158, 0.7)',
       ],
       borderWidth: 0,
     }]
@@ -126,10 +125,16 @@ const StatsDashboard = ({ onClose }) => {
     datasets: [{
       data: Object.values(stats.regionCounts),
       backgroundColor: [
+        'rgba(239, 68, 68, 0.6)',
         'rgba(59, 130, 246, 0.6)',
         'rgba(16, 185, 129, 0.6)',
         'rgba(245, 158, 11, 0.6)',
-        'rgba(239, 68, 68, 0.6)',
+        'rgba(139, 92, 246, 0.6)',
+        'rgba(236, 72, 153, 0.6)',
+        'rgba(14, 165, 233, 0.6)',
+        'rgba(34, 197, 94, 0.6)',
+        'rgba(251, 146, 60, 0.6)',
+        'rgba(168, 162, 158, 0.6)',
       ],
       borderWidth: 0,
     }]

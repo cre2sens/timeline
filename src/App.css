@@ -15,6 +15,56 @@
 .app-main {
   flex: 1;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   overflow: hidden;
+}
+
+.resize-handle {
+  flex-shrink: 0;
+  width: 6px;
+  height: 100%;
+  background: var(--border);
+  cursor: ew-resize;
+  transition: background 0.15s ease;
+  position: relative;
+  z-index: 100;
+}
+
+.resize-handle::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 2px;
+  height: 32px;
+  border-radius: 1px;
+  background: var(--text-tertiary);
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.resize-handle:hover {
+  background: var(--accent-primary);
+}
+
+.resize-handle:hover::after {
+  opacity: 1;
+}
+
+.timeline-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  border-right: 1px solid var(--border);
+  position: relative;
+  z-index: 10;
+}
+
+.globe-container {
+  flex: 1;
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  background-color: var(--bg-primary); /* 지구본 컨테이너 배경 */
 }
