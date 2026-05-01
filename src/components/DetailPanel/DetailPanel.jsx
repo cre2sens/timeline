@@ -38,7 +38,7 @@ export default function DetailPanel({ mediaData, filteredItems, totalItems }) {
             </button>
             <div className="detail-item-meta">
               <span className="detail-meta-badge">
-                {formatDateRange(selectedItem.date.start, selectedItem.date.end, locale)}
+                {formatDateRange(selectedItem.date?.start, selectedItem.date?.end, locale)}
               </span>
               {(selectedItem.location?.name?.[locale] || selectedItem.birthPlace?.name?.[locale]) && (
                 <span className="detail-meta-badge">
@@ -64,7 +64,7 @@ export default function DetailPanel({ mediaData, filteredItems, totalItems }) {
       </div>
 
       {/* 탭 콘텐츠 */}
-      <div className="detail-content">
+      <div className="detail-content" key={selectedItem?.id || 'none'}>
         {detailTab === 'list' && (
           <ListTab items={filteredItems} totalItems={totalItems} />
         )}

@@ -16,17 +16,20 @@ const parseYear = (dateStr) => {
   return sign * parseInt(parts[0], 10);
 };
 
-// 지역 목록 및 레이블
+// 지역 목록 및 레이블 (categories.js의 REGIONS와 동일하게 유지)
 const REGIONS = [
   { id: 'korea', label: 'Korea' },
   { id: 'eastAsia', label: 'East Asia' },
-  { id: 'asia', label: 'Asia' },
+  { id: 'southAsia', label: 'South Asia' },
   { id: 'middleEast', label: 'Middle East' },
   { id: 'europe', label: 'Europe' },
   { id: 'americas', label: 'Americas' },
   { id: 'africa', label: 'Africa' },
   { id: 'etc', label: 'Others' }
 ];
+
+// 지역 ID 세트 (빠른 조회용)
+const REGION_IDS = new Set(REGIONS.map(r => r.id));
 
 export default function VerticalTimeline({ items }) {
   const { setSelectedItem } = useStore();
@@ -47,22 +50,20 @@ export default function VerticalTimeline({ items }) {
       const displayYear = parsed < 0 ? `BC ${Math.abs(parsed)}` : `${parsed}`;
       
       if (!groups[displayYear]) {
+        // 모든 REGIONS 키로 초기화 (asia가 아닌 southAsia 사용)
+        const regionInit = {};
+        REGIONS.forEach(r => { regionInit[r.id] = []; });
         groups[displayYear] = {
            yearStr: displayYear,
            parsedYear: parsed,
-           regions: {
-             korea: [], eastAsia: [], asia: [], middleEast: [],
-             europe: [], americas: [], africa: [], etc: []
-           }
+           regions: regionInit
         };
       }
       
       const region = item.location?.region || item.birthPlace?.region || 'etc';
-      if (groups[displayYear].regions[region]) {
-        groups[displayYear].regions[region].push(item);
-      } else {
-        groups[displayYear].regions['etc'].push(item);
-      }
+      // 알 수 없는 지역은 etc로 분류
+      const targetRegion = REGION_IDS.has(region) ? region : 'etc';
+      groups[displayYear].regions[targetRegion].push(item);
     });
     
     // 객체를 배열로 변환 후 내림차순(현재->과거) 정렬
@@ -105,7 +106,7 @@ export default function VerticalTimeline({ items }) {
             {/* 대륙별 셀 */}
             {REGIONS.map(region => (
               <div key={`cell-${group.yearStr}-${region.id}`} className="vt-region-cell">
-                {group.regions[region.id].map(event => (
+                {(group.regions[region.id] || []).map(event => (
                   <EventCard 
                     key={event.id} 
                     event={event} 

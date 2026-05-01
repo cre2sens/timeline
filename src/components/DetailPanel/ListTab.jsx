@@ -40,7 +40,7 @@ export default function ListTab({ items = [], totalItems = 0 }) {
               <div className="list-tab-card-header">
                 <span className="list-tab-icon">{icon}</span>
                 <span className="list-tab-title">{title}</span>
-                <span className="list-tab-date">{formatYear(item.date.start, locale)}</span>
+                <span className="list-tab-date">{formatYear(item.date?.start, locale)}</span>
               </div>
               {desc && <p className="list-tab-desc">{desc}</p>}
             </div>

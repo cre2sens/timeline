@@ -19,9 +19,9 @@ export default function MediaTab({ item, mediaData }) {
   return (
     <div className="media-list fade-in">
       {relatedMedia.map((media) => {
-        const title = media.title[locale] || media.title.ko
-        const creator = media.creator[locale] || media.creator.ko
-        const desc = media.description[locale] || media.description.ko
+        const title = media.title?.[locale] || media.title?.ko || 'No Title'
+        const creator = media.creator?.[locale] || media.creator?.ko || ''
+        const desc = media.description?.[locale] || media.description?.ko || ''
 
         return (
           <div key={media.id} className={`media-card media-type-${media.type}`}>
