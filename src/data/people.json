@@ -6234,5 +6234,3411 @@
     },
     "icon": "🧬",
     "importance": 5
+  },
+  {
+    "id": "person_함무라비_왕",
+    "type": "person",
+    "date": {
+      "start": "-1750-01-01",
+      "end": "-1750-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "함무라비 왕",
+      "en": ""
+    },
+    "description": {
+      "ko": "함무라비 법전 편찬의 주요 인물",
+      "en": "Key figure of 함무라비 법전 편찬"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "함무라비 왕",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_고타마_싯다르타",
+    "type": "person",
+    "date": {
+      "start": "-0550-01-01",
+      "end": "-0550-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "고타마 싯다르타",
+      "en": ""
+    },
+    "description": {
+      "ko": "불교 창시의 주요 인물",
+      "en": "Key figure of 불교 창시"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "고타마 싯다르타",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_다레이오스_1세",
+    "type": "person",
+    "date": {
+      "start": "-0492-01-01",
+      "end": "-0448-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "다레이오스 1세",
+      "en": ""
+    },
+    "description": {
+      "ko": "페르시아 전쟁의 주요 인물",
+      "en": "Key figure of 페르시아 전쟁"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "다레이오스 1세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_크세르크세스_1세",
+    "type": "person",
+    "date": {
+      "start": "-0492-01-01",
+      "end": "-0448-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "크세르크세스 1세",
+      "en": ""
+    },
+    "description": {
+      "ko": "페르시아 전쟁의 주요 인물",
+      "en": "Key figure of 페르시아 전쟁"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "크세르크세스 1세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_페리클레스",
+    "type": "person",
+    "date": {
+      "start": "-0431-01-01",
+      "end": "-0404-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "페리클레스",
+      "en": ""
+    },
+    "description": {
+      "ko": "펠로폰네소스 전쟁의 주요 인물",
+      "en": "Key figure of 펠로폰네소스 전쟁"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "페리클레스",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_알렉산드로스_대왕",
+    "type": "person",
+    "date": {
+      "start": "-0334-01-01",
+      "end": "-0323-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "알렉산드로스 대왕",
+      "en": ""
+    },
+    "description": {
+      "ko": "알렉산드로스 제국 건설의 주요 인물",
+      "en": "Key figure of 알렉산드로스 제국 건설"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "알렉산드로스 대왕",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_아소카왕",
+    "type": "person",
+    "date": {
+      "start": "-0250-01-01",
+      "end": "-0250-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "아소카왕",
+      "en": ""
+    },
+    "description": {
+      "ko": "마우리아 왕조 아소카왕의 통일의 주요 인물",
+      "en": "Key figure of 마우리아 왕조 아소카왕의 통일"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아소카왕",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_진시황제",
+    "type": "person",
+    "date": {
+      "start": "-0221-01-01",
+      "end": "-0221-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "진시황제",
+      "en": ""
+    },
+    "description": {
+      "ko": "진시황의 중국 통일의 주요 인물",
+      "en": "Key figure of 진시황의 중국 통일"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "진시황제",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_한니발",
+    "type": "person",
+    "date": {
+      "start": "-0264-01-01",
+      "end": "-0146-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "한니발",
+      "en": ""
+    },
+    "description": {
+      "ko": "포에니 전쟁의 주요 인물",
+      "en": "Key figure of 포에니 전쟁"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "한니발",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_스키피오_아프리카누스",
+    "type": "person",
+    "date": {
+      "start": "-0264-01-01",
+      "end": "-0146-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "스키피오 아프리카누스",
+      "en": ""
+    },
+    "description": {
+      "ko": "포에니 전쟁의 주요 인물",
+      "en": "Key figure of 포에니 전쟁"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "스키피오 아프리카누스",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_한_무제",
+    "type": "person",
+    "date": {
+      "start": "-0108-01-01",
+      "end": "-0108-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "한 무제",
+      "en": ""
+    },
+    "description": {
+      "ko": "한 무제의 고조선 정벌 및 비단길 개척의 주요 인물",
+      "en": "Key figure of 한 무제의 고조선 정벌 및 비단길 개척"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "한 무제",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_장건",
+    "type": "person",
+    "date": {
+      "start": "-0108-01-01",
+      "end": "-0108-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "장건",
+      "en": ""
+    },
+    "description": {
+      "ko": "한 무제의 고조선 정벌 및 비단길 개척의 주요 인물",
+      "en": "Key figure of 한 무제의 고조선 정벌 및 비단길 개척"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "장건",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_옥타비아누스",
+    "type": "person",
+    "date": {
+      "start": "-0027-01-01",
+      "end": "-0027-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "옥타비아누스 (아우구스투스)",
+      "en": ""
+    },
+    "description": {
+      "ko": "로마 제정 수립의 주요 인물",
+      "en": "Key figure of 로마 제정 수립"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "옥타비아누스",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_콘스탄티누스_1세",
+    "type": "person",
+    "date": {
+      "start": "0313-01-01",
+      "end": "0313-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "콘스탄티누스 1세",
+      "en": ""
+    },
+    "description": {
+      "ko": "기독교 공인 (밀라노 칙령)의 주요 인물",
+      "en": "Key figure of 기독교 공인 (밀라노 칙령)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "콘스탄티누스 1세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_찬드라굽타_2세",
+    "type": "person",
+    "date": {
+      "start": "0350-01-01",
+      "end": "0450-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "찬드라굽타 2세",
+      "en": ""
+    },
+    "description": {
+      "ko": "굽타 왕조 성립 및 찬드라굽타 2세의 주요 인물",
+      "en": "Key figure of 굽타 왕조 성립 및 찬드라굽타 2세"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "찬드라굽타 2세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_오도아케르",
+    "type": "person",
+    "date": {
+      "start": "0476-01-01",
+      "end": "0476-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "오도아케르",
+      "en": ""
+    },
+    "description": {
+      "ko": "서로마 제국 멸망의 주요 인물",
+      "en": "Key figure of 서로마 제국 멸망"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "오도아케르",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_로물루스_아우구스툴루스",
+    "type": "person",
+    "date": {
+      "start": "0476-01-01",
+      "end": "0476-01-01"
+    },
+    "era": "ancient",
+    "title": {
+      "ko": "로물루스 아우구스툴루스",
+      "en": ""
+    },
+    "description": {
+      "ko": "서로마 제국 멸망의 주요 인물",
+      "en": "Key figure of 서로마 제국 멸망"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "로물루스 아우구스툴루스",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_수_문제",
+    "type": "person",
+    "date": {
+      "start": "0589-01-01",
+      "end": "0589-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "수 문제",
+      "en": ""
+    },
+    "description": {
+      "ko": "수나라의 중국 통일의 주요 인물",
+      "en": "Key figure of 수나라의 중국 통일"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "수 문제",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_수_양제",
+    "type": "person",
+    "date": {
+      "start": "0589-01-01",
+      "end": "0589-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "수 양제",
+      "en": ""
+    },
+    "description": {
+      "ko": "수나라의 중국 통일의 주요 인물",
+      "en": "Key figure of 수나라의 중국 통일"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "수 양제",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_무함마드",
+    "type": "person",
+    "date": {
+      "start": "0622-01-01",
+      "end": "0622-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "무함마드",
+      "en": ""
+    },
+    "description": {
+      "ko": "이슬람교 창시 및 헤지라의 주요 인물",
+      "en": "Key figure of 이슬람교 창시 및 헤지라"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "무함마드",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_나카노오에_황자",
+    "type": "person",
+    "date": {
+      "start": "0645-01-01",
+      "end": "0645-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "나카노오에 황자",
+      "en": ""
+    },
+    "description": {
+      "ko": "다이카 개신의 주요 인물",
+      "en": "Key figure of 다이카 개신"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "나카노오에 황자",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_덴지_텐노",
+    "type": "person",
+    "date": {
+      "start": "0645-01-01",
+      "end": "0645-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "덴지 텐노",
+      "en": ""
+    },
+    "description": {
+      "ko": "다이카 개신의 주요 인물",
+      "en": "Key figure of 다이카 개신"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "덴지 텐노",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_아부_바크르",
+    "type": "person",
+    "date": {
+      "start": "0632-01-01",
+      "end": "0632-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "아부 바크르",
+      "en": ""
+    },
+    "description": {
+      "ko": "정통 칼리프 시대 개막의 주요 인물",
+      "en": "Key figure of 정통 칼리프 시대 개막"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아부 바크르",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_무아위야_1세",
+    "type": "person",
+    "date": {
+      "start": "0661-01-01",
+      "end": "0661-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "무아위야 1세",
+      "en": ""
+    },
+    "description": {
+      "ko": "우마이야 왕조 성립의 주요 인물",
+      "en": "Key figure of 우마이야 왕조 성립"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "무아위야 1세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_안록산",
+    "type": "person",
+    "date": {
+      "start": "0755-01-01",
+      "end": "0763-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "안록산",
+      "en": ""
+    },
+    "description": {
+      "ko": "당나라 안·사의 난의 주요 인물",
+      "en": "Key figure of 당나라 안·사의 난"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "안록산",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_사사명",
+    "type": "person",
+    "date": {
+      "start": "0755-01-01",
+      "end": "0763-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "사사명",
+      "en": ""
+    },
+    "description": {
+      "ko": "당나라 안·사의 난의 주요 인물",
+      "en": "Key figure of 당나라 안·사의 난"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "사사명",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_카롤루스_대제",
+    "type": "person",
+    "date": {
+      "start": "0800-01-01",
+      "end": "0800-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "카롤루스 대제",
+      "en": ""
+    },
+    "description": {
+      "ko": "카롤루스 대제 대관식의 주요 인물",
+      "en": "Key figure of 카롤루스 대제 대관식"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "카롤루스 대제",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_교황_레오_3세",
+    "type": "person",
+    "date": {
+      "start": "0800-01-01",
+      "end": "0800-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "교황 레오 3세",
+      "en": ""
+    },
+    "description": {
+      "ko": "카롤루스 대제 대관식의 주요 인물",
+      "en": "Key figure of 카롤루스 대제 대관식"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "교황 레오 3세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_알_만수르",
+    "type": "person",
+    "date": {
+      "start": "0762-01-01",
+      "end": "0762-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "알 만수르",
+      "en": ""
+    },
+    "description": {
+      "ko": "아바스 왕조 바그다드 천도의 주요 인물",
+      "en": "Key figure of 아바스 왕조 바그다드 천도"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "알 만수르",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_오토_1세",
+    "type": "person",
+    "date": {
+      "start": "0962-01-01",
+      "end": "0962-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "오토 1세",
+      "en": ""
+    },
+    "description": {
+      "ko": "신성 로마 제국 성립의 주요 인물",
+      "en": "Key figure of 신성 로마 제국 성립"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "오토 1세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_교황_그레고리오_7세",
+    "type": "person",
+    "date": {
+      "start": "1077-01-01",
+      "end": "1077-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "교황 그레고리오 7세",
+      "en": ""
+    },
+    "description": {
+      "ko": "카노사의 굴욕의 주요 인물",
+      "en": "Key figure of 카노사의 굴욕"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "교황 그레고리오 7세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_하인리히_4세",
+    "type": "person",
+    "date": {
+      "start": "1077-01-01",
+      "end": "1077-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "하인리히 4세",
+      "en": ""
+    },
+    "description": {
+      "ko": "카노사의 굴욕의 주요 인물",
+      "en": "Key figure of 카노사의 굴욕"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "하인리히 4세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_왕안석",
+    "type": "person",
+    "date": {
+      "start": "1069-01-01",
+      "end": "1069-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "왕안석",
+      "en": ""
+    },
+    "description": {
+      "ko": "왕안석의 신법 (송나라)의 주요 인물",
+      "en": "Key figure of 왕안석의 신법 (송나라)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "왕안석",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_신종",
+    "type": "person",
+    "date": {
+      "start": "1069-01-01",
+      "end": "1069-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "신종",
+      "en": ""
+    },
+    "description": {
+      "ko": "왕안석의 신법 (송나라)의 주요 인물",
+      "en": "Key figure of 왕안석의 신법 (송나라)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "신종",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_교황_우르바노_2세",
+    "type": "person",
+    "date": {
+      "start": "1096-01-01",
+      "end": "1096-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "교황 우르바노 2세",
+      "en": ""
+    },
+    "description": {
+      "ko": "제1차 십자군 전쟁 시작의 주요 인물",
+      "en": "Key figure of 제1차 십자군 전쟁 시작"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "교황 우르바노 2세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_미나모토노_요리토모",
+    "type": "person",
+    "date": {
+      "start": "1192-01-01",
+      "end": "1192-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "미나모토노 요리토모",
+      "en": ""
+    },
+    "description": {
+      "ko": "가마쿠라 막부 성립의 주요 인물",
+      "en": "Key figure of 가마쿠라 막부 성립"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "미나모토노 요리토모",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_존_왕",
+    "type": "person",
+    "date": {
+      "start": "1215-01-01",
+      "end": "1215-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "존 왕",
+      "en": ""
+    },
+    "description": {
+      "ko": "마그나 카르타 (대헌장) 승인의 주요 인물",
+      "en": "Key figure of 마그나 카르타 (대헌장) 승인"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "존 왕",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_에드워드_3세",
+    "type": "person",
+    "date": {
+      "start": "1337-01-01",
+      "end": "1337-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "에드워드 3세",
+      "en": ""
+    },
+    "description": {
+      "ko": "백년 전쟁 발발의 주요 인물",
+      "en": "Key figure of 백년 전쟁 발발"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "에드워드 3세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_필리프_6세",
+    "type": "person",
+    "date": {
+      "start": "1337-01-01",
+      "end": "1337-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "필리프 6세",
+      "en": ""
+    },
+    "description": {
+      "ko": "백년 전쟁 발발의 주요 인물",
+      "en": "Key figure of 백년 전쟁 발발"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "필리프 6세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_주원장",
+    "type": "person",
+    "date": {
+      "start": "1368-01-01",
+      "end": "1368-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "주원장 (홍무제)",
+      "en": ""
+    },
+    "description": {
+      "ko": "명나라 건국의 주요 인물",
+      "en": "Key figure of 명나라 건국"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "주원장",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_영락제",
+    "type": "person",
+    "date": {
+      "start": "1405-01-01",
+      "end": "1433-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "영락제",
+      "en": ""
+    },
+    "description": {
+      "ko": "정화의 남해 원정의 주요 인물",
+      "en": "Key figure of 정화의 남해 원정"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "영락제",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_정화",
+    "type": "person",
+    "date": {
+      "start": "1405-01-01",
+      "end": "1433-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "정화",
+      "en": ""
+    },
+    "description": {
+      "ko": "정화의 남해 원정의 주요 인물",
+      "en": "Key figure of 정화의 남해 원정"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "정화",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_레오나르도_다빈치",
+    "type": "person",
+    "date": {
+      "start": "1350-01-01",
+      "end": "1550-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "레오나르도 다빈치",
+      "en": ""
+    },
+    "description": {
+      "ko": "르네상스 개화 (피렌체)의 주요 인물",
+      "en": "Key figure of 르네상스 개화 (피렌체)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "레오나르도 다빈치",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_메디치_가문",
+    "type": "person",
+    "date": {
+      "start": "1350-01-01",
+      "end": "1550-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "메디치 가문",
+      "en": ""
+    },
+    "description": {
+      "ko": "르네상스 개화 (피렌체)의 주요 인물",
+      "en": "Key figure of 르네상스 개화 (피렌체)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "메디치 가문",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_메흐메트_2세",
+    "type": "person",
+    "date": {
+      "start": "1453-01-01",
+      "end": "1453-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "메흐메트 2세",
+      "en": ""
+    },
+    "description": {
+      "ko": "비잔티움 제국 (동로마) 멸망의 주요 인물",
+      "en": "Key figure of 비잔티움 제국 (동로마) 멸망"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "메흐메트 2세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_콘스탄티누스_11세",
+    "type": "person",
+    "date": {
+      "start": "1453-01-01",
+      "end": "1453-01-01"
+    },
+    "era": "medieval",
+    "title": {
+      "ko": "콘스탄티누스 11세",
+      "en": ""
+    },
+    "description": {
+      "ko": "비잔티움 제국 (동로마) 멸망의 주요 인물",
+      "en": "Key figure of 비잔티움 제국 (동로마) 멸망"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "콘스탄티누스 11세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_크리스토퍼_콜럼버스",
+    "type": "person",
+    "date": {
+      "start": "1492-01-01",
+      "end": "1492-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "크리스토퍼 콜럼버스",
+      "en": ""
+    },
+    "description": {
+      "ko": "콜럼버스의 아메리카 대륙 도달의 주요 인물",
+      "en": "Key figure of 콜럼버스의 아메리카 대륙 도달"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "크리스토퍼 콜럼버스",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_마르틴_루터",
+    "type": "person",
+    "date": {
+      "start": "1517-01-01",
+      "end": "1517-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "마르틴 루터",
+      "en": ""
+    },
+    "description": {
+      "ko": "마르틴 루터의 95개조 반박문의 주요 인물",
+      "en": "Key figure of 마르틴 루터의 95개조 반박문"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "마르틴 루터",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_이스마일_1세",
+    "type": "person",
+    "date": {
+      "start": "1501-01-01",
+      "end": "1501-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "이스마일 1세",
+      "en": ""
+    },
+    "description": {
+      "ko": "사파비 왕조 성립의 주요 인물",
+      "en": "Key figure of 사파비 왕조 성립"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이스마일 1세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_페르디난드_마젤란",
+    "type": "person",
+    "date": {
+      "start": "1522-01-01",
+      "end": "1522-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "페르디난드 마젤란",
+      "en": ""
+    },
+    "description": {
+      "ko": "마젤란 함대의 세계 일주 완료의 주요 인물",
+      "en": "Key figure of 마젤란 함대의 세계 일주 완료"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "페르디난드 마젤란",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_바부르",
+    "type": "person",
+    "date": {
+      "start": "1526-01-01",
+      "end": "1526-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "바부르",
+      "en": ""
+    },
+    "description": {
+      "ko": "무굴 제국 성립의 주요 인물",
+      "en": "Key figure of 무굴 제국 성립"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "바부르",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_카를_5세",
+    "type": "person",
+    "date": {
+      "start": "1555-01-01",
+      "end": "1555-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "카를 5세",
+      "en": ""
+    },
+    "description": {
+      "ko": "아우크스부르크 화의의 주요 인물",
+      "en": "Key figure of 아우크스부르크 화의"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "카를 5세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_장_칼뱅",
+    "type": "person",
+    "date": {
+      "start": "1536-01-01",
+      "end": "1536-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "장 칼뱅",
+      "en": ""
+    },
+    "description": {
+      "ko": "칼뱅의 제네바 종교 개혁의 주요 인물",
+      "en": "Key figure of 칼뱅의 제네바 종교 개혁"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "장 칼뱅",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_엘리자베스_1세",
+    "type": "person",
+    "date": {
+      "start": "1588-01-01",
+      "end": "1588-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "엘리자베스 1세",
+      "en": ""
+    },
+    "description": {
+      "ko": "스페인 무적함대 패배 (칼레 해전)의 주요 인물",
+      "en": "Key figure of 스페인 무적함대 패배 (칼레 해전)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "엘리자베스 1세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_펠리페_2세",
+    "type": "person",
+    "date": {
+      "start": "1588-01-01",
+      "end": "1588-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "펠리페 2세",
+      "en": ""
+    },
+    "description": {
+      "ko": "스페인 무적함대 패배 (칼레 해전)의 주요 인물",
+      "en": "Key figure of 스페인 무적함대 패배 (칼레 해전)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "펠리페 2세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_도요토미_히데요시",
+    "type": "person",
+    "date": {
+      "start": "1592-01-01",
+      "end": "1598-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "도요토미 히데요시",
+      "en": ""
+    },
+    "description": {
+      "ko": "임진왜란의 주요 인물",
+      "en": "Key figure of 임진왜란"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "도요토미 히데요시",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_앙리_4세",
+    "type": "person",
+    "date": {
+      "start": "1598-01-01",
+      "end": "1598-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "앙리 4세",
+      "en": ""
+    },
+    "description": {
+      "ko": "낭트 칙령 반포의 주요 인물",
+      "en": "Key figure of 낭트 칙령 반포"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "앙리 4세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_도쿠가와_이에야스",
+    "type": "person",
+    "date": {
+      "start": "1603-01-01",
+      "end": "1603-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "도쿠가와 이에야스",
+      "en": ""
+    },
+    "description": {
+      "ko": "에도 막부 수립의 주요 인물",
+      "en": "Key figure of 에도 막부 수립"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "도쿠가와 이에야스",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_누르하치",
+    "type": "person",
+    "date": {
+      "start": "1616-01-01",
+      "end": "1616-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "누르하치",
+      "en": ""
+    },
+    "description": {
+      "ko": "후금 건국 (청나라 전신)의 주요 인물",
+      "en": "Key figure of 후금 건국 (청나라 전신)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "누르하치",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_페르디난드_3세",
+    "type": "person",
+    "date": {
+      "start": "1648-01-01",
+      "end": "1648-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "페르디난드 3세",
+      "en": ""
+    },
+    "description": {
+      "ko": "베스트팔렌 조약 (30년 전쟁 종결)의 주요 인물",
+      "en": "Key figure of 베스트팔렌 조약 (30년 전쟁 종결)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "페르디난드 3세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_올리버_크롬웰",
+    "type": "person",
+    "date": {
+      "start": "1628-01-01",
+      "end": "1628-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "올리버 크롬웰",
+      "en": ""
+    },
+    "description": {
+      "ko": "영국 청교도 혁명 (권리 청원)의 주요 인물",
+      "en": "Key figure of 영국 청교도 혁명 (권리 청원)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "올리버 크롬웰",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_찰스_1세",
+    "type": "person",
+    "date": {
+      "start": "1628-01-01",
+      "end": "1628-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "찰스 1세",
+      "en": ""
+    },
+    "description": {
+      "ko": "영국 청교도 혁명 (권리 청원)의 주요 인물",
+      "en": "Key figure of 영국 청교도 혁명 (권리 청원)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "찰스 1세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_메리_2세",
+    "type": "person",
+    "date": {
+      "start": "1688-01-01",
+      "end": "1689-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "메리 2세",
+      "en": ""
+    },
+    "description": {
+      "ko": "영국의 명예 혁명 (권리 장전)의 주요 인물",
+      "en": "Key figure of 영국의 명예 혁명 (권리 장전)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "메리 2세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_윌리엄_3세",
+    "type": "person",
+    "date": {
+      "start": "1688-01-01",
+      "end": "1689-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "윌리엄 3세",
+      "en": ""
+    },
+    "description": {
+      "ko": "영국의 명예 혁명 (권리 장전)의 주요 인물",
+      "en": "Key figure of 영국의 명예 혁명 (권리 장전)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "윌리엄 3세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_표트르_대제",
+    "type": "person",
+    "date": {
+      "start": "1682-01-01",
+      "end": "1725-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "표트르 대제",
+      "en": ""
+    },
+    "description": {
+      "ko": "러시아 표트르 대제의 서구화 정책의 주요 인물",
+      "en": "Key figure of 러시아 표트르 대제의 서구화 정책"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "표트르 대제",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_옹정제",
+    "type": "person",
+    "date": {
+      "start": "1723-01-01",
+      "end": "1723-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "옹정제",
+      "en": ""
+    },
+    "description": {
+      "ko": "청나라 지정은제 실시의 주요 인물",
+      "en": "Key figure of 청나라 지정은제 실시"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "옹정제",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_건륭제",
+    "type": "person",
+    "date": {
+      "start": "1773-01-01",
+      "end": "1782-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "건륭제",
+      "en": ""
+    },
+    "description": {
+      "ko": "사고전서 편찬의 주요 인물",
+      "en": "Key figure of 사고전서 편찬"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "건륭제",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_제임스_와트",
+    "type": "person",
+    "date": {
+      "start": "1769-01-01",
+      "end": "1769-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "제임스 와트 (증기기관 개량)",
+      "en": ""
+    },
+    "description": {
+      "ko": "산업 혁명 본격화의 주요 인물",
+      "en": "Key figure of 산업 혁명 본격화"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제임스 와트",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_조지_워싱턴",
+    "type": "person",
+    "date": {
+      "start": "1776-01-01",
+      "end": "1776-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "조지 워싱턴",
+      "en": ""
+    },
+    "description": {
+      "ko": "미국 독립 선언서 발표의 주요 인물",
+      "en": "Key figure of 미국 독립 선언서 발표"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "조지 워싱턴",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_토머스_제퍼슨",
+    "type": "person",
+    "date": {
+      "start": "1776-01-01",
+      "end": "1776-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "토머스 제퍼슨",
+      "en": ""
+    },
+    "description": {
+      "ko": "미국 독립 선언서 발표의 주요 인물",
+      "en": "Key figure of 미국 독립 선언서 발표"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "토머스 제퍼슨",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_루이_16세",
+    "type": "person",
+    "date": {
+      "start": "1789-01-01",
+      "end": "1789-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "루이 16세",
+      "en": ""
+    },
+    "description": {
+      "ko": "프랑스 대혁명 발발의 주요 인물",
+      "en": "Key figure of 프랑스 대혁명 발발"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "루이 16세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_막시밀리앵_로베스피에르",
+    "type": "person",
+    "date": {
+      "start": "1789-01-01",
+      "end": "1789-01-01"
+    },
+    "era": "earlyModern",
+    "title": {
+      "ko": "막시밀리앵 로베스피에르",
+      "en": ""
+    },
+    "description": {
+      "ko": "프랑스 대혁명 발발의 주요 인물",
+      "en": "Key figure of 프랑스 대혁명 발발"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "막시밀리앵 로베스피에르",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_왕총아",
+    "type": "person",
+    "date": {
+      "start": "1796-01-01",
+      "end": "1804-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "왕총아",
+      "en": ""
+    },
+    "description": {
+      "ko": "백련교도의 난의 주요 인물",
+      "en": "Key figure of 백련교도의 난"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "왕총아",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_나폴레옹_보나파르트",
+    "type": "person",
+    "date": {
+      "start": "1804-01-01",
+      "end": "1804-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "나폴레옹 보나파르트",
+      "en": ""
+    },
+    "description": {
+      "ko": "나폴레옹 황제 즉위의 주요 인물",
+      "en": "Key figure of 나폴레옹 황제 즉위"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "나폴레옹 보나파르트",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_클레멘스_폰_메테르니히",
+    "type": "person",
+    "date": {
+      "start": "1814-01-01",
+      "end": "1815-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "클레멘스 폰 메테르니히",
+      "en": ""
+    },
+    "description": {
+      "ko": "빈 회의 개최의 주요 인물",
+      "en": "Key figure of 빈 회의 개최"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "클레멘스 폰 메테르니히",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_제임스_먼로",
+    "type": "person",
+    "date": {
+      "start": "1823-01-01",
+      "end": "1823-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "제임스 먼로",
+      "en": ""
+    },
+    "description": {
+      "ko": "먼로 독트린 발표의 주요 인물",
+      "en": "Key figure of 먼로 독트린 발표"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제임스 먼로",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_샤를_10세",
+    "type": "person",
+    "date": {
+      "start": "1830-01-01",
+      "end": "1830-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "샤를 10세",
+      "en": ""
+    },
+    "description": {
+      "ko": "프랑스 7월 혁명의 주요 인물",
+      "en": "Key figure of 프랑스 7월 혁명"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "샤를 10세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_루이_필리프",
+    "type": "person",
+    "date": {
+      "start": "1830-01-01",
+      "end": "1830-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "루이 필리프",
+      "en": ""
+    },
+    "description": {
+      "ko": "프랑스 7월 혁명의 주요 인물",
+      "en": "Key figure of 프랑스 7월 혁명"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "루이 필리프",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_임칙서",
+    "type": "person",
+    "date": {
+      "start": "1840-01-01",
+      "end": "1840-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "임칙서",
+      "en": ""
+    },
+    "description": {
+      "ko": "제1차 아편 전쟁 발발의 주요 인물",
+      "en": "Key figure of 제1차 아편 전쟁 발발"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "임칙서",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_빅토리아_여왕",
+    "type": "person",
+    "date": {
+      "start": "1840-01-01",
+      "end": "1840-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "빅토리아 여왕",
+      "en": ""
+    },
+    "description": {
+      "ko": "제1차 아편 전쟁 발발의 주요 인물",
+      "en": "Key figure of 제1차 아편 전쟁 발발"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "빅토리아 여왕",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_홍콩_할양",
+    "type": "person",
+    "date": {
+      "start": "1842-01-01",
+      "end": "1842-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "홍콩 할양",
+      "en": ""
+    },
+    "description": {
+      "ko": "난징 조약 체결의 주요 인물",
+      "en": "Key figure of 난징 조약 체결"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "홍콩 할양",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_윌리엄_러빗",
+    "type": "person",
+    "date": {
+      "start": "1838-01-01",
+      "end": "1848-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "윌리엄 러빗",
+      "en": ""
+    },
+    "description": {
+      "ko": "영국 차티스트 운동의 주요 인물",
+      "en": "Key figure of 영국 차티스트 운동"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "윌리엄 러빗",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_루이_나폴레옹",
+    "type": "person",
+    "date": {
+      "start": "1848-01-01",
+      "end": "1848-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "루이 나폴레옹",
+      "en": ""
+    },
+    "description": {
+      "ko": "프랑스 2월 혁명의 주요 인물",
+      "en": "Key figure of 프랑스 2월 혁명"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "루이 나폴레옹",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_홍수전",
+    "type": "person",
+    "date": {
+      "start": "1851-01-01",
+      "end": "1864-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "홍수전",
+      "en": ""
+    },
+    "description": {
+      "ko": "태평천국 운동의 주요 인물",
+      "en": "Key figure of 태평천국 운동"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "홍수전",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_함풍제",
+    "type": "person",
+    "date": {
+      "start": "1856-01-01",
+      "end": "1860-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "함풍제",
+      "en": ""
+    },
+    "description": {
+      "ko": "제2차 아편 전쟁 (애로호 사건)의 주요 인물",
+      "en": "Key figure of 제2차 아편 전쟁 (애로호 사건)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "함풍제",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_바하두르_샤_2세",
+    "type": "person",
+    "date": {
+      "start": "1857-01-01",
+      "end": "1859-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "바하두르 샤 2세",
+      "en": ""
+    },
+    "description": {
+      "ko": "세포이의 항쟁의 주요 인물",
+      "en": "Key figure of 세포이의 항쟁"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "바하두르 샤 2세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_비토리오_에마누엘레_2세",
+    "type": "person",
+    "date": {
+      "start": "1861-01-01",
+      "end": "1861-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "비토리오 에마누엘레 2세",
+      "en": ""
+    },
+    "description": {
+      "ko": "이탈리아 왕국 성립 (통일)의 주요 인물",
+      "en": "Key figure of 이탈리아 왕국 성립 (통일)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "비토리오 에마누엘레 2세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_가리발디",
+    "type": "person",
+    "date": {
+      "start": "1861-01-01",
+      "end": "1861-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "가리발디",
+      "en": ""
+    },
+    "description": {
+      "ko": "이탈리아 왕국 성립 (통일)의 주요 인물",
+      "en": "Key figure of 이탈리아 왕국 성립 (통일)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "가리발디",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_에이브러햄_링컨",
+    "type": "person",
+    "date": {
+      "start": "1861-01-01",
+      "end": "1865-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "에이브러햄 링컨",
+      "en": ""
+    },
+    "description": {
+      "ko": "미국 남북 전쟁 발발의 주요 인물",
+      "en": "Key figure of 미국 남북 전쟁 발발"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "에이브러햄 링컨",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_알렉산드르_2세",
+    "type": "person",
+    "date": {
+      "start": "1861-01-01",
+      "end": "1861-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "알렉산드르 2세",
+      "en": ""
+    },
+    "description": {
+      "ko": "러시아 농노 해방령의 주요 인물",
+      "en": "Key figure of 러시아 농노 해방령"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "알렉산드르 2세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_증국번",
+    "type": "person",
+    "date": {
+      "start": "1860-01-01",
+      "end": "1890-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "증국번",
+      "en": ""
+    },
+    "description": {
+      "ko": "중국 양무운동의 주요 인물",
+      "en": "Key figure of 중국 양무운동"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "증국번",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_이홍장",
+    "type": "person",
+    "date": {
+      "start": "1860-01-01",
+      "end": "1890-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "이홍장",
+      "en": ""
+    },
+    "description": {
+      "ko": "중국 양무운동의 주요 인물",
+      "en": "Key figure of 중국 양무운동"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이홍장",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_메이지_천황",
+    "type": "person",
+    "date": {
+      "start": "1868-01-01",
+      "end": "1868-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "메이지 천황",
+      "en": ""
+    },
+    "description": {
+      "ko": "일본 메이지 유신의 주요 인물",
+      "en": "Key figure of 일본 메이지 유신"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "메이지 천황",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_이와쿠라_도모미",
+    "type": "person",
+    "date": {
+      "start": "1868-01-01",
+      "end": "1868-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "이와쿠라 도모미",
+      "en": ""
+    },
+    "description": {
+      "ko": "일본 메이지 유신의 주요 인물",
+      "en": "Key figure of 일본 메이지 유신"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이와쿠라 도모미",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_오토_폰_비스마르크",
+    "type": "person",
+    "date": {
+      "start": "1871-01-01",
+      "end": "1871-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "오토 폰 비스마르크",
+      "en": ""
+    },
+    "description": {
+      "ko": "독일 제국 성립의 주요 인물",
+      "en": "Key figure of 독일 제국 성립"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "오토 폰 비스마르크",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_빌헬름_1세",
+    "type": "person",
+    "date": {
+      "start": "1871-01-01",
+      "end": "1871-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "빌헬름 1세",
+      "en": ""
+    },
+    "description": {
+      "ko": "독일 제국 성립의 주요 인물",
+      "en": "Key figure of 독일 제국 성립"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "빌헬름 1세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_a._o._흄",
+    "type": "person",
+    "date": {
+      "start": "1885-01-01",
+      "end": "1885-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "A. O. 흄",
+      "en": ""
+    },
+    "description": {
+      "ko": "인도 국민 회의 창설의 주요 인물",
+      "en": "Key figure of 인도 국민 회의 창설"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "A. O. 흄",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_이토_히로부미",
+    "type": "person",
+    "date": {
+      "start": "1894-01-01",
+      "end": "1895-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "이토 히로부미",
+      "en": ""
+    },
+    "description": {
+      "ko": "청일 전쟁의 주요 인물",
+      "en": "Key figure of 청일 전쟁"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이토 히로부미",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_캉유웨이",
+    "type": "person",
+    "date": {
+      "start": "1898-01-01",
+      "end": "1898-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "캉유웨이",
+      "en": ""
+    },
+    "description": {
+      "ko": "중국 변법자강 운동의 주요 인물",
+      "en": "Key figure of 중국 변법자강 운동"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "캉유웨이",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_량치차오",
+    "type": "person",
+    "date": {
+      "start": "1898-01-01",
+      "end": "1898-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "량치차오",
+      "en": ""
+    },
+    "description": {
+      "ko": "중국 변법자강 운동의 주요 인물",
+      "en": "Key figure of 중국 변법자강 운동"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "량치차오",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_광서제",
+    "type": "person",
+    "date": {
+      "start": "1898-01-01",
+      "end": "1898-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "광서제",
+      "en": ""
+    },
+    "description": {
+      "ko": "중국 변법자강 운동의 주요 인물",
+      "en": "Key figure of 중국 변법자강 운동"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "광서제",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_앙리_마르샹",
+    "type": "person",
+    "date": {
+      "start": "1898-01-01",
+      "end": "1898-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "앙리 마르샹 (프)",
+      "en": ""
+    },
+    "description": {
+      "ko": "파쇼다 사건의 주요 인물",
+      "en": "Key figure of 파쇼다 사건"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "앙리 마르샹",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_키치너",
+    "type": "person",
+    "date": {
+      "start": "1898-01-01",
+      "end": "1898-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "키치너 (영)",
+      "en": ""
+    },
+    "description": {
+      "ko": "파쇼다 사건의 주요 인물",
+      "en": "Key figure of 파쇼다 사건"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "키치너",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_서태후",
+    "type": "person",
+    "date": {
+      "start": "1899-01-01",
+      "end": "1901-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "서태후",
+      "en": ""
+    },
+    "description": {
+      "ko": "의화단 운동의 주요 인물",
+      "en": "Key figure of 의화단 운동"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "서태후",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_랜즈다운_후작",
+    "type": "person",
+    "date": {
+      "start": "1902-01-01",
+      "end": "1902-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "랜즈다운 후작",
+      "en": ""
+    },
+    "description": {
+      "ko": "영일 동맹 체결의 주요 인물",
+      "en": "Key figure of 영일 동맹 체결"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "랜즈다운 후작",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_하야시_가다스",
+    "type": "person",
+    "date": {
+      "start": "1902-01-01",
+      "end": "1902-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "하야시 가다스",
+      "en": ""
+    },
+    "description": {
+      "ko": "영일 동맹 체결의 주요 인물",
+      "en": "Key figure of 영일 동맹 체결"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "하야시 가다스",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_니콜라이_2세",
+    "type": "person",
+    "date": {
+      "start": "1904-01-01",
+      "end": "1905-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "니콜라이 2세",
+      "en": ""
+    },
+    "description": {
+      "ko": "러일 전쟁의 주요 인물",
+      "en": "Key figure of 러일 전쟁"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "니콜라이 2세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_가폰_신부",
+    "type": "person",
+    "date": {
+      "start": "1905-01-01",
+      "end": "1905-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "가폰 신부",
+      "en": ""
+    },
+    "description": {
+      "ko": "피의 일요일 사건 (러시아 혁명의 전주곡)의 주요 인물",
+      "en": "Key figure of 피의 일요일 사건 (러시아 혁명의 전주곡)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "가폰 신부",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_위안스카이",
+    "type": "person",
+    "date": {
+      "start": "1911-01-01",
+      "end": "1911-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "위안스카이",
+      "en": ""
+    },
+    "description": {
+      "ko": "신해혁명의 주요 인물",
+      "en": "Key figure of 신해혁명"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "위안스카이",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_가브릴로_프린치프",
+    "type": "person",
+    "date": {
+      "start": "1914-01-01",
+      "end": "1914-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "가브릴로 프린치프",
+      "en": ""
+    },
+    "description": {
+      "ko": "사라예보 사건의 주요 인물",
+      "en": "Key figure of 사라예보 사건"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "가브릴로 프린치프",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_빌헬름_2세",
+    "type": "person",
+    "date": {
+      "start": "1914-01-01",
+      "end": "1918-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "빌헬름 2세",
+      "en": ""
+    },
+    "description": {
+      "ko": "제1차 세계대전 발발의 주요 인물",
+      "en": "Key figure of 제1차 세계대전 발발"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "빌헬름 2세",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_블라디미르_레닌",
+    "type": "person",
+    "date": {
+      "start": "1917-01-01",
+      "end": "1917-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "블라디미르 레닌",
+      "en": ""
+    },
+    "description": {
+      "ko": "러시아 혁명 (볼셰비키 혁명)의 주요 인물",
+      "en": "Key figure of 러시아 혁명 (볼셰비키 혁명)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "블라디미르 레닌",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_우드로_윌슨",
+    "type": "person",
+    "date": {
+      "start": "1919-01-01",
+      "end": "1919-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "우드로 윌슨",
+      "en": ""
+    },
+    "description": {
+      "ko": "파리 강화 회의 및 베르사유 조약의 주요 인물",
+      "en": "Key figure of 파리 강화 회의 및 베르사유 조약"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "우드로 윌슨",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_천두슈_등_북경대_학생",
+    "type": "person",
+    "date": {
+      "start": "1919-01-01",
+      "end": "1919-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "천두슈 등 북경대 학생",
+      "en": ""
+    },
+    "description": {
+      "ko": "5·4 운동의 주요 인물",
+      "en": "Key figure of 5·4 운동"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "천두슈 등 북경대 학생",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_무스타파_케말_아타튀르크",
+    "type": "person",
+    "date": {
+      "start": "1923-01-01",
+      "end": "1923-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "무스타파 케말 아타튀르크",
+      "en": ""
+    },
+    "description": {
+      "ko": "무스타파 케말의 튀르키예 공화국 수립의 주요 인물",
+      "en": "Key figure of 무스타파 케말의 튀르키예 공화국 수립"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "무스타파 케말 아타튀르크",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_허버트_후버",
+    "type": "person",
+    "date": {
+      "start": "1929-01-01",
+      "end": "1929-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "허버트 후버",
+      "en": ""
+    },
+    "description": {
+      "ko": "세계 경제 대공황의 주요 인물",
+      "en": "Key figure of 세계 경제 대공황"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "허버트 후버",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_프랭클린_d._루스벨트",
+    "type": "person",
+    "date": {
+      "start": "1933-01-01",
+      "end": "1933-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "프랭클린 D. 루스벨트",
+      "en": ""
+    },
+    "description": {
+      "ko": "뉴딜 정책 실행의 주요 인물",
+      "en": "Key figure of 뉴딜 정책 실행"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "프랭클린 D. 루스벨트",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_프란시스코_프랑코",
+    "type": "person",
+    "date": {
+      "start": "1936-01-01",
+      "end": "1939-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "프란시스코 프랑코",
+      "en": ""
+    },
+    "description": {
+      "ko": "스페인 내전 발발의 주요 인물",
+      "en": "Key figure of 스페인 내전 발발"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "프란시스코 프랑코",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_장제스",
+    "type": "person",
+    "date": {
+      "start": "1937-01-01",
+      "end": "1945-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "장제스",
+      "en": ""
+    },
+    "description": {
+      "ko": "중일 전쟁의 주요 인물",
+      "en": "Key figure of 중일 전쟁"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "장제스",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_아돌프_히틀러",
+    "type": "person",
+    "date": {
+      "start": "1939-01-01",
+      "end": "1939-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "아돌프 히틀러",
+      "en": ""
+    },
+    "description": {
+      "ko": "제2차 세계대전 발발 (폴란드 침공)의 주요 인물",
+      "en": "Key figure of 제2차 세계대전 발발 (폴란드 침공)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아돌프 히틀러",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_처칠",
+    "type": "person",
+    "date": {
+      "start": "1945-01-01",
+      "end": "1945-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "처칠",
+      "en": ""
+    },
+    "description": {
+      "ko": "얄타 회담의 주요 인물",
+      "en": "Key figure of 얄타 회담"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "처칠",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_스탈린",
+    "type": "person",
+    "date": {
+      "start": "1945-01-01",
+      "end": "1945-01-01"
+    },
+    "era": "modern",
+    "title": {
+      "ko": "스탈린",
+      "en": ""
+    },
+    "description": {
+      "ko": "얄타 회담의 주요 인물",
+      "en": "Key figure of 얄타 회담"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "스탈린",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_해리_s._트루먼",
+    "type": "person",
+    "date": {
+      "start": "1947-01-01",
+      "end": "1947-01-01"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "해리 S. 트루먼",
+      "en": ""
+    },
+    "description": {
+      "ko": "트루먼 독트린 발표 (냉전 시작)의 주요 인물",
+      "en": "Key figure of 트루먼 독트린 발표 (냉전 시작)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "해리 S. 트루먼",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_수카르노",
+    "type": "person",
+    "date": {
+      "start": "1955-01-01",
+      "end": "1955-01-01"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "수카르노",
+      "en": ""
+    },
+    "description": {
+      "ko": "반둥 회의 (비동맹 운동)의 주요 인물",
+      "en": "Key figure of 반둥 회의 (비동맹 운동)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "수카르노",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_네루",
+    "type": "person",
+    "date": {
+      "start": "1955-01-01",
+      "end": "1955-01-01"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "네루",
+      "en": ""
+    },
+    "description": {
+      "ko": "반둥 회의 (비동맹 운동)의 주요 인물",
+      "en": "Key figure of 반둥 회의 (비동맹 운동)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "네루",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_저우언라이",
+    "type": "person",
+    "date": {
+      "start": "1955-01-01",
+      "end": "1955-01-01"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "저우언라이",
+      "en": ""
+    },
+    "description": {
+      "ko": "반둥 회의 (비동맹 운동)의 주요 인물",
+      "en": "Key figure of 반둥 회의 (비동맹 운동)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "저우언라이",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_존_f._케네디",
+    "type": "person",
+    "date": {
+      "start": "1962-01-01",
+      "end": "1962-01-01"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "존 F. 케네디",
+      "en": ""
+    },
+    "description": {
+      "ko": "쿠바 미사일 위기의 주요 인물",
+      "en": "Key figure of 쿠바 미사일 위기"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "존 F. 케네디",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_니키타_흐루쇼프",
+    "type": "person",
+    "date": {
+      "start": "1962-01-01",
+      "end": "1962-01-01"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "니키타 흐루쇼프",
+      "en": ""
+    },
+    "description": {
+      "ko": "쿠바 미사일 위기의 주요 인물",
+      "en": "Key figure of 쿠바 미사일 위기"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "니키타 흐루쇼프",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_린든_b._존슨",
+    "type": "person",
+    "date": {
+      "start": "1964-01-01",
+      "end": "1964-01-01"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "린든 B. 존슨",
+      "en": ""
+    },
+    "description": {
+      "ko": "베트남 전쟁 확전 (통킹만 사건)의 주요 인물",
+      "en": "Key figure of 베트남 전쟁 확전 (통킹만 사건)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "린든 B. 존슨",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_미하일_고르바초프",
+    "type": "person",
+    "date": {
+      "start": "1989-01-01",
+      "end": "1989-01-01"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "미하일 고르바초프",
+      "en": ""
+    },
+    "description": {
+      "ko": "베를린 장벽 붕괴 및 몰타 회담 (냉전 종식)의 주요 인물",
+      "en": "Key figure of 베를린 장벽 붕괴 및 몰타 회담 (냉전 종식)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "미하일 고르바초프",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
+  },
+  {
+    "id": "person_조지_h.w._부시",
+    "type": "person",
+    "date": {
+      "start": "1989-01-01",
+      "end": "1989-01-01"
+    },
+    "era": "contemporary",
+    "title": {
+      "ko": "조지 H.W. 부시",
+      "en": ""
+    },
+    "description": {
+      "ko": "베를린 장벽 붕괴 및 몰타 회담 (냉전 종식)의 주요 인물",
+      "en": "Key figure of 베를린 장벽 붕괴 및 몰타 회담 (냉전 종식)"
+    },
+    "category": "ruler",
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "조지 H.W. 부시",
+      "en": ""
+    },
+    "icon": "👑",
+    "importance": 3
   }
 ]

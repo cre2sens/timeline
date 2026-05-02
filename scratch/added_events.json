@@ -1,0 +1,3270 @@
+[
+  {
+    "id": "event_함무라비_법전_편찬",
+    "type": "event",
+    "date": {
+      "start": "-1750-01-01",
+      "end": "-1750-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "이라크 바빌론",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 32.5363,
+        "lng": 44.4208
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "함무라비 법전 편찬",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "함무라비 법전 편찬",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_불교_창시",
+    "type": "event",
+    "date": {
+      "start": "-0550-01-01",
+      "end": "-0550-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "인도 보드가야",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 24.6959,
+        "lng": 84.9914
+      },
+      "region": "southAsia"
+    },
+    "title": {
+      "ko": "불교 창시",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "불교 창시",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_페르시아_전쟁",
+    "type": "event",
+    "date": {
+      "start": "-0492-01-01",
+      "end": "-0448-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "그리스 마라톤 등",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 38.15,
+        "lng": 23.95
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "페르시아 전쟁",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "페르시아 전쟁",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_펠로폰네소스_전쟁",
+    "type": "event",
+    "date": {
+      "start": "-0431-01-01",
+      "end": "-0404-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "그리스 아테네 및 스파르타",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 37.9838,
+        "lng": 23.7275
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "펠로폰네소스 전쟁",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "펠로폰네소스 전쟁",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_알렉산드로스_제국_건설",
+    "type": "event",
+    "date": {
+      "start": "-0334-01-01",
+      "end": "-0323-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "이라크 바빌론 등",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 32.5363,
+        "lng": 44.4208
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "알렉산드로스 제국 건설",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "알렉산드로스 제국 건설",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_마우리아_왕조_아소카왕의_통일",
+    "type": "event",
+    "date": {
+      "start": "-0250-01-01",
+      "end": "-0250-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "인도 파탈리푸트라",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 25.611,
+        "lng": 85.144
+      },
+      "region": "southAsia"
+    },
+    "title": {
+      "ko": "마우리아 왕조 아소카왕의 통일",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "마우리아 왕조 아소카왕의 통일",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_진시황의_중국_통일",
+    "type": "event",
+    "date": {
+      "start": "-0221-01-01",
+      "end": "-0221-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "중국 셴양",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 34.3333,
+        "lng": 108.7167
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "진시황의 중국 통일",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "진시황의 중국 통일",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_포에니_전쟁",
+    "type": "event",
+    "date": {
+      "start": "-0264-01-01",
+      "end": "-0146-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "튀니지 카르타고",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 36.8529,
+        "lng": 10.3233
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "포에니 전쟁",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "포에니 전쟁",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_한_무제의_고조선_정벌_및_비단길_개척",
+    "type": "event",
+    "date": {
+      "start": "-0108-01-01",
+      "end": "-0108-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "중국 창안",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 34.2667,
+        "lng": 108.9
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "한 무제의 고조선 정벌 및 비단길 개척",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "한 무제의 고조선 정벌 및 비단길 개척",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_로마_제정_수립",
+    "type": "event",
+    "date": {
+      "start": "-0027-01-01",
+      "end": "-0027-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "이탈리아 로마",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "로마 제정 수립",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "로마 제정 수립",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_기독교_공인_(밀라노_칙령)",
+    "type": "event",
+    "date": {
+      "start": "0313-01-01",
+      "end": "0313-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "이탈리아 밀라노",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 45.4642,
+        "lng": 9.19
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "기독교 공인 (밀라노 칙령)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "기독교 공인 (밀라노 칙령)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_서로마_제국_멸망",
+    "type": "event",
+    "date": {
+      "start": "0476-01-01",
+      "end": "0476-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "이탈리아 로마",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "서로마 제국 멸망",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "서로마 제국 멸망",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_수나라의_중국_통일",
+    "type": "event",
+    "date": {
+      "start": "0589-01-01",
+      "end": "0589-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "중국 다싱성",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 34.2667,
+        "lng": 108.9
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "수나라의 중국 통일",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "수나라의 중국 통일",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_이슬람교_창시_및_헤지라",
+    "type": "event",
+    "date": {
+      "start": "0622-01-01",
+      "end": "0622-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "사우디아라비아 메디나",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 24.4672,
+        "lng": 39.6112
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "이슬람교 창시 및 헤지라",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이슬람교 창시 및 헤지라",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_다이카_개신",
+    "type": "event",
+    "date": {
+      "start": "0645-01-01",
+      "end": "0645-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "일본 아스카",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 34.4716,
+        "lng": 135.8144
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "다이카 개신",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "다이카 개신",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_정통_칼리프_시대_개막",
+    "type": "event",
+    "date": {
+      "start": "0632-01-01",
+      "end": "0632-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "사우디아라비아 메디나",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 24.4672,
+        "lng": 39.6112
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "정통 칼리프 시대 개막",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "정통 칼리프 시대 개막",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_우마이야_왕조_성립",
+    "type": "event",
+    "date": {
+      "start": "0661-01-01",
+      "end": "0661-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "시리아 다마스쿠스",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 33.5138,
+        "lng": 36.2765
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "우마이야 왕조 성립",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "우마이야 왕조 성립",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_당나라_안·사의_난",
+    "type": "event",
+    "date": {
+      "start": "0755-01-01",
+      "end": "0763-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "중국 창안",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 34.2667,
+        "lng": 108.9
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "당나라 안·사의 난",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "당나라 안·사의 난",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_카롤루스_대제_대관식",
+    "type": "event",
+    "date": {
+      "start": "0800-01-01",
+      "end": "0800-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "이탈리아 로마",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "카롤루스 대제 대관식",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "카롤루스 대제 대관식",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_아바스_왕조_바그다드_천도",
+    "type": "event",
+    "date": {
+      "start": "0762-01-01",
+      "end": "0762-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "이라크 바그다드",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 33.3152,
+        "lng": 44.3661
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "아바스 왕조 바그다드 천도",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아바스 왕조 바그다드 천도",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_신성_로마_제국_성립",
+    "type": "event",
+    "date": {
+      "start": "0962-01-01",
+      "end": "0962-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "이탈리아 로마",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "신성 로마 제국 성립",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "신성 로마 제국 성립",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_카노사의_굴욕",
+    "type": "event",
+    "date": {
+      "start": "1077-01-01",
+      "end": "1077-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "이탈리아 카노사",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 44.5767,
+        "lng": 10.4552
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "카노사의 굴욕",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "카노사의 굴욕",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_왕안석의_신법_(송나라)",
+    "type": "event",
+    "date": {
+      "start": "1069-01-01",
+      "end": "1069-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "중국 카이펑",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 34.7973,
+        "lng": 114.3072
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "왕안석의 신법 (송나라)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "왕안석의 신법 (송나라)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_가마쿠라_막부_성립",
+    "type": "event",
+    "date": {
+      "start": "1192-01-01",
+      "end": "1192-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "일본 가마쿠라",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 35.3192,
+        "lng": 139.5467
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "가마쿠라 막부 성립",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "가마쿠라 막부 성립",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_마그나_카르타_(대헌장)_승인",
+    "type": "event",
+    "date": {
+      "start": "1215-01-01",
+      "end": "1215-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "영국 러니미드",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 51.4414,
+        "lng": -0.563
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "마그나 카르타 (대헌장) 승인",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "마그나 카르타 (대헌장) 승인",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_백년_전쟁_발발",
+    "type": "event",
+    "date": {
+      "start": "1337-01-01",
+      "end": "1337-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "프랑스 일대",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "백년 전쟁 발발",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "백년 전쟁 발발",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_정화의_남해_원정",
+    "type": "event",
+    "date": {
+      "start": "1405-01-01",
+      "end": "1433-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "중국 난징 출항 ~ 동아프리카",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 32.0602,
+        "lng": 118.7968
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "정화의 남해 원정",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "정화의 남해 원정",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_르네상스_개화_(피렌체)",
+    "type": "event",
+    "date": {
+      "start": "1350-01-01",
+      "end": "1550-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "이탈리아 피렌체",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 43.7695,
+        "lng": 11.2558
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "르네상스 개화 (피렌체)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "르네상스 개화 (피렌체)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_비잔티움_제국_(동로마)_멸망",
+    "type": "event",
+    "date": {
+      "start": "1453-01-01",
+      "end": "1453-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "튀르키예 이스탄불",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 41.0082,
+        "lng": 28.9783
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "비잔티움 제국 (동로마) 멸망",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "비잔티움 제국 (동로마) 멸망",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_콜럼버스의_아메리카_대륙_도달",
+    "type": "event",
+    "date": {
+      "start": "1492-01-01",
+      "end": "1492-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "바하마 산살바도르",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 24.03,
+        "lng": -74.48
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "콜럼버스의 아메리카 대륙 도달",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "콜럼버스의 아메리카 대륙 도달",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_마르틴_루터의_95개조_반박문",
+    "type": "event",
+    "date": {
+      "start": "1517-01-01",
+      "end": "1517-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "독일 비텐베르크",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 51.866,
+        "lng": 12.645
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "마르틴 루터의 95개조 반박문",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "마르틴 루터의 95개조 반박문",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_사파비_왕조_성립",
+    "type": "event",
+    "date": {
+      "start": "1501-01-01",
+      "end": "1501-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "이란 타브리즈",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 38.0772,
+        "lng": 46.2952
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "사파비 왕조 성립",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "사파비 왕조 성립",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_마젤란_함대의_세계_일주_완료",
+    "type": "event",
+    "date": {
+      "start": "1522-01-01",
+      "end": "1522-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "스페인 세비야",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 37.389,
+        "lng": -5.9844
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "마젤란 함대의 세계 일주 완료",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "마젤란 함대의 세계 일주 완료",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_무굴_제국_성립",
+    "type": "event",
+    "date": {
+      "start": "1526-01-01",
+      "end": "1526-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "인도 파니파트",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 29.39,
+        "lng": 76.97
+      },
+      "region": "southAsia"
+    },
+    "title": {
+      "ko": "무굴 제국 성립",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "무굴 제국 성립",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_아우크스부르크_화의",
+    "type": "event",
+    "date": {
+      "start": "1555-01-01",
+      "end": "1555-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "독일 아우크스부르크",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 48.3705,
+        "lng": 10.8977
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "아우크스부르크 화의",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아우크스부르크 화의",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_칼뱅의_제네바_종교_개혁",
+    "type": "event",
+    "date": {
+      "start": "1536-01-01",
+      "end": "1536-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "스위스 제네바",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 46.2043,
+        "lng": 6.1431
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "칼뱅의 제네바 종교 개혁",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "칼뱅의 제네바 종교 개혁",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_스페인_무적함대_패배_(칼레_해전)",
+    "type": "event",
+    "date": {
+      "start": "1588-01-01",
+      "end": "1588-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "영불 해협",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 50.5,
+        "lng": 0
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "스페인 무적함대 패배 (칼레 해전)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "스페인 무적함대 패배 (칼레 해전)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_낭트_칙령_반포",
+    "type": "event",
+    "date": {
+      "start": "1598-01-01",
+      "end": "1598-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "프랑스 낭트",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 47.2183,
+        "lng": -1.5536
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "낭트 칙령 반포",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "낭트 칙령 반포",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_에도_막부_수립",
+    "type": "event",
+    "date": {
+      "start": "1603-01-01",
+      "end": "1603-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "일본 에도(도쿄)",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 35.6895,
+        "lng": 139.6917
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "에도 막부 수립",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "에도 막부 수립",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_후금_건국_(청나라_전신)",
+    "type": "event",
+    "date": {
+      "start": "1616-01-01",
+      "end": "1616-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "중국 선양",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 41.8057,
+        "lng": 123.4314
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "후금 건국 (청나라 전신)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "후금 건국 (청나라 전신)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_베스트팔렌_조약_(30년_전쟁_종결)",
+    "type": "event",
+    "date": {
+      "start": "1648-01-01",
+      "end": "1648-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "독일 뮌스터",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 51.9606,
+        "lng": 7.6261
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "베스트팔렌 조약 (30년 전쟁 종결)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "베스트팔렌 조약 (30년 전쟁 종결)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_영국_청교도_혁명_(권리_청원)",
+    "type": "event",
+    "date": {
+      "start": "1628-01-01",
+      "end": "1628-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "영국 런던",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "영국 청교도 혁명 (권리 청원)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "영국 청교도 혁명 (권리 청원)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_영국의_명예_혁명_(권리_장전)",
+    "type": "event",
+    "date": {
+      "start": "1688-01-01",
+      "end": "1689-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "영국 런던",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "영국의 명예 혁명 (권리 장전)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "영국의 명예 혁명 (권리 장전)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_러시아_표트르_대제의_서구화_정책",
+    "type": "event",
+    "date": {
+      "start": "1682-01-01",
+      "end": "1725-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "러시아 상트페테르부르크",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 59.931,
+        "lng": 30.3609
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "러시아 표트르 대제의 서구화 정책",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "러시아 표트르 대제의 서구화 정책",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_청나라_지정은제_실시",
+    "type": "event",
+    "date": {
+      "start": "1723-01-01",
+      "end": "1723-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "중국 베이징 자금성",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 39.9166,
+        "lng": 116.3907
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "청나라 지정은제 실시",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "청나라 지정은제 실시",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_사고전서_편찬",
+    "type": "event",
+    "date": {
+      "start": "1773-01-01",
+      "end": "1782-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "중국 베이징",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 39.9042,
+        "lng": 116.4073
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "사고전서 편찬",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "사고전서 편찬",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_미국_독립_선언서_발표",
+    "type": "event",
+    "date": {
+      "start": "1776-01-01",
+      "end": "1776-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "미국 필라델피아",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "미국 독립 선언서 발표",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "미국 독립 선언서 발표",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_프랑스_대혁명_발발",
+    "type": "event",
+    "date": {
+      "start": "1789-01-01",
+      "end": "1789-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "프랑스 파리",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "프랑스 대혁명 발발",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "프랑스 대혁명 발발",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_백련교도의_난",
+    "type": "event",
+    "date": {
+      "start": "1796-01-01",
+      "end": "1804-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "중국 후베이, 쓰촨 등",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 30.5928,
+        "lng": 114.3055
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "백련교도의 난",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "백련교도의 난",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_나폴레옹_황제_즉위",
+    "type": "event",
+    "date": {
+      "start": "1804-01-01",
+      "end": "1804-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "프랑스 파리 노트르담",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 48.8529,
+        "lng": 2.3499
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "나폴레옹 황제 즉위",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "나폴레옹 황제 즉위",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_빈_회의_개최",
+    "type": "event",
+    "date": {
+      "start": "1814-01-01",
+      "end": "1815-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "오스트리아 빈",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 48.2081,
+        "lng": 16.3738
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "빈 회의 개최",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "빈 회의 개최",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_먼로_독트린_발표",
+    "type": "event",
+    "date": {
+      "start": "1823-01-01",
+      "end": "1823-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "미국 워싱턴 D.C.",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 38.8951,
+        "lng": -77.0364
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "먼로 독트린 발표",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "먼로 독트린 발표",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_프랑스_7월_혁명",
+    "type": "event",
+    "date": {
+      "start": "1830-01-01",
+      "end": "1830-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "프랑스 파리",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "프랑스 7월 혁명",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "프랑스 7월 혁명",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_난징_조약_체결",
+    "type": "event",
+    "date": {
+      "start": "1842-01-01",
+      "end": "1842-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "중국 난징",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 32.0602,
+        "lng": 118.7968
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "난징 조약 체결",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "난징 조약 체결",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_영국_차티스트_운동",
+    "type": "event",
+    "date": {
+      "start": "1838-01-01",
+      "end": "1848-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "영국 런던",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "영국 차티스트 운동",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "영국 차티스트 운동",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_프랑스_2월_혁명",
+    "type": "event",
+    "date": {
+      "start": "1848-01-01",
+      "end": "1848-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "프랑스 파리",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "프랑스 2월 혁명",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "프랑스 2월 혁명",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_태평천국_운동",
+    "type": "event",
+    "date": {
+      "start": "1851-01-01",
+      "end": "1864-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "중국 난징 (천경)",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 32.0602,
+        "lng": 118.7968
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "태평천국 운동",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "태평천국 운동",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_제2차_아편_전쟁_(애로호_사건)",
+    "type": "event",
+    "date": {
+      "start": "1856-01-01",
+      "end": "1860-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "중국 광저우, 베이징",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 39.9042,
+        "lng": 116.4073
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "제2차 아편 전쟁 (애로호 사건)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제2차 아편 전쟁 (애로호 사건)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_세포이의_항쟁",
+    "type": "event",
+    "date": {
+      "start": "1857-01-01",
+      "end": "1859-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "인도 델리, 메루트",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "region": "southAsia"
+    },
+    "title": {
+      "ko": "세포이의 항쟁",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "세포이의 항쟁",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_이탈리아_왕국_성립_(통일)",
+    "type": "event",
+    "date": {
+      "start": "1861-01-01",
+      "end": "1861-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "이탈리아 토리노",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 45.0703,
+        "lng": 7.6868
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "이탈리아 왕국 성립 (통일)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이탈리아 왕국 성립 (통일)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_미국_남북_전쟁_발발",
+    "type": "event",
+    "date": {
+      "start": "1861-01-01",
+      "end": "1865-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "미국 게티즈버그",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 39.8309,
+        "lng": -77.2311
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "미국 남북 전쟁 발발",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "미국 남북 전쟁 발발",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_러시아_농노_해방령",
+    "type": "event",
+    "date": {
+      "start": "1861-01-01",
+      "end": "1861-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "러시아 상트페테르부르크",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 59.931,
+        "lng": 30.3609
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "러시아 농노 해방령",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "러시아 농노 해방령",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_중국_양무운동",
+    "type": "event",
+    "date": {
+      "start": "1860-01-01",
+      "end": "1890-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "중국 전역 (상하이 등)",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 31.2304,
+        "lng": 121.4737
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "중국 양무운동",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "중국 양무운동",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_독일_제국_성립",
+    "type": "event",
+    "date": {
+      "start": "1871-01-01",
+      "end": "1871-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "프랑스 베르사유 궁전",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 48.8048,
+        "lng": 2.1203
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "독일 제국 성립",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "독일 제국 성립",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_인도_국민_회의_창설",
+    "type": "event",
+    "date": {
+      "start": "1885-01-01",
+      "end": "1885-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "인도 뭄바이",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 18.922,
+        "lng": 72.8346
+      },
+      "region": "southAsia"
+    },
+    "title": {
+      "ko": "인도 국민 회의 창설",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "인도 국민 회의 창설",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_청일_전쟁",
+    "type": "event",
+    "date": {
+      "start": "1894-01-01",
+      "end": "1895-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "한반도 및 황해",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 38,
+        "lng": 125
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "청일 전쟁",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "청일 전쟁",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_중국_변법자강_운동",
+    "type": "event",
+    "date": {
+      "start": "1898-01-01",
+      "end": "1898-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "중국 베이징",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 39.9042,
+        "lng": 116.4073
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "중국 변법자강 운동",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "중국 변법자강 운동",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_파쇼다_사건",
+    "type": "event",
+    "date": {
+      "start": "1898-01-01",
+      "end": "1898-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "남수단 파쇼다",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 9.8894,
+        "lng": 32.0425
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "파쇼다 사건",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "파쇼다 사건",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_의화단_운동",
+    "type": "event",
+    "date": {
+      "start": "1899-01-01",
+      "end": "1901-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "중국 산둥성, 베이징",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 39.9042,
+        "lng": 116.4073
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "의화단 운동",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "의화단 운동",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_영일_동맹_체결",
+    "type": "event",
+    "date": {
+      "start": "1902-01-01",
+      "end": "1902-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "영국 런던",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "영일 동맹 체결",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "영일 동맹 체결",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_러일_전쟁",
+    "type": "event",
+    "date": {
+      "start": "1904-01-01",
+      "end": "1905-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "뤼순, 쓰시마 해협 등",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 38.8,
+        "lng": 121.2333
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "러일 전쟁",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "러일 전쟁",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_피의_일요일_사건_(러시아_혁명의_전주곡)",
+    "type": "event",
+    "date": {
+      "start": "1905-01-01",
+      "end": "1905-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "러시아 상트페테르부르크",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 59.931,
+        "lng": 30.3609
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "피의 일요일 사건 (러시아 혁명의 전주곡)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "피의 일요일 사건 (러시아 혁명의 전주곡)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_사라예보_사건",
+    "type": "event",
+    "date": {
+      "start": "1914-01-01",
+      "end": "1914-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "보스니아 사라예보",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 43.8562,
+        "lng": 18.413
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "사라예보 사건",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "사라예보 사건",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_러시아_혁명_(볼셰비키_혁명)",
+    "type": "event",
+    "date": {
+      "start": "1917-01-01",
+      "end": "1917-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "러시아 상트페테르부르크",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 59.931,
+        "lng": 30.3609
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "러시아 혁명 (볼셰비키 혁명)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "러시아 혁명 (볼셰비키 혁명)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_파리_강화_회의_및_베르사유_조약",
+    "type": "event",
+    "date": {
+      "start": "1919-01-01",
+      "end": "1919-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "프랑스 파리 베르사유",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 48.8048,
+        "lng": 2.1203
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "파리 강화 회의 및 베르사유 조약",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "파리 강화 회의 및 베르사유 조약",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_5·4_운동",
+    "type": "event",
+    "date": {
+      "start": "1919-01-01",
+      "end": "1919-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "중국 베이징",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 39.9042,
+        "lng": 116.4073
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "5·4 운동",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "5·4 운동",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_무스타파_케말의_튀르키예_공화국_수립",
+    "type": "event",
+    "date": {
+      "start": "1923-01-01",
+      "end": "1923-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "튀르키예 앙카라",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 39.9333,
+        "lng": 32.8597
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "무스타파 케말의 튀르키예 공화국 수립",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "무스타파 케말의 튀르키예 공화국 수립",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_세계_경제_대공황",
+    "type": "event",
+    "date": {
+      "start": "1929-01-01",
+      "end": "1929-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "미국 뉴욕 월스트리트",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 40.7074,
+        "lng": -74.0112
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "세계 경제 대공황",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "세계 경제 대공황",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_뉴딜_정책_실행",
+    "type": "event",
+    "date": {
+      "start": "1933-01-01",
+      "end": "1933-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "미국 워싱턴 D.C.",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 38.8951,
+        "lng": -77.0364
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "뉴딜 정책 실행",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "뉴딜 정책 실행",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_스페인_내전_발발",
+    "type": "event",
+    "date": {
+      "start": "1936-01-01",
+      "end": "1939-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "스페인 마드리드 등",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 40.4167,
+        "lng": -3.7032
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "스페인 내전 발발",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "스페인 내전 발발",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_중일_전쟁",
+    "type": "event",
+    "date": {
+      "start": "1937-01-01",
+      "end": "1945-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "중국 루거우차오 등",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 39.8494,
+        "lng": 116.2166
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "중일 전쟁",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "중일 전쟁",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_얄타_회담",
+    "type": "event",
+    "date": {
+      "start": "1945-01-01",
+      "end": "1945-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "우크라이나 얄타",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 44.4952,
+        "lng": 34.1663
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "얄타 회담",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "얄타 회담",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_트루먼_독트린_발표_(냉전_시작)",
+    "type": "event",
+    "date": {
+      "start": "1947-01-01",
+      "end": "1947-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "미국 워싱턴 D.C.",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 38.8951,
+        "lng": -77.0364
+      },
+      "region": "americas"
+    },
+    "title": {
+      "ko": "트루먼 독트린 발표 (냉전 시작)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "트루먼 독트린 발표 (냉전 시작)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_반둥_회의_(비동맹_운동)",
+    "type": "event",
+    "date": {
+      "start": "1955-01-01",
+      "end": "1955-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "인도네시아 반둥",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 6.9174,
+        "lng": 107.6191
+      },
+      "region": "southAsia"
+    },
+    "title": {
+      "ko": "반둥 회의 (비동맹 운동)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "반둥 회의 (비동맹 운동)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_쿠바_미사일_위기",
+    "type": "event",
+    "date": {
+      "start": "1962-01-01",
+      "end": "1962-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "쿠바 앞바다",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 23.1135,
+        "lng": -82.3665
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "쿠바 미사일 위기",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "쿠바 미사일 위기",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  },
+  {
+    "id": "event_베트남_전쟁_확전_(통킹만_사건)",
+    "type": "event",
+    "date": {
+      "start": "1964-01-01",
+      "end": "1964-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "베트남 통킹만",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 19.25,
+        "lng": 106.25
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "베트남 전쟁 확전 (통킹만 사건)",
+      "en": ""
+    },
+    "description": {
+      "ko": "",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "베트남 전쟁 확전 (통킹만 사건)",
+      "en": ""
+    },
+    "icon": "📌",
+    "importance": 3
+  }
+]

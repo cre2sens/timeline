@@ -1515,5 +1515,2646 @@
       "en": "Spartacus_(film)"
     },
     "icon": "🎬"
+  },
+  {
+    "id": "media_서적",
+    "type": "novel",
+    "title": {
+      "ko": "서적",
+      "en": ""
+    },
+    "year": 0,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "함무라비 법전 편찬 관련 미디어",
+      "en": "Media related to 함무라비 법전 편찬"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_함무라비_왕"
+    ],
+    "wikipedia": {
+      "ko": "서적",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_바빌론_부자들의_돈_버는_지혜",
+    "type": "novel",
+    "title": {
+      "ko": "바빌론 부자들의 돈 버는 지혜",
+      "en": ""
+    },
+    "year": 0,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "함무라비 법전 편찬 관련 미디어",
+      "en": "Media related to 함무라비 법전 편찬"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_함무라비_왕"
+    ],
+    "wikipedia": {
+      "ko": "바빌론 부자들의 돈 버는 지혜",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_리틀_부다",
+    "type": "movie",
+    "title": {
+      "ko": "리틀 부다",
+      "en": ""
+    },
+    "year": 0,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "불교 창시 관련 미디어",
+      "en": "Media related to 불교 창시"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_고타마_싯다르타"
+    ],
+    "wikipedia": {
+      "ko": "리틀 부다",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_300",
+    "type": "movie",
+    "title": {
+      "ko": "300",
+      "en": ""
+    },
+    "year": 0,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "페르시아 전쟁 관련 미디어",
+      "en": "Media related to 페르시아 전쟁"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_다레이오스_1세",
+      "person_크세르크세스_1세"
+    ],
+    "wikipedia": {
+      "ko": "300",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_펠로폰네소스_전쟁사",
+    "type": "novel",
+    "title": {
+      "ko": "펠로폰네소스 전쟁사",
+      "en": ""
+    },
+    "year": 0,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "펠로폰네소스 전쟁 관련 미디어",
+      "en": "Media related to 펠로폰네소스 전쟁"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_페리클레스"
+    ],
+    "wikipedia": {
+      "ko": "펠로폰네소스 전쟁사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_알렉산더",
+    "type": "movie",
+    "title": {
+      "ko": "알렉산더",
+      "en": ""
+    },
+    "year": 0,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "알렉산드로스 제국 건설 관련 미디어",
+      "en": "Media related to 알렉산드로스 제국 건설"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_알렉산드로스_대왕"
+    ],
+    "wikipedia": {
+      "ko": "알렉산더",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_한니발",
+    "type": "movie",
+    "title": {
+      "ko": "한니발",
+      "en": ""
+    },
+    "year": 0,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "포에니 전쟁 관련 미디어",
+      "en": "Media related to 포에니 전쟁"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_한니발",
+      "person_스키피오_아프리카누스"
+    ],
+    "wikipedia": {
+      "ko": "한니발",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_한무대제",
+    "type": "movie",
+    "title": {
+      "ko": "한무대제",
+      "en": ""
+    },
+    "year": 0,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "한 무제의 고조선 정벌 및 비단길 개척 관련 미디어",
+      "en": "Media related to 한 무제의 고조선 정벌 및 비단길 개척"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_한_무제",
+      "person_장건"
+    ],
+    "wikipedia": {
+      "ko": "한무대제",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_롬_(rome)",
+    "type": "movie",
+    "title": {
+      "ko": "롬 (Rome)",
+      "en": ""
+    },
+    "year": 0,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "로마 제정 수립 관련 미디어",
+      "en": "Media related to 로마 제정 수립"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_옥타비아누스"
+    ],
+    "wikipedia": {
+      "ko": "롬 (Rome)",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_쿠오_바디스",
+    "type": "movie",
+    "title": {
+      "ko": "쿠오 바디스",
+      "en": ""
+    },
+    "year": 313,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "기독교 공인 (밀라노 칙령) 관련 미디어",
+      "en": "Media related to 기독교 공인 (밀라노 칙령)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_콘스탄티누스_1세"
+    ],
+    "wikipedia": {
+      "ko": "쿠오 바디스",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_(시대배경)",
+    "type": "movie",
+    "title": {
+      "ko": "(시대배경)",
+      "en": ""
+    },
+    "year": 313,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "기독교 공인 (밀라노 칙령) 관련 미디어",
+      "en": "Media related to 기독교 공인 (밀라노 칙령)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_콘스탄티누스_1세"
+    ],
+    "wikipedia": {
+      "ko": "(시대배경)",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_인도_이야기",
+    "type": "novel",
+    "title": {
+      "ko": "인도 이야기",
+      "en": ""
+    },
+    "year": 350,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "굽타 왕조 성립 및 찬드라굽타 2세 관련 미디어",
+      "en": "Media related to 굽타 왕조 성립 및 찬드라굽타 2세"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_찬드라굽타_2세"
+    ],
+    "wikipedia": {
+      "ko": "인도 이야기",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_마지막_군단",
+    "type": "movie",
+    "title": {
+      "ko": "마지막 군단",
+      "en": ""
+    },
+    "year": 476,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "서로마 제국 멸망 관련 미디어",
+      "en": "Media related to 서로마 제국 멸망"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_오도아케르",
+      "person_로물루스_아우구스툴루스"
+    ],
+    "wikipedia": {
+      "ko": "마지막 군단",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_수당연의",
+    "type": "novel",
+    "title": {
+      "ko": "수당연의",
+      "en": ""
+    },
+    "year": 589,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "수나라의 중국 통일 관련 미디어",
+      "en": "Media related to 수나라의 중국 통일"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_수_문제",
+      "person_수_양제"
+    ],
+    "wikipedia": {
+      "ko": "수당연의",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_메시지",
+    "type": "movie",
+    "title": {
+      "ko": "메시지",
+      "en": ""
+    },
+    "year": 622,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "이슬람교 창시 및 헤지라 관련 미디어",
+      "en": "Media related to 이슬람교 창시 및 헤지라"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_무함마드"
+    ],
+    "wikipedia": {
+      "ko": "메시지",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_대화개신",
+    "type": "movie",
+    "title": {
+      "ko": "대화개신",
+      "en": ""
+    },
+    "year": 645,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "다이카 개신 관련 미디어",
+      "en": "Media related to 다이카 개신"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_나카노오에_황자",
+      "person_덴지_텐노"
+    ],
+    "wikipedia": {
+      "ko": "대화개신",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_이슬람의_역사",
+    "type": "novel",
+    "title": {
+      "ko": "이슬람의 역사",
+      "en": ""
+    },
+    "year": 632,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "정통 칼리프 시대 개막 관련 미디어",
+      "en": "Media related to 정통 칼리프 시대 개막"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_아부_바크르"
+    ],
+    "wikipedia": {
+      "ko": "이슬람의 역사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_아랍인의_역사",
+    "type": "novel",
+    "title": {
+      "ko": "아랍인의 역사",
+      "en": ""
+    },
+    "year": 661,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "우마이야 왕조 성립 관련 미디어",
+      "en": "Media related to 우마이야 왕조 성립"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_무아위야_1세"
+    ],
+    "wikipedia": {
+      "ko": "아랍인의 역사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_양귀비:_왕조의_여인",
+    "type": "movie",
+    "title": {
+      "ko": "양귀비: 왕조의 여인",
+      "en": ""
+    },
+    "year": 755,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "당나라 안·사의 난 관련 미디어",
+      "en": "Media related to 당나라 안·사의 난"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_안록산",
+      "person_사사명"
+    ],
+    "wikipedia": {
+      "ko": "양귀비: 왕조의 여인",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_프랑크_족의_역사",
+    "type": "novel",
+    "title": {
+      "ko": "프랑크 족의 역사",
+      "en": ""
+    },
+    "year": 800,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "카롤루스 대제 대관식 관련 미디어",
+      "en": "Media related to 카롤루스 대제 대관식"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_카롤루스_대제",
+      "person_교황_레오_3세"
+    ],
+    "wikipedia": {
+      "ko": "프랑크 족의 역사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_천일야화",
+    "type": "novel",
+    "title": {
+      "ko": "천일야화",
+      "en": ""
+    },
+    "year": 762,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "아바스 왕조 바그다드 천도 관련 미디어",
+      "en": "Media related to 아바스 왕조 바그다드 천도"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_알_만수르"
+    ],
+    "wikipedia": {
+      "ko": "천일야화",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_신성로마제국",
+    "type": "novel",
+    "title": {
+      "ko": "신성로마제국",
+      "en": ""
+    },
+    "year": 962,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "신성 로마 제국 성립 관련 미디어",
+      "en": "Media related to 신성 로마 제국 성립"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_오토_1세"
+    ],
+    "wikipedia": {
+      "ko": "신성로마제국",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_카노사의_굴욕과_교황권",
+    "type": "novel",
+    "title": {
+      "ko": "카노사의 굴욕과 교황권",
+      "en": ""
+    },
+    "year": 1077,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "카노사의 굴욕 관련 미디어",
+      "en": "Media related to 카노사의 굴욕"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_교황_그레고리오_7세",
+      "person_하인리히_4세"
+    ],
+    "wikipedia": {
+      "ko": "카노사의 굴욕과 교황권",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_왕안석_평전",
+    "type": "novel",
+    "title": {
+      "ko": "왕안석 평전",
+      "en": ""
+    },
+    "year": 1069,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "왕안석의 신법 (송나라) 관련 미디어",
+      "en": "Media related to 왕안석의 신법 (송나라)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_왕안석",
+      "person_신종"
+    ],
+    "wikipedia": {
+      "ko": "왕안석 평전",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_몽골",
+    "type": "movie",
+    "title": {
+      "ko": "몽골",
+      "en": ""
+    },
+    "year": 1206,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "몽골 제국 수립 관련 미디어",
+      "en": "Media related to 몽골 제국 수립"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_genghis_khan"
+    ],
+    "wikipedia": {
+      "ko": "몽골",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_애니메이션",
+    "type": "movie",
+    "title": {
+      "ko": "애니메이션",
+      "en": ""
+    },
+    "year": 1192,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "가마쿠라 막부 성립 관련 미디어",
+      "en": "Media related to 가마쿠라 막부 성립"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_미나모토노_요리토모"
+    ],
+    "wikipedia": {
+      "ko": "애니메이션",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_헤이케_이야기",
+    "type": "movie",
+    "title": {
+      "ko": "헤이케 이야기",
+      "en": ""
+    },
+    "year": 1192,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "가마쿠라 막부 성립 관련 미디어",
+      "en": "Media related to 가마쿠라 막부 성립"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_미나모토노_요리토모"
+    ],
+    "wikipedia": {
+      "ko": "헤이케 이야기",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_아이언크래드",
+    "type": "movie",
+    "title": {
+      "ko": "아이언크래드",
+      "en": ""
+    },
+    "year": 1215,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "마그나 카르타 (대헌장) 승인 관련 미디어",
+      "en": "Media related to 마그나 카르타 (대헌장) 승인"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_존_왕"
+    ],
+    "wikipedia": {
+      "ko": "아이언크래드",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_잔_다르크",
+    "type": "movie",
+    "title": {
+      "ko": "잔 다르크",
+      "en": ""
+    },
+    "year": 1337,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "백년 전쟁 발발 관련 미디어",
+      "en": "Media related to 백년 전쟁 발발"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_에드워드_3세",
+      "person_필리프_6세"
+    ],
+    "wikipedia": {
+      "ko": "잔 다르크",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_데카메론",
+    "type": "novel",
+    "title": {
+      "ko": "데카메론",
+      "en": ""
+    },
+    "year": 1347,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "흑사병 (페스트) 유럽 대유행 관련 미디어",
+      "en": "Media related to 흑사병 (페스트) 유럽 대유행"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [],
+    "wikipedia": {
+      "ko": "데카메론",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_주원장",
+    "type": "movie",
+    "title": {
+      "ko": "주원장",
+      "en": ""
+    },
+    "year": 1368,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "명나라 건국 관련 미디어",
+      "en": "Media related to 명나라 건국"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_주원장"
+    ],
+    "wikipedia": {
+      "ko": "주원장",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_정화의_대항해",
+    "type": "novel",
+    "title": {
+      "ko": "정화의 대항해",
+      "en": ""
+    },
+    "year": 1405,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "정화의 남해 원정 관련 미디어",
+      "en": "Media related to 정화의 남해 원정"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_영락제",
+      "person_정화"
+    ],
+    "wikipedia": {
+      "ko": "정화의 대항해",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_영드",
+    "type": "movie",
+    "title": {
+      "ko": "영드",
+      "en": ""
+    },
+    "year": 1350,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "르네상스 개화 (피렌체) 관련 미디어",
+      "en": "Media related to 르네상스 개화 (피렌체)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_레오나르도_다빈치",
+      "person_메디치_가문"
+    ],
+    "wikipedia": {
+      "ko": "영드",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_메디치:_마스터즈_오브_플로렌스",
+    "type": "movie",
+    "title": {
+      "ko": "메디치: 마스터즈 오브 플로렌스",
+      "en": ""
+    },
+    "year": 1350,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "르네상스 개화 (피렌체) 관련 미디어",
+      "en": "Media related to 르네상스 개화 (피렌체)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_레오나르도_다빈치",
+      "person_메디치_가문"
+    ],
+    "wikipedia": {
+      "ko": "메디치: 마스터즈 오브 플로렌스",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_오스만_제국의_꿈",
+    "type": "movie",
+    "title": {
+      "ko": "오스만 제국의 꿈",
+      "en": ""
+    },
+    "year": 1453,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "비잔티움 제국 (동로마) 멸망 관련 미디어",
+      "en": "Media related to 비잔티움 제국 (동로마) 멸망"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_메흐메트_2세",
+      "person_콘스탄티누스_11세"
+    ],
+    "wikipedia": {
+      "ko": "오스만 제국의 꿈",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_1492_콜럼버스",
+    "type": "movie",
+    "title": {
+      "ko": "1492 콜럼버스",
+      "en": ""
+    },
+    "year": 1492,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "콜럼버스의 아메리카 대륙 도달 관련 미디어",
+      "en": "Media related to 콜럼버스의 아메리카 대륙 도달"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_크리스토퍼_콜럼버스"
+    ],
+    "wikipedia": {
+      "ko": "1492 콜럼버스",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_루터",
+    "type": "movie",
+    "title": {
+      "ko": "루터",
+      "en": ""
+    },
+    "year": 1517,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "마르틴 루터의 95개조 반박문 관련 미디어",
+      "en": "Media related to 마르틴 루터의 95개조 반박문"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_마르틴_루터"
+    ],
+    "wikipedia": {
+      "ko": "루터",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_이란의_역사",
+    "type": "novel",
+    "title": {
+      "ko": "이란의 역사",
+      "en": ""
+    },
+    "year": 1501,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "사파비 왕조 성립 관련 미디어",
+      "en": "Media related to 사파비 왕조 성립"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_이스마일_1세"
+    ],
+    "wikipedia": {
+      "ko": "이란의 역사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_마젤란_세계_일주",
+    "type": "novel",
+    "title": {
+      "ko": "마젤란 세계 일주",
+      "en": ""
+    },
+    "year": 1522,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "마젤란 함대의 세계 일주 완료 관련 미디어",
+      "en": "Media related to 마젤란 함대의 세계 일주 완료"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_페르디난드_마젤란"
+    ],
+    "wikipedia": {
+      "ko": "마젤란 세계 일주",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_종교개혁사",
+    "type": "novel",
+    "title": {
+      "ko": "종교개혁사",
+      "en": ""
+    },
+    "year": 1555,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "아우크스부르크 화의 관련 미디어",
+      "en": "Media related to 아우크스부르크 화의"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_카를_5세"
+    ],
+    "wikipedia": {
+      "ko": "종교개혁사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_기독교_강요",
+    "type": "novel",
+    "title": {
+      "ko": "기독교 강요",
+      "en": ""
+    },
+    "year": 1536,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "칼뱅의 제네바 종교 개혁 관련 미디어",
+      "en": "Media related to 칼뱅의 제네바 종교 개혁"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_장_칼뱅"
+    ],
+    "wikipedia": {
+      "ko": "기독교 강요",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_골든_에이지",
+    "type": "movie",
+    "title": {
+      "ko": "골든 에이지",
+      "en": ""
+    },
+    "year": 1588,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "스페인 무적함대 패배 (칼레 해전) 관련 미디어",
+      "en": "Media related to 스페인 무적함대 패배 (칼레 해전)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_엘리자베스_1세",
+      "person_펠리페_2세"
+    ],
+    "wikipedia": {
+      "ko": "골든 에이지",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_여왕_마고",
+    "type": "movie",
+    "title": {
+      "ko": "여왕 마고",
+      "en": ""
+    },
+    "year": 1598,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "낭트 칙령 반포 관련 미디어",
+      "en": "Media related to 낭트 칙령 반포"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_앙리_4세"
+    ],
+    "wikipedia": {
+      "ko": "여왕 마고",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_대망",
+    "type": "novel",
+    "title": {
+      "ko": "대망",
+      "en": ""
+    },
+    "year": 1603,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "에도 막부 수립 관련 미디어",
+      "en": "Media related to 에도 막부 수립"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_도쿠가와_이에야스"
+    ],
+    "wikipedia": {
+      "ko": "대망",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_최종병기_활",
+    "type": "movie",
+    "title": {
+      "ko": "최종병기 활",
+      "en": ""
+    },
+    "year": 1616,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "후금 건국 (청나라 전신) 관련 미디어",
+      "en": "Media related to 후금 건국 (청나라 전신)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_누르하치"
+    ],
+    "wikipedia": {
+      "ko": "최종병기 활",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_30년_전쟁",
+    "type": "novel",
+    "title": {
+      "ko": "30년 전쟁",
+      "en": ""
+    },
+    "year": 1648,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "베스트팔렌 조약 (30년 전쟁 종결) 관련 미디어",
+      "en": "Media related to 베스트팔렌 조약 (30년 전쟁 종결)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_페르디난드_3세"
+    ],
+    "wikipedia": {
+      "ko": "30년 전쟁",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_크롬웰",
+    "type": "movie",
+    "title": {
+      "ko": "크롬웰",
+      "en": ""
+    },
+    "year": 1628,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "영국 청교도 혁명 (권리 청원) 관련 미디어",
+      "en": "Media related to 영국 청교도 혁명 (권리 청원)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_올리버_크롬웰",
+      "person_찰스_1세"
+    ],
+    "wikipedia": {
+      "ko": "크롬웰",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_영국사",
+    "type": "novel",
+    "title": {
+      "ko": "영국사",
+      "en": ""
+    },
+    "year": 1688,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "영국의 명예 혁명 (권리 장전) 관련 미디어",
+      "en": "Media related to 영국의 명예 혁명 (권리 장전)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_메리_2세",
+      "person_윌리엄_3세"
+    ],
+    "wikipedia": {
+      "ko": "영국사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_피터_더_그레이트",
+    "type": "movie",
+    "title": {
+      "ko": "피터 더 그레이트",
+      "en": ""
+    },
+    "year": 1682,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "러시아 표트르 대제의 서구화 정책 관련 미디어",
+      "en": "Media related to 러시아 표트르 대제의 서구화 정책"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_표트르_대제"
+    ],
+    "wikipedia": {
+      "ko": "피터 더 그레이트",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_옹정황제의_여인",
+    "type": "movie",
+    "title": {
+      "ko": "옹정황제의 여인",
+      "en": ""
+    },
+    "year": 1723,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "청나라 지정은제 실시 관련 미디어",
+      "en": "Media related to 청나라 지정은제 실시"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_옹정제"
+    ],
+    "wikipedia": {
+      "ko": "옹정황제의 여인",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_건륭대제",
+    "type": "movie",
+    "title": {
+      "ko": "건륭대제",
+      "en": ""
+    },
+    "year": 1773,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "사고전서 편찬 관련 미디어",
+      "en": "Media related to 사고전서 편찬"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_건륭제"
+    ],
+    "wikipedia": {
+      "ko": "건륭대제",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_올리버_트위스트",
+    "type": "novel",
+    "title": {
+      "ko": "올리버 트위스트",
+      "en": ""
+    },
+    "year": 1769,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "산업 혁명 본격화 관련 미디어",
+      "en": "Media related to 산업 혁명 본격화"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_제임스_와트"
+    ],
+    "wikipedia": {
+      "ko": "올리버 트위스트",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_패트리어트",
+    "type": "movie",
+    "title": {
+      "ko": "패트리어트",
+      "en": ""
+    },
+    "year": 1776,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "미국 독립 선언서 발표 관련 미디어",
+      "en": "Media related to 미국 독립 선언서 발표"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_조지_워싱턴",
+      "person_토머스_제퍼슨"
+    ],
+    "wikipedia": {
+      "ko": "패트리어트",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_뮤지컬/영화",
+    "type": "movie",
+    "title": {
+      "ko": "뮤지컬/영화",
+      "en": ""
+    },
+    "year": 1789,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "프랑스 대혁명 발발 관련 미디어",
+      "en": "Media related to 프랑스 대혁명 발발"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_루이_16세",
+      "person_막시밀리앵_로베스피에르"
+    ],
+    "wikipedia": {
+      "ko": "뮤지컬/영화",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_중국_근현대사",
+    "type": "novel",
+    "title": {
+      "ko": "중국 근현대사",
+      "en": ""
+    },
+    "year": 1796,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "백련교도의 난 관련 미디어",
+      "en": "Media related to 백련교도의 난"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_왕총아"
+    ],
+    "wikipedia": {
+      "ko": "중국 근현대사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_나폴레옹",
+    "type": "movie",
+    "title": {
+      "ko": "나폴레옹",
+      "en": ""
+    },
+    "year": 1804,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "나폴레옹 황제 즉위 관련 미디어",
+      "en": "Media related to 나폴레옹 황제 즉위"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_나폴레옹_보나파르트"
+    ],
+    "wikipedia": {
+      "ko": "나폴레옹",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_세계_외교사",
+    "type": "novel",
+    "title": {
+      "ko": "세계 외교사",
+      "en": ""
+    },
+    "year": 1814,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "빈 회의 개최 관련 미디어",
+      "en": "Media related to 빈 회의 개최"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_클레멘스_폰_메테르니히"
+    ],
+    "wikipedia": {
+      "ko": "세계 외교사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_미국사",
+    "type": "novel",
+    "title": {
+      "ko": "미국사",
+      "en": ""
+    },
+    "year": 1823,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "먼로 독트린 발표 관련 미디어",
+      "en": "Media related to 먼로 독트린 발표"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_제임스_먼로"
+    ],
+    "wikipedia": {
+      "ko": "미국사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_미술작품",
+    "type": "movie",
+    "title": {
+      "ko": "미술작품",
+      "en": ""
+    },
+    "year": 1830,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "프랑스 7월 혁명 관련 미디어",
+      "en": "Media related to 프랑스 7월 혁명"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_샤를_10세",
+      "person_루이_필리프"
+    ],
+    "wikipedia": {
+      "ko": "미술작품",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_민중을_이끄는_자유의_여신",
+    "type": "movie",
+    "title": {
+      "ko": "민중을 이끄는 자유의 여신",
+      "en": ""
+    },
+    "year": 1830,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "프랑스 7월 혁명 관련 미디어",
+      "en": "Media related to 프랑스 7월 혁명"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_샤를_10세",
+      "person_루이_필리프"
+    ],
+    "wikipedia": {
+      "ko": "민중을 이끄는 자유의 여신",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_근대_중국의_이해",
+    "type": "novel",
+    "title": {
+      "ko": "근대 중국의 이해",
+      "en": ""
+    },
+    "year": 1842,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "난징 조약 체결 관련 미디어",
+      "en": "Media related to 난징 조약 체결"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_홍콩_할양"
+    ],
+    "wikipedia": {
+      "ko": "근대 중국의 이해",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_영국_노동계급의_형성",
+    "type": "novel",
+    "title": {
+      "ko": "영국 노동계급의 형성",
+      "en": ""
+    },
+    "year": 1838,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "영국 차티스트 운동 관련 미디어",
+      "en": "Media related to 영국 차티스트 운동"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_윌리엄_러빗"
+    ],
+    "wikipedia": {
+      "ko": "영국 노동계급의 형성",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_1848_혁명",
+    "type": "novel",
+    "title": {
+      "ko": "1848 혁명",
+      "en": ""
+    },
+    "year": 1848,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "프랑스 2월 혁명 관련 미디어",
+      "en": "Media related to 프랑스 2월 혁명"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_루이_나폴레옹"
+    ],
+    "wikipedia": {
+      "ko": "1848 혁명",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_명장",
+    "type": "movie",
+    "title": {
+      "ko": "명장",
+      "en": ""
+    },
+    "year": 1851,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "태평천국 운동 관련 미디어",
+      "en": "Media related to 태평천국 운동"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_홍수전"
+    ],
+    "wikipedia": {
+      "ko": "명장",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_유적",
+    "type": "movie",
+    "title": {
+      "ko": "유적",
+      "en": ""
+    },
+    "year": 1856,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "제2차 아편 전쟁 (애로호 사건) 관련 미디어",
+      "en": "Media related to 제2차 아편 전쟁 (애로호 사건)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_함풍제"
+    ],
+    "wikipedia": {
+      "ko": "유적",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_원명원",
+    "type": "movie",
+    "title": {
+      "ko": "원명원",
+      "en": ""
+    },
+    "year": 1856,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "제2차 아편 전쟁 (애로호 사건) 관련 미디어",
+      "en": "Media related to 제2차 아편 전쟁 (애로호 사건)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_함풍제"
+    ],
+    "wikipedia": {
+      "ko": "원명원",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_(소실)",
+    "type": "movie",
+    "title": {
+      "ko": "(소실)",
+      "en": ""
+    },
+    "year": 1856,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "제2차 아편 전쟁 (애로호 사건) 관련 미디어",
+      "en": "Media related to 제2차 아편 전쟁 (애로호 사건)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_함풍제"
+    ],
+    "wikipedia": {
+      "ko": "(소실)",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_레오파드",
+    "type": "novel",
+    "title": {
+      "ko": "레오파드",
+      "en": ""
+    },
+    "year": 1861,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "이탈리아 왕국 성립 (통일) 관련 미디어",
+      "en": "Media related to 이탈리아 왕국 성립 (통일)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_비토리오_에마누엘레_2세",
+      "person_가리발디"
+    ],
+    "wikipedia": {
+      "ko": "레오파드",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_바람과_함께_사라지다",
+    "type": "novel",
+    "title": {
+      "ko": "바람과 함께 사라지다",
+      "en": ""
+    },
+    "year": 1861,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "미국 남북 전쟁 발발 관련 미디어",
+      "en": "Media related to 미국 남북 전쟁 발발"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_에이브러햄_링컨"
+    ],
+    "wikipedia": {
+      "ko": "바람과 함께 사라지다",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_안나_카레니나",
+    "type": "novel",
+    "title": {
+      "ko": "안나 카레니나",
+      "en": ""
+    },
+    "year": 1861,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "러시아 농노 해방령 관련 미디어",
+      "en": "Media related to 러시아 농노 해방령"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_알렉산드르_2세"
+    ],
+    "wikipedia": {
+      "ko": "안나 카레니나",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_이홍장",
+    "type": "movie",
+    "title": {
+      "ko": "이홍장",
+      "en": ""
+    },
+    "year": 1860,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "중국 양무운동 관련 미디어",
+      "en": "Media related to 중국 양무운동"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_증국번",
+      "person_이홍장"
+    ],
+    "wikipedia": {
+      "ko": "이홍장",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_라스트_사무라이",
+    "type": "movie",
+    "title": {
+      "ko": "라스트 사무라이",
+      "en": ""
+    },
+    "year": 1868,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "일본 메이지 유신 관련 미디어",
+      "en": "Media related to 일본 메이지 유신"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_메이지_천황",
+      "person_이와쿠라_도모미"
+    ],
+    "wikipedia": {
+      "ko": "라스트 사무라이",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_철혈재상_비스마르크",
+    "type": "novel",
+    "title": {
+      "ko": "철혈재상 비스마르크",
+      "en": ""
+    },
+    "year": 1871,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "독일 제국 성립 관련 미디어",
+      "en": "Media related to 독일 제국 성립"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_오토_폰_비스마르크",
+      "person_빌헬름_1세"
+    ],
+    "wikipedia": {
+      "ko": "철혈재상 비스마르크",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_청일전쟁",
+    "type": "novel",
+    "title": {
+      "ko": "청일전쟁",
+      "en": ""
+    },
+    "year": 1894,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "청일 전쟁 관련 미디어",
+      "en": "Media related to 청일 전쟁"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_이홍장",
+      "person_이토_히로부미"
+    ],
+    "wikipedia": {
+      "ko": "청일전쟁",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_건당위업",
+    "type": "movie",
+    "title": {
+      "ko": "건당위업",
+      "en": ""
+    },
+    "year": 1898,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "중국 변법자강 운동 관련 미디어",
+      "en": "Media related to 중국 변법자강 운동"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_캉유웨이",
+      "person_량치차오",
+      "person_광서제"
+    ],
+    "wikipedia": {
+      "ko": "건당위업",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_제국주의_시대",
+    "type": "novel",
+    "title": {
+      "ko": "제국주의 시대",
+      "en": ""
+    },
+    "year": 1898,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "파쇼다 사건 관련 미디어",
+      "en": "Media related to 파쇼다 사건"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_앙리_마르샹",
+      "person_키치너"
+    ],
+    "wikipedia": {
+      "ko": "제국주의 시대",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_북경의_55일",
+    "type": "movie",
+    "title": {
+      "ko": "북경의 55일",
+      "en": ""
+    },
+    "year": 1899,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "의화단 운동 관련 미디어",
+      "en": "Media related to 의화단 운동"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_서태후"
+    ],
+    "wikipedia": {
+      "ko": "북경의 55일",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_일본_제국주의_역사",
+    "type": "novel",
+    "title": {
+      "ko": "일본 제국주의 역사",
+      "en": ""
+    },
+    "year": 1902,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "영일 동맹 체결 관련 미디어",
+      "en": "Media related to 영일 동맹 체결"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_랜즈다운_후작",
+      "person_하야시_가다스"
+    ],
+    "wikipedia": {
+      "ko": "일본 제국주의 역사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_언덕_위의_구름",
+    "type": "movie",
+    "title": {
+      "ko": "언덕 위의 구름",
+      "en": ""
+    },
+    "year": 1904,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "러일 전쟁 관련 미디어",
+      "en": "Media related to 러일 전쟁"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_니콜라이_2세",
+      "person_메이지_천황"
+    ],
+    "wikipedia": {
+      "ko": "언덕 위의 구름",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_닥터_지바고",
+    "type": "movie",
+    "title": {
+      "ko": "닥터 지바고",
+      "en": ""
+    },
+    "year": 1905,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "피의 일요일 사건 (러시아 혁명의 전주곡) 관련 미디어",
+      "en": "Media related to 피의 일요일 사건 (러시아 혁명의 전주곡)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_니콜라이_2세",
+      "person_가폰_신부"
+    ],
+    "wikipedia": {
+      "ko": "닥터 지바고",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_(배경)",
+    "type": "movie",
+    "title": {
+      "ko": "(배경)",
+      "en": ""
+    },
+    "year": 1905,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "피의 일요일 사건 (러시아 혁명의 전주곡) 관련 미디어",
+      "en": "Media related to 피의 일요일 사건 (러시아 혁명의 전주곡)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_니콜라이_2세",
+      "person_가폰_신부"
+    ],
+    "wikipedia": {
+      "ko": "(배경)",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_1911:_신해혁명",
+    "type": "movie",
+    "title": {
+      "ko": "1911: 신해혁명",
+      "en": ""
+    },
+    "year": 1911,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "신해혁명 관련 미디어",
+      "en": "Media related to 신해혁명"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_sun_yat_sen",
+      "person_위안스카이"
+    ],
+    "wikipedia": {
+      "ko": "1911: 신해혁명",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_제1차_세계대전",
+    "type": "novel",
+    "title": {
+      "ko": "제1차 세계대전",
+      "en": ""
+    },
+    "year": 1914,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "사라예보 사건 관련 미디어",
+      "en": "Media related to 사라예보 사건"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_가브릴로_프린치프"
+    ],
+    "wikipedia": {
+      "ko": "제1차 세계대전",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_레즈_(reds)",
+    "type": "movie",
+    "title": {
+      "ko": "레즈 (Reds)",
+      "en": ""
+    },
+    "year": 1917,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "러시아 혁명 (볼셰비키 혁명) 관련 미디어",
+      "en": "Media related to 러시아 혁명 (볼셰비키 혁명)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_블라디미르_레닌"
+    ],
+    "wikipedia": {
+      "ko": "레즈 (Reds)",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_평화의_대가",
+    "type": "novel",
+    "title": {
+      "ko": "평화의 대가",
+      "en": ""
+    },
+    "year": 1919,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "파리 강화 회의 및 베르사유 조약 관련 미디어",
+      "en": "Media related to 파리 강화 회의 및 베르사유 조약"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_우드로_윌슨"
+    ],
+    "wikipedia": {
+      "ko": "평화의 대가",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_각성연대",
+    "type": "movie",
+    "title": {
+      "ko": "각성연대",
+      "en": ""
+    },
+    "year": 1919,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "5·4 운동 관련 미디어",
+      "en": "Media related to 5·4 운동"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_천두슈_등_북경대_학생"
+    ],
+    "wikipedia": {
+      "ko": "각성연대",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_현대_중동의_탄생",
+    "type": "novel",
+    "title": {
+      "ko": "현대 중동의 탄생",
+      "en": ""
+    },
+    "year": 1923,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "무스타파 케말의 튀르키예 공화국 수립 관련 미디어",
+      "en": "Media related to 무스타파 케말의 튀르키예 공화국 수립"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_무스타파_케말_아타튀르크"
+    ],
+    "wikipedia": {
+      "ko": "현대 중동의 탄생",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_분노의_포도",
+    "type": "novel",
+    "title": {
+      "ko": "분노의 포도",
+      "en": ""
+    },
+    "year": 1929,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "세계 경제 대공황 관련 미디어",
+      "en": "Media related to 세계 경제 대공황"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_허버트_후버"
+    ],
+    "wikipedia": {
+      "ko": "분노의 포도",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_대공황과_뉴딜",
+    "type": "movie",
+    "title": {
+      "ko": "대공황과 뉴딜",
+      "en": ""
+    },
+    "year": 1933,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "뉴딜 정책 실행 관련 미디어",
+      "en": "Media related to 뉴딜 정책 실행"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_프랭클린_d._루스벨트"
+    ],
+    "wikipedia": {
+      "ko": "대공황과 뉴딜",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_누구를_위하여_종은_울리나",
+    "type": "novel",
+    "title": {
+      "ko": "누구를 위하여 종은 울리나",
+      "en": ""
+    },
+    "year": 1936,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "스페인 내전 발발 관련 미디어",
+      "en": "Media related to 스페인 내전 발발"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_프란시스코_프랑코"
+    ],
+    "wikipedia": {
+      "ko": "누구를 위하여 종은 울리나",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_난징!_난징!",
+    "type": "movie",
+    "title": {
+      "ko": "난징! 난징!",
+      "en": ""
+    },
+    "year": 1937,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "중일 전쟁 관련 미디어",
+      "en": "Media related to 중일 전쟁"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_장제스",
+      "person_mao_zedong"
+    ],
+    "wikipedia": {
+      "ko": "난징! 난징!",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_피아니스트",
+    "type": "movie",
+    "title": {
+      "ko": "피아니스트",
+      "en": ""
+    },
+    "year": 1939,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "제2차 세계대전 발발 (폴란드 침공) 관련 미디어",
+      "en": "Media related to 제2차 세계대전 발발 (폴란드 침공)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_아돌프_히틀러"
+    ],
+    "wikipedia": {
+      "ko": "피아니스트",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_제2차_세계대전",
+    "type": "movie",
+    "title": {
+      "ko": "제2차 세계대전",
+      "en": ""
+    },
+    "year": 1945,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "얄타 회담 관련 미디어",
+      "en": "Media related to 얄타 회담"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_프랭클린_d._루스벨트",
+      "person_처칠",
+      "person_스탈린"
+    ],
+    "wikipedia": {
+      "ko": "제2차 세계대전",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_냉전의_역사",
+    "type": "novel",
+    "title": {
+      "ko": "냉전의 역사",
+      "en": ""
+    },
+    "year": 1947,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "트루먼 독트린 발표 (냉전 시작) 관련 미디어",
+      "en": "Media related to 트루먼 독트린 발표 (냉전 시작)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_해리_s._트루먼"
+    ],
+    "wikipedia": {
+      "ko": "냉전의 역사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_건국대업",
+    "type": "movie",
+    "title": {
+      "ko": "건국대업",
+      "en": ""
+    },
+    "year": 1949,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "중화인민공화국 수립 관련 미디어",
+      "en": "Media related to 중화인민공화국 수립"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_mao_zedong"
+    ],
+    "wikipedia": {
+      "ko": "건국대업",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_제3세계의_역사",
+    "type": "novel",
+    "title": {
+      "ko": "제3세계의 역사",
+      "en": ""
+    },
+    "year": 1955,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "반둥 회의 (비동맹 운동) 관련 미디어",
+      "en": "Media related to 반둥 회의 (비동맹 운동)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_수카르노",
+      "person_네루",
+      "person_저우언라이"
+    ],
+    "wikipedia": {
+      "ko": "제3세계의 역사",
+      "en": ""
+    },
+    "icon": "📚"
+  },
+  {
+    "id": "media_d-13",
+    "type": "movie",
+    "title": {
+      "ko": "D-13",
+      "en": ""
+    },
+    "year": 1962,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "쿠바 미사일 위기 관련 미디어",
+      "en": "Media related to 쿠바 미사일 위기"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_존_f._케네디",
+      "person_니키타_흐루쇼프"
+    ],
+    "wikipedia": {
+      "ko": "D-13",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_(thirteen_days)",
+    "type": "movie",
+    "title": {
+      "ko": "(Thirteen Days)",
+      "en": ""
+    },
+    "year": 1962,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "쿠바 미사일 위기 관련 미디어",
+      "en": "Media related to 쿠바 미사일 위기"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_존_f._케네디",
+      "person_니키타_흐루쇼프"
+    ],
+    "wikipedia": {
+      "ko": "(Thirteen Days)",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_플래툰",
+    "type": "movie",
+    "title": {
+      "ko": "플래툰",
+      "en": ""
+    },
+    "year": 1964,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "베트남 전쟁 확전 (통킹만 사건) 관련 미디어",
+      "en": "Media related to 베트남 전쟁 확전 (통킹만 사건)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_린든_b._존슨"
+    ],
+    "wikipedia": {
+      "ko": "플래툰",
+      "en": ""
+    },
+    "icon": "🎬"
+  },
+  {
+    "id": "media_굿바이_레닌",
+    "type": "movie",
+    "title": {
+      "ko": "굿바이 레닌",
+      "en": ""
+    },
+    "year": 1989,
+    "creator": {
+      "ko": "",
+      "en": ""
+    },
+    "description": {
+      "ko": "베를린 장벽 붕괴 및 몰타 회담 (냉전 종식) 관련 미디어",
+      "en": "Media related to 베를린 장벽 붕괴 및 몰타 회담 (냉전 종식)"
+    },
+    "relatedEvents": [],
+    "relatedPeople": [
+      "person_미하일_고르바초프",
+      "person_조지_h.w._부시"
+    ],
+    "wikipedia": {
+      "ko": "굿바이 레닌",
+      "en": ""
+    },
+    "icon": "🎬"
   }
 ]

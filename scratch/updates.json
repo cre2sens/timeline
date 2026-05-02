@@ -1,0 +1,798 @@
+[
+  {
+    "original": {
+      "id": "event_gupta_empire",
+      "type": "event",
+      "date": {
+        "start": "0320-01-01",
+        "end": "0550-12-31"
+      },
+      "era": "ancient",
+      "location": {
+        "name": {
+          "ko": "마가다",
+          "en": "Magadha"
+        },
+        "coordinates": {
+          "lat": 25.45,
+          "lng": 81.85
+        },
+        "region": "southAsia"
+      },
+      "title": {
+        "ko": "굽타 왕조 성립",
+        "en": "Establishment of Gupta Empire"
+      },
+      "description": {
+        "ko": "인도 고전 문화의 황금기를 이끈 왕조로 수학, 천문학, 예술이 비약적으로 발전함.",
+        "en": "An era known as the Golden Age of India, marked by extensive inventions and discoveries in science and art."
+      },
+      "category": "politics",
+      "importance": 5,
+      "relatedPeople": [],
+      "wikipedia": {
+        "ko": "굽타_제국",
+        "en": "Gupta_Empire"
+      },
+      "icon": "💎"
+    },
+    "supplement": {
+      "num": "12",
+      "title": "굽타 왕조 성립 및 찬드라굽타 2세",
+      "people": [
+        "찬드라굽타 2세"
+      ],
+      "yearStr": "4세기 ~ 5세기",
+      "startYear": 350,
+      "endYear": 450,
+      "locationName": "인도 우자인 등",
+      "lat": 23.1765,
+      "lng": 75.7885,
+      "wiki": "링크",
+      "mediaStr": "도서 《인도 이야기》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_crusades",
+      "type": "event",
+      "date": {
+        "start": "1096-01-01",
+        "end": "1291-01-01"
+      },
+      "era": "medieval",
+      "location": {
+        "name": {
+          "ko": "예루살렘",
+          "en": "Jerusalem"
+        },
+        "coordinates": {
+          "lat": 31.77,
+          "lng": 35.23
+        },
+        "region": "middleEast"
+      },
+      "title": {
+        "ko": "십자군 전쟁",
+        "en": "The Crusades"
+      },
+      "description": {
+        "ko": "기독교 유럽이 성지 예루살렘 탈환을 위해 벌인 원정",
+        "en": "Christian Europe's military campaigns to reclaim the Holy Land"
+      },
+      "category": "battle",
+      "relatedPeople": [],
+      "relatedEvents": [],
+      "relatedMedia": [
+        "media_movie_kingdom_heaven",
+        "media_movie_kingdom_of_heaven"
+      ],
+      "wikipedia": {
+        "ko": "십자군",
+        "en": "Crusades"
+      },
+      "icon": "⚔️",
+      "importance": 5
+    },
+    "supplement": {
+      "num": "25",
+      "title": "제1차 십자군 전쟁 시작",
+      "people": [
+        "교황 우르바노 2세"
+      ],
+      "yearStr": "1096년",
+      "startYear": 1096,
+      "endYear": 1096,
+      "locationName": "이스라엘 예루살렘",
+      "lat": 31.7683,
+      "lng": 35.2137,
+      "wiki": "링크",
+      "mediaStr": "영화 《킹덤 오브 헤븐》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_mongol_empire",
+      "type": "event",
+      "date": {
+        "start": "1206-01-01",
+        "end": "1368-01-01"
+      },
+      "era": "medieval",
+      "location": {
+        "name": {
+          "ko": "몽골",
+          "en": "Mongolia"
+        },
+        "coordinates": {
+          "lat": 47.92,
+          "lng": 106.91
+        },
+        "region": "eastAsia"
+      },
+      "title": {
+        "ko": "몽골 제국",
+        "en": "Mongol Empire"
+      },
+      "description": {
+        "ko": "칭기즈 칸이 세운 역사상 최대 규모의 연속 육상 제국",
+        "en": "The largest contiguous land empire in history, founded by Genghis Khan"
+      },
+      "category": "politics",
+      "relatedPeople": [],
+      "relatedEvents": [],
+      "relatedMedia": [],
+      "wikipedia": {
+        "ko": "몽골_제국",
+        "en": "Mongol_Empire"
+      },
+      "icon": "🏛️",
+      "importance": 5
+    },
+    "supplement": {
+      "num": "26",
+      "title": "몽골 제국 수립",
+      "people": [
+        "칭기즈 칸"
+      ],
+      "yearStr": "1206년",
+      "startYear": 1206,
+      "endYear": 1206,
+      "locationName": "몽골 아바르가",
+      "lat": 47.1,
+      "lng": 109.15,
+      "wiki": "링크",
+      "mediaStr": "영화 《몽골》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_black_death",
+      "type": "event",
+      "date": {
+        "start": "1347-01-01",
+        "end": "1353-01-01"
+      },
+      "era": "medieval",
+      "location": {
+        "name": {
+          "ko": "유럽",
+          "en": "Europe"
+        },
+        "coordinates": {
+          "lat": 48.86,
+          "lng": 2.35
+        },
+        "region": "europe"
+      },
+      "title": {
+        "ko": "흑사병",
+        "en": "The Black Death"
+      },
+      "description": {
+        "ko": "유럽 인구의 약 1/3을 사망시킨 대규모 페스트 유행",
+        "en": "Pandemic that killed approximately one-third of Europe's population"
+      },
+      "category": "culture",
+      "relatedPeople": [],
+      "relatedEvents": [],
+      "relatedMedia": [],
+      "wikipedia": {
+        "ko": "흑사병",
+        "en": "Black_Death"
+      },
+      "icon": "🎭",
+      "importance": 5
+    },
+    "supplement": {
+      "num": "30",
+      "title": "흑사병 (페스트) 유럽 대유행",
+      "people": [],
+      "yearStr": "1347년 ~ 1351년",
+      "startYear": 1347,
+      "endYear": 1351,
+      "locationName": "이탈리아 시칠리아 등 유럽 전역",
+      "lat": 37.5999,
+      "lng": 14.0153,
+      "wiki": "링크",
+      "mediaStr": "소설 《데카메론》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_ming_zheng_he",
+      "type": "event",
+      "date": {
+        "start": "1368-01-23",
+        "end": "1644-04-25"
+      },
+      "era": "earlyModern",
+      "location": {
+        "name": {
+          "ko": "베이징 (자금성)",
+          "en": "Beijing (Forbidden City)"
+        },
+        "coordinates": {
+          "lat": 39.9,
+          "lng": 116.4
+        },
+        "region": "eastAsia"
+      },
+      "title": {
+        "ko": "명나라 건국과 정화의 원정",
+        "en": "Ming Dynasty & Zheng He's Voyages"
+      },
+      "description": {
+        "ko": "한족 왕조의 부흥. 자금성을 건설하고 환관 정화가 대규모 함대를 이끌고 아프리카까지 항해함.",
+        "en": "Restoration of Han rule, construction of the Forbidden City, and massive maritime expeditions led by Zheng He."
+      },
+      "category": "politics",
+      "importance": 4,
+      "relatedPeople": [],
+      "wikipedia": {
+        "ko": "명나라",
+        "en": "Ming_dynasty"
+      },
+      "icon": "⛵",
+      "image": ""
+    },
+    "supplement": {
+      "num": "31",
+      "title": "명나라 건국",
+      "people": [
+        "주원장 (홍무제)"
+      ],
+      "yearStr": "1368년",
+      "startYear": 1368,
+      "endYear": 1368,
+      "locationName": "중국 난징",
+      "lat": 32.0602,
+      "lng": 118.7968,
+      "wiki": "링크",
+      "mediaStr": "드라마 《주원장》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_imjin",
+      "type": "event",
+      "date": {
+        "start": "1592-04-13",
+        "end": "1598-12-16"
+      },
+      "era": "earlyModern",
+      "location": {
+        "name": {
+          "ko": "한반도",
+          "en": "Korean Peninsula"
+        },
+        "coordinates": {
+          "lat": 35.17,
+          "lng": 128.98
+        },
+        "region": "korea"
+      },
+      "title": {
+        "ko": "임진왜란",
+        "en": "Japanese Invasions of Korea"
+      },
+      "description": {
+        "ko": "도요토미 히데요시의 조선 침략. 이순신 장군의 해전으로 유명",
+        "en": "Toyotomi Hideyoshi's invasion of Korea. Famous for Admiral Yi's naval victories"
+      },
+      "category": "battle",
+      "relatedPeople": [
+        "person_yi_sun_sin"
+      ],
+      "relatedEvents": [
+        "event_hansando",
+        "event_myeongnyang"
+      ],
+      "relatedMedia": [
+        "media_movie_roaring_currents",
+        "media_movie_hansan",
+        "media_novel_nanjungilgi"
+      ],
+      "wikipedia": {
+        "ko": "임진왜란",
+        "en": "Japanese_invasions_of_Korea_(1592–1598)"
+      },
+      "icon": "⚔️",
+      "importance": 5
+    },
+    "supplement": {
+      "num": "43",
+      "title": "임진왜란",
+      "people": [
+        "도요토미 히데요시",
+        "이순신"
+      ],
+      "yearStr": "1592년 ~ 1598년",
+      "startYear": 1592,
+      "endYear": 1598,
+      "locationName": "한국, 일본, 중국 일대",
+      "lat": 35.1795,
+      "lng": 129.0756,
+      "wiki": "링크",
+      "mediaStr": "영화 《명량》, 《한산》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_industrial_revolution",
+      "type": "event",
+      "date": {
+        "start": "1760-01-01",
+        "end": "1840-01-01"
+      },
+      "era": "modern",
+      "location": {
+        "name": {
+          "ko": "영국",
+          "en": "United Kingdom"
+        },
+        "coordinates": {
+          "lat": 53.48,
+          "lng": -2.24
+        },
+        "region": "europe"
+      },
+      "title": {
+        "ko": "산업 혁명",
+        "en": "Industrial Revolution"
+      },
+      "description": {
+        "ko": "수공업에서 기계 생산으로의 전환. 근대 자본주의 경제체제의 시작",
+        "en": "Transition from hand production to machine manufacturing"
+      },
+      "category": "invention",
+      "relatedPeople": [],
+      "relatedEvents": [],
+      "relatedMedia": [],
+      "wikipedia": {
+        "ko": "산업_혁명",
+        "en": "Industrial_Revolution"
+      },
+      "icon": "💡",
+      "importance": 5
+    },
+    "supplement": {
+      "num": "53",
+      "title": "산업 혁명 본격화",
+      "people": [
+        "제임스 와트 (증기기관 개량)"
+      ],
+      "yearStr": "1769년경",
+      "startYear": 1769,
+      "endYear": 1769,
+      "locationName": "영국 맨체스터 등",
+      "lat": 53.4808,
+      "lng": -2.2426,
+      "wiki": "링크",
+      "mediaStr": "소설 《올리버 트위스트》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_opium_war",
+      "type": "event",
+      "date": {
+        "start": "1839-09-04",
+        "end": "1842-08-29"
+      },
+      "era": "modern",
+      "location": {
+        "name": {
+          "ko": "광저우",
+          "en": "Guangzhou"
+        },
+        "coordinates": {
+          "lat": 23.13,
+          "lng": 113.26
+        },
+        "region": "eastAsia"
+      },
+      "title": {
+        "ko": "제1차 아편 전쟁",
+        "en": "First Opium War"
+      },
+      "description": {
+        "ko": "청나라와 영국 사이에 발생한 전쟁. 이 결과로 청의 굴욕적인 난징 조약이 체결됨.",
+        "en": "War between Qing and UK, leading to the Treaty of Nanking."
+      },
+      "category": "battle",
+      "relatedPeople": [],
+      "relatedEvents": [],
+      "relatedMedia": [
+        "media_movie_opium_war"
+      ],
+      "wikipedia": {
+        "ko": "제1차_아편_전쟁",
+        "en": "First_Opium_War"
+      },
+      "icon": "⚓",
+      "importance": 5
+    },
+    "supplement": {
+      "num": "61",
+      "title": "제1차 아편 전쟁 발발",
+      "people": [
+        "임칙서",
+        "빅토리아 여왕"
+      ],
+      "yearStr": "1840년",
+      "startYear": 1840,
+      "endYear": 1840,
+      "locationName": "중국 광저우",
+      "lat": 23.1291,
+      "lng": 113.2643,
+      "wiki": "링크",
+      "mediaStr": "영화 《아편전쟁》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_meiji",
+      "type": "event",
+      "date": {
+        "start": "1868-01-03",
+        "end": "1868-01-03"
+      },
+      "era": "modern",
+      "location": {
+        "name": {
+          "ko": "도쿄",
+          "en": "Tokyo"
+        },
+        "coordinates": {
+          "lat": 35.68,
+          "lng": 139.69
+        },
+        "region": "eastAsia"
+      },
+      "title": {
+        "ko": "메이지 유신",
+        "en": "Meiji Restoration"
+      },
+      "description": {
+        "ko": "일본의 근대화 혁명. 봉건 체제에서 중앙집권 국가로 전환",
+        "en": "Japan's transition from feudal system to modern state"
+      },
+      "category": "politics",
+      "relatedPeople": [],
+      "relatedEvents": [],
+      "relatedMedia": [],
+      "wikipedia": {
+        "ko": "메이지_유신",
+        "en": "Meiji_Restoration"
+      },
+      "icon": "🏛️",
+      "importance": 5
+    },
+    "supplement": {
+      "num": "72",
+      "title": "일본 메이지 유신",
+      "people": [
+        "메이지 천황",
+        "이와쿠라 도모미"
+      ],
+      "yearStr": "1868년",
+      "startYear": 1868,
+      "endYear": 1868,
+      "locationName": "일본 도쿄",
+      "lat": 35.6895,
+      "lng": 139.6917,
+      "wiki": "링크",
+      "mediaStr": "영화 《라스트 사무라이》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_xinhai_rev",
+      "type": "event",
+      "date": {
+        "start": "1911-10-10",
+        "end": "1912-02-12"
+      },
+      "era": "modern",
+      "location": {
+        "name": {
+          "ko": "우창",
+          "en": "Wuchang"
+        },
+        "coordinates": {
+          "lat": 30.55,
+          "lng": 114.3
+        },
+        "region": "eastAsia"
+      },
+      "title": {
+        "ko": "신해혁명",
+        "en": "Xinhai Revolution"
+      },
+      "description": {
+        "ko": "청나라를 무너뜨리고 중화민국의 탄생을 이끈 공화주의 혁명.",
+        "en": "Revolution that ended the Qing Dynasty and established the ROC."
+      },
+      "category": "politics",
+      "relatedPeople": [
+        "person_sun_yat_sen"
+      ],
+      "relatedEvents": [],
+      "relatedMedia": [
+        "media_movie_last_emperor"
+      ],
+      "wikipedia": {
+        "ko": "신해혁명",
+        "en": "Xinhai_Revolution"
+      },
+      "icon": "🚩",
+      "importance": 5
+    },
+    "supplement": {
+      "num": "82",
+      "title": "신해혁명",
+      "people": [
+        "쑨원",
+        "위안스카이"
+      ],
+      "yearStr": "1911년",
+      "startYear": 1911,
+      "endYear": 1911,
+      "locationName": "중국 우창",
+      "lat": 30.5486,
+      "lng": 114.303,
+      "wiki": "링크",
+      "mediaStr": "영화 《1911: 신해혁명》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_ww1",
+      "type": "event",
+      "date": {
+        "start": "1914-07-28",
+        "end": "1918-11-11"
+      },
+      "era": "modern",
+      "location": {
+        "name": {
+          "ko": "유럽",
+          "en": "Europe"
+        },
+        "coordinates": {
+          "lat": 49,
+          "lng": 2.5
+        },
+        "region": "europe"
+      },
+      "title": {
+        "ko": "제1차 세계대전",
+        "en": "World War I"
+      },
+      "description": {
+        "ko": "유럽 열강 간 벌어진 최초의 세계 규모 전쟁",
+        "en": "First global-scale conflict among European powers"
+      },
+      "category": "battle",
+      "relatedPeople": [],
+      "relatedEvents": [],
+      "relatedMedia": [
+        "media_novel_all_quiet",
+        "media_movie_western_front",
+        "media_movie_lawrence_arabia",
+        "media_movie_1917"
+      ],
+      "wikipedia": {
+        "ko": "제1차_세계_대전",
+        "en": "World_War_I"
+      },
+      "icon": "⚔️",
+      "importance": 5
+    },
+    "supplement": {
+      "num": "84",
+      "title": "제1차 세계대전 발발",
+      "people": [
+        "빌헬름 2세"
+      ],
+      "yearStr": "1914년 ~ 1918년",
+      "startYear": 1914,
+      "endYear": 1918,
+      "locationName": "유럽 전역",
+      "lat": 48,
+      "lng": 9,
+      "wiki": "링크",
+      "mediaStr": "영화 《1917》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_ww2",
+      "type": "event",
+      "date": {
+        "start": "1939-09-01",
+        "end": "1945-09-02"
+      },
+      "era": "modern",
+      "location": {
+        "name": {
+          "ko": "전 세계",
+          "en": "Worldwide"
+        },
+        "coordinates": {
+          "lat": 48.86,
+          "lng": 2.35
+        },
+        "region": "europe"
+      },
+      "title": {
+        "ko": "제2차 세계대전",
+        "en": "World War II"
+      },
+      "description": {
+        "ko": "인류 역사상 가장 거대한 전쟁. 약 7천만 명 사망",
+        "en": "Deadliest conflict in human history, approximately 70 million casualties"
+      },
+      "category": "battle",
+      "relatedPeople": [],
+      "relatedEvents": [],
+      "relatedMedia": [
+        "media_movie_schindler",
+        "media_novel_diary_anne",
+        "media_movie_schindlers_list"
+      ],
+      "wikipedia": {
+        "ko": "제2차_세계_대전",
+        "en": "World_War_II"
+      },
+      "icon": "⚔️",
+      "importance": 5
+    },
+    "supplement": {
+      "num": "93",
+      "title": "제2차 세계대전 발발 (폴란드 침공)",
+      "people": [
+        "아돌프 히틀러"
+      ],
+      "yearStr": "1939년",
+      "startYear": 1939,
+      "endYear": 1939,
+      "locationName": "폴란드 비엘룬, 단치히 등",
+      "lat": 54.352,
+      "lng": 18.6466,
+      "wiki": "링크",
+      "mediaStr": "영화 《피아니스트》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_prc_established",
+      "type": "event",
+      "date": {
+        "start": "1949-10-01",
+        "end": "1949-10-01"
+      },
+      "era": "contemporary",
+      "location": {
+        "name": {
+          "ko": "베이징 티안안먼 광장",
+          "en": "Tiananmen Square, Beijing"
+        },
+        "coordinates": {
+          "lat": 39.9,
+          "lng": 116.4
+        },
+        "region": "eastAsia"
+      },
+      "title": {
+        "ko": "중화인민공화국 수립",
+        "en": "Establishment of the PRC"
+      },
+      "description": {
+        "ko": "국공내전에서 승리한 마오쩌둥이 베이징에서 사회주의 국가인 중화인민공화국의 수립을 선포함.",
+        "en": "Mao Zedong proclaims the founding of the People's Republic of China after winning the Chinese Civil War."
+      },
+      "category": "politics",
+      "importance": 5,
+      "relatedPeople": [],
+      "wikipedia": {
+        "ko": "중화인민공화국의_역사",
+        "en": "History_of_the_People's_Republic_of_China"
+      },
+      "icon": "⭐",
+      "image": ""
+    },
+    "supplement": {
+      "num": "96",
+      "title": "중화인민공화국 수립",
+      "people": [
+        "마오쩌둥"
+      ],
+      "yearStr": "1949년",
+      "startYear": 1949,
+      "endYear": 1949,
+      "locationName": "중국 베이징 톈안먼",
+      "lat": 39.9054,
+      "lng": 116.3976,
+      "wiki": "링크",
+      "mediaStr": "영화 《건국대업》"
+    }
+  },
+  {
+    "original": {
+      "id": "event_berlin_wall",
+      "type": "event",
+      "date": {
+        "start": "1989-11-09",
+        "end": "1989-11-09"
+      },
+      "era": "contemporary",
+      "location": {
+        "name": {
+          "ko": "베를린",
+          "en": "Berlin"
+        },
+        "coordinates": {
+          "lat": 52.52,
+          "lng": 13.41
+        },
+        "region": "europe"
+      },
+      "title": {
+        "ko": "베를린 장벽 붕괴",
+        "en": "Fall of the Berlin Wall"
+      },
+      "description": {
+        "ko": "냉전의 상징이었던 베를린 장벽 붕괴. 독일 통일의 시작",
+        "en": "Fall of the Cold War symbol, leading to German reunification"
+      },
+      "category": "politics",
+      "relatedPeople": [],
+      "relatedEvents": [],
+      "relatedMedia": [],
+      "wikipedia": {
+        "ko": "베를린_장벽_붕괴",
+        "en": "Fall_of_the_Berlin_Wall"
+      },
+      "icon": "🏛️",
+      "importance": 5
+    },
+    "supplement": {
+      "num": "100",
+      "title": "베를린 장벽 붕괴 및 몰타 회담 (냉전 종식)",
+      "people": [
+        "미하일 고르바초프",
+        "조지 H.W. 부시"
+      ],
+      "yearStr": "1989년",
+      "startYear": 1989,
+      "endYear": 1989,
+      "locationName": "독일 베를린",
+      "lat": 52.5162,
+      "lng": 13.3777,
+      "wiki": "링크",
+      "mediaStr": "영화 《굿바이 레닌》"
+    }
+  }
+]
