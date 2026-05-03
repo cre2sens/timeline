@@ -38,44 +38,6 @@
     "importance": 5
   },
   {
-    "id": "event_three_kingdoms_kr",
-    "type": "event",
-    "date": {
-      "start": "-0037-01-01",
-      "end": "0668-01-01"
-    },
-    "era": "ancient",
-    "location": {
-      "name": {
-        "ko": "한반도",
-        "en": "Korean Peninsula"
-      },
-      "coordinates": {
-        "lat": 37.57,
-        "lng": 126.98
-      },
-      "region": "korea"
-    },
-    "title": {
-      "ko": "삼국시대",
-      "en": "Three Kingdoms of Korea"
-    },
-    "description": {
-      "ko": "고구려·백제·신라가 한반도를 나누어 다스린 시대",
-      "en": "Goguryeo, Baekje, and Silla ruled the Korean Peninsula"
-    },
-    "category": "politics",
-    "relatedPeople": [],
-    "relatedEvents": [],
-    "relatedMedia": [],
-    "wikipedia": {
-      "ko": "삼국시대",
-      "en": "Three_Kingdoms_of_Korea"
-    },
-    "icon": "🏛️",
-    "importance": 4
-  },
-  {
     "id": "event_gwanggaeto",
     "type": "event",
     "date": {
@@ -1040,10 +1002,14 @@
       "en": "Odoacer deposed the last Western Roman Emperor"
     },
     "category": "politics",
-    "relatedPeople": [],
+    "relatedPeople": [
+      "person_오도아케르",
+      "person_로물루스_아우구스툴루스"
+    ],
     "relatedEvents": [],
     "relatedMedia": [
-      "media_movie_gladiator"
+      "media_movie_gladiator",
+      "media_마지막_군단"
     ],
     "wikipedia": {
       "ko": "서로마_제국의_멸망",
@@ -1205,9 +1171,13 @@
       "en": "Christopher Columbus reached the Americas, beginning the Age of Exploration"
     },
     "category": "discovery",
-    "relatedPeople": [],
+    "relatedPeople": [
+      "person_크리스토퍼_콜럼버스"
+    ],
     "relatedEvents": [],
-    "relatedMedia": [],
+    "relatedMedia": [
+      "media_1492_콜럼버스"
+    ],
     "wikipedia": {
       "ko": "크리스토퍼_콜럼버스",
       "en": "Christopher_Columbus"
@@ -1281,12 +1251,16 @@
       "en": "Revolution that overthrew the monarchy and established republican ideals"
     },
     "category": "politics",
-    "relatedPeople": [],
+    "relatedPeople": [
+      "person_루이_16세",
+      "person_막시밀리앵_로베스피에르"
+    ],
     "relatedEvents": [],
     "relatedMedia": [
       "media_novel_les_miserables",
       "media_music_marseillaise",
-      "media_movie_les_miserables"
+      "media_movie_les_miserables",
+      "media_뮤지컬/영화"
     ],
     "wikipedia": {
       "ko": "프랑스_혁명",
@@ -2440,7 +2414,8 @@
     },
     "category": "politics",
     "relatedPeople": [
-      "person_qin_shi_huang"
+      "person_qin_shi_huang",
+      "person_진시황제"
     ],
     "relatedEvents": [],
     "relatedMedia": [
@@ -2451,49 +2426,6 @@
       "en": "Qin's_wars_of_unification"
     },
     "icon": "⚔️",
-    "importance": 5
-  },
-  {
-    "id": "event_opium_war",
-    "type": "event",
-    "date": {
-      "start": "1839-09-04",
-      "end": "1842-08-29"
-    },
-    "era": "modern",
-    "location": {
-      "name": {
-        "ko": "광저우",
-        "en": "Guangzhou"
-      },
-      "coordinates": {
-        "lat": 23.13,
-        "lng": 113.26
-      },
-      "region": "eastAsia"
-    },
-    "title": {
-      "ko": "제1차 아편 전쟁",
-      "en": "First Opium War"
-    },
-    "description": {
-      "ko": "청나라와 영국 사이에 발생한 전쟁. 이 결과로 청의 굴욕적인 난징 조약이 체결됨.",
-      "en": "War between Qing and UK, leading to the Treaty of Nanking."
-    },
-    "category": "battle",
-    "relatedPeople": [
-      "person_임칙서",
-      "person_빅토리아_여왕"
-    ],
-    "relatedEvents": [],
-    "relatedMedia": [
-      "media_movie_opium_war"
-    ],
-    "wikipedia": {
-      "ko": "제1차_아편_전쟁",
-      "en": "First_Opium_War"
-    },
-    "icon": "⚓",
     "importance": 5
   },
   {
@@ -2572,7 +2504,9 @@
       "person_mao_zedong"
     ],
     "relatedEvents": [],
-    "relatedMedia": [],
+    "relatedMedia": [
+      "media_건국대업"
+    ],
     "wikipedia": {
       "ko": "중화인민공화국",
       "en": "Proclamation_of_the_People's_Republic_of_China"
@@ -2620,46 +2554,6 @@
       "en": "Cultural_Revolution"
     },
     "icon": "📕",
-    "importance": 5
-  },
-  {
-    "id": "event_reform_opening",
-    "type": "event",
-    "date": {
-      "start": "1978-12-18",
-      "end": "1978-12-22"
-    },
-    "era": "contemporary",
-    "location": {
-      "name": {
-        "ko": "베이징",
-        "en": "Beijing"
-      },
-      "coordinates": {
-        "lat": 39.9,
-        "lng": 116.4
-      },
-      "region": "eastAsia"
-    },
-    "title": {
-      "ko": "개혁개방 선언",
-      "en": "Reform and Opening-up"
-    },
-    "description": {
-      "ko": "덩샤오핑 주도로 시장 경제 체제를 도입하고 외부 대외 개방을 시작한 전환점.",
-      "en": "Turning point introducing market economy led by Deng Xiaoping."
-    },
-    "category": "politics",
-    "relatedPeople": [
-      "person_deng_xiaoping"
-    ],
-    "relatedEvents": [],
-    "relatedMedia": [],
-    "wikipedia": {
-      "ko": "개혁개방",
-      "en": "Chinese_economic_reform"
-    },
-    "icon": "🏗️",
     "importance": 5
   },
   {
@@ -3781,46 +3675,6 @@
       "en": "Conservation_of_mass"
     },
     "icon": "🔬",
-    "importance": 5
-  },
-  {
-    "id": "event_smallpox_vaccine",
-    "type": "event",
-    "date": {
-      "start": "1796-05-14",
-      "end": "1796-05-14"
-    },
-    "era": "modern",
-    "location": {
-      "name": {
-        "ko": "버클리",
-        "en": "Berkeley"
-      },
-      "coordinates": {
-        "lat": 51.69,
-        "lng": -2.45
-      },
-      "region": "europe"
-    },
-    "title": {
-      "ko": "천연두 백신(종두법) 최초 접종",
-      "en": "First Smallpox Vaccine"
-    },
-    "description": {
-      "ko": "에드워드 제너가 8살 소년에게 최초로 우두 백신을 접종하여 예방 면역학의 시대를 엶.",
-      "en": "Edward Jenner successfully inoculated a young boy against smallpox using cowpox material."
-    },
-    "category": "discovery",
-    "relatedPeople": [
-      "person_edward_jenner"
-    ],
-    "relatedEvents": [],
-    "relatedMedia": [],
-    "wikipedia": {
-      "ko": "종두",
-      "en": "Smallpox_vaccine"
-    },
-    "icon": "⚕️",
     "importance": 5
   },
   {
@@ -6738,46 +6592,6 @@
     "image": ""
   },
   {
-    "id": "event_three_kingdoms",
-    "type": "event",
-    "date": {
-      "start": "0220-01-01",
-      "end": "0280-01-01"
-    },
-    "era": "ancient",
-    "location": {
-      "name": {
-        "ko": "중국 전역",
-        "en": "China"
-      },
-      "coordinates": {
-        "lat": 35,
-        "lng": 110
-      },
-      "region": "eastAsia"
-    },
-    "title": {
-      "ko": "삼국시대",
-      "en": "Three Kingdoms Period"
-    },
-    "description": {
-      "ko": "위, 촉, 오 세 나라가 정립하여 패권을 다투던 시기. 삼국지 연의의 배경.",
-      "en": "A period of division into the states of Wei, Shu, and Wu; highly romanticized in literature."
-    },
-    "category": "war",
-    "importance": 4,
-    "relatedPeople": [],
-    "wikipedia": {
-      "ko": "삼국시대_(중국)",
-      "en": "Three_Kingdoms"
-    },
-    "icon": "⚔️",
-    "image": "",
-    "relatedMedia": [
-      "media_novel_three_kingdoms"
-    ]
-  },
-  {
     "id": "event_tang_dynasty",
     "type": "event",
     "date": {
@@ -6968,125 +6782,6 @@
     "image": ""
   },
   {
-    "id": "event_opium_wars",
-    "type": "event",
-    "date": {
-      "start": "1839-09-04",
-      "end": "1842-08-29"
-    },
-    "era": "modern",
-    "location": {
-      "name": {
-        "ko": "광저우 및 중국 해안",
-        "en": "Guangzhou & China Coast"
-      },
-      "coordinates": {
-        "lat": 23.1,
-        "lng": 113.2
-      },
-      "region": "eastAsia"
-    },
-    "title": {
-      "ko": "제1차 아편전쟁",
-      "en": "First Opium War"
-    },
-    "description": {
-      "ko": "영국과의 전쟁에서 패배하여 홍콩을 할양하고 불평등 조약을 맺으며 서구 열강의 침탈이 시작됨.",
-      "en": "A series of military engagements fought between Britain and the Qing dynasty over the opium trade."
-    },
-    "category": "war",
-    "importance": 5,
-    "relatedPeople": [],
-    "wikipedia": {
-      "ko": "제1차_아편_전쟁",
-      "en": "First_Opium_War"
-    },
-    "icon": "💥",
-    "image": "",
-    "relatedMedia": [
-      "media_movie_opium_war"
-    ]
-  },
-  {
-    "id": "event_xinhai_revolution",
-    "type": "event",
-    "date": {
-      "start": "1911-10-10",
-      "end": "1912-02-12"
-    },
-    "era": "modern",
-    "location": {
-      "name": {
-        "ko": "우창 (현재 우한)",
-        "en": "Wuchang (Wuhan)"
-      },
-      "coordinates": {
-        "lat": 30.5,
-        "lng": 114.3
-      },
-      "region": "eastAsia"
-    },
-    "title": {
-      "ko": "신해혁명",
-      "en": "Xinhai Revolution"
-    },
-    "description": {
-      "ko": "쑨원 등의 혁명파가 봉기하여 청나라를 무너뜨리고 아시아 최초의 공화국인 중화민국을 수립함.",
-      "en": "The revolution that overthrow China's last imperial dynasty and established the Republic of China."
-    },
-    "category": "politics",
-    "importance": 5,
-    "relatedPeople": [],
-    "wikipedia": {
-      "ko": "신해혁명",
-      "en": "Xinhai_Revolution"
-    },
-    "icon": "🚩",
-    "image": ""
-  },
-  {
-    "id": "event_prc_established",
-    "type": "event",
-    "date": {
-      "start": "1949-10-01",
-      "end": "1949-10-01"
-    },
-    "era": "contemporary",
-    "location": {
-      "name": {
-        "ko": "베이징 티안안먼 광장",
-        "en": "Tiananmen Square, Beijing"
-      },
-      "coordinates": {
-        "lat": 39.9,
-        "lng": 116.4
-      },
-      "region": "eastAsia"
-    },
-    "title": {
-      "ko": "중화인민공화국 수립",
-      "en": "Establishment of the PRC"
-    },
-    "description": {
-      "ko": "국공내전에서 승리한 마오쩌둥이 베이징에서 사회주의 국가인 중화인민공화국의 수립을 선포함.",
-      "en": "Mao Zedong proclaims the founding of the People's Republic of China after winning the Chinese Civil War."
-    },
-    "category": "politics",
-    "importance": 5,
-    "relatedPeople": [
-      "person_mao_zedong"
-    ],
-    "wikipedia": {
-      "ko": "중화인민공화국의_역사",
-      "en": "History_of_the_People's_Republic_of_China"
-    },
-    "icon": "⭐",
-    "image": "",
-    "relatedMedia": [
-      "media_건국대업"
-    ]
-  },
-  {
     "id": "event_economic_reform",
     "type": "event",
     "date": {
@@ -7115,13 +6810,17 @@
     },
     "category": "economy",
     "importance": 5,
-    "relatedPeople": [],
+    "relatedPeople": [
+      "person_deng_xiaoping"
+    ],
     "wikipedia": {
       "ko": "개혁개방",
       "en": "Chinese_economic_reform"
     },
     "icon": "📈",
-    "image": ""
+    "image": "",
+    "relatedMedia": [],
+    "relatedEvents": []
   },
   {
     "id": "event_indus_valley",
@@ -7346,7 +7045,9 @@
     },
     "category": "battle",
     "importance": 5,
-    "relatedPeople": [],
+    "relatedPeople": [
+      "person_바부르"
+    ],
     "wikipedia": {
       "ko": "무굴_제국",
       "en": "Mughal_Empire"
@@ -7354,7 +7055,8 @@
     "icon": "⚔️",
     "relatedMedia": [
       "media_movie_jodhaa_akbar"
-    ]
+    ],
+    "relatedEvents": []
   },
   {
     "id": "event_taj_mahal",
@@ -7802,48 +7504,6 @@
     "importance": 3
   },
   {
-    "id": "event_진시황의_중국_통일",
-    "type": "event",
-    "date": {
-      "start": "-0221-01-01",
-      "end": "-0221-01-01"
-    },
-    "era": "ancient",
-    "location": {
-      "name": {
-        "ko": "중국 셴양",
-        "en": ""
-      },
-      "coordinates": {
-        "lat": 34.3333,
-        "lng": 108.7167
-      },
-      "region": "eastAsia"
-    },
-    "title": {
-      "ko": "진시황의 중국 통일",
-      "en": ""
-    },
-    "description": {
-      "ko": "",
-      "en": ""
-    },
-    "category": "politics",
-    "relatedPeople": [
-      "person_진시황제"
-    ],
-    "relatedEvents": [],
-    "relatedMedia": [
-      "media_movie_hero"
-    ],
-    "wikipedia": {
-      "ko": "진시황의 중국 통일",
-      "en": ""
-    },
-    "icon": "🏛️",
-    "importance": 3
-  },
-  {
     "id": "event_포에니_전쟁",
     "type": "event",
     "date": {
@@ -8009,49 +7669,6 @@
     ],
     "wikipedia": {
       "ko": "기독교 공인 (밀라노 칙령)",
-      "en": ""
-    },
-    "icon": "🏛️",
-    "importance": 3
-  },
-  {
-    "id": "event_서로마_제국_멸망",
-    "type": "event",
-    "date": {
-      "start": "0476-01-01",
-      "end": "0476-01-01"
-    },
-    "era": "ancient",
-    "location": {
-      "name": {
-        "ko": "이탈리아 로마",
-        "en": ""
-      },
-      "coordinates": {
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "region": "europe"
-    },
-    "title": {
-      "ko": "서로마 제국 멸망",
-      "en": ""
-    },
-    "description": {
-      "ko": "",
-      "en": ""
-    },
-    "category": "politics",
-    "relatedPeople": [
-      "person_오도아케르",
-      "person_로물루스_아우구스툴루스"
-    ],
-    "relatedEvents": [],
-    "relatedMedia": [
-      "media_마지막_군단"
-    ],
-    "wikipedia": {
-      "ko": "서로마 제국 멸망",
       "en": ""
     },
     "icon": "🏛️",
@@ -8727,7 +8344,7 @@
     },
     "category": "politics",
     "relatedPeople": [
-      "person_레오나르도_다빈치",
+      "person_da_vinci",
       "person_메디치_가문"
     ],
     "relatedEvents": [],
@@ -8780,48 +8397,6 @@
     ],
     "wikipedia": {
       "ko": "비잔티움 제국 (동로마) 멸망",
-      "en": ""
-    },
-    "icon": "🏛️",
-    "importance": 3
-  },
-  {
-    "id": "event_콜럼버스의_아메리카_대륙_도달",
-    "type": "event",
-    "date": {
-      "start": "1492-01-01",
-      "end": "1492-01-01"
-    },
-    "era": "earlyModern",
-    "location": {
-      "name": {
-        "ko": "바하마 산살바도르",
-        "en": ""
-      },
-      "coordinates": {
-        "lat": 24.03,
-        "lng": -74.48
-      },
-      "region": "europe"
-    },
-    "title": {
-      "ko": "콜럼버스의 아메리카 대륙 도달",
-      "en": ""
-    },
-    "description": {
-      "ko": "",
-      "en": ""
-    },
-    "category": "politics",
-    "relatedPeople": [
-      "person_크리스토퍼_콜럼버스"
-    ],
-    "relatedEvents": [],
-    "relatedMedia": [
-      "media_1492_콜럼버스"
-    ],
-    "wikipedia": {
-      "ko": "콜럼버스의 아메리카 대륙 도달",
       "en": ""
     },
     "icon": "🏛️",
@@ -8948,48 +8523,6 @@
     ],
     "wikipedia": {
       "ko": "마젤란 함대의 세계 일주 완료",
-      "en": ""
-    },
-    "icon": "🏛️",
-    "importance": 3
-  },
-  {
-    "id": "event_무굴_제국_성립",
-    "type": "event",
-    "date": {
-      "start": "1526-01-01",
-      "end": "1526-01-01"
-    },
-    "era": "earlyModern",
-    "location": {
-      "name": {
-        "ko": "인도 파니파트",
-        "en": ""
-      },
-      "coordinates": {
-        "lat": 29.39,
-        "lng": 76.97
-      },
-      "region": "southAsia"
-    },
-    "title": {
-      "ko": "무굴 제국 성립",
-      "en": ""
-    },
-    "description": {
-      "ko": "",
-      "en": ""
-    },
-    "category": "politics",
-    "relatedPeople": [
-      "person_바부르"
-    ],
-    "relatedEvents": [],
-    "relatedMedia": [
-      "media_movie_jodhaa_akbar"
-    ],
-    "wikipedia": {
-      "ko": "무굴 제국 성립",
       "en": ""
     },
     "icon": "🏛️",
@@ -9542,50 +9075,6 @@
     ],
     "wikipedia": {
       "ko": "미국 독립 선언서 발표",
-      "en": ""
-    },
-    "icon": "🏛️",
-    "importance": 3
-  },
-  {
-    "id": "event_프랑스_대혁명_발발",
-    "type": "event",
-    "date": {
-      "start": "1789-01-01",
-      "end": "1789-01-01"
-    },
-    "era": "earlyModern",
-    "location": {
-      "name": {
-        "ko": "프랑스 파리",
-        "en": ""
-      },
-      "coordinates": {
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "region": "europe"
-    },
-    "title": {
-      "ko": "프랑스 대혁명 발발",
-      "en": ""
-    },
-    "description": {
-      "ko": "",
-      "en": ""
-    },
-    "category": "politics",
-    "relatedPeople": [
-      "person_루이_16세",
-      "person_막시밀리앵_로베스피에르"
-    ],
-    "relatedEvents": [],
-    "relatedMedia": [
-      "media_뮤지컬/영화",
-      "media_movie_les_miserables"
-    ],
-    "wikipedia": {
-      "ko": "프랑스 대혁명 발발",
       "en": ""
     },
     "icon": "🏛️",

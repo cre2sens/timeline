@@ -1428,7 +1428,6 @@
       "en": "A historical drama about the First Opium War between Britain and China."
     },
     "relatedEvents": [
-      "event_opium_war",
       "event_opium_wars"
     ],
     "relatedPeople": [],
@@ -2376,7 +2375,7 @@
     },
     "relatedEvents": [],
     "relatedPeople": [
-      "person_레오나르도_다빈치",
+      "person_da_vinci",
       "person_메디치_가문"
     ],
     "wikipedia": {
@@ -2403,7 +2402,7 @@
     },
     "relatedEvents": [],
     "relatedPeople": [
-      "person_레오나르도_다빈치",
+      "person_da_vinci",
       "person_메디치_가문"
     ],
     "wikipedia": {

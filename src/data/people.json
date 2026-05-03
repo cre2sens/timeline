@@ -2141,7 +2141,7 @@
     },
     "category": "ruler",
     "relatedEvents": [
-      "event_reform_opening"
+      "event_economic_reform"
     ],
     "relatedMedia": [],
     "wikipedia": {
@@ -3404,7 +3404,7 @@
     },
     "category": "scientist",
     "relatedEvents": [
-      "event_smallpox_vaccine"
+      "event_vaccine"
     ],
     "relatedPeople": [],
     "relatedMedia": [],
@@ -7322,32 +7322,6 @@
     "relatedMedia": [],
     "wikipedia": {
       "ko": "정화",
-      "en": ""
-    },
-    "icon": "👑",
-    "importance": 3
-  },
-  {
-    "id": "person_레오나르도_다빈치",
-    "type": "person",
-    "date": {
-      "start": "1350-01-01",
-      "end": "1550-01-01"
-    },
-    "era": "medieval",
-    "title": {
-      "ko": "레오나르도 다빈치",
-      "en": ""
-    },
-    "description": {
-      "ko": "르네상스 개화 (피렌체)의 주요 인물",
-      "en": "Key figure of 르네상스 개화 (피렌체)"
-    },
-    "category": "ruler",
-    "relatedEvents": [],
-    "relatedMedia": [],
-    "wikipedia": {
-      "ko": "레오나르도 다빈치",
       "en": ""
     },
     "icon": "👑",
