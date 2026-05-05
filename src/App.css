@@ -1,3 +1,4 @@
+/* ===== 앱 기본 구조 ===== */
 .app {
   height: 100vh;
   display: flex;
@@ -5,66 +6,103 @@
   overflow: hidden;
 }
 
-.app-body {
-  flex: 1;
-  display: flex;
-  overflow: hidden;
-  position: relative;
-}
-
-.app-main {
+/* ===== 워크스페이스 (패널들의 컨테이너) ===== */
+.app-workspace {
   flex: 1;
   display: flex;
   flex-direction: row;
   overflow: hidden;
-}
-
-.resize-handle {
-  flex-shrink: 0;
-  width: 6px;
-  height: 100%;
-  background: var(--border);
-  cursor: ew-resize;
-  transition: background 0.15s ease;
   position: relative;
-  z-index: 100;
+  transition: opacity 150ms ease;
 }
 
-.resize-handle::after {
-  content: '';
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  width: 2px;
-  height: 32px;
-  border-radius: 1px;
-  background: var(--text-tertiary);
+.app-workspace.ws-fading {
   opacity: 0;
-  transition: opacity 0.15s ease;
+  pointer-events: none;
 }
 
-.resize-handle:hover {
-  background: var(--accent-primary);
-}
-
-.resize-handle:hover::after {
-  opacity: 1;
-}
-
-.timeline-container {
+/* ===== 패널 공통 ===== */
+.ws-panel {
   display: flex;
   flex-direction: column;
   height: 100%;
-  border-right: 1px solid var(--border);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+/* 패널 숨김: display none으로 레이아웃에서 완전 제거 */
+.ws-panel.ws-hidden {
+  display: none;
+}
+
+/* 단독 표시 패널은 flex:1로 전체 점유 */
+.ws-panel.ws-full {
+  flex: 1;
+}
+
+/* ===== 리사이즈 핸들 ===== */
+.ws-resize-handle {
+  flex-shrink: 0;
+  width: 5px;
+  height: 100%;
+  background: var(--border);
+  cursor: ew-resize;
+  transition: background var(--transition-fast);
   position: relative;
   z-index: 10;
 }
 
-.globe-container {
-  flex: 1;
-  position: relative;
-  height: 100%;
+.ws-resize-handle:hover,
+.ws-resize-handle.dragging {
+  background: var(--accent-primary);
+}
+
+/* ===== 모바일 바텀 시트 ===== */
+.mobile-sheet-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.48);
+  z-index: 200;
+  display: flex;
+  align-items: flex-end;
+  animation: fadeIn 0.15s ease;
+}
+
+.mobile-sheet {
+  width: 100%;
+  height: 72vh;
+  max-height: calc(100vh - 120px);
+  border-radius: 16px 16px 0 0;
   overflow: hidden;
-  background-color: var(--bg-primary); /* 지구본 컨테이너 배경 */
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-secondary);
+  border-top: 1px solid var(--border-strong);
+}
+
+.mobile-sheet-handle {
+  width: 36px;
+  height: 4px;
+  background: var(--border-strong);
+  border-radius: 2px;
+  margin: 10px auto 8px;
+  flex-shrink: 0;
+}
+
+/* ===== 모바일 반응형 ===== */
+@media (max-width: 767px) {
+  .app-workspace {
+    position: relative;
+    /* 모바일에서 세로 방향 (단일 패널) */
+    flex-direction: column;
+  }
+
+  .ws-panel {
+    flex: 1;
+  }
+
+  /* 모바일에서 리사이즈 핸들 숨김 */
+  .ws-resize-handle {
+    display: none;
+  }
 }

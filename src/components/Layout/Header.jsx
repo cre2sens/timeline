@@ -3,7 +3,7 @@ import { Search, Filter, Moon, Sun, Globe2, BarChart3, X } from 'lucide-react'
 import useStore from '../../store/useStore'
 import './Header.css'
 
-export default function Header({ onToggleFilter, onToggleStats }) {
+export default function Header({ onToggleFilter, onToggleStats, isMobile }) {
   const { t } = useTranslation()
   const { theme, toggleTheme, locale, toggleLocale, filters, setFilter } = useStore()
 
@@ -39,9 +39,11 @@ export default function Header({ onToggleFilter, onToggleStats }) {
       </div>
 
       <div className="header-right">
-        <button className="header-btn" onClick={onToggleStats} title={t('stats.title')}>
-          <BarChart3 size={18} />
-        </button>
+        {!isMobile && (
+          <button className="header-btn" onClick={onToggleStats} title={t('stats.title')}>
+            <BarChart3 size={18} />
+          </button>
+        )}
 
         <button className="header-btn" onClick={onToggleFilter} title={t('header.filter')}>
           <Filter size={18} />

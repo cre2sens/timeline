@@ -65,6 +65,10 @@ const useStore = create((set, get) => ({
   // 상세 패널 탭
   detailTab: 'wiki', // 'wiki' | 'media'
   setDetailTab: (tab) => set({ detailTab: tab }),
+
+  // 뷰 모드: split-cg | split-cd | split-gd | chronicle | globe | detail
+  viewMode: 'split-cg',
+  setViewMode: (mode) => set({ viewMode: mode }),
 }))
 
 export default useStore

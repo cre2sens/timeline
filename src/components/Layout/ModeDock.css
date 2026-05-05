@@ -1,0 +1,109 @@
+/* ===== 데스크탑 모드 독 ===== */
+.mode-dock {
+  height: 52px;
+  min-height: 52px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg-secondary);
+  border-top: 1px solid var(--border);
+  padding: 0 16px;
+  z-index: 50;
+  gap: 8px;
+}
+
+.mode-dock-pill {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 4px;
+}
+
+.mode-group {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.mode-dock-sep {
+  width: 1px;
+  height: 20px;
+  background: var(--border-strong);
+  margin: 0 3px;
+  flex-shrink: 0;
+}
+
+.dock-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 11px;
+  height: 32px;
+  border-radius: var(--radius-md);
+  font-size: 0.77rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  transition: background var(--transition-fast), color var(--transition-fast);
+  white-space: nowrap;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+.dock-btn:hover {
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+}
+
+.dock-btn.active {
+  background: var(--accent-primary);
+  color: #fff;
+}
+
+.dock-btn-split {
+  padding: 5px 9px;
+  font-size: 0.73rem;
+}
+
+/* ===== 모바일 탭 바 ===== */
+.mobile-tab-bar {
+  display: flex;
+  align-items: stretch;
+  height: 56px;
+  min-height: 56px;
+  flex-shrink: 0;
+  background: var(--bg-secondary);
+  border-top: 1px solid var(--border);
+  /* iOS safe area */
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  z-index: 100;
+}
+
+.mobile-tab {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  color: var(--text-tertiary);
+  font-size: 0.65rem;
+  font-weight: 600;
+  transition: color var(--transition-fast), background var(--transition-fast);
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-family: inherit;
+}
+
+.mobile-tab:active {
+  background: var(--bg-tertiary);
+}
+
+.mobile-tab.active {
+  color: var(--accent-primary);
+}

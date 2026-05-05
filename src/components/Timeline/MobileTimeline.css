@@ -1,0 +1,178 @@
+.mobile-timeline {
+  height: 100%;
+  overflow-y: auto;
+  background: var(--bg-primary);
+}
+
+.mt-empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: var(--text-tertiary);
+  font-size: 0.88rem;
+}
+
+/* ===== 시대 레벨 ===== */
+.mt-era {
+  border-bottom: 1px solid var(--border);
+}
+
+.mt-era-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 13px 16px;
+  border-left: 3px solid transparent;
+  background: var(--bg-secondary);
+  text-align: left;
+  cursor: pointer;
+  font-family: inherit;
+  border-bottom: none;
+  border-right: none;
+  border-top: none;
+  transition: background var(--transition-fast);
+}
+
+.mt-era-header:active {
+  background: var(--bg-tertiary);
+}
+
+.mt-era-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.mt-era-label {
+  flex: 1;
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.mt-era-count {
+  font-size: 0.7rem;
+  color: var(--text-tertiary);
+  background: var(--bg-tertiary);
+  padding: 2px 8px;
+  border-radius: var(--radius-lg);
+  font-weight: 600;
+}
+
+/* ===== 연도 그룹 레벨 ===== */
+.mt-era-body {
+  background: var(--bg-primary);
+}
+
+.mt-group {
+  border-bottom: 1px solid var(--border);
+}
+
+.mt-group:last-child {
+  border-bottom: none;
+}
+
+.mt-group-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 9px 16px 9px 27px;
+  text-align: left;
+  cursor: pointer;
+  font-family: inherit;
+  border: none;
+  background: none;
+  transition: background var(--transition-fast);
+}
+
+.mt-group-header:active {
+  background: var(--bg-tertiary);
+}
+
+.mt-group-label {
+  flex: 1;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.mt-group-count {
+  font-size: 0.68rem;
+  color: var(--text-tertiary);
+  font-weight: 500;
+}
+
+/* ===== 사건 레벨 ===== */
+.mt-events {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background: var(--bg-secondary);
+}
+
+.mt-event {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 10px 16px 10px 40px;
+  text-align: left;
+  cursor: pointer;
+  font-family: inherit;
+  border: none;
+  background: none;
+  border-bottom: 1px solid var(--border);
+  transition: background var(--transition-fast);
+}
+
+.mt-events li:last-child .mt-event {
+  border-bottom: none;
+}
+
+.mt-event:active {
+  background: var(--bg-tertiary);
+}
+
+.mt-event-icon {
+  font-size: 1.05rem;
+  flex-shrink: 0;
+  width: 22px;
+  text-align: center;
+}
+
+.mt-event-body {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.mt-event-title {
+  font-size: 0.83rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mt-event-date {
+  font-size: 0.68rem;
+  color: var(--text-tertiary);
+}
+
+/* ===== 쉐브론 ===== */
+.mt-chevron {
+  color: var(--text-tertiary);
+  flex-shrink: 0;
+  transition: transform var(--transition-fast);
+}
+
+.mt-chevron.open {
+  transform: rotate(90deg);
+}
