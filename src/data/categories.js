@@ -33,7 +33,7 @@ export const ERAS = {
     label: { ko: '현대', en: 'Contemporary' },
     range: { start: 1945, end: 2030 },
     color: 'var(--era-contemporary)',
-    hex: '#7B73FF',
+    hex: '#5A72A0',
   },
 }
 

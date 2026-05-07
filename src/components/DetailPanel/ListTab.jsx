@@ -5,7 +5,7 @@ import { formatYear } from '../../utils/dateUtils'
 
 export default function ListTab({ items = [], totalItems = 0 }) {
   const { t } = useTranslation()
-  const { locale, setSelectedItem } = useStore()
+  const { locale, setSelectedItem, setDetailTab } = useStore()
 
   if (items.length === 0) {
     return (
@@ -34,7 +34,7 @@ export default function ListTab({ items = [], totalItems = 0 }) {
             <div
               key={item.id}
               className="list-tab-card"
-              onClick={() => setSelectedItem(item)}
+              onClick={() => { setSelectedItem(item); setDetailTab('wiki') }}
               style={{ borderLeftColor: eraColor }}
             >
               <div className="list-tab-card-header">

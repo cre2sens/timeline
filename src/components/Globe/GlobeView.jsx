@@ -90,7 +90,7 @@ export default function GlobeView({ items }) {
           cluster.label.font = 'bold 13px Pretendard Variable, Inter, sans-serif'
           cluster.label.fillColor = Cesium.Color.WHITE
           cluster.label.style = Cesium.LabelStyle.FILL_AND_OUTLINE
-          cluster.label.outlineColor = Cesium.Color.fromCssColorString('#1A1A2E')
+          cluster.label.outlineColor = Cesium.Color.fromCssColorString('#1C1917')
           cluster.label.outlineWidth = 3
           cluster.label.pixelOffset = new Cesium.Cartesian2(0, 0)
           cluster.label.disableDepthTestDistance = Number.POSITIVE_INFINITY
@@ -338,7 +338,7 @@ export default function GlobeView({ items }) {
           text: `${icon} ${title}`,
           font: '13px Pretendard Variable, Inter, sans-serif',
           fillColor: Cesium.Color.WHITE,
-          outlineColor: Cesium.Color.fromCssColorString('#1A1A2E'),
+          outlineColor: Cesium.Color.fromCssColorString('#1C1917'),
           outlineWidth: 3,
           style: Cesium.LabelStyle.FILL_AND_OUTLINE,
           pixelOffset: new Cesium.Cartesian2(0, -18),

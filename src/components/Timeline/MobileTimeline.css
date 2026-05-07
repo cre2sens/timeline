@@ -4,6 +4,42 @@
   background: var(--bg-primary);
 }
 
+/* PC 와이드 뷰: 이벤트 목록을 2열 그리드로 표시 */
+@media (min-width: 768px) {
+  .mt-era-header {
+    padding: 14px 20px;
+  }
+
+  .mt-group-header {
+    padding: 10px 20px 10px 32px;
+  }
+
+  .mt-events {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 0;
+  }
+
+  .mt-events li {
+    border-bottom: 1px solid var(--border);
+    border-right: 1px solid var(--border);
+  }
+
+  .mt-event {
+    padding: 11px 20px 11px 20px;
+    border-bottom: none;
+    height: 100%;
+  }
+
+  .mt-era-label {
+    font-size: 0.95rem;
+  }
+
+  .mt-group-label {
+    font-size: 0.82rem;
+  }
+}
+
 .mt-empty {
   display: flex;
   align-items: center;
@@ -48,6 +84,7 @@
 
 .mt-era-label {
   flex: 1;
+  font-family: var(--font-serif);
   font-size: 0.92rem;
   font-weight: 700;
   color: var(--text-primary);

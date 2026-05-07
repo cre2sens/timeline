@@ -31,36 +31,39 @@ function parseYear(dateStr) {
   return parseInt(dateStr.split('-')[0])
 }
 
+/**
+ * 그룹 레이블과 시간 순 정렬키를 함께 반환
+ * sortKey: 작을수록 오래된 시기 (BC는 음수)
+ */
 function getTimeGroup(year, era) {
-  if (year === null) return '미상'
+  if (year === null) return { label: '미상', sortKey: Infinity }
+
   if (era === 'contemporary') {
     const d = Math.floor(year / 10) * 10
-    return `${d}년대`
+    return { label: `${d}년대`, sortKey: d }
   }
   if (era === 'modern') {
     const q = Math.floor(year / 25) * 25
-    return `${q}–${q + 24}`
+    return { label: `${q}–${q + 24}`, sortKey: q }
   }
   if (year < 0) {
     const c = Math.ceil(Math.abs(year) / 100)
-    return `기원전 ${c}세기`
+    // BC: 24세기(-2400) < 7세기(-700) < 1세기(-100) → 오름차순 정렬이면 -2400이 먼저
+    return { label: `기원전 ${c}세기`, sortKey: -(c * 100) }
   }
   const c = Math.floor(year / 100) + 1
-  return `${c}세기`
+  return { label: `${c}세기`, sortKey: Math.floor(year / 100) * 100 }
 }
 
 export default function MobileTimeline({ items }) {
-  const { locale } = useStore()
+  const { locale, setSelectedItem, setDetailTab } = useStore()
   const { t } = useTranslation()
-  const { setSelectedItem } = useStore()
 
-  // 시대 열림 상태 — 기본 모두 열림
-  const [openEras, setOpenEras] = useState(
-    () => new Set(ERA_ORDER)
-  )
+  const [openEras, setOpenEras] = useState(() => new Set())
   const [openGroups, setOpenGroups] = useState(() => new Set())
 
   const grouped = useMemo(() => {
+    // 시대별 분류
     const byEra = {}
     for (const item of items) {
       const era = item.era || 'ancient'
@@ -71,22 +74,29 @@ export default function MobileTimeline({ items }) {
     const result = {}
     for (const era of ERA_ORDER) {
       if (!byEra[era]) continue
+
+      // label → { sortKey, items[] }
       const byGroup = {}
       for (const item of byEra[era]) {
         const year = parseYear(item.date?.start || item.birth?.start)
-        const group = getTimeGroup(year, era)
-        if (!byGroup[group]) byGroup[group] = []
-        byGroup[group].push(item)
+        const { label, sortKey } = getTimeGroup(year, era)
+        if (!byGroup[label]) byGroup[label] = { sortKey, items: [] }
+        byGroup[label].items.push(item)
       }
-      // 시간 순 정렬
-      for (const g of Object.keys(byGroup)) {
-        byGroup[g].sort((a, b) => {
+
+      // 각 그룹 내 사건 시간 순 정렬
+      for (const g of Object.values(byGroup)) {
+        g.items.sort((a, b) => {
           const ya = parseYear(a.date?.start || a.birth?.start) ?? 0
           const yb = parseYear(b.date?.start || b.birth?.start) ?? 0
           return ya - yb
         })
       }
-      result[era] = byGroup
+
+      // ★ 그룹 자체를 sortKey 기준으로 시간 순 정렬
+      result[era] = Object.entries(byGroup)
+        .sort(([, a], [, b]) => a.sortKey - b.sortKey)
+        .map(([label, { items }]) => ({ label, items }))
     }
     return result
   }, [items])
@@ -94,8 +104,7 @@ export default function MobileTimeline({ items }) {
   const toggleEra = (era) => {
     setOpenEras(prev => {
       const next = new Set(prev)
-      if (next.has(era)) next.delete(era)
-      else next.add(era)
+      next.has(era) ? next.delete(era) : next.add(era)
       return next
     })
   }
@@ -103,8 +112,7 @@ export default function MobileTimeline({ items }) {
   const toggleGroup = (key) => {
     setOpenGroups(prev => {
       const next = new Set(prev)
-      if (next.has(key)) next.delete(key)
-      else next.add(key)
+      next.has(key) ? next.delete(key) : next.add(key)
       return next
     })
   }
@@ -112,7 +120,7 @@ export default function MobileTimeline({ items }) {
   if (items.length === 0) {
     return (
       <div className="mt-empty">
-        <p>{t('filter.noResults')}</p>
+        <p>{t('filter.noResults', '검색 결과가 없습니다.')}</p>
       </div>
     )
   }
@@ -124,8 +132,8 @@ export default function MobileTimeline({ items }) {
         const isEraOpen = openEras.has(era)
         const color = ERA_CSS_COLORS[era]
         const label = ERA_LABELS[era][locale] ?? ERA_LABELS[era].ko
-        const groups = grouped[era]
-        const totalCount = Object.values(groups).reduce((s, g) => s + g.length, 0)
+        const groups = grouped[era]           // 이미 시간 순 정렬된 배열
+        const totalCount = groups.reduce((s, g) => s + g.items.length, 0)
 
         return (
           <div key={era} className="mt-era">
@@ -145,7 +153,7 @@ export default function MobileTimeline({ items }) {
 
             {isEraOpen && (
               <div className="mt-era-body">
-                {Object.entries(groups).map(([groupLabel, groupItems]) => {
+                {groups.map(({ label: groupLabel, items: groupItems }) => {
                   const groupKey = `${era}-${groupLabel}`
                   const isGroupOpen = openGroups.has(groupKey)
 
@@ -169,7 +177,7 @@ export default function MobileTimeline({ items }) {
                             <li key={item.id}>
                               <button
                                 className="mt-event"
-                                onClick={() => setSelectedItem(item)}
+                                onClick={() => { setSelectedItem(item); setDetailTab('wiki') }}
                               >
                                 <span className="mt-event-icon">
                                   {item.icon || '📋'}
@@ -181,7 +189,7 @@ export default function MobileTimeline({ items }) {
                                   <span className="mt-event-date">
                                     {formatDateRange(
                                       item.date?.start || item.birth?.start,
-                                      item.date?.end   || item.death?.end,
+                                      item.date?.end   || item.death?.start,
                                       locale
                                     )}
                                   </span>

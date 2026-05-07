@@ -51,6 +51,7 @@
 }
 
 .detail-item-title {
+  font-family: var(--font-serif);
   font-size: 0.95rem;
   font-weight: 700;
   line-height: 1.3;
