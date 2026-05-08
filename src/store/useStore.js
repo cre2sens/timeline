@@ -18,6 +18,11 @@ const useStore = create((set, get) => ({
   setSelectedItem: (item) => set({ selectedItem: item }),
   clearSelected: () => set({ selectedItem: null }),
 
+  // 선택된 클러스터 아이템 목록
+  selectedClusterItems: null,
+  setSelectedClusterItems: (items) => set({ selectedClusterItems: items }),
+  clearSelectedClusterItems: () => set({ selectedClusterItems: null }),
+
   // 필터
   filters: {
     eras: [],

@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import { Map, RotateCw, Focus } from 'lucide-react'
+import { Map as MapIcon, RotateCw, Focus } from 'lucide-react'
 import useStore from '../../store/useStore'
 import { getEraColor } from '../../data/categories'
 import './GlobeView.css'
@@ -11,7 +11,12 @@ export default function GlobeView({ items }) {
   const labelsLayerRef = useRef(null)
   const dataSourceRef = useRef(null)
   const pulseEntityRef = useRef(null)
-  const { selectedItem, setSelectedItem, locale, theme } = useStore()
+  const { 
+    selectedItem, setSelectedItem, 
+    setSelectedClusterItems,
+    setDetailTab,
+    locale, theme 
+  } = useStore()
 
   // 컨트롤 상태
   const [showLabels, setShowLabels] = useState(false)
@@ -83,7 +88,10 @@ export default function GlobeView({ items }) {
         dataSource.clustering.enabled = true
         dataSource.clustering.pixelRange = 45
         dataSource.clustering.minimumClusterSize = 2
-        
+
+        // 클러스터별 엔티티 매핑을 저장하는 Map (clusterEvent에서 채워짐)
+        const clusterEntityMap = new Map()
+
         dataSource.clustering.clusterEvent.addEventListener((clusteredEntities, cluster) => {
           cluster.label.show = true
           cluster.label.text = clusteredEntities.length.toString()
@@ -92,7 +100,9 @@ export default function GlobeView({ items }) {
           cluster.label.style = Cesium.LabelStyle.FILL_AND_OUTLINE
           cluster.label.outlineColor = Cesium.Color.fromCssColorString('#1C1917')
           cluster.label.outlineWidth = 3
-          cluster.label.pixelOffset = new Cesium.Cartesian2(0, 0)
+          cluster.label.pixelOffset = new Cesium.Cartesian2(0, -1)
+          cluster.label.horizontalOrigin = Cesium.HorizontalOrigin.CENTER
+          cluster.label.verticalOrigin = Cesium.VerticalOrigin.CENTER
           cluster.label.disableDepthTestDistance = Number.POSITIVE_INFINITY
 
           cluster.billboard.show = false
@@ -103,6 +113,12 @@ export default function GlobeView({ items }) {
           cluster.point.outlineColor = Cesium.Color.fromCssColorString('#FFFFFF')
           cluster.point.outlineWidth = 2
           cluster.point.disableDepthTestDistance = Number.POSITIVE_INFINITY
+
+          // 클러스터의 label에 엔티티 배열을 매핑으로 저장
+          // label.id는 클러스터를 구성하는 엔티티 배열입니다
+          if (cluster.label.id) {
+            clusterEntityMap.set(cluster.label.id, [...clusteredEntities])
+          }
         })
 
         dataSourceRef.current = dataSource
@@ -116,26 +132,87 @@ export default function GlobeView({ items }) {
         // 클릭 이벤트 (마커 또는 클러스터 클릭 시)
         const handler = new Cesium.ScreenSpaceEventHandler(viewer.scene.canvas)
         handler.setInputAction((click) => {
-          const picked = viewer.scene.pick(click.position)
-          if (Cesium.defined(picked) && picked.id) {
-            // 개별 항목 클릭 시
-            if (picked.id._itemData) {
+          // drillPick으로 클릭 위치의 모든 객체를 탐색합니다
+          const pickedObjects = viewer.scene.drillPick(click.position)
+          
+          let handled = false
+
+          for (const picked of pickedObjects) {
+            if (!Cesium.defined(picked)) continue
+
+            // 1) 개별 마커 클릭: Entity에 _itemData가 있는 경우
+            if (picked.id && picked.id._itemData) {
               setSelectedItem(picked.id._itemData)
-            } else {
-              // 클러스터 클릭 시: 클릭 지점 기준 현재 고도의 절반으로 확대
-              const ellipsoid = viewer.scene.globe.ellipsoid
-              const cartesian = viewer.camera.pickEllipsoid(click.position, ellipsoid)
-              if (cartesian) {
-                const carto = Cesium.Ellipsoid.WGS84.cartesianToCartographic(cartesian)
-                viewer.camera.flyTo({
-                  destination: Cesium.Cartesian3.fromRadians(
-                    carto.longitude,
-                    carto.latitude,
-                    Math.max(viewer.camera.positionCartographic.height / 2, 100000)
-                  ),
-                  duration: 0.8,
-                })
+              handled = true
+              break
+            }
+
+            // 2) 클러스터 클릭: primitive의 id가 배열이거나,
+            //    label/point의 id가 엔티티 배열인 경우
+            const primitiveId = picked.primitive?.id
+            if (primitiveId) {
+              // 방법 A: primitive.id가 직접 배열인 경우
+              if (Array.isArray(primitiveId)) {
+                const clusterItems = primitiveId
+                  .map(entity => entity._itemData)
+                  .filter(Boolean)
+                
+                if (clusterItems.length > 0) {
+                  setSelectedClusterItems(clusterItems)
+                  setSelectedItem(null)
+                  setDetailTab('list')
+                  handled = true
+                  break
+                }
               }
+
+              // 방법 B: clusterEntityMap에서 찾기
+              if (clusterEntityMap.has(primitiveId)) {
+                const entities = clusterEntityMap.get(primitiveId)
+                const clusterItems = entities
+                  .map(entity => entity._itemData)
+                  .filter(Boolean)
+                
+                if (clusterItems.length > 0) {
+                  setSelectedClusterItems(clusterItems)
+                  setSelectedItem(null)
+                  setDetailTab('list')
+                  handled = true
+                  break
+                }
+              }
+            }
+
+            // 3) picked.id 자체가 배열인 경우 (Cesium 버전에 따라 다름)
+            if (Array.isArray(picked.id)) {
+              const clusterItems = picked.id
+                .map(entity => entity._itemData)
+                .filter(Boolean)
+              
+              if (clusterItems.length > 0) {
+                setSelectedClusterItems(clusterItems)
+                setSelectedItem(null)
+                setDetailTab('list')
+                handled = true
+                break
+              }
+            }
+          }
+
+          // 클러스터 클릭 시 줌인 효과 (개별 마커가 아닌 경우만)
+          if (handled && !pickedObjects.some(p => p.id?._itemData)) {
+            const ellipsoid = viewer.scene.globe.ellipsoid
+            const cartesian = viewer.camera.pickEllipsoid(click.position, ellipsoid)
+            if (cartesian) {
+              const carto = Cesium.Ellipsoid.WGS84.cartesianToCartographic(cartesian)
+              viewer.camera.flyTo({
+                destination: Cesium.Cartesian3.fromRadians(
+                  carto.longitude,
+                  carto.latitude,
+                  Math.max(viewer.camera.positionCartographic.height / 2, 100000)
+                ),
+                duration: 0.8,
+              })
             }
           }
         }, Cesium.ScreenSpaceEventType.LEFT_CLICK)
@@ -370,7 +447,7 @@ export default function GlobeView({ items }) {
           onClick={() => setShowLabels(!showLabels)}
           title={locale === 'ko' ? '지명 표시' : 'Toggle Labels'}
         >
-          <Map size={20} />
+          <MapIcon size={20} />
         </button>
         <button 
           className={`control-btn ${autoRotate ? 'active' : ''}`}

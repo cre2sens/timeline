@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path');
 
 const eventsPath = 'c:/coding/timeline/src/data/events.json';
 const events = JSON.parse(fs.readFileSync(eventsPath, 'utf8'));
@@ -106,59 +107,22 @@ const userEventsRaw = [
     { continent: '아메리카', year: '1962년', title: '쿠바 미사일 위기', location: '쿠바' }
 ];
 
-function extractKeywords(str) {
-    if (!str) return [];
-    // 특수문자 제거, 공백 기준으로 나누기
-    return str.replace(/[·\(\)\[\]]/g, ' ')
-              .split(/\s+/)
-              .filter(w => w.length >= 2) // 1글자 단어는 무시
-              .map(w => w.replace(/의|에|은|는|이|가|과|와|등|시작|발달|발생|등장|탄생|건국|수립|개막|발발|유행/g, ''))
-              .filter(w => w.length > 0);
+function normalize(str) {
+    if (!str) return '';
+    return str.replace(/\s+/g, '').replace(/[·\(\)\[\]]/g, '');
 }
 
-const existingEventsData = events.map(e => ({
-    title: e.title.ko,
-    wiki: e.wikipedia?.ko || '',
-    keywords: new Set([...extractKeywords(e.title.ko), ...extractKeywords(e.wikipedia?.ko)])
-}));
-
-function calcJaccard(setA, setB) {
-    let intersection = new Set([...setA].filter(x => setB.has(x)));
-    let union = new Set([...setA, ...setB]);
-    return union.size === 0 ? 0 : intersection.size / union.size;
-}
+const existingNormalizedTitles = new Set(events.map(e => normalize(e.title.ko)));
+const existingWikiTitles = new Set(events.map(e => normalize(e.wikipedia.ko)));
 
 const filteredEvents = userEventsRaw.filter(ue => {
-    const normUserTitle = ue.title.replace(/\s+/g, '');
-    const userKeywords = new Set(extractKeywords(ue.title));
-
-    for (const dbEvt of existingEventsData) {
-        const normDbTitle = dbEvt.title.replace(/\s+/g, '');
-        const normDbWiki = dbEvt.wiki.replace(/\s+/g, '');
-        
-        // 1. 직접 포함 관계 (이전 스크립트 로직)
-        if (normDbTitle && (normDbTitle.includes(normUserTitle) || normUserTitle.includes(normDbTitle))) return false;
-        if (normDbWiki && (normDbWiki.includes(normUserTitle) || normUserTitle.includes(normDbWiki))) return false;
-        
-        // 2. 키워드 교집합 비율
-        if (userKeywords.size > 0 && dbEvt.keywords.size > 0) {
-            let intersectionCount = 0;
-            for(let kw of userKeywords) {
-                // 부분 일치라도 있으면 (예: 십자군 vs 십자군전쟁)
-                for(let dbKw of dbEvt.keywords) {
-                    if(dbKw.includes(kw) || kw.includes(dbKw)) {
-                        intersectionCount++;
-                        break;
-                    }
-                }
-            }
-            const ratio = intersectionCount / userKeywords.size;
-            // 키워드의 절반 이상이 일치하면 중복으로 간주
-            if (ratio >= 0.5) {
-                //console.log(`[중복 의심] ${ue.title} <-> ${dbEvt.title} (비율: ${ratio})`);
-                return false;
-            }
-        }
+    const norm = normalize(ue.title);
+    // 제목이 포함되어 있거나, 포함하고 있거나, 위키 제목과 일치하는지 확인
+    for (const ext of existingNormalizedTitles) {
+        if (ext.includes(norm) || norm.includes(ext)) return false;
+    }
+    for (const ext of existingWikiTitles) {
+        if (ext.includes(norm) || norm.includes(ext)) return false;
     }
     return true;
 });

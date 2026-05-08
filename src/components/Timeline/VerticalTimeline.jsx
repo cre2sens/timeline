@@ -32,7 +32,7 @@ const REGIONS = [
 const REGION_IDS = new Set(REGIONS.map(r => r.id));
 
 export default function VerticalTimeline({ items }) {
-  const { setSelectedItem } = useStore();
+  const { setSelectedItem, setDetailTab } = useStore();
   const scrollRef = useRef(null);
   
   const getStartDate = (item) => item.date?.start || item.date?.birth;
@@ -72,6 +72,7 @@ export default function VerticalTimeline({ items }) {
 
   const handleEventClick = (event) => {
     setSelectedItem(event);
+    setDetailTab('wiki');
     // 지구본 연동 이벤트 (선택 사항)
     const customEvent = new CustomEvent('focusGlobeTo', { detail: event });
     window.dispatchEvent(customEvent);

@@ -1,7 +1,6 @@
 const fs = require('fs');
 
-const eventsPath = 'c:/coding/timeline/src/data/events.json';
-const events = JSON.parse(fs.readFileSync(eventsPath, 'utf8'));
+const events = JSON.parse(fs.readFileSync('c:/coding/timeline/src/data/events.json', 'utf8'));
 
 const userEventsRaw = [
     { continent: '아프리카 및 서아시아', year: '약 41억 년 전', title: '인류 최초의 생명체 탄생', location: '바다' },
@@ -106,65 +105,59 @@ const userEventsRaw = [
     { continent: '아메리카', year: '1962년', title: '쿠바 미사일 위기', location: '쿠바' }
 ];
 
-function extractKeywords(str) {
-    if (!str) return [];
-    // 특수문자 제거, 공백 기준으로 나누기
-    return str.replace(/[·\(\)\[\]]/g, ' ')
-              .split(/\s+/)
-              .filter(w => w.length >= 2) // 1글자 단어는 무시
-              .map(w => w.replace(/의|에|은|는|이|가|과|와|등|시작|발달|발생|등장|탄생|건국|수립|개막|발발|유행/g, ''))
-              .filter(w => w.length > 0);
-}
+function norm(s) { return (s || '').replace(/\s+/g, '').replace(/[·\(\)\[\]]/g, ''); }
 
-const existingEventsData = events.map(e => ({
-    title: e.title.ko,
-    wiki: e.wikipedia?.ko || '',
-    keywords: new Set([...extractKeywords(e.title.ko), ...extractKeywords(e.wikipedia?.ko)])
-}));
-
-function calcJaccard(setA, setB) {
-    let intersection = new Set([...setA].filter(x => setB.has(x)));
-    let union = new Set([...setA, ...setB]);
-    return union.size === 0 ? 0 : intersection.size / union.size;
-}
-
-const filteredEvents = userEventsRaw.filter(ue => {
-    const normUserTitle = ue.title.replace(/\s+/g, '');
-    const userKeywords = new Set(extractKeywords(ue.title));
-
-    for (const dbEvt of existingEventsData) {
-        const normDbTitle = dbEvt.title.replace(/\s+/g, '');
-        const normDbWiki = dbEvt.wiki.replace(/\s+/g, '');
-        
-        // 1. 직접 포함 관계 (이전 스크립트 로직)
-        if (normDbTitle && (normDbTitle.includes(normUserTitle) || normUserTitle.includes(normDbTitle))) return false;
-        if (normDbWiki && (normDbWiki.includes(normUserTitle) || normUserTitle.includes(normDbWiki))) return false;
-        
-        // 2. 키워드 교집합 비율
-        if (userKeywords.size > 0 && dbEvt.keywords.size > 0) {
-            let intersectionCount = 0;
-            for(let kw of userKeywords) {
-                // 부분 일치라도 있으면 (예: 십자군 vs 십자군전쟁)
-                for(let dbKw of dbEvt.keywords) {
-                    if(dbKw.includes(kw) || kw.includes(dbKw)) {
-                        intersectionCount++;
-                        break;
-                    }
-                }
-            }
-            const ratio = intersectionCount / userKeywords.size;
-            // 키워드의 절반 이상이 일치하면 중복으로 간주
-            if (ratio >= 0.5) {
-                //console.log(`[중복 의심] ${ue.title} <-> ${dbEvt.title} (비율: ${ratio})`);
-                return false;
+function levin(a, b) {
+    if(a.length === 0) return b.length;
+    if(b.length === 0) return a.length;
+    let matrix = [];
+    for(let i = 0; i <= b.length; i++){ matrix[i] = [i]; }
+    for(let j = 0; j <= a.length; j++){ matrix[0][j] = j; }
+    for(let i = 1; i <= b.length; i++){
+        for(let j = 1; j <= a.length; j++){
+            if(b.charAt(i-1) == a.charAt(j-1)){
+                matrix[i][j] = matrix[i-1][j-1];
+            } else {
+                matrix[i][j] = Math.min(matrix[i-1][j-1] + 1, Math.min(matrix[i][j-1] + 1, matrix[i-1][j] + 1));
             }
         }
     }
-    return true;
-});
+    return matrix[b.length][a.length];
+}
 
-console.log('| 대륙 | 연도 | 사건명 | 지명 |');
-console.log('| :--- | :--- | :--- | :--- |');
-filteredEvents.forEach(e => {
-    console.log(`| ${e.continent} | ${e.year} | ${e.title} | ${e.location} |`);
-});
+const dbTitles = events.map(e => norm(e.title.ko));
+const dbWikis = events.map(e => norm(e.wikipedia?.ko || ''));
+
+let result = '';
+for (const ue of userEventsRaw) {
+    const un = norm(ue.title);
+    let bestDist = 999;
+    let bestMatch = '';
+    
+    for(let i=0; i<events.length; i++) {
+        const dbt = dbTitles[i];
+        if(!dbt) continue;
+        if (dbt.includes(un) || un.includes(dbt)) {
+            bestDist = 0;
+            bestMatch = events[i].title.ko;
+            break;
+        }
+        const dbw = dbWikis[i];
+        if (dbw && (dbw.includes(un) || un.includes(dbw))) {
+            bestDist = 0;
+            bestMatch = events[i].wikipedia.ko;
+            break;
+        }
+        const dist1 = levin(un, dbt);
+        const dist2 = dbw ? levin(un, dbw) : 999;
+        const localBest = Math.min(dist1, dist2);
+        
+        if (localBest < bestDist) {
+            bestDist = localBest;
+            bestMatch = dist1 < dist2 ? events[i].title.ko : (events[i].wikipedia?.ko || '');
+        }
+    }
+    
+    result += `${ue.title} => Match: ${bestMatch} (Dist: ${bestDist})\n`;
+}
+fs.writeFileSync('c:/coding/timeline/scratch/levenshtein_results.txt', result, 'utf8');

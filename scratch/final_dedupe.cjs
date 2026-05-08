@@ -1,8 +1,5 @@
 const fs = require('fs');
 
-const eventsPath = 'c:/coding/timeline/src/data/events.json';
-const events = JSON.parse(fs.readFileSync(eventsPath, 'utf8'));
-
 const userEventsRaw = [
     { continent: '아프리카 및 서아시아', year: '약 41억 년 전', title: '인류 최초의 생명체 탄생', location: '바다' },
     { continent: '아프리카 및 서아시아', year: '약 400만 년 전', title: '오스트랄로피테쿠스 등장', location: '아프리카' },
@@ -106,65 +103,52 @@ const userEventsRaw = [
     { continent: '아메리카', year: '1962년', title: '쿠바 미사일 위기', location: '쿠바' }
 ];
 
-function extractKeywords(str) {
-    if (!str) return [];
-    // 특수문자 제거, 공백 기준으로 나누기
-    return str.replace(/[·\(\)\[\]]/g, ' ')
-              .split(/\s+/)
-              .filter(w => w.length >= 2) // 1글자 단어는 무시
-              .map(w => w.replace(/의|에|은|는|이|가|과|와|등|시작|발달|발생|등장|탄생|건국|수립|개막|발발|유행/g, ''))
-              .filter(w => w.length > 0);
-}
+const manualExcludes = [
+    '바스티유 감옥 습격 (프랑스 대혁명 시작)', // 프랑스 혁명
+    '7월 혁명', // 프랑스 7월 혁명
+    '2월 혁명', // 프랑스 2월 혁명
+    '레닌의 사회주의 혁명', // 러시아 혁명 (볼셰비키 혁명)
+    '제1차 페르시아의 그리스 침공', // 페르시아 전쟁
+    '주가 폭락으로 대공황 시작', // 세계 경제 대공황
+    '30년 전쟁 발발', // 베스트팔렌 조약 (30년 전쟁 종결)
+    '베스트팔렌 조약 체결', // 베스트팔렌 조약 (30년 전쟁 종결)
+    '미국 독립 승인', // 미국 독립 선언서 발표
+    '함무라비 법전 편찬', // DB에 있음
+    '인더스 문명 발생', // DB에 있음
+    '파쇼다 사건 발발', // DB에 있음
+    '정통 칼리프 시대', // DB에 있음 (정통 칼리프 시대 개막)
+    '세포이 항쟁 발발', // DB에 있음
+    '러일 전쟁', // DB에 있음
+    '일본의 조선 국권 피탈', // DB에 있음 (조선)
+    '신해혁명 발발', // DB에 있음 (신해혁명)
+    '5·4 운동', // DB에 있음
+    '만주 사변 발발', // DB에 있음 (만주 사변)
+    '통킹만 사건 및 베트남 전쟁', // DB에 있음
+    '문화 대혁명', // DB에 있음
+    '로마 공화정 시작', // 로마 제정 수립과 유사하여 제외할까? 일단 유지.
+    '로마와 카르타고의 포에니 전쟁', // 포에니 전쟁
+    '서로마 제국 멸망', // 서로마 멸망
+    '십자군 전쟁', // 십자군 전쟁
+    '흑사병 유행', // 흑사병
+    '동로마 제국 멸망', // 비잔티움 제국 멸망
+    '나폴레옹 황제 즉위', // 나폴레옹 황제 즉위
+    '사라예보 사건 발발', // 사라예보 사건
+    '제1차 세계 대전', // 제1차 세계대전
+    '소비에트 연방 수립', // 소비에트 연방
+    '제2차 세계 대전 발발', // 제2차 세계대전
+    '베를린 장벽 붕괴', // 베를린 장벽 붕괴
+    '미국 독립 선언', // 미국 독립 선언서 발표
+    '남북 전쟁', // 미국 남북 전쟁 발발
+    '쿠바 미사일 위기', // 쿠바 미사일 위기
+    '콜럼버스 출항', // 콜럼버스 아메리카 도달 (의미 동일)
+    '마젤란 탐험대 세계 일주 성공', // 마젤란 함대 세계 일주 완료
+    '정화의 대규모 남해 원정' // 명나라 건국과 정화의 원정
+];
 
-const existingEventsData = events.map(e => ({
-    title: e.title.ko,
-    wiki: e.wikipedia?.ko || '',
-    keywords: new Set([...extractKeywords(e.title.ko), ...extractKeywords(e.wikipedia?.ko)])
-}));
-
-function calcJaccard(setA, setB) {
-    let intersection = new Set([...setA].filter(x => setB.has(x)));
-    let union = new Set([...setA, ...setB]);
-    return union.size === 0 ? 0 : intersection.size / union.size;
-}
-
-const filteredEvents = userEventsRaw.filter(ue => {
-    const normUserTitle = ue.title.replace(/\s+/g, '');
-    const userKeywords = new Set(extractKeywords(ue.title));
-
-    for (const dbEvt of existingEventsData) {
-        const normDbTitle = dbEvt.title.replace(/\s+/g, '');
-        const normDbWiki = dbEvt.wiki.replace(/\s+/g, '');
-        
-        // 1. 직접 포함 관계 (이전 스크립트 로직)
-        if (normDbTitle && (normDbTitle.includes(normUserTitle) || normUserTitle.includes(normDbTitle))) return false;
-        if (normDbWiki && (normDbWiki.includes(normUserTitle) || normUserTitle.includes(normDbWiki))) return false;
-        
-        // 2. 키워드 교집합 비율
-        if (userKeywords.size > 0 && dbEvt.keywords.size > 0) {
-            let intersectionCount = 0;
-            for(let kw of userKeywords) {
-                // 부분 일치라도 있으면 (예: 십자군 vs 십자군전쟁)
-                for(let dbKw of dbEvt.keywords) {
-                    if(dbKw.includes(kw) || kw.includes(dbKw)) {
-                        intersectionCount++;
-                        break;
-                    }
-                }
-            }
-            const ratio = intersectionCount / userKeywords.size;
-            // 키워드의 절반 이상이 일치하면 중복으로 간주
-            if (ratio >= 0.5) {
-                //console.log(`[중복 의심] ${ue.title} <-> ${dbEvt.title} (비율: ${ratio})`);
-                return false;
-            }
-        }
-    }
-    return true;
-});
+const finalNewEvents = userEventsRaw.filter(e => !manualExcludes.includes(e.title));
 
 console.log('| 대륙 | 연도 | 사건명 | 지명 |');
 console.log('| :--- | :--- | :--- | :--- |');
-filteredEvents.forEach(e => {
+finalNewEvents.forEach(e => {
     console.log(`| ${e.continent} | ${e.year} | ${e.title} | ${e.location} |`);
 });

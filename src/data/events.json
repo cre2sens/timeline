@@ -10700,5 +10700,2323 @@
     },
     "icon": "⚔️",
     "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_0",
+    "type": "event",
+    "date": {
+      "start": "-4100000000-01-01",
+      "end": "-4100000000-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "바다",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "인류 최초의 생명체 탄생",
+      "en": ""
+    },
+    "description": {
+      "ko": "약 41억 년 전 바다에서 발생한 인류 최초의 생명체 탄생",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "인류 최초의 생명체 탄생",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_1",
+    "type": "event",
+    "date": {
+      "start": "-4000000-01-01",
+      "end": "-4000000-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "아프리카",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lng": 20
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "오스트랄로피테쿠스 등장",
+      "en": ""
+    },
+    "description": {
+      "ko": "약 400만 년 전 아프리카에서 발생한 오스트랄로피테쿠스 등장",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "오스트랄로피테쿠스 등장",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_2",
+    "type": "event",
+    "date": {
+      "start": "-10000-01-01",
+      "end": "-10000-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "서아시아",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 32,
+        "lng": 40
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "농경과 목축의 시작",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 1만 년 무렵 서아시아에서 발생한 농경과 목축의 시작",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "농경과 목축의 시작",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_3",
+    "type": "event",
+    "date": {
+      "start": "-5000-01-01",
+      "end": "-5000-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "이집트",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 30,
+        "lng": 31
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "나일강 유역 농경 생활 시작",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 5000년 무렵 이집트에서 발생한 나일강 유역 농경 생활 시작",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "나일강 유역 농경 생활 시작",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_4",
+    "type": "event",
+    "date": {
+      "start": "-3500-01-01",
+      "end": "-3500-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "메소포타미아",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 33,
+        "lng": 44
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "수메르인 최초의 도시 국가 탄생",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 3500년 무렵 메소포타미아에서 발생한 수메르인 최초의 도시 국가 탄생",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "수메르인 최초의 도시 국가 탄생",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_5",
+    "type": "event",
+    "date": {
+      "start": "-3100-01-01",
+      "end": "-3100-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "이집트",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 30,
+        "lng": 31
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "상하 이집트 통일",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 3100년 무렵 이집트에서 발생한 상하 이집트 통일",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "상하 이집트 통일",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_6",
+    "type": "event",
+    "date": {
+      "start": "-1500-01-01",
+      "end": "-1500-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "서아시아",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 32,
+        "lng": 40
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "히타이트, 아시리아 등 여러 왕국 등장",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 1500년 무렵 서아시아에서 발생한 히타이트, 아시리아 등 여러 왕국 등장",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "히타이트, 아시리아 등 여러 왕국 등장",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_7",
+    "type": "event",
+    "date": {
+      "start": "-1200-01-01",
+      "end": "-1200-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "서아시아",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 32,
+        "lng": 40
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "역사 기록이 남지 않은 암흑시대 시작",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 1200년 무렵 서아시아에서 발생한 역사 기록이 남지 않은 암흑시대 시작",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "역사 기록이 남지 않은 암흑시대 시작",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_8",
+    "type": "event",
+    "date": {
+      "start": "-0600-01-01",
+      "end": "-0600-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "페르시아 제국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 32,
+        "lng": 53
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "아케메네스 왕조 페르시아 건국",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 6세기 무렵 페르시아 제국에서 발생한 아케메네스 왕조 페르시아 건국",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아케메네스 왕조 페르시아 건국",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_9",
+    "type": "event",
+    "date": {
+      "start": "0661-01-01",
+      "end": "0750-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "아라비아 반도",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 24,
+        "lng": 45
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "우마이야 왕조 세워짐",
+      "en": ""
+    },
+    "description": {
+      "ko": "661~750년 아라비아 반도에서 발생한 우마이야 왕조 세워짐",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "우마이야 왕조 세워짐",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_10",
+    "type": "event",
+    "date": {
+      "start": "1869-01-01",
+      "end": "1869-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "이집트",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 30,
+        "lng": 31
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "수에즈 운하 개통",
+      "en": ""
+    },
+    "description": {
+      "ko": "1869년 이집트에서 발생한 수에즈 운하 개통",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "수에즈 운하 개통",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_11",
+    "type": "event",
+    "date": {
+      "start": "1882-01-01",
+      "end": "1882-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "이집트",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 30,
+        "lng": 31
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "영국의 이집트 점령 시작",
+      "en": ""
+    },
+    "description": {
+      "ko": "1882년 이집트에서 발생한 영국의 이집트 점령 시작",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "영국의 이집트 점령 시작",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_12",
+    "type": "event",
+    "date": {
+      "start": "1948-01-01",
+      "end": "1948-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "팔레스타인",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 31.5,
+        "lng": 35
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "이스라엘 건국",
+      "en": ""
+    },
+    "description": {
+      "ko": "1948년 팔레스타인에서 발생한 이스라엘 건국",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "이스라엘 건국",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_13",
+    "type": "event",
+    "date": {
+      "start": "1948-01-01",
+      "end": "1948-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "이스라엘 및 주변국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 31.5,
+        "lng": 35
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "제1차 중동 전쟁",
+      "en": ""
+    },
+    "description": {
+      "ko": "1948년 이스라엘 및 주변국에서 발생한 제1차 중동 전쟁",
+      "en": ""
+    },
+    "category": "war",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제1차 중동 전쟁",
+      "en": ""
+    },
+    "icon": "⚔️",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_14",
+    "type": "event",
+    "date": {
+      "start": "1956-01-01",
+      "end": "1956-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "이집트 시나이반도",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 29.5,
+        "lng": 33.8
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "제2차 중동 전쟁",
+      "en": ""
+    },
+    "description": {
+      "ko": "1956년 이집트 시나이반도에서 발생한 제2차 중동 전쟁",
+      "en": ""
+    },
+    "category": "war",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제2차 중동 전쟁",
+      "en": ""
+    },
+    "icon": "⚔️",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_15",
+    "type": "event",
+    "date": {
+      "start": "1967-01-01",
+      "end": "1967-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "이스라엘, 시리아 등",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 33,
+        "lng": 36
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "제3차 중동 전쟁",
+      "en": ""
+    },
+    "description": {
+      "ko": "1967년 이스라엘, 시리아 등에서 발생한 제3차 중동 전쟁",
+      "en": ""
+    },
+    "category": "war",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제3차 중동 전쟁",
+      "en": ""
+    },
+    "icon": "⚔️",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_16",
+    "type": "event",
+    "date": {
+      "start": "1973-01-01",
+      "end": "1973-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "이스라엘 및 아랍 국가",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "region": "middleEast"
+    },
+    "title": {
+      "ko": "제4차 중동 전쟁",
+      "en": ""
+    },
+    "description": {
+      "ko": "1973년 이스라엘 및 아랍 국가에서 발생한 제4차 중동 전쟁",
+      "en": ""
+    },
+    "category": "war",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제4차 중동 전쟁",
+      "en": ""
+    },
+    "icon": "⚔️",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_17",
+    "type": "event",
+    "date": {
+      "start": "-7000-01-01",
+      "end": "-6000-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "중국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 35,
+        "lng": 105
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "황허강 등 신석기 문화 발생",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 7000~6000년 무렵 중국에서 발생한 황허강 등 신석기 문화 발생",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "황허강 등 신석기 문화 발생",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_18",
+    "type": "event",
+    "date": {
+      "start": "-2000-01-01",
+      "end": "-2000-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "중국 황허강",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 36,
+        "lng": 110
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "중국 최고 고대 왕조 하나라 성립",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 2000년 무렵 중국 황허강에서 발생한 중국 최고 고대 왕조 하나라 성립",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "중국 최고 고대 왕조 하나라 성립",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_19",
+    "type": "event",
+    "date": {
+      "start": "-1046-01-01",
+      "end": "-1046-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "중국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 35,
+        "lng": 105
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "주나라에 의한 상나라 멸망",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 1046년 중국에서 발생한 주나라에 의한 상나라 멸망",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "주나라에 의한 상나라 멸망",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_20",
+    "type": "event",
+    "date": {
+      "start": "-1000-01-01",
+      "end": "-1000-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "인도",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 20,
+        "lng": 78
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "아리아인 갠지스강 진출 및 브라만교 형성",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 1000년 무렵 인도에서 발생한 아리아인 갠지스강 진출 및 브라만교 형성",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아리아인 갠지스강 진출 및 브라만교 형성",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_21",
+    "type": "event",
+    "date": {
+      "start": "-0770-01-01",
+      "end": "-0770-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "중국 낙읍",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 34.6,
+        "lng": 112.4
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "춘추 시대 시작",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 770년 무렵 중국 낙읍에서 발생한 춘추 시대 시작",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "춘추 시대 시작",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_22",
+    "type": "event",
+    "date": {
+      "start": "",
+      "end": ""
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "일본",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 36,
+        "lng": 138
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "야마토 정권 통일",
+      "en": ""
+    },
+    "description": {
+      "ko": "4세기 무렵 일본에서 발생한 야마토 정권 통일",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "야마토 정권 통일",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_23",
+    "type": "event",
+    "date": {
+      "start": "0618-01-01",
+      "end": "0618-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "중국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 35,
+        "lng": 105
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "수나라 멸망",
+      "en": ""
+    },
+    "description": {
+      "ko": "618년 중국에서 발생한 수나라 멸망",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "수나라 멸망",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_24",
+    "type": "event",
+    "date": {
+      "start": "0710-01-01",
+      "end": "0710-01-01"
+    },
+    "era": "medieval",
+    "location": {
+      "name": {
+        "ko": "일본",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 36,
+        "lng": 138
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "수도를 헤이조쿄로 천도",
+      "en": ""
+    },
+    "description": {
+      "ko": "710년 일본에서 발생한 수도를 헤이조쿄로 천도",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "수도를 헤이조쿄로 천도",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_25",
+    "type": "event",
+    "date": {
+      "start": "1616-01-01",
+      "end": "1616-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "중국 만주",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 43,
+        "lng": 125
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "누르하치의 후금 건국",
+      "en": ""
+    },
+    "description": {
+      "ko": "1616년 이후 중국 만주에서 발생한 누르하치의 후금 건국",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "누르하치의 후금 건국",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_26",
+    "type": "event",
+    "date": {
+      "start": "1653-01-01",
+      "end": "1653-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "조선 제주도",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 33.5,
+        "lng": 126.5
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "하멜 일행 표류",
+      "en": ""
+    },
+    "description": {
+      "ko": "1653년 조선 제주도에서 발생한 하멜 일행 표류",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "하멜 일행 표류",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_27",
+    "type": "event",
+    "date": {
+      "start": "1854-01-01",
+      "end": "1854-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "일본",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 36,
+        "lng": 138
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "페리 제독에 의한 강제 개항",
+      "en": ""
+    },
+    "description": {
+      "ko": "1854년 일본에서 발생한 페리 제독에 의한 강제 개항",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "페리 제독에 의한 강제 개항",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_28",
+    "type": "event",
+    "date": {
+      "start": "1971-01-01",
+      "end": "1971-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "중국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 35,
+        "lng": 105
+      },
+      "region": "eastAsia"
+    },
+    "title": {
+      "ko": "미국과 중국의 핑퐁 외교",
+      "en": ""
+    },
+    "description": {
+      "ko": "1971년 중국에서 발생한 미국과 중국의 핑퐁 외교",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "미국과 중국의 핑퐁 외교",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_29",
+    "type": "event",
+    "date": {
+      "start": "-0490-01-01",
+      "end": "-0490-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "그리스 아테네",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 37.9,
+        "lng": 23.7
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "마라톤 전투 승리",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 490년 그리스 아테네에서 발생한 마라톤 전투 승리",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "마라톤 전투 승리",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_30",
+    "type": "event",
+    "date": {
+      "start": "1497-01-01",
+      "end": "1497-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "포르투갈",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 38.7,
+        "lng": -9.1
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "바스쿠 다가마 인도 항로 개척 출항",
+      "en": ""
+    },
+    "description": {
+      "ko": "1497년 포르투갈에서 발생한 바스쿠 다가마 인도 항로 개척 출항",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "바스쿠 다가마 인도 항로 개척 출항",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_31",
+    "type": "event",
+    "date": {
+      "start": "1733-01-01",
+      "end": "1733-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "영국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 55,
+        "lng": -3
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "존 케이의 플라잉 셔틀 발명",
+      "en": ""
+    },
+    "description": {
+      "ko": "1733년 영국에서 발생한 존 케이의 플라잉 셔틀 발명",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "존 케이의 플라잉 셔틀 발명",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_32",
+    "type": "event",
+    "date": {
+      "start": "1769-01-01",
+      "end": "1769-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "영국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 55,
+        "lng": -3
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "제임스 와트 증기 기관 개량",
+      "en": ""
+    },
+    "description": {
+      "ko": "1769년 영국에서 발생한 제임스 와트 증기 기관 개량",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제임스 와트 증기 기관 개량",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_33",
+    "type": "event",
+    "date": {
+      "start": "1793-01-01",
+      "end": "1793-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "프랑스",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 46,
+        "lng": 2
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "루이 16세 처형",
+      "en": ""
+    },
+    "description": {
+      "ko": "1793년 프랑스에서 발생한 루이 16세 처형",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "루이 16세 처형",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_34",
+    "type": "event",
+    "date": {
+      "start": "1814-01-01",
+      "end": "1814-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "영국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 55,
+        "lng": -3
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "조지 스티븐슨 증기 기관차 발명",
+      "en": ""
+    },
+    "description": {
+      "ko": "1814년 영국에서 발생한 조지 스티븐슨 증기 기관차 발명",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "조지 스티븐슨 증기 기관차 발명",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_35",
+    "type": "event",
+    "date": {
+      "start": "1944-01-01",
+      "end": "1944-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "프랑스 노르망디",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 49.1,
+        "lng": -0.3
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "노르망디 상륙 작전",
+      "en": ""
+    },
+    "description": {
+      "ko": "1944년 6월 6일 프랑스 노르망디에서 발생한 노르망디 상륙 작전",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "노르망디 상륙 작전",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_36",
+    "type": "event",
+    "date": {
+      "start": "1945-01-01",
+      "end": "1945-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "독일 베를린",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 52.5,
+        "lng": 13.4
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "히틀러 자살 및 독일 항복",
+      "en": ""
+    },
+    "description": {
+      "ko": "1945년 4월 30일 무렵 독일 베를린에서 발생한 히틀러 자살 및 독일 항복",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "히틀러 자살 및 독일 항복",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_37",
+    "type": "event",
+    "date": {
+      "start": "1957-01-01",
+      "end": "1957-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "소련",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 60,
+        "lng": 90
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "최초 인공위성 스푸트니크 호 발사",
+      "en": ""
+    },
+    "description": {
+      "ko": "1957년 소련에서 발생한 최초 인공위성 스푸트니크 호 발사",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "최초 인공위성 스푸트니크 호 발사",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_38",
+    "type": "event",
+    "date": {
+      "start": "1968-01-01",
+      "end": "1968-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "프랑스 파리",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 48.8,
+        "lng": 2.3
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "68 혁명 발발",
+      "en": ""
+    },
+    "description": {
+      "ko": "1968년 5월 프랑스 파리에서 발생한 68 혁명 발발",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "68 혁명 발발",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_39",
+    "type": "event",
+    "date": {
+      "start": "1991-01-01",
+      "end": "1991-01-01"
+    },
+    "era": "contemporary",
+    "location": {
+      "name": {
+        "ko": "러시아",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 61,
+        "lng": 105
+      },
+      "region": "europe"
+    },
+    "title": {
+      "ko": "소련 공식 해체",
+      "en": ""
+    },
+    "description": {
+      "ko": "1991년 러시아에서 발생한 소련 공식 해체",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "소련 공식 해체",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_40",
+    "type": "event",
+    "date": {
+      "start": "-2500-01-01",
+      "end": "-2500-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "메소아메리카 일대",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 19,
+        "lng": -99
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "아메리카 대륙 농경 및 목축 시작",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 2500년 무렵 메소아메리카 일대에서 발생한 아메리카 대륙 농경 및 목축 시작",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "아메리카 대륙 농경 및 목축 시작",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_41",
+    "type": "event",
+    "date": {
+      "start": "-0900-01-01",
+      "end": "-0900-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "안데스산맥",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": -15,
+        "lng": -75
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "차빈 문명 탄생",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 900년 무렵 안데스산맥에서 발생한 차빈 문명 탄생",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "차빈 문명 탄생",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_42",
+    "type": "event",
+    "date": {
+      "start": "-0500-01-01",
+      "end": "-0500-01-01"
+    },
+    "era": "ancient",
+    "location": {
+      "name": {
+        "ko": "멕시코 오악사카",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 17,
+        "lng": -96.7
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "사포텍 문명 발달",
+      "en": ""
+    },
+    "description": {
+      "ko": "기원전 500년 무렵 멕시코 오악사카에서 발생한 사포텍 문명 발달",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "사포텍 문명 발달",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_43",
+    "type": "event",
+    "date": {
+      "start": "1520-01-01",
+      "end": "1520-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "멕시코",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 23,
+        "lng": -102
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "코르테스의 아스테카 제국 공격",
+      "en": ""
+    },
+    "description": {
+      "ko": "1520년 멕시코에서 발생한 코르테스의 아스테카 제국 공격",
+      "en": ""
+    },
+    "category": "war",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "코르테스의 아스테카 제국 공격",
+      "en": ""
+    },
+    "icon": "⚔️",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_44",
+    "type": "event",
+    "date": {
+      "start": "1533-01-01",
+      "end": "1533-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "페루",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": -9,
+        "lng": -75
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "피사로의 잉카 문명 정복",
+      "en": ""
+    },
+    "description": {
+      "ko": "1533년 페루에서 발생한 피사로의 잉카 문명 정복",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "피사로의 잉카 문명 정복",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_45",
+    "type": "event",
+    "date": {
+      "start": "1545-01-01",
+      "end": "1545-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "볼리비아 포토시",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": -19.5,
+        "lng": -65.7
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "볼리비아 포토시 은광 발견",
+      "en": ""
+    },
+    "description": {
+      "ko": "1545년 볼리비아 포토시에서 발생한 볼리비아 포토시 은광 발견",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "볼리비아 포토시 은광 발견",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_46",
+    "type": "event",
+    "date": {
+      "start": "1608-01-01",
+      "end": "1608-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "북아메리카 퀘벡",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 52,
+        "lng": -71
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "프랑스의 퀘벡 식민지 건설",
+      "en": ""
+    },
+    "description": {
+      "ko": "1608년 북아메리카 퀘벡에서 발생한 프랑스의 퀘벡 식민지 건설",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "프랑스의 퀘벡 식민지 건설",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_47",
+    "type": "event",
+    "date": {
+      "start": "1773-01-01",
+      "end": "1773-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "미국 보스턴",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 42.3,
+        "lng": -71
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "보스턴 차 사건",
+      "en": ""
+    },
+    "description": {
+      "ko": "1773년 미국 보스턴에서 발생한 보스턴 차 사건",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "보스턴 차 사건",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_48",
+    "type": "event",
+    "date": {
+      "start": "1774-01-01",
+      "end": "1774-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "미국 필라델피아",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 39.9,
+        "lng": -75.1
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "제1차 대륙 회의 개최",
+      "en": ""
+    },
+    "description": {
+      "ko": "1774년 9월 미국 필라델피아에서 발생한 제1차 대륙 회의 개최",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "제1차 대륙 회의 개최",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_49",
+    "type": "event",
+    "date": {
+      "start": "1775-01-01",
+      "end": "1775-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "미국 보스턴 외곽",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 42.4,
+        "lng": -71.2
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "렉싱턴 전투 발발",
+      "en": ""
+    },
+    "description": {
+      "ko": "1775년 4월 미국 보스턴 외곽에서 발생한 렉싱턴 전투 발발",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "렉싱턴 전투 발발",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_50",
+    "type": "event",
+    "date": {
+      "start": "1781-01-01",
+      "end": "1781-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "미국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 37,
+        "lng": -95
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "요크타운 전투 승리",
+      "en": ""
+    },
+    "description": {
+      "ko": "1781년 미국에서 발생한 요크타운 전투 승리",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "요크타운 전투 승리",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_51",
+    "type": "event",
+    "date": {
+      "start": "1787-01-01",
+      "end": "1787-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "미국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 37,
+        "lng": -95
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "미국 독립 선언 헌법 제정",
+      "en": ""
+    },
+    "description": {
+      "ko": "1787년 미국에서 발생한 미국 독립 선언 헌법 제정",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "미국 독립 선언 헌법 제정",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_52",
+    "type": "event",
+    "date": {
+      "start": "1789-01-01",
+      "end": "1789-01-01"
+    },
+    "era": "earlyModern",
+    "location": {
+      "name": {
+        "ko": "미국 뉴욕",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 40.7,
+        "lng": -74
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "조지 워싱턴 초대 대통령 취임",
+      "en": ""
+    },
+    "description": {
+      "ko": "1789년 4월 30일 미국 뉴욕에서 발생한 조지 워싱턴 초대 대통령 취임",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "조지 워싱턴 초대 대통령 취임",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_53",
+    "type": "event",
+    "date": {
+      "start": "1803-01-01",
+      "end": "1803-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "미국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 37,
+        "lng": -95
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "루이지애나 매입",
+      "en": ""
+    },
+    "description": {
+      "ko": "1803년 미국에서 발생한 루이지애나 매입",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "루이지애나 매입",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_54",
+    "type": "event",
+    "date": {
+      "start": "1804-01-01",
+      "end": "1804-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "아이티",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 18.9,
+        "lng": -72.2
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "라틴아메리카 최초 흑인 공화국 독립",
+      "en": ""
+    },
+    "description": {
+      "ko": "1804년 아이티에서 발생한 라틴아메리카 최초 흑인 공화국 독립",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "라틴아메리카 최초 흑인 공화국 독립",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_55",
+    "type": "event",
+    "date": {
+      "start": "1807-01-01",
+      "end": "1807-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "미국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 37,
+        "lng": -95
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "로버트 풀턴의 증기선 발명",
+      "en": ""
+    },
+    "description": {
+      "ko": "1807년 미국에서 발생한 로버트 풀턴의 증기선 발명",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "로버트 풀턴의 증기선 발명",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_56",
+    "type": "event",
+    "date": {
+      "start": "1823-01-01",
+      "end": "1823-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "미국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 37,
+        "lng": -95
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "먼로 선언",
+      "en": ""
+    },
+    "description": {
+      "ko": "1823년 미국에서 발생한 먼로 선언",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "먼로 선언",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_57",
+    "type": "event",
+    "date": {
+      "start": "1830-01-01",
+      "end": "1830-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "미국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 37,
+        "lng": -95
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "원주민 강제 이주법 본격화",
+      "en": ""
+    },
+    "description": {
+      "ko": "1830년대 미국에서 발생한 원주민 강제 이주법 본격화",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "원주민 강제 이주법 본격화",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_58",
+    "type": "event",
+    "date": {
+      "start": "1863-01-01",
+      "end": "1863-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "미국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 37,
+        "lng": -95
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "링컨 노예 해방 선언",
+      "en": ""
+    },
+    "description": {
+      "ko": "1863년 미국에서 발생한 링컨 노예 해방 선언",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "링컨 노예 해방 선언",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_59",
+    "type": "event",
+    "date": {
+      "start": "1869-01-01",
+      "end": "1869-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "미국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 37,
+        "lng": -95
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "미국 대륙 횡단 철도 완성",
+      "en": ""
+    },
+    "description": {
+      "ko": "1869년 미국에서 발생한 미국 대륙 횡단 철도 완성",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "미국 대륙 횡단 철도 완성",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
+  },
+  {
+    "id": "event_new_1778248824028_60",
+    "type": "event",
+    "date": {
+      "start": "1903-01-01",
+      "end": "1903-01-01"
+    },
+    "era": "modern",
+    "location": {
+      "name": {
+        "ko": "미국",
+        "en": ""
+      },
+      "coordinates": {
+        "lat": 37,
+        "lng": -95
+      },
+      "region": "america"
+    },
+    "title": {
+      "ko": "라이트 형제 비행기 최초 비행 성공",
+      "en": ""
+    },
+    "description": {
+      "ko": "1903년 미국에서 발생한 라이트 형제 비행기 최초 비행 성공",
+      "en": ""
+    },
+    "category": "politics",
+    "relatedPeople": [],
+    "relatedEvents": [],
+    "relatedMedia": [],
+    "wikipedia": {
+      "ko": "라이트 형제 비행기 최초 비행 성공",
+      "en": ""
+    },
+    "icon": "📜",
+    "importance": 3
   }
 ]

@@ -76,6 +76,8 @@
       "scientist": "Scientist",
       "publication": "Publication",
       "experiment": "Experiment & Research",
+      "science": "Science",
+      "economy": "Economy",
       "other": "Other"
     },
     "regions": {

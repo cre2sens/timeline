@@ -27,6 +27,7 @@ export default function App() {
   const {
     locale, theme, filters,
     selectedItem, clearSelected,
+    selectedClusterItems,
     viewMode, setViewMode,
   } = useStore()
 
@@ -97,6 +98,19 @@ export default function App() {
     }
     prevSelectedRef.current = selectedItem
   }, [selectedItem]) // eslint-disable-line react-hooks/exhaustive-deps
+
+  // 클러스터 아이템 선택 시 상세 패널이 있는 모드로 자동 전환 (데스크탑)
+  const prevClusterRef = useRef(null)
+  useEffect(() => {
+    if (!isMobile && selectedClusterItems && selectedClusterItems !== prevClusterRef.current) {
+      if (effectiveMode === 'split-cg' || effectiveMode === 'chronicle') {
+        handleSetMode('split-cd')
+      } else if (effectiveMode === 'globe') {
+        handleSetMode('split-gd')
+      }
+    }
+    prevClusterRef.current = selectedClusterItems
+  }, [selectedClusterItems]) // eslint-disable-line react-hooks/exhaustive-deps
 
   // --- 키보드 단축키 ---
   useEffect(() => {

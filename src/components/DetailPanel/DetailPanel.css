@@ -367,3 +367,27 @@
   position: relative;
   padding-right: 24px;
 }
+
+.list-tab-cluster-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.list-tab-back-btn {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  padding: 4px 8px;
+  font-size: 0.72rem;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.list-tab-back-btn:hover {
+  color: var(--accent-primary);
+  border-color: var(--accent-primary);
+}
